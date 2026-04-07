@@ -1,0 +1,1671 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+#
+# HOW TO CUSTOMIZE:
+#   1. Copy this file to portals.yml in the project root
+#   2. Edit title_filter.positive with YOUR target role keywords
+#   3. Add/remove companies in tracked_companies
+#   4. Adjust search_queries for your preferred job boards
+#   5. Set enabled: false on companies you don't care about
+
+title_filter:
+  positive:
+    - "Analyst"
+    - "Research Analyst"
+    - "Project Analyst"
+    - "Programme Analyst"
+    - "Policy Analyst"
+    - "ESG Analyst"
+    - "Sustainability Analyst"
+    - "Climate Analyst"
+    - "Energy Analyst"
+    - "Monitoring and Evaluation"
+    - "M&E"
+    - "Evaluation"
+    - "Results"
+    - "Reporting"
+    - "Impact"
+    - "Impact Measurement"
+    - "Disclosure"
+    - "Sustainability Reporting"
+    - "Sustainability Disclosure"
+    - "Climate Risk"
+    - "Sustainable Finance"
+    - "Climate Finance"
+    - "Carbon"
+    - "Decarbonization"
+    - "Energy Transition"
+    - "Hydrogen"
+    - "Renewable Energy"
+    - "Clean Energy"
+    - "Industrial Development"
+    - "Industrial Policy"
+    - "Manufacturing"
+    - "Innovation"
+    - "Technology"
+    - "Circular Economy"
+    - "Corporate Sustainability"
+    - "Responsible Sourcing"
+    - "Supply Chain Sustainability"
+    - "Stakeholder Engagement"
+    - "Technical Cooperation"
+    - "Knowledge Management"
+    - "Results-Based Management"
+    - "Project Management Support"
+    - "Programme Support"
+    - "Project Officer"
+    - "Programme Officer"
+    - "Project Assistant"
+    - "Programme Assistant"
+    - "Technical Officer"
+    - "Coordinator"
+    - "Specialist"
+    - "Associate"
+    - "Associate Consultant"
+    - "Consultant"
+    - "Consultancy"
+    - "Consulting"
+    - "Advisory"
+    - "Strategy"
+    - "Sustainability"
+    - "ESG"
+    - "Climate"
+    - "Energy"
+    - "Policy"
+    - "Governance"
+    # Corporate sustainability titles
+    - "CSR"
+    - "Net Zero"
+    - "Net-Zero"
+    - "Carbon Accounting"
+    - "Carbon Footprint"
+    - "Carbon Markets"
+    - "Carbon Credit"
+    - "Climate Action"
+    - "Green Finance"
+    - "Taxonomy"
+    - "TCFD"
+    - "TNFD"
+    - "CSRD"
+    - "ISSB"
+    - "Decarbonisation"
+    - "GHG"
+    - "Greenhouse Gas"
+    - "Environmental"
+    - "EHS"
+    - "SBTi"
+    - "Science Based Targets"
+    - "Just Transition"
+    - "Nature-Based Solutions"
+    - "NbS"
+    - "Biodiversity"
+    - "REDD"
+    - "Verified Carbon"
+    - "Offset"
+    - "Scope 3"
+    - "Value Chain"
+    - "Life Cycle"
+    - "LCA"
+    - "Due Diligence"
+    - "Materiality"
+    - "Non-Financial Reporting"
+    - "Integrated Reporting"
+    - "Sustainability Manager"
+    - "ESG Manager"
+    - "Climate Manager"
+    - "Environment Manager"
+    - "Research"
+    - "Data Analyst"
+    - "Quantitative"
+    - "Modelling"
+    - "Modeling"
+    - "Fellow"
+    - "Trainee"
+    - "Graduate"
+    - "Junior"
+    - "Entry Level"
+  negative:
+    - "Intern"
+    - "Internship"
+    - "Volunteer"
+    - "Professor"
+    - "Faculty"
+    - "Director"
+    - "Vice President"
+    - "VP"
+    - "Chief"
+    - "Principal"
+    - "Partner"
+    - "Head of"
+    - "Country Director"
+    - "Senior Manager"
+    - "Software Engineer"
+    - "Backend Engineer"
+    - "Frontend Engineer"
+    - "Full Stack"
+    - "Mobile Developer"
+    - "iOS"
+    - "Android"
+    - "Firmware"
+    - "Embedded"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Sales"
+    - "Account Executive"
+    - "Business Development"
+    - "Recruiter"
+    - "Talent Acquisition"
+    - "Attorney"
+    - "Nurse"
+    - "Data Engineer"
+    - "DevOps"
+    - "Product Designer"
+    - "UX"
+    - "UI"
+    - "Front End"
+    - "Back End"
+  seniority_boost:
+    - "Analyst"
+    - "Associate"
+    - "Officer"
+    - "Specialist"
+    - "Coordinator"
+    - "Consultant"
+    - "Technical"
+
+search_queries:
+  - name: UN / development — project and programme roles
+    query: '"project officer" OR "programme officer" OR "programme analyst" OR "project assistant" OR "technical officer" site:careers.unido.org OR site:jobs.undp.org OR site:jobs.unops.org OR site:unep.org/work-with-us'
+    enabled: true
+
+  - name: UN / development — sustainability and climate
+    query: '"sustainability" OR "climate" OR "energy" OR "industrial development" analyst OR consultant site:careers.unido.org OR site:jobs.undp.org OR site:jobs.unops.org OR site:unep.org/work-with-us'
+    enabled: true
+
+  - name: Asia MDBs / green growth — analyst and consultant
+    query: '"analyst" OR "associate" OR "consultant" "climate" OR "energy" OR "sustainable infrastructure" OR "green growth" site:adb.org/work-with-us/careers OR site:aiib.org/en/opportunities/career OR site:careers.gggi.org'
+    enabled: true
+
+  - name: Thailand / Bangkok sustainability roles
+    query: '"sustainability analyst" OR "climate analyst" OR "esg analyst" OR "consultant" Bangkok OR Thailand'
+    enabled: true
+
+  - name: Singapore / Hong Kong ESG and climate roles
+    query: '"ESG analyst" OR "sustainability reporting" OR "climate risk" OR "sustainable finance" Singapore OR "Hong Kong"'
+    enabled: true
+
+  - name: Tokyo / Seoul / Taipei sustainability roles
+    query: '"sustainability" OR "ESG" OR "climate" analyst OR consultant Tokyo OR Seoul OR Taipei'
+    enabled: true
+
+  - name: China sustainability and transition roles
+    query: '"sustainability" OR "energy transition" OR "climate finance" analyst OR associate Beijing OR Shanghai OR Shenzhen'
+    enabled: true
+
+  - name: Sustainability consulting — analyst
+    query: '"sustainability analyst" OR "climate analyst" OR "esg analyst" OR "consulting analyst" site:erm.com OR site:careers.southpole.com OR site:systemiq.earth OR site:ricardo.com/careers'
+    enabled: true
+
+  - name: ESG / sustainable finance
+    query: '"ESG analyst" OR "sustainable finance analyst" OR "climate finance analyst" OR "sustainability reporting" site:clarity.ai/careers OR site:msci.com/careers OR site:moodys.com/careers OR site:morningstar.com/company/careers'
+    enabled: true
+
+  - name: ESG reporting and disclosure
+    query: '"sustainability reporting" OR "esg reporting" OR "disclosure" analyst OR associate'
+    enabled: true
+
+  - name: Responsible sourcing / supply chain sustainability
+    query: '"responsible sourcing" OR "supply chain sustainability" OR "sustainable procurement" analyst OR specialist'
+    enabled: true
+
+  - name: Industrial development and policy
+    query: '"industrial development" OR "industrial policy" OR manufacturing analyst OR consultant sustainability'
+    enabled: true
+
+  - name: Clean energy / hydrogen / transition
+    query: '"clean energy" OR hydrogen OR "energy transition" analyst OR consultant sustainability'
+    enabled: true
+
+  # === JOB AGGREGATORS & BOARDS ===
+
+  - name: Impactpool — sustainability and climate
+    query: 'site:impactpool.org sustainability OR climate OR energy OR ESG analyst OR consultant OR officer'
+    enabled: true
+
+  - name: UNjobs — analyst and consultant
+    query: 'site:unjobs.org analyst OR consultant OR officer sustainability OR climate OR energy OR industrial 2026'
+    enabled: true
+
+  - name: Devex — ESG and climate Asia
+    query: 'site:devex.com/jobs ESG OR sustainability OR climate OR energy analyst OR consultant Asia OR Bangkok OR Singapore'
+    enabled: true
+
+  - name: ReliefWeb — climate and environment
+    query: 'site:reliefweb.int/job climate OR sustainability OR energy OR environment analyst OR consultant OR officer Asia'
+    enabled: true
+
+  - name: Climate Change Careers
+    query: 'site:climatechangecareers.com analyst OR associate OR consultant sustainability OR energy OR climate Asia OR remote'
+    enabled: true
+
+  - name: Idealist — sustainability analyst
+    query: 'site:idealist.org sustainability OR climate OR ESG analyst OR associate OR consultant'
+    enabled: true
+
+  - name: Green Jobs Network
+    query: 'site:greenjobs.net analyst OR consultant OR associate sustainability OR climate OR energy OR ESG'
+    enabled: true
+
+  - name: WorkInGreen
+    query: 'site:workingreen.jobs analyst OR associate OR consultant climate OR sustainability OR ESG'
+    enabled: true
+
+  - name: LinkedIn — sustainability analyst Bangkok Asia
+    query: 'site:linkedin.com/jobs "sustainability analyst" OR "climate analyst" OR "ESG analyst" OR "energy analyst" Bangkok OR Thailand OR Singapore OR Asia 2026'
+    enabled: true
+
+  - name: LinkedIn — project officer UN climate
+    query: 'site:linkedin.com/jobs "project officer" OR "programme officer" OR "consultant" UNIDO OR UNDP OR UNOPS OR UNEP OR ESCAP climate OR sustainability OR energy 2026'
+    enabled: true
+
+  - name: Glassdoor — sustainability Bangkok
+    query: 'site:glassdoor.com sustainability OR ESG OR climate analyst OR consultant Bangkok OR Thailand 2026'
+    enabled: true
+
+  # === ADDITIONAL IO / MULTILATERAL ===
+
+  - name: UN Careers — sustainability and climate P1-P3
+    query: 'site:careers.un.org sustainability OR climate OR energy OR environment analyst OR officer OR associate P-1 OR P-2 OR P-3'
+    enabled: true
+
+  - name: WHO — environment and climate health
+    query: 'site:who.int/careers environment OR climate OR sustainability analyst OR officer OR consultant Asia'
+    enabled: true
+
+  - name: IRENA — renewable energy analyst
+    query: 'site:irena.org/careers OR "irena" analyst OR associate OR consultant renewable energy OR climate OR transition'
+    enabled: true
+
+  - name: GCF — Green Climate Fund
+    query: 'site:greenclimate.fund/about/careers OR "green climate fund" analyst OR associate OR consultant climate OR energy'
+    enabled: true
+
+  - name: CIF — Climate Investment Funds
+    query: '"climate investment funds" OR site:cif.org analyst OR associate OR consultant climate OR energy'
+    enabled: true
+
+  - name: OECD — environment and climate
+    query: 'site:oecd.org/careers environment OR climate OR sustainability OR energy analyst OR consultant'
+    enabled: true
+
+  - name: IEA — energy analyst
+    query: 'site:iea.org/about/jobs OR "international energy agency" analyst OR associate energy OR climate OR transition'
+    enabled: true
+
+  - name: UNEP FI — sustainable finance
+    query: '"UNEP FI" OR site:unepfi.org sustainable finance OR ESG OR climate analyst OR associate'
+    enabled: true
+
+  - name: UNDESA — sustainable development
+    query: 'site:careers.un.org DESA sustainable development OR SDG OR climate analyst OR officer'
+    enabled: true
+
+  # === ADDITIONAL CONSULTING & ADVISORY ===
+
+  - name: Vivid Economics / McKinsey Sustainability
+    query: '"vivid economics" OR "mckinsey sustainability" analyst OR associate climate OR energy OR transition'
+    enabled: true
+
+  - name: Carbon Trust
+    query: 'site:carbontrust.com/careers OR "carbon trust" analyst OR associate OR consultant sustainability OR climate OR energy'
+    enabled: true
+
+  - name: Climate Group
+    query: '"the climate group" OR site:theclimategroup.org analyst OR associate OR consultant climate OR energy'
+    enabled: true
+
+  - name: IETA — carbon markets
+    query: '"IETA" OR "international emissions trading" analyst OR associate carbon OR climate OR markets'
+    enabled: true
+
+  - name: Agora Energiewende
+    query: 'site:agora-energiewende.org OR "agora energiewende" analyst OR associate energy OR climate OR transition Asia'
+    enabled: true
+
+  - name: NewClimate Institute
+    query: '"newclimate institute" OR site:newclimate.org analyst OR researcher climate OR policy OR energy'
+    enabled: true
+
+  - name: Climateworks Foundation
+    query: '"climateworks" analyst OR associate OR consultant climate OR energy OR transition'
+    enabled: true
+
+  - name: ClimateWorks Australia / Asia
+    query: '"climateworks centre" OR "climateworks australia" analyst OR consultant climate OR energy Asia OR Australia'
+    enabled: true
+
+  # === ADDITIONAL ESG / RATINGS / DATA ===
+
+  - name: ISS ESG
+    query: '"ISS ESG" OR site:issgovernance.com analyst OR associate ESG OR sustainability OR climate'
+    enabled: true
+
+  - name: Trucost / S&P Sustainable1
+    query: '"trucost" OR "sustainable1" analyst OR associate ESG OR climate OR environmental'
+    enabled: true
+
+  - name: Refinitiv / LSEG ESG
+    query: '"refinitiv" OR "LSEG" ESG OR sustainability analyst OR associate climate OR reporting'
+    enabled: true
+
+  - name: Bloomberg Sustainable Finance
+    query: 'site:bloomberg.com/careers OR "bloomberg" sustainability OR ESG OR climate analyst'
+    enabled: true
+
+  # === ADDITIONAL ENERGY / INFRASTRUCTURE ===
+
+  - name: IRENA careers direct
+    query: 'site:irena.org analyst OR associate OR consultant renewable OR energy OR transition OR hydrogen'
+    enabled: true
+
+  - name: SE4All — Sustainable Energy for All
+    query: '"sustainable energy for all" OR site:seforall.org analyst OR associate OR consultant energy OR climate'
+    enabled: true
+
+  - name: Niras — sustainability consulting
+    query: '"niras" sustainability OR climate OR energy analyst OR consultant Asia OR Bangkok'
+    enabled: true
+
+  - name: Ramboll — sustainability
+    query: 'site:ramboll.com/careers OR "ramboll" sustainability OR climate OR energy analyst OR consultant Asia'
+    enabled: true
+
+  - name: DNV — sustainability and energy
+    query: 'site:dnv.com/careers OR "DNV" sustainability OR ESG OR energy OR climate analyst OR consultant Asia'
+    enabled: true
+
+  - name: Wood Mackenzie — energy transition
+    query: '"wood mackenzie" analyst OR associate energy transition OR climate OR renewables Asia'
+    enabled: true
+
+  # === ASIA-SPECIFIC ===
+
+  - name: JobsDB Thailand — sustainability
+    query: 'site:th.jobsdb.com sustainability OR ESG OR climate OR energy analyst OR consultant'
+    enabled: true
+
+  - name: MyCareersFuture Singapore — sustainability
+    query: 'site:mycareersfuture.gov.sg sustainability OR ESG OR climate analyst OR consultant'
+    enabled: true
+
+  - name: JobStreet Asia — sustainability
+    query: 'site:jobstreet.com sustainability OR ESG OR climate analyst OR consultant Thailand OR Singapore OR Asia'
+    enabled: true
+
+  - name: Asia Development Bank Institute
+    query: '"ADBI" OR site:adbi.org analyst OR researcher OR consultant energy OR climate OR sustainability'
+    enabled: true
+
+  - name: APEC — climate and energy
+    query: '"APEC" secretariat OR climate OR energy OR sustainability analyst OR consultant Singapore'
+    enabled: true
+
+  - name: ASEAN Secretariat
+    query: '"ASEAN secretariat" OR site:asean.org sustainability OR climate OR energy analyst OR officer OR consultant'
+    enabled: true
+
+  # === JOB AGGREGATORS (NEW) ===
+
+  - name: UNtalent — all UN sustainability/climate
+    query: 'site:untalent.org sustainability OR climate OR energy OR ESG analyst OR consultant OR officer 2026'
+    enabled: true
+
+  - name: DevelopmentAid — sustainability and climate
+    query: 'site:developmentaid.org sustainability OR climate OR energy OR ESG analyst OR consultant Asia 2026'
+    enabled: true
+
+  - name: Terra.do — climate jobs
+    query: 'site:terra.do/climate-jobs OR "terra.do" analyst OR associate OR consultant climate OR energy OR sustainability'
+    enabled: true
+
+  - name: Work on Climate
+    query: 'site:workonclimate.org OR "work on climate" analyst OR associate sustainability OR climate OR energy'
+    enabled: true
+
+  - name: GreenBiz jobs
+    query: 'site:greenbiz.com/jobs OR "greenbiz" sustainability OR ESG OR climate analyst OR associate'
+    enabled: true
+
+  - name: Enable Green — ESG jobs
+    query: 'site:enable.green sustainability OR ESG OR climate analyst OR associate Asia OR remote'
+    enabled: true
+
+  - name: Indeed Thailand — sustainability
+    query: 'site:th.indeed.com sustainability OR ESG OR climate OR energy analyst OR consultant'
+    enabled: true
+
+  - name: Indeed Singapore — sustainability
+    query: 'site:sg.indeed.com sustainability OR ESG OR climate OR energy analyst OR consultant'
+    enabled: true
+
+  - name: Seek Asia — sustainability
+    query: 'site:seek.com OR site:jobsdb.com sustainability OR ESG OR climate analyst OR consultant Bangkok OR Singapore OR Asia'
+    enabled: true
+
+  # === THINK TANKS & RESEARCH ORGS ===
+
+  - name: IISD — sustainability policy
+    query: 'site:iisd.org/careers OR "IISD" analyst OR associate OR researcher sustainability OR climate OR energy'
+    enabled: true
+
+  - name: Brookings — climate and energy
+    query: 'site:brookings.edu/careers OR "brookings" research analyst OR associate climate OR energy OR sustainability'
+    enabled: true
+
+  - name: Chatham House — environment
+    query: 'site:chathamhouse.org/about-us/careers OR "chatham house" analyst OR researcher environment OR energy OR climate'
+    enabled: true
+
+  - name: CSIS — Southeast Asia energy
+    query: '"CSIS" OR site:csis.org analyst OR researcher "southeast asia" OR energy OR climate'
+    enabled: true
+
+  - name: ODI — climate and development
+    query: 'site:odi.org/careers OR "overseas development institute" analyst OR researcher climate OR energy OR development'
+    enabled: true
+
+  # === CARBON MARKETS & STANDARDS ===
+
+  - name: Gold Standard — climate careers
+    query: '"gold standard" OR site:goldstandard.org analyst OR associate OR consultant climate OR carbon OR sustainability careers'
+    enabled: true
+
+  - name: Verra — carbon standards
+    query: '"verra" OR site:verra.org analyst OR associate carbon OR climate OR sustainability careers'
+    enabled: true
+
+  - name: WBCSD — corporate sustainability
+    query: '"WBCSD" OR "world business council" analyst OR associate sustainability OR climate OR ESG careers'
+    enabled: true
+
+  # === DEVELOPMENT FINANCE (NEW) ===
+
+  - name: EIB — European Investment Bank climate
+    query: 'site:eib.org/en/about/careers OR "european investment bank" analyst OR associate climate OR energy OR sustainability'
+    enabled: true
+
+  - name: JICA — Japan development Asia
+    query: '"JICA" OR site:jica.go.jp analyst OR consultant OR associate energy OR climate OR sustainability Asia'
+    enabled: true
+
+  - name: EBRD — transition and climate
+    query: 'site:ebrd.com/careers analyst OR associate climate OR energy OR sustainability OR transition'
+    enabled: true
+
+  # === UNFCCC / CLIMATE FUNDS & MECHANISMS ===
+
+  - name: UNFCCC Secretariat
+    query: 'site:unfccc.int/about-us/vacancies OR "UNFCCC" analyst OR associate OR consultant climate OR mitigation OR adaptation'
+    enabled: true
+
+  - name: GEF — Global Environment Facility
+    query: '"global environment facility" OR site:thegef.org analyst OR associate OR consultant climate OR energy OR biodiversity careers'
+    enabled: true
+
+  - name: Adaptation Fund
+    query: '"adaptation fund" OR site:adaptation-fund.org analyst OR associate OR consultant climate OR adaptation careers'
+    enabled: true
+
+  - name: NDC Partnership
+    query: '"NDC partnership" OR site:ndcpartnership.org analyst OR associate OR consultant climate OR NDC'
+    enabled: true
+
+  - name: NAMA Facility
+    query: '"NAMA facility" analyst OR associate OR consultant climate OR mitigation OR energy careers'
+    enabled: true
+
+  # === GIZ / GERMAN DEVELOPMENT / IKI ===
+
+  - name: GIZ — sustainability and climate Asia
+    query: 'site:jobs.giz.de OR "GIZ" sustainability OR climate OR energy analyst OR advisor OR consultant Bangkok OR Thailand OR Asia'
+    enabled: true
+
+  - name: GIZ — global climate and energy
+    query: '"GIZ" climate OR energy OR "energy transition" OR "industrial development" analyst OR consultant OR advisor 2026'
+    enabled: true
+
+  - name: KfW Development Bank
+    query: '"KfW" OR site:kfw.de/careers climate OR energy OR sustainability analyst OR associate'
+    enabled: true
+
+  - name: IKI — International Climate Initiative
+    query: '"international climate initiative" OR "IKI" analyst OR consultant OR project climate OR energy OR biodiversity'
+    enabled: true
+
+  # === BILATERAL DEVELOPMENT AGENCIES ===
+
+  - name: KOICA — Korea development
+    query: '"KOICA" OR site:koica.go.kr analyst OR consultant OR associate climate OR energy OR development Asia'
+    enabled: true
+
+  - name: AFD — French development
+    query: '"AFD" OR "agence francaise de developpement" analyst OR consultant climate OR energy OR sustainability Asia'
+    enabled: true
+
+  - name: SIDA — Sweden development
+    query: '"SIDA" OR site:sida.se analyst OR consultant climate OR sustainability OR energy'
+    enabled: true
+
+  - name: SDC — Swiss development
+    query: '"swiss development cooperation" OR "SDC" analyst OR consultant climate OR sustainability OR energy Asia'
+    enabled: true
+
+  - name: DFAT Australia — climate and development
+    query: '"DFAT" OR "australian aid" climate OR sustainability OR energy analyst OR consultant Asia OR Pacific'
+    enabled: true
+
+  - name: USAID — climate and energy Asia
+    query: 'site:usaid.gov/careers OR "USAID" climate OR energy OR sustainability analyst OR consultant Asia OR Bangkok 2026'
+    enabled: true
+
+  # === UN AGENCIES (OWN PORTALS) ===
+
+  - name: UNFCCC careers direct
+    query: 'site:unfccc.int/about-us/vacancies analyst OR associate OR consultant climate 2026'
+    enabled: true
+
+  - name: UNCTAD — trade and development
+    query: 'site:unctad.org/about-us/vacancy OR "UNCTAD" analyst OR associate sustainability OR trade OR climate OR development'
+    enabled: true
+
+  - name: UN-Habitat — urban sustainability
+    query: '"UN-Habitat" OR site:unhabitat.org analyst OR consultant sustainability OR climate OR urban OR resilience'
+    enabled: true
+
+  - name: IAEA — nuclear energy
+    query: 'site:iaea.org/about/employment OR "IAEA" analyst OR associate nuclear OR energy OR climate'
+    enabled: true
+
+  - name: WMO — climate science
+    query: '"WMO" OR "world meteorological" analyst OR associate OR consultant climate OR weather OR environment careers'
+    enabled: true
+
+  - name: IFAD — rural development
+    query: 'site:ifad.org/careers OR "IFAD" analyst OR consultant climate OR sustainability OR rural OR agriculture'
+    enabled: true
+
+  - name: UNESCO — sustainability
+    query: 'site:careers.unesco.org OR "UNESCO" analyst OR consultant sustainability OR climate OR environment OR science'
+    enabled: true
+
+  # === ADDITIONAL MDBs ===
+
+  - name: NDB — New Development Bank
+    query: '"new development bank" OR site:ndb.int analyst OR associate climate OR energy OR sustainability careers'
+    enabled: true
+
+  - name: IsDB — Islamic Development Bank
+    query: '"islamic development bank" OR site:isdb.org analyst OR consultant climate OR energy OR sustainability careers'
+    enabled: true
+
+  # === RESEARCH INSTITUTES (ASIA) ===
+
+  - name: SEI Asia — Stockholm Environment Institute Bangkok
+    query: '"Stockholm Environment Institute" OR site:sei.org analyst OR researcher OR associate climate OR energy OR sustainability Bangkok OR Asia'
+    enabled: true
+
+  - name: IGES — Institute for Global Environmental Strategies
+    query: '"IGES" OR site:iges.or.jp analyst OR researcher climate OR energy OR sustainability careers'
+    enabled: true
+
+  - name: APERC — Asia Pacific Energy Research Centre
+    query: '"APERC" OR "asia pacific energy research" analyst OR researcher energy OR climate Tokyo'
+    enabled: true
+
+  - name: Climate Analytics
+    query: '"climate analytics" OR site:climateanalytics.org analyst OR researcher OR consultant climate OR energy'
+    enabled: true
+
+  - name: E3G — climate think tank
+    query: '"E3G" OR site:e3g.org analyst OR researcher climate OR energy OR policy careers'
+    enabled: true
+
+  # === NGOs (CONSERVATION / ENVIRONMENT) ===
+
+  - name: IUCN — conservation
+    query: 'site:iucn.org/about-iucn/careers OR "IUCN" analyst OR associate OR consultant climate OR biodiversity OR sustainability Asia'
+    enabled: true
+
+  - name: WWF — climate and energy
+    query: 'site:wwf.panda.org/careers OR "WWF" analyst OR associate OR consultant climate OR energy OR sustainability Asia'
+    enabled: true
+
+  - name: The Nature Conservancy — Asia Pacific
+    query: '"the nature conservancy" OR site:nature.org analyst OR associate climate OR sustainability OR conservation Asia OR Pacific careers'
+    enabled: true
+
+  - name: WRI — direct careers
+    query: 'site:wri.org/careers analyst OR associate climate OR energy OR sustainability Asia 2026'
+    enabled: true
+
+  # === DIPLOMATIC / GOVERNMENT (FOREIGNERS) ===
+
+  - name: EU Delegation Thailand
+    query: '"EU delegation" OR "european union" Thailand OR Bangkok analyst OR consultant OR policy sustainability OR climate OR energy careers'
+    enabled: true
+
+  - name: UK Government — climate roles Asia
+    query: '"FCDO" OR "foreign commonwealth" climate OR sustainability OR energy analyst OR advisor Bangkok OR Asia careers 2026'
+    enabled: true
+
+  - name: Singapore NEA / EDB — sustainability
+    query: 'Singapore "national environment agency" OR "EDB" OR "MAS" sustainability OR ESG OR climate analyst OR associate careers'
+    enabled: true
+
+  # === THAI BANKS & CORPORATES ===
+
+  - name: Kasikornbank — ESG/sustainability
+    query: '"kasikornbank" OR "KBank" OR site:kasikornbank.com sustainability OR ESG OR climate analyst OR associate OR manager careers'
+    enabled: true
+
+  - name: SCB — sustainability
+    query: '"SCB" OR "siam commercial bank" sustainability OR ESG OR climate analyst OR associate careers'
+    enabled: true
+
+  - name: Bangkok Bank — sustainability
+    query: '"bangkok bank" sustainability OR ESG OR climate analyst OR associate careers'
+    enabled: true
+
+  - name: Krungsri — sustainability
+    query: '"krungsri" OR "bank of ayudhya" sustainability OR ESG OR climate analyst OR associate careers'
+    enabled: true
+
+  - name: SCG — sustainability
+    query: '"siam cement group" OR "SCG" sustainability OR ESG OR climate OR decarbonization analyst OR associate careers'
+    enabled: true
+
+  - name: PTT — sustainability/energy transition
+    query: '"PTT" OR "PTTEP" sustainability OR ESG OR "energy transition" OR climate analyst OR associate careers Thailand'
+    enabled: true
+
+  - name: Thai Union — sustainability
+    query: '"thai union" sustainability OR ESG OR climate analyst OR associate careers'
+    enabled: true
+
+  - name: CP Group / True Corp — sustainability
+    query: '"CP group" OR "charoen pokphand" OR "true corp" sustainability OR ESG analyst OR associate careers Thailand'
+    enabled: true
+
+  - name: SET / Thai regulators — sustainability
+    query: '"stock exchange of thailand" OR "SET" OR "SEC Thailand" sustainability OR ESG reporting analyst OR associate'
+    enabled: true
+
+  # === ASIAN BANKS ===
+
+  - name: DBS — sustainability Singapore
+    query: '"DBS" sustainability OR ESG OR climate analyst OR associate Singapore careers'
+    enabled: true
+
+  - name: OCBC — sustainability
+    query: '"OCBC" sustainability OR ESG OR climate analyst OR associate Singapore careers'
+    enabled: true
+
+  - name: UOB — sustainability
+    query: '"UOB" sustainability OR ESG OR climate analyst OR associate Singapore careers'
+    enabled: true
+
+  - name: Maybank — sustainability
+    query: '"maybank" sustainability OR ESG OR climate analyst OR associate careers'
+    enabled: true
+
+  - name: CIMB — sustainability
+    query: '"CIMB" sustainability OR ESG OR climate analyst OR associate careers'
+    enabled: true
+
+  - name: SMBC / SMFG — sustainability Asia
+    query: '"SMBC" OR "SMFG" OR "sumitomo mitsui" sustainability OR ESG OR climate analyst OR associate Asia careers'
+    enabled: true
+
+  - name: Nomura — sustainability
+    query: '"nomura" sustainability OR ESG OR climate analyst OR associate Asia careers'
+    enabled: true
+
+  # === BIG TECH — SUSTAINABILITY ===
+
+  - name: Google — sustainability
+    query: '"google" sustainability OR climate OR energy analyst OR associate OR manager careers Asia OR remote'
+    enabled: true
+
+  - name: Microsoft — sustainability
+    query: '"microsoft" sustainability OR climate OR carbon OR energy analyst OR associate careers Asia OR remote'
+    enabled: true
+
+  - name: Amazon — sustainability
+    query: '"amazon" sustainability OR climate OR "climate pledge" analyst OR associate careers Asia OR Singapore'
+    enabled: true
+
+  - name: Salesforce — sustainability
+    query: '"salesforce" sustainability OR "net zero" OR ESG analyst OR associate careers'
+    enabled: true
+
+  - name: Apple — environment
+    query: '"apple" environment OR sustainability OR "supply chain" climate OR carbon analyst OR associate careers Asia'
+    enabled: true
+
+  # === MULTINATIONALS — SUSTAINABILITY ===
+
+  - name: Unilever — sustainability Asia
+    query: '"unilever" sustainability OR ESG OR climate analyst OR associate Asia OR Bangkok OR Singapore careers'
+    enabled: true
+
+  - name: Nestlé — sustainability Asia
+    query: '"nestle" sustainability OR ESG OR climate OR "responsible sourcing" analyst OR associate Asia careers'
+    enabled: true
+
+  - name: Shell — energy transition Asia
+    query: '"shell" "energy transition" OR sustainability OR climate OR "new energies" analyst OR associate Asia careers'
+    enabled: true
+
+  - name: TotalEnergies — sustainability Asia
+    query: '"totalenergies" sustainability OR climate OR "new energies" OR renewables analyst OR associate Asia careers'
+    enabled: true
+
+  - name: Schneider Electric — sustainability Asia (expanded)
+    query: '"schneider electric" sustainability OR ESG OR climate OR "energy management" analyst OR associate OR consultant Asia careers'
+    enabled: true
+
+  # === CONSULTING (EXPANDED) ===
+
+  - name: Dalberg — development consulting
+    query: '"dalberg" analyst OR associate OR consultant sustainability OR climate OR energy OR development Asia careers'
+    enabled: true
+
+  - name: Palladium — development consulting
+    query: '"palladium" OR site:thepalladiumgroup.com analyst OR associate climate OR sustainability OR energy Asia careers'
+    enabled: true
+
+  - name: DAI — development consulting
+    query: '"DAI global" OR site:dai.com analyst OR associate OR consultant climate OR energy OR sustainability Asia careers'
+    enabled: true
+
+  - name: ICF — consulting
+    query: '"ICF" sustainability OR climate OR energy analyst OR associate OR consultant Asia careers'
+    enabled: true
+
+  - name: Guidehouse — sustainability
+    query: '"guidehouse" sustainability OR ESG OR climate OR energy analyst OR associate OR consultant careers'
+    enabled: true
+
+  - name: Accenture — sustainability
+    query: '"accenture" sustainability OR ESG OR climate OR "green transition" analyst OR consultant Asia careers'
+    enabled: true
+
+  - name: Oliver Wyman — sustainability
+    query: '"oliver wyman" sustainability OR climate OR energy OR ESG analyst OR consultant careers'
+    enabled: true
+
+  - name: Roland Berger — sustainability
+    query: '"roland berger" sustainability OR climate OR energy analyst OR consultant Asia careers'
+    enabled: true
+
+  - name: McKinsey Sustainability
+    query: '"mckinsey" sustainability OR climate OR "net zero" OR decarbonization analyst OR associate careers Asia'
+    enabled: true
+
+tracked_companies:
+  - name: UNIDO
+    careers_url: https://careers.unido.org/
+    scan_method: websearch
+    scan_query: 'site:careers.unido.org "analyst" OR "project" OR "programme" OR "consultancy" OR "technical"'
+    notes: "Industrial development, technical cooperation, project support, and ISA consultancy roles."
+    enabled: true
+
+  - name: UNDP
+    careers_url: https://jobs.undp.org/cj_view_jobs.cfm
+    scan_method: websearch
+    scan_query: 'site:jobs.undp.org analyst OR officer OR assistant OR consultant OR climate OR energy'
+    notes: "Programme, policy, climate, governance, and analyst-track roles."
+    enabled: true
+
+  - name: UNOPS
+    careers_url: https://jobs.unops.org/
+    scan_method: websearch
+    scan_query: 'site:jobs.unops.org analyst OR officer OR project OR programme OR sustainability'
+    notes: "Project management, infrastructure, procurement, and programme support roles."
+    enabled: true
+
+  - name: UNEP
+    careers_url: https://www.unep.org/work-with-us
+    scan_method: websearch
+    scan_query: 'site:unep.org/work-with-us analyst OR consultant OR climate OR sustainability OR energy'
+    notes: "Environment, climate, policy, and programme roles."
+    enabled: true
+
+  - name: ESCAP
+    careers_url: https://careers.un.org/lbw/home.aspx?viewtype=SJ&vacancy=All
+    scan_method: websearch
+    scan_query: 'ESCAP careers analyst OR officer OR consultant Bangkok site:careers.un.org'
+    notes: "Regional UN system roles in Bangkok, including policy and programme support."
+    enabled: true
+
+  - name: ILO
+    careers_url: https://jobs.ilo.org/
+    scan_method: websearch
+    scan_query: 'site:jobs.ilo.org analyst OR officer OR consultant OR project OR programme'
+    notes: "Labour, migration, policy, and development roles."
+    enabled: true
+
+  - name: FAO
+    careers_url: https://jobs.fao.org/
+    scan_method: websearch
+    scan_query: 'site:jobs.fao.org analyst OR consultant OR sustainability OR climate OR project'
+    notes: "Food systems, climate, rural development, and project roles."
+    enabled: true
+
+  - name: UN Women
+    careers_url: https://jobs.undp.org/cj_view_jobs.cfm
+    scan_method: websearch
+    scan_query: '"UN Women" analyst OR programme OR consultant OR policy site:jobs.undp.org'
+    notes: "Policy, programme, and gender-linked development roles."
+    enabled: true
+
+  - name: UNICEF
+    careers_url: https://jobs.unicef.org/
+    scan_method: websearch
+    scan_query: 'site:jobs.unicef.org analyst OR consultant OR officer OR programme'
+    notes: "Programme and research support roles, some regional opportunities."
+    enabled: true
+
+  - name: GGGI
+    careers_url: https://careers.gggi.org/vacancies.html
+    scan_method: websearch
+    scan_query: 'site:careers.gggi.org analyst OR associate OR consultant OR climate OR green growth'
+    notes: "Green growth, climate finance, transition, and regional Asia roles."
+    enabled: true
+
+  - name: ADB
+    careers_url: https://www.adb.org/work-with-us/careers/current-opportunities
+    scan_method: websearch
+    scan_query: 'site:adb.org/work-with-us/careers analyst OR associate OR consultant OR energy OR climate'
+    notes: "Development, infrastructure, climate, and regional Asia roles."
+    enabled: true
+
+  - name: AIIB
+    careers_url: https://www.aiib.org/en/opportunities/career/job-vacancies/staff/index.html
+    scan_method: websearch
+    scan_query: 'site:aiib.org/en/opportunities/career analyst OR associate OR consultant OR sustainability OR infrastructure'
+    notes: "Sustainable infrastructure, finance, and Beijing-based opportunities."
+    enabled: true
+
+  - name: World Bank
+    careers_url: https://www.worldbank.org/en/about/careers
+    scan_method: websearch
+    scan_query: 'site:worldbank.org/en/about/careers analyst OR consultant OR climate OR energy OR development'
+    notes: "Development, climate, infrastructure, and knowledge roles."
+    enabled: true
+
+  - name: IFC
+    careers_url: https://www.ifc.org/en/about/careers
+    scan_method: websearch
+    scan_query: 'site:ifc.org/en/about/careers analyst OR associate OR sustainability OR esg OR climate'
+    notes: "Private sector, ESG, sustainable finance, and investment-linked roles."
+    enabled: true
+
+  - name: EBRD
+    careers_url: https://www.ebrd.com/careers.html
+    scan_method: websearch
+    scan_query: 'site:ebrd.com/careers analyst OR associate OR sustainability OR climate'
+    notes: "Broader geography, but useful for transition and private sector development roles."
+    enabled: true
+
+  - name: South Pole
+    careers_url: https://careers.southpole.com/jobs
+    scan_method: websearch
+    scan_query: 'site:careers.southpole.com analyst OR associate OR consultant OR climate OR reporting'
+    notes: "Climate advisory, carbon, reporting, and Bangkok-relevant roles."
+    enabled: true
+
+  - name: ERM
+    careers_url: https://www.erm.com/careers/
+    scan_method: websearch
+    scan_query: 'site:erm.com/careers analyst OR consultant OR sustainability OR climate OR energy'
+    notes: "Sustainability consulting, impact assessment, and industrial work."
+    enabled: true
+
+  - name: Ricardo
+    careers_url: https://careers.ricardo.com/
+    scan_method: websearch
+    scan_query: 'site:careers.ricardo.com analyst OR consultant sustainability OR energy OR climate'
+    notes: "Energy, policy, transport, and sustainability consulting."
+    enabled: true
+
+  - name: Arup
+    careers_url: https://www.arup.com/careers/
+    scan_method: websearch
+    scan_query: 'site:arup.com/careers sustainability OR climate OR energy OR consultant OR analyst'
+    notes: "Sustainability, climate resilience, and strategic advisory roles."
+    enabled: true
+
+  - name: Baringa
+    careers_url: https://www.baringa.com/en/careers/
+    scan_method: websearch
+    scan_query: 'site:baringa.com/en/careers sustainability OR climate OR energy OR analyst OR consultant'
+    notes: "Energy transition and climate strategy consulting."
+    enabled: true
+
+  - name: Systemiq
+    careers_url: https://www.systemiq.earth/join-us/
+    scan_method: websearch
+    scan_query: 'site:systemiq.earth/join-us sustainability OR analyst OR associate OR consultant'
+    notes: "Systems change, circular economy, and climate strategy work."
+    enabled: true
+
+  - name: WRI
+    careers_url: https://www.wri.org/careers
+    scan_method: websearch
+    scan_query: 'site:wri.org/careers analyst OR associate OR consultant OR climate OR energy'
+    notes: "Climate, energy, food, cities, and policy research roles."
+    enabled: true
+
+  - name: RMI
+    careers_url: https://rmi.org/join-us/
+    scan_method: websearch
+    scan_query: 'site:rmi.org/join-us analyst OR associate OR climate OR energy OR transition'
+    notes: "Energy transition, market design, and decarbonization roles."
+    enabled: true
+
+  - name: CDP
+    careers_url: https://www.cdp.net/en/info/careers
+    scan_method: websearch
+    scan_query: 'site:cdp.net/en/info/careers analyst OR reporting OR disclosure OR climate'
+    notes: "Disclosure, reporting, climate, and supply chain roles."
+    enabled: true
+
+  - name: GRI
+    careers_url: https://www.globalreporting.org/about-gri/work-at-gri/
+    scan_method: websearch
+    scan_query: 'site:globalreporting.org analyst OR sustainability reporting OR standards OR careers'
+    notes: "Sustainability reporting and standards roles."
+    enabled: true
+
+  - name: IFRS Foundation
+    careers_url: https://www.ifrs.org/about-us/careers/
+    scan_method: websearch
+    scan_query: 'site:ifrs.org/about-us/careers sustainability OR disclosure OR standards OR analyst'
+    notes: "ISSB-linked sustainability disclosure and standards opportunities."
+    enabled: true
+
+  - name: Clarity AI
+    careers_url: https://clarity.ai/careers/
+    scan_method: websearch
+    scan_query: 'site:clarity.ai/careers analyst OR esg OR climate OR reporting OR sustainable finance'
+    notes: "ESG analytics, sustainable finance, and reporting roles."
+    enabled: true
+
+  - name: EcoVadis
+    careers_url: https://careers.ecovadis.com/
+    scan_method: websearch
+    scan_query: 'site:careers.ecovadis.com analyst OR sustainability OR supply chain OR esg'
+    notes: "Sustainability ratings, supply chain due diligence, and ESG analysis."
+    enabled: true
+
+  - name: Sustainalytics
+    careers_url: https://careers.morningstar.com/us/en
+    scan_method: websearch
+    scan_query: 'Sustainalytics careers analyst OR esg OR climate site:careers.morningstar.com'
+    notes: "ESG ratings and sustainable investing research roles."
+    enabled: true
+
+  - name: MSCI
+    careers_url: https://careers.msci.com/
+    scan_method: websearch
+    scan_query: 'site:careers.msci.com esg OR sustainability OR climate OR analyst'
+    notes: "ESG ratings, climate analytics, and finance-linked roles."
+    enabled: true
+
+  - name: Morningstar
+    careers_url: https://careers.morningstar.com/us/en
+    scan_method: websearch
+    scan_query: 'site:careers.morningstar.com esg OR sustainability OR analyst OR impact'
+    notes: "ESG and sustainable investing research roles."
+    enabled: true
+
+  - name: Moody's
+    careers_url: https://careers.moodys.com/
+    scan_method: websearch
+    scan_query: 'site:careers.moodys.com esg OR climate OR analyst OR reporting'
+    notes: "Climate risk, ESG, and analytics roles."
+    enabled: true
+
+  - name: S&P Global
+    careers_url: https://careers.spglobal.com/
+    scan_method: websearch
+    scan_query: 'site:careers.spglobal.com sustainability OR climate OR analyst OR esg'
+    notes: "Sustainable1, ratings, and transition analytics."
+    enabled: true
+
+  - name: SGS
+    careers_url: https://www.sgs.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:sgs.com/en/careers sustainability OR esg OR climate OR analyst'
+    notes: "Assurance, verification, and sustainability-related roles."
+    enabled: true
+
+  - name: Bureau Veritas
+    careers_url: https://group.bureauveritas.com/careers
+    scan_method: websearch
+    scan_query: 'site:bureauveritas.com careers sustainability OR climate OR esg OR analyst'
+    notes: "Certification, verification, and sustainability services."
+    enabled: true
+
+  - name: KPMG
+    careers_url: https://kpmg.com/xx/en/home/careers.html
+    scan_method: websearch
+    scan_query: 'KPMG sustainability OR ESG OR climate analyst OR consultant careers'
+    notes: "Sustainability, ESG, climate risk, and advisory roles."
+    enabled: true
+
+  - name: PwC
+    careers_url: https://www.pwc.com/gx/en/careers.html
+    scan_method: websearch
+    scan_query: 'PwC sustainability OR ESG OR climate analyst OR consultant careers'
+    notes: "ESG, reporting, and sustainability consulting roles."
+    enabled: true
+
+  - name: EY
+    careers_url: https://www.ey.com/en_gl/careers
+    scan_method: websearch
+    scan_query: 'EY sustainability OR ESG OR climate analyst OR consultant careers'
+    notes: "Climate, decarbonization, sustainable finance, and reporting roles."
+    enabled: true
+
+  - name: Deloitte
+    careers_url: https://www2.deloitte.com/global/en/careers.html
+    scan_method: websearch
+    scan_query: 'Deloitte sustainability OR ESG OR climate analyst OR consultant careers'
+    notes: "Sustainability, climate, and risk advisory roles."
+    enabled: true
+
+  - name: BCG
+    careers_url: https://careers.bcg.com/global/en
+    scan_method: websearch
+    scan_query: 'BCG sustainability OR climate OR decarbonization OR consultant careers'
+    notes: "Climate and sustainability strategy roles."
+    enabled: true
+
+  - name: Bain & Company
+    careers_url: https://www.bain.com/careers/
+    scan_method: websearch
+    scan_query: 'Bain sustainability OR climate OR ESG OR consultant careers'
+    notes: "Strategy and sustainability consulting roles."
+    enabled: true
+
+  - name: Kearney
+    careers_url: https://www.kearney.com/careers
+    scan_method: websearch
+    scan_query: 'Kearney sustainability OR ESG OR climate OR consultant careers'
+    notes: "Operations, industrial strategy, and sustainability work."
+    enabled: true
+
+  - name: Schneider Electric
+    careers_url: https://www.se.com/ww/en/about-us/careers/
+    scan_method: websearch
+    scan_query: 'site:se.com careers sustainability OR energy OR analyst OR consultant'
+    notes: "Sustainability consulting, energy transition, and reporting-adjacent roles."
+    enabled: true
+
+  - name: ENGIE
+    careers_url: https://www.engie.com/en/jobs
+    scan_method: websearch
+    scan_query: 'site:engie.com/en/jobs sustainability OR energy OR analyst OR consultant'
+    notes: "Energy transition and sustainability roles."
+    enabled: true
+
+  - name: Siemens
+    careers_url: https://jobs.siemens.com/careers
+    scan_method: websearch
+    scan_query: 'site:jobs.siemens.com sustainability OR climate OR analyst OR project'
+    notes: "Industrial, energy, digitalization, and project roles."
+    enabled: true
+
+  - name: Hitachi
+    careers_url: https://www.hitachi.com/careers/
+    scan_method: websearch
+    scan_query: 'site:hitachi.com/careers sustainability OR energy OR analyst OR project'
+    notes: "Industrial innovation, infrastructure, and Asia-based roles."
+    enabled: true
+
+  - name: ABB
+    careers_url: https://careers.abb/global/en
+    scan_method: websearch
+    scan_query: 'ABB careers sustainability OR energy OR analyst OR project'
+    notes: "Electrification, automation, and industrial sustainability roles."
+    enabled: true
+
+  - name: Mitsubishi UFJ Financial Group
+    careers_url: https://www.mufg.jp/english/recruit/midcareer/
+    scan_method: websearch
+    scan_query: 'site:mufg.jp/english/recruit sustainability OR esg OR climate OR analyst'
+    notes: "Potential fit for sustainable finance and transition finance roles."
+    enabled: true
+
+  - name: Mizuho
+    careers_url: https://www.mizuho.fg/careers/index.html
+    scan_method: websearch
+    scan_query: 'site:mizuho.fg/careers sustainability OR esg OR finance OR analyst'
+    notes: "Useful for Asia-linked sustainable finance opportunities."
+    enabled: true
+
+  - name: Standard Chartered
+    careers_url: https://www.sc.com/en/global-careers/
+    scan_method: websearch
+    scan_query: 'Standard Chartered sustainability OR esg OR climate OR analyst careers'
+    notes: "Asia-facing sustainable finance and transition roles."
+    enabled: true
+
+  - name: HSBC
+    careers_url: https://www.hsbc.com/careers
+    scan_method: websearch
+    scan_query: 'HSBC sustainability OR esg OR climate OR analyst careers'
+    notes: "Regional finance, climate, and ESG roles."
+    enabled: true
+
+  - name: Temasek
+    careers_url: https://www.temasek.com.sg/en/careers
+    scan_method: websearch
+    scan_query: 'Temasek sustainability OR climate OR analyst careers'
+    notes: "Singapore-based investment ecosystem opportunities."
+    enabled: true
+
+  - name: GIC
+    careers_url: https://careers.gic.com.sg/
+    scan_method: websearch
+    scan_query: 'GIC sustainability OR climate OR analyst careers'
+    notes: "Singapore-based investing and sustainability-linked roles."
+    enabled: true
+
+  # === ADDITIONAL IOs / MULTILATERALS ===
+
+  - name: IRENA
+    careers_url: https://www.irena.org/About/Careers
+    scan_method: websearch
+    scan_query: 'site:irena.org/About/Careers analyst OR associate OR consultant energy OR renewable OR transition'
+    notes: "International Renewable Energy Agency — Abu Dhabi and Bonn. Energy transition, renewables, hydrogen."
+    enabled: true
+
+  - name: GCF (Green Climate Fund)
+    careers_url: https://www.greenclimate.fund/about/careers
+    scan_method: websearch
+    scan_query: 'site:greenclimate.fund/about/careers analyst OR associate OR consultant climate OR energy'
+    notes: "Incheon, South Korea. Climate finance, project preparation, mitigation/adaptation."
+    enabled: true
+
+  - name: OECD
+    careers_url: https://www.oecd.org/careers/
+    scan_method: websearch
+    scan_query: 'site:oecd.org/careers environment OR climate OR sustainability OR energy analyst OR consultant'
+    notes: "Paris. Environment, climate, energy, green growth policy roles."
+    enabled: true
+
+  - name: IEA
+    careers_url: https://www.iea.org/about/jobs
+    scan_method: websearch
+    scan_query: 'site:iea.org/about/jobs analyst OR associate energy OR climate OR transition'
+    notes: "Paris. Energy policy, data analysis, clean energy transitions."
+    enabled: true
+
+  - name: WHO
+    careers_url: https://www.who.int/careers
+    scan_method: websearch
+    scan_query: 'site:who.int/careers environment OR climate OR sustainability analyst OR officer Asia'
+    notes: "Environment and health, climate change and health roles."
+    enabled: true
+
+  - name: UNDESA
+    careers_url: https://careers.un.org/
+    scan_method: websearch
+    scan_query: 'site:careers.un.org DESA sustainable development OR SDG analyst OR officer'
+    notes: "New York. Sustainable development policy, SDG monitoring."
+    enabled: true
+
+  - name: UNEP FI
+    careers_url: https://www.unepfi.org/about/careers/
+    scan_method: websearch
+    scan_query: '"UNEP FI" careers analyst OR associate sustainable finance OR ESG OR climate'
+    notes: "Geneva. Sustainable finance, banking, insurance, ESG integration."
+    enabled: true
+
+  - name: CIF (Climate Investment Funds)
+    careers_url: https://www.cif.org/about-cif/careers
+    scan_method: websearch
+    scan_query: '"climate investment funds" OR site:cif.org analyst OR associate climate OR energy'
+    notes: "Washington DC. Climate finance, clean energy, resilience."
+    enabled: true
+
+  - name: ASEAN Secretariat
+    careers_url: https://asean.org/vacancies/
+    scan_method: websearch
+    scan_query: 'site:asean.org/vacancies OR "ASEAN secretariat" sustainability OR climate OR energy analyst OR officer'
+    notes: "Jakarta. Regional policy, energy, environment, economic integration."
+    enabled: true
+
+  - name: APEC Secretariat
+    careers_url: https://www.apec.org/About-Us/APEC-Secretariat/Vacancies
+    scan_method: websearch
+    scan_query: '"APEC secretariat" climate OR energy OR sustainability analyst OR consultant'
+    notes: "Singapore. Trade, climate, energy, sustainable growth."
+    enabled: true
+
+  - name: SE4All (Sustainable Energy for All)
+    careers_url: https://www.seforall.org/careers
+    scan_method: websearch
+    scan_query: '"sustainable energy for all" OR site:seforall.org analyst OR associate energy OR climate'
+    notes: "Vienna. Energy access, clean cooking, energy transition."
+    enabled: true
+
+  - name: ADBI (ADB Institute)
+    careers_url: https://www.adb.org/adbi/about/careers
+    scan_method: websearch
+    scan_query: '"ADBI" OR "ADB institute" analyst OR researcher energy OR climate OR sustainability'
+    notes: "Tokyo. Research and capacity building on development issues."
+    enabled: true
+
+  # === ADDITIONAL CONSULTING / ADVISORY ===
+
+  - name: Carbon Trust
+    careers_url: https://www.carbontrust.com/careers
+    scan_method: websearch
+    scan_query: 'site:carbontrust.com/careers analyst OR associate OR consultant sustainability OR climate OR energy'
+    notes: "London + global. Decarbonisation, energy, sustainability advisory."
+    enabled: true
+
+  - name: Niras
+    careers_url: https://www.niras.com/careers/
+    scan_method: websearch
+    scan_query: '"niras" sustainability OR climate OR energy analyst OR consultant Asia OR Bangkok'
+    notes: "Danish consulting, strong in development/climate in Asia."
+    enabled: true
+
+  - name: Ramboll
+    careers_url: https://ramboll.com/careers
+    scan_method: websearch
+    scan_query: 'site:ramboll.com/careers sustainability OR climate OR energy analyst OR consultant Asia'
+    notes: "Danish engineering/consulting, sustainability and climate practice."
+    enabled: true
+
+  - name: DNV
+    careers_url: https://www.dnv.com/careers/
+    scan_method: websearch
+    scan_query: 'site:dnv.com/careers sustainability OR ESG OR energy OR climate analyst OR consultant Asia'
+    notes: "Assurance, energy, ESG, maritime. Strong Asia presence."
+    enabled: true
+
+  - name: Agora Energiewende
+    careers_url: https://www.agora-energiewende.org/about-us/jobs
+    scan_method: websearch
+    scan_query: '"agora energiewende" analyst OR associate energy OR climate OR transition'
+    notes: "Berlin. Energy transition think tank, expanding to Asia."
+    enabled: true
+
+  - name: NewClimate Institute
+    careers_url: https://newclimate.org/about/vacancies
+    scan_method: websearch
+    scan_query: '"newclimate institute" analyst OR researcher climate OR policy OR energy'
+    notes: "Berlin/Cologne. Climate policy analysis, NDCs, transparency."
+    enabled: true
+
+  - name: Climateworks Foundation
+    careers_url: https://www.climateworks.org/about-us/careers/
+    scan_method: websearch
+    scan_query: '"climateworks" analyst OR associate climate OR energy OR transition'
+    notes: "San Francisco. Climate philanthropy and strategy."
+    enabled: true
+
+  - name: Wood Mackenzie
+    careers_url: https://www.woodmac.com/careers/
+    scan_method: websearch
+    scan_query: '"wood mackenzie" analyst OR associate energy transition OR climate OR renewables Asia'
+    notes: "Energy research and consultancy, strong Asia energy transition practice."
+    enabled: true
+
+  # === ADDITIONAL ESG / DATA / RATINGS ===
+
+  - name: ISS ESG
+    careers_url: https://www.issgovernance.com/about/iss-careers/
+    scan_method: websearch
+    scan_query: '"ISS ESG" OR site:issgovernance.com analyst OR associate ESG OR sustainability'
+    notes: "ESG ratings and governance advisory."
+    enabled: true
+
+  - name: Sustainalytics / Morningstar
+    careers_url: https://careers.morningstar.com/
+    scan_method: websearch
+    scan_query: 'Sustainalytics OR Morningstar ESG OR sustainability analyst OR associate careers'
+    notes: "ESG research and ratings."
+    enabled: true
+
+  - name: Bloomberg Sustainable Finance
+    careers_url: https://www.bloomberg.com/careers
+    scan_method: websearch
+    scan_query: '"bloomberg" sustainability OR ESG OR climate analyst careers'
+    notes: "Sustainable finance data and analytics."
+    enabled: true
+
+  # === THINK TANKS & RESEARCH ===
+
+  - name: IISD
+    careers_url: https://www.iisd.org/careers
+    scan_method: websearch
+    scan_query: 'site:iisd.org/careers analyst OR associate OR researcher sustainability OR climate OR energy'
+    notes: "International Institute for Sustainable Development. Policy research, SDGs, climate."
+    enabled: true
+
+  - name: Brookings
+    careers_url: https://www.brookings.edu/careers/
+    scan_method: websearch
+    scan_query: 'site:brookings.edu/careers research analyst OR associate climate OR energy OR sustainability'
+    notes: "Climate and energy policy research. Washington DC."
+    enabled: true
+
+  - name: Chatham House
+    careers_url: https://www.chathamhouse.org/about-us/careers
+    scan_method: websearch
+    scan_query: 'site:chathamhouse.org/about-us/careers analyst OR researcher environment OR energy OR climate'
+    notes: "Environment and Society Programme. London."
+    enabled: true
+
+  - name: CSIS
+    careers_url: https://www.csis.org/about-us/careers
+    scan_method: websearch
+    scan_query: 'site:csis.org/about-us/careers analyst OR researcher "southeast asia" OR energy OR climate'
+    notes: "Southeast Asia Programme, Energy Security. Washington DC."
+    enabled: true
+
+  - name: ODI
+    careers_url: https://odi.org/en/careers/
+    scan_method: websearch
+    scan_query: 'site:odi.org/en/careers analyst OR researcher climate OR energy OR development'
+    notes: "Overseas Development Institute. Climate, energy, development policy. London."
+    enabled: true
+
+  # === CARBON MARKETS & STANDARDS ===
+
+  - name: Gold Standard
+    careers_url: https://www.goldstandard.org/about-us/careers
+    scan_method: websearch
+    scan_query: '"gold standard" careers analyst OR associate climate OR carbon OR sustainability'
+    notes: "Carbon credit standards body. Geneva."
+    enabled: true
+
+  - name: Verra
+    careers_url: https://verra.org/about-verra/careers/
+    scan_method: websearch
+    scan_query: '"verra" careers analyst OR associate carbon OR climate OR sustainability'
+    notes: "VCS, SD VISta carbon standards. Washington DC / remote."
+    enabled: true
+
+  - name: WBCSD
+    careers_url: https://www.wbcsd.org/about-us/careers
+    scan_method: websearch
+    scan_query: '"WBCSD" careers analyst OR associate sustainability OR climate OR ESG'
+    notes: "World Business Council for Sustainable Development. Geneva."
+    enabled: true
+
+  # === DEVELOPMENT FINANCE (NEW) ===
+
+  - name: EIB (European Investment Bank)
+    careers_url: https://www.eib.org/en/about/careers/
+    scan_method: websearch
+    scan_query: 'site:eib.org/en/about/careers analyst OR associate climate OR energy OR sustainability'
+    notes: "Luxembourg. Climate finance, EU citizenship advantage. Largest multilateral climate lender."
+    enabled: true
+
+  - name: JICA
+    careers_url: https://www.jica.go.jp/english/about/organization/jobs/index.html
+    scan_method: websearch
+    scan_query: '"JICA" careers analyst OR consultant energy OR climate OR sustainability Asia'
+    notes: "Japan International Cooperation Agency. Energy, climate, infrastructure in Asia."
+    enabled: true
+
+  # === CLIMATE FUNDS & MECHANISMS ===
+
+  - name: UNFCCC Secretariat
+    careers_url: https://unfccc.int/about-us/vacancies
+    scan_method: websearch
+    scan_query: 'site:unfccc.int/about-us/vacancies analyst OR associate OR consultant climate 2026'
+    notes: "Bonn. Climate convention secretariat. NDCs, transparency, Article 6, adaptation."
+    enabled: true
+
+  - name: GEF (Global Environment Facility)
+    careers_url: https://www.thegef.org/who-we-are/careers
+    scan_method: websearch
+    scan_query: '"global environment facility" OR site:thegef.org analyst OR consultant climate OR biodiversity careers'
+    notes: "Washington DC. Climate, biodiversity, chemicals. Funds GEF projects that UNIDO implements."
+    enabled: true
+
+  - name: Adaptation Fund
+    careers_url: https://www.adaptation-fund.org/about/careers/
+    scan_method: websearch
+    scan_query: '"adaptation fund" analyst OR consultant climate OR adaptation careers'
+    notes: "Washington DC. Climate adaptation finance."
+    enabled: true
+
+  - name: NDC Partnership
+    careers_url: https://ndcpartnership.org/careers
+    scan_method: websearch
+    scan_query: '"NDC partnership" analyst OR consultant climate OR NDC careers'
+    notes: "Bonn/Washington. NDC implementation support."
+    enabled: true
+
+  # === GIZ / GERMAN DEVELOPMENT ===
+
+  - name: GIZ
+    careers_url: https://jobs.giz.de/
+    scan_method: websearch
+    scan_query: 'site:jobs.giz.de sustainability OR climate OR energy analyst OR advisor OR consultant Bangkok OR Thailand OR Asia'
+    notes: "HUGE employer in climate/sustainability in Asia. Bangkok, Hanoi, Jakarta, Manila offices."
+    enabled: true
+
+  - name: KfW Development Bank
+    careers_url: https://www.kfw.de/careers/
+    scan_method: websearch
+    scan_query: '"KfW" careers climate OR energy OR sustainability analyst OR associate'
+    notes: "German development bank. Climate finance, energy, infrastructure."
+    enabled: true
+
+  # === BILATERAL AGENCIES ===
+
+  - name: KOICA
+    careers_url: https://www.koica.go.kr/eng/recruitment/
+    scan_method: websearch
+    scan_query: '"KOICA" analyst OR consultant climate OR energy OR development Asia careers'
+    notes: "Korea International Cooperation Agency. Strong in Asia."
+    enabled: true
+
+  - name: AFD
+    careers_url: https://www.afd.fr/en/careers
+    scan_method: websearch
+    scan_query: '"AFD" OR "agence francaise" analyst OR consultant climate OR energy OR sustainability Asia careers'
+    notes: "French development agency. Climate finance in Asia."
+    enabled: true
+
+  # === UN AGENCIES (ADDITIONAL) ===
+
+  - name: UNCTAD
+    careers_url: https://unctad.org/about-us/vacancy
+    scan_method: websearch
+    scan_query: 'site:unctad.org/about-us/vacancy analyst OR associate sustainability OR trade OR climate'
+    notes: "Geneva. Trade, investment, technology, sustainable development."
+    enabled: true
+
+  - name: UN-Habitat
+    careers_url: https://unhabitat.org/about-us/vacancies
+    scan_method: websearch
+    scan_query: '"UN-Habitat" analyst OR consultant sustainability OR climate OR urban OR resilience'
+    notes: "Nairobi + regional. Urban sustainability, climate resilience."
+    enabled: true
+
+  - name: IAEA
+    careers_url: https://iaea.org/about/employment
+    scan_method: websearch
+    scan_query: 'site:iaea.org/about/employment analyst OR associate nuclear OR energy OR climate'
+    notes: "Vienna. Nuclear energy, climate. Relevant to SMR/nuclear work."
+    enabled: true
+
+  - name: IFAD
+    careers_url: https://www.ifad.org/en/careers
+    scan_method: websearch
+    scan_query: 'site:ifad.org/en/careers analyst OR consultant climate OR sustainability OR rural'
+    notes: "Rome. Rural development, climate adaptation, agriculture."
+    enabled: true
+
+  - name: UNESCO
+    careers_url: https://careers.unesco.org/
+    scan_method: websearch
+    scan_query: 'site:careers.unesco.org analyst OR consultant sustainability OR climate OR environment OR science'
+    notes: "Paris + Bangkok regional office. Science, education, sustainability."
+    enabled: true
+
+  # === RESEARCH INSTITUTES (ASIA-BASED) ===
+
+  - name: SEI Asia (Stockholm Environment Institute)
+    careers_url: https://www.sei.org/vacancies/
+    scan_method: websearch
+    scan_query: '"Stockholm Environment Institute" OR site:sei.org analyst OR researcher climate OR energy OR sustainability Bangkok OR Asia'
+    notes: "BANGKOK-BASED. Climate, energy, water, governance research. High relevance."
+    enabled: true
+
+  - name: IGES
+    careers_url: https://www.iges.or.jp/en/about/recruitment
+    scan_method: websearch
+    scan_query: '"IGES" OR site:iges.or.jp analyst OR researcher climate OR energy OR sustainability'
+    notes: "Hayama, Japan. Climate, energy, sustainable consumption. Strong Asia focus."
+    enabled: true
+
+  - name: Climate Analytics
+    careers_url: https://climateanalytics.org/about-us/careers
+    scan_method: websearch
+    scan_query: '"climate analytics" analyst OR researcher climate OR energy careers'
+    notes: "Berlin + global. Climate science-policy interface, 1.5°C pathways."
+    enabled: true
+
+  - name: E3G
+    careers_url: https://www.e3g.org/about/jobs/
+    scan_method: websearch
+    scan_query: '"E3G" analyst OR researcher climate OR energy OR policy careers'
+    notes: "London/Berlin/Brussels. Climate diplomacy, energy policy."
+    enabled: true
+
+  # === NGOs ===
+
+  - name: IUCN
+    careers_url: https://www.iucn.org/about-iucn/careers
+    scan_method: websearch
+    scan_query: 'site:iucn.org/about-iucn/careers analyst OR consultant climate OR biodiversity OR sustainability Asia'
+    notes: "Gland + Bangkok regional office. Conservation, NbS, climate adaptation."
+    enabled: true
+
+  - name: WWF
+    careers_url: https://wwf.panda.org/careers/
+    scan_method: websearch
+    scan_query: '"WWF" analyst OR associate climate OR energy OR sustainability Asia careers'
+    notes: "Global + regional offices. Climate, energy, forests, oceans."
+    enabled: true
+
+  - name: The Nature Conservancy
+    careers_url: https://www.nature.org/en-us/about-us/careers/
+    scan_method: websearch
+    scan_query: '"the nature conservancy" analyst OR associate climate OR sustainability Asia OR Pacific careers'
+    notes: "Global. Conservation, NbS, climate. Asia-Pacific programme."
+    enabled: true
+
+  # === THAI BANKS & CORPORATES ===
+
+  - name: Kasikornbank
+    careers_url: https://www.kasikornbank.com/en/career
+    scan_method: websearch
+    scan_query: '"kasikornbank" OR "KBank" sustainability OR ESG analyst OR associate careers'
+    notes: "Leading Thai bank. Growing ESG/sustainability reporting team."
+    enabled: true
+
+  - name: SCB (Siam Commercial Bank)
+    careers_url: https://www.scb.co.th/en/about-us/careers.html
+    scan_method: websearch
+    scan_query: '"siam commercial bank" OR "SCB" sustainability OR ESG analyst OR associate careers'
+    notes: "Thai bank with ESG focus. SCBX fintech ecosystem."
+    enabled: true
+
+  - name: SCG (Siam Cement Group)
+    careers_url: https://www.scg.com/en/career
+    scan_method: websearch
+    scan_query: '"SCG" OR "siam cement" sustainability OR ESG OR climate analyst OR associate careers'
+    notes: "Thai industrial conglomerate. Strong sustainability/circular economy programme."
+    enabled: true
+
+  - name: PTT Group
+    careers_url: https://www.pttplc.com/en/Career.aspx
+    scan_method: websearch
+    scan_query: '"PTT" OR "PTTEP" sustainability OR ESG OR energy transition analyst OR associate careers'
+    notes: "Thai state energy company. Energy transition, renewables pivot."
+    enabled: true
+
+  # === ASIAN BANKS ===
+
+  - name: DBS
+    careers_url: https://www.dbs.com/careers/
+    scan_method: websearch
+    scan_query: '"DBS" sustainability OR ESG OR climate analyst OR associate Singapore careers'
+    notes: "Singapore. Leading APAC bank on ESG/sustainability. Strong sustainable finance team."
+    enabled: true
+
+  - name: UOB
+    careers_url: https://www.uobgroup.com/uobgroup/careers/
+    scan_method: websearch
+    scan_query: '"UOB" sustainability OR ESG analyst OR associate Singapore careers'
+    notes: "Singapore. Growing sustainability function."
+    enabled: true
+
+  - name: SMBC / SMFG
+    careers_url: https://www.smfg.co.jp/english/recruit/
+    scan_method: websearch
+    scan_query: '"SMBC" OR "SMFG" sustainability OR ESG analyst OR associate Asia careers'
+    notes: "Japanese megabank. Sustainable finance, Asia operations."
+    enabled: true
+
+  # === CONSULTING (NEW) ===
+
+  - name: Dalberg
+    careers_url: https://dalberg.com/careers/
+    scan_method: websearch
+    scan_query: '"dalberg" analyst OR associate sustainability OR climate OR energy Asia careers'
+    notes: "Development consulting. Climate, energy, social impact. Singapore/global."
+    enabled: true
+
+  - name: Palladium
+    careers_url: https://thepalladiumgroup.com/careers
+    scan_method: websearch
+    scan_query: '"palladium" analyst OR associate climate OR sustainability Asia careers'
+    notes: "Development consulting. Climate, clean energy, governance projects."
+    enabled: true
+
+  - name: Guidehouse
+    careers_url: https://guidehouse.com/careers
+    scan_method: websearch
+    scan_query: '"guidehouse" sustainability OR ESG OR climate analyst OR associate careers'
+    notes: "Energy, sustainability, ESG consulting. Growing Asia practice."
+    enabled: true
+
+  - name: Accenture Sustainability
+    careers_url: https://www.accenture.com/us-en/careers
+    scan_method: websearch
+    scan_query: '"accenture" sustainability OR ESG OR climate analyst OR consultant Asia careers'
+    notes: "Large sustainability practice. Asia offices in Singapore, Bangkok, Tokyo."
+    enabled: true

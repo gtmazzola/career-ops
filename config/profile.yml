@@ -1,0 +1,88 @@
+# Career-Ops Profile Configuration
+# Filled based on information available in this conversation.
+# Public links included only where they could be identified confidently.
+
+candidate:
+  full_name: "Gavin Tyler Mazzola"
+  email: "gavinmazzola@proton.me"
+  phone: "+66 096 090 7716"
+  location: "Bangkok, Thailand"
+  linkedin: "https://www.linkedin.com/in/gavintylermazzola/"
+  portfolio_url: "TODO"
+  github: "TODO"
+  twitter: "TODO"
+
+target_roles:
+  primary:
+    - "Project Assistant / Project Officer"
+    - "Technical Project Consultant"
+    - "Programme Support Analyst"
+    - "Sustainability Analyst"
+    - "ESG Analyst"
+    - "Climate and Energy Analyst"
+    - "Industrial Development Analyst"
+    - "Research Analyst"
+    - "Monitoring and Evaluation Analyst"
+    - "Reporting and Results Analyst"
+    - "Decarbonization Analyst"
+    - "Sustainable Finance / ESG Finance Analyst"
+    - "Sustainability Reporting Analyst"
+    - "Consulting Analyst"
+  archetypes:
+    - name: "International Development / Project Support"
+      level: "Junior–Mid"
+      fit: "primary"
+    - name: "Sustainability, Climate, and Industrial Development Analysis"
+      level: "Junior–Mid"
+      fit: "primary"
+    - name: "ESG, Reporting, and Sustainable Finance"
+      level: "Junior–Mid"
+      fit: "primary"
+    - name: "Consulting and Strategy Analysis"
+      level: "Junior–Mid"
+      fit: "secondary"
+    - name: "Innovation, Feasibility, and Decision-Support Analysis"
+      level: "Junior–Mid"
+      fit: "secondary"
+    - name: "Policy Research and Evaluation"
+      level: "Junior–Mid"
+      fit: "secondary"
+
+narrative:
+  headline: "Sustainability and industrial development professional with experience across climate innovation, project design, policy support, and analytical reporting"
+  exit_story: "I combine training in transformative sustainability with practical experience in international development, industrial policy, climate and innovation programming, and analytical project support. My work has focused on turning complex technical and policy material into clear proposals, reports, stakeholder processes, and implementation-oriented outputs across themes including industrial development, SDG 9, sustainable finance, hydrogen, e-mobility, innovation systems, and project monitoring."
+  superpowers:
+    - "Turning complex sustainability, industrial development, and policy material into clear, decision-ready documents"
+    - "Strong analytical synthesis across technical, institutional, and policy dimensions"
+    - "Project and proposal support across climate, innovation, sustainability, and industrial transformation themes"
+    - "Cross-stakeholder coordination with government, academia, private sector, and international organizations"
+    - "Using AI and digital tools to strengthen research, drafting, and decision-support workflows"
+  proof_points:
+    - name: "Professional profile"
+      url: "https://www.linkedin.com/in/gavintylermazzola/"
+      hero_metric: "Public profile identifies current UNIDO experience and sustainability, ESG, and energy focus"
+    - name: "Hydrogen article acknowledgement by UNIDO Sub-Regional Office in Thailand"
+      url: "https://www.facebook.com/UNIDOSubRegionalOfficeThailand/posts/insightful-piece-by-our-intern-gavin-tyler-mazzola-and-unido-representative-fuku/1035969015404845/"
+      hero_metric: "Public UNIDO office post highlights your co-authored piece on hydrogen's role in industrial development"
+    - name: "Hydrogen article post"
+      url: "https://www.linkedin.com/posts/gavintylermazzola_hydrogen-powertox-industrialdecarbonization-activity-7320036568117743616-AD9B"
+      hero_metric: "Public post describes your published GTCC article on hydrogen in inclusive and sustainable industrial development"
+    - name: "SDG 9, project design, and analytical support"
+      url: "TODO"
+      hero_metric: "Supported concept note development, session design, summary reporting, inter-agency coordination, and analytical drafting across UNIDO workstreams"
+    - name: "Battery swapping standards and IMT-GT consultation work"
+      url: "TODO"
+      hero_metric: "Prepared analytical and policy-facing material on regional standards alignment, interoperability, and investment confidence for battery swapping in Southeast Asia"
+
+compensation:
+  target_range: "THB 70,000–150,000"
+  currency: "THB"
+  minimum: "THB 70,000"
+  location_flexibility: "Open to roles in Bangkok, elsewhere in Thailand, South Asia, Southeast Asia, China, Japan, Korea, Hong Kong, Taiwan, and other locations depending on role fit and relocation feasibility"
+
+location:
+  country: "Thailand"
+  city: "Bangkok"
+  timezone: "Asia/Bangkok"
+  visa_status: "Does not currently hold a Thai work visa"
+  onsite_availability: "Open to in-person, hybrid, relocation, and regional travel depending on the role"
