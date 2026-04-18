@@ -3,16 +3,6 @@
 ## Pendientes
 
 <!-- UN / International Organizations — Bangkok & Asia-Pacific -->
-- [ ] https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF)
-- [ ] https://www.unjobnet.org/jobs/detail/52348814 | UNESCAP | Consultant – Climate Finance (Bangkok)
-- [ ] https://unjobs.org/vacancies/1774561034325 | UNESCAP | National Cooling Consultant (Bangkok)
-- [ ] https://www.unjobnet.org/jobs/detail/72662144 | UNESCAP | Climate Finance Specialist (Bangkok)
-- [ ] https://www.unjobnet.org/jobs/detail/83142780 | UNESCAP | FDI and Green Investment Research Consultant (Bangkok)
-- [ ] https://www.unjobnet.org/jobs/detail/82514384 | UNESCAP | National Climate Analysis Expert (Bangkok)
-- [ ] https://careers.un.org/jobSearchDescription/271848 | UNEP | Programme Management Officer P3 (Multilateral Fund)
-- [ ] https://careers.un.org/jobSearchDescription/254689 | UN Careers | Climate Change Analyst
-- [ ] https://careers.un.org/jobSearchDescription/261340 | UN Careers | Climate Policy and Energy Transition Advisor
-- [ ] https://careers.un.org/jobSearchDescription/267132 | UN Careers | International Sustainability Consultant
 - [ ] https://careers.un.org/jobSearchDescription/261733 | UN Careers | Associate Programme Management Officer P2
 - [ ] https://careers.un.org/jobSearchDescription/246773 | UN Careers | Associate Programme Management Officer
 - [ ] https://www.intjobs.com/job_display/263779/Sustainable_Development_Officer_P4_UN_ESCAP_United_Nations_Economic_and_Social_Commission_for_Asia_and_the_Pacific_Bangkok_Thailand | UNESCAP | Sustainable Development Officer P4 (Bangkok)
@@ -111,4 +101,15 @@
 - [ ] https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant for Payment for Watershed Services Policy (Indonesia)
 
 ## Procesadas
+
+- [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
+- [x] #002 | https://www.unjobnet.org/jobs/detail/52348814 | UNESCAP | Consultant – Climate Finance (Bangkok) | 3.5/5 | PDF ❌
+- [x] #003 | https://unjobs.org/vacancies/1774561034325 | UNESCAP | National Cooling Consultant (Bangkok) | 3.2/5 | PDF ❌
+- [x] #004 | https://www.unjobnet.org/jobs/detail/72662144 | UNESCAP | Climate Finance Specialist (Bangkok) | 2.5/5 | PDF ❌
+- [x] #005 | https://www.unjobnet.org/jobs/detail/83142780 | UNESCAP | FDI and Green Investment Research Consultant (Bangkok) | 3.5/5 | PDF ❌
+- [x] #006 | https://www.unjobnet.org/jobs/detail/82514384 | UNESCAP | National Climate Analysis Expert (Bangkok) | 3.8/5 | PDF ❌
+- [x] #011 | https://careers.un.org/jobSearchDescription/271848 | UNEP | Programme Management Officer P3 (Multilateral Fund) | 2.5/5 | PDF ❌
+- [x] #008 | https://careers.un.org/jobSearchDescription/254689 | UN Careers | Climate Change Analyst | 3.5/5 | PDF ❌
+- [x] #009 | https://careers.un.org/jobSearchDescription/261340 | UN Careers | Climate Policy and Energy Transition Advisor | 2.5/5 | PDF ❌
+- [x] #010 | https://careers.un.org/jobSearchDescription/267132 | UN Careers | International Sustainability Consultant | 3.5/5 | PDF ❌
 
