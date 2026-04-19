@@ -3,18 +3,6 @@
 ## Pendientes
 
 <!-- UN / International Organizations — Bangkok & Asia-Pacific -->
-- [ ] https://careers.un.org/jobSearchDescription/261733 | UN Careers | Associate Programme Management Officer P2
-- [ ] https://careers.un.org/jobSearchDescription/246773 | UN Careers | Associate Programme Management Officer
-- [ ] https://www.intjobs.com/job_display/263779/Sustainable_Development_Officer_P4_UN_ESCAP_United_Nations_Economic_and_Social_Commission_for_Asia_and_the_Pacific_Bangkok_Thailand | UNESCAP | Sustainable Development Officer P4 (Bangkok)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30199 | UNOPS | Project Support Officer
-- [ ] https://www.linkedin.com/jobs/view/senior-programme-manager-climate-justice-at-unops-4258849021 | UNOPS | Senior Programme Manager (Climate Justice)
-- [ ] https://www.linkedin.com/jobs/view/environment-and-climate-change-advisor-at-unops-3981489371 | UNOPS | Environment and Climate Change Advisor
-
-<!-- GGGI — Global Green Growth Institute -->
-- [ ] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer (RP26-16)
-- [ ] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant – ESG Specialist
-- [ ] https://www.impactpool.org/jobs/1083883 | GGGI | Junior Sustainability Consultant
-- [ ] https://www.impactpool.org/jobs/990297 | GGGI | Sustainable Energy Officer
 - [ ] https://careers.gggi.org/vacancy/mexico-energy-and-climate-individual-consultant-598612.html | GGGI | Energy and Climate Individual Consultant
 
 <!-- SEI — Stockholm Environment Institute (Bangkok) -->
@@ -112,4 +100,14 @@
 - [x] #008 | https://careers.un.org/jobSearchDescription/254689 | UN Careers | Climate Change Analyst | 3.5/5 | PDF ❌
 - [x] #009 | https://careers.un.org/jobSearchDescription/261340 | UN Careers | Climate Policy and Energy Transition Advisor | 2.5/5 | PDF ❌
 - [x] #010 | https://careers.un.org/jobSearchDescription/267132 | UN Careers | International Sustainability Consultant | 3.5/5 | PDF ❌
+- [x] #012 | https://careers.un.org/jobSearchDescription/261733 | UN Careers (UNEP) | Associate Programme Management Officer P2 | 3.8/5 | PDF ❌
+- [x] #013 | https://careers.un.org/jobSearchDescription/246773 | UN Careers | Associate Programme Management Officer (246773) | 3.5/5 | PDF ❌
+- [x] #014 | https://www.intjobs.com/job_display/263779/Sustainable_Development_Officer_P4_UN_ESCAP_United_Nations_Economic_and_Social_Commission_for_Asia_and_the_Pacific_Bangkok_Thailand | UNESCAP | Sustainable Development Officer P4 (Bangkok) | 2.5/5 | PDF ❌
+- [x] #015 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30199 | UNOPS | Project Support Officer (Vienna) | 1.5/5 | PDF ❌
+- [x] #016 | https://www.linkedin.com/jobs/view/senior-programme-manager-climate-justice-at-unops-4258849021 | UNOPS | Senior Programme Manager (Climate Justice) P5 | 1.5/5 | PDF ❌
+- [x] #017 | https://www.linkedin.com/jobs/view/environment-and-climate-change-advisor-at-unops-3981489371 | UNOPS | Environment and Climate Change Advisor (SAMCO) | 2.0/5 | PDF ❌
+- [x] #018 | https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer RP26-16 (Nairobi) | 1.5/5 | PDF ❌
+- [x] #019 | https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant – ESG Specialist (El Salvador/CR) | 1.0/5 | PDF ❌
+- [x] #020 | https://www.impactpool.org/jobs/1083883 | GGGI | Junior Sustainability Consultant (Quito) | 1.0/5 | PDF ❌
+- [x] #021 | https://www.impactpool.org/jobs/990297 | GGGI | Sustainable Energy Officer (Cambodia) | 2.5/5 | PDF ❌
 

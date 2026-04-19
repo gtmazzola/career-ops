@@ -2,6 +2,16 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 15 | 2026-04-19 | UNOPS | Project Support Officer (Vienna) | 1.5/5 | NO APLICAR | ❌ | [015](reports/015-unops-project-support-officer-vienna-2026-04-19.md) | Vienna ICS-9, vacancy closed Jun 2025; wrong location and level |
+| 16 | 2026-04-19 | UNOPS | Senior Programme Manager (Climate Justice) P5 | 1.5/5 | NO APLICAR | ❌ | [016](reports/016-unops-senior-programme-manager-climate-justice-2026-04-19.md) | New York P5, climate justice; aspiration role but 8-10 years premature |
+| 17 | 2026-04-19 | UNOPS | Environment and Climate Change Advisor (SAMCO) | 2.0/5 | NO APLICAR | ❌ | [017](reports/017-unops-environment-climate-change-advisor-2026-04-19.md) | SAMCO roster/retainer, 7+ years; experience gap, not applicable |
+| 18 | 2026-04-19 | GGGI | Project Officer RP26-16 (Nairobi) | 1.5/5 | NO APLICAR | ❌ | [018](reports/018-gggi-project-officer-nairobi-rp26-16-2026-04-19.md) | Nairobi Kenya, deadline Feb 2026 passed; wrong location |
+| 19 | 2026-04-19 | GGGI | Individual Consultant – ESG Specialist (El Salvador/CR) | 1.0/5 | NO APLICAR | ❌ | [019](reports/019-gggi-individual-consultant-esg-specialist-2026-04-19.md) | El Salvador/Costa Rica, Spanish required, 5-8 yrs; four blockers |
+| 20 | 2026-04-19 | GGGI | Junior Sustainability Consultant (Quito) | 1.0/5 | NO APLICAR | ❌ | [020](reports/020-gggi-junior-sustainability-consultant-quito-2026-04-19.md) | Quito Ecuador, vacancy closed; wrong location |
+| 21 | 2026-04-19 | GGGI | Sustainable Energy Officer (Cambodia) | 2.5/5 | Evaluada | ❌ | [021](reports/021-gggi-sustainable-energy-officer-cambodia-2026-04-19.md) | Phnom Penh, building EE/ESCO focus; low priority, domain gap |
+| 22 | 2026-04-19 | UNESCAP | Sustainable Development Officer P4 (Bangkok) | 2.5/5 | Evaluada | ❌ | [014](reports/014-unescap-sustainable-development-officer-p4-2026-04-19.md) | Bangkok P4 — domain strong, but 7+ years required vs 1.5 years; do not apply |
+| 23 | 2026-04-19 | UN Careers | Associate Programme Management Officer (246773) | 3.5/5 | Evaluada | ❌ | [013](reports/013-un-careers-apmo-246773-2026-04-19.md) | APMO P2 role; dept/location unconfirmed — verify before applying |
+| 24 | 2026-04-19 | UN Careers (UNEP) | Associate Programme Management Officer P2 | 3.8/5 | Evaluada | ❌ | [012](reports/012-un-careers-apmo-p2-261733-2026-04-19.md) | Bangkok-based UNEP P2 role; strong IO fit, adjacent domain (Nature/One Health) |
 | 1 | 2026-04-18 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | Evaluada | ❌ | [1](reports/001-undp-thailand-2026-04-18.md) | GCF FP170 M&E role — Thai language required (hard blocker) |
 | 2 | 2026-04-18 | UNESCAP | Consultant – Climate Finance (Bangkok) | 3.5/5 | Evaluada | ❌ | [2](reports/002-unescap-climate-finance-consultant-2026-04-18.md) | Climate finance consultancy — good profile fit, JD partial |
 | 3 | 2026-04-18 | UNESCAP | National Cooling Consultant (Bangkok) | 3.2/5 | Evaluada | ❌ | [3](reports/003-unescap-national-cooling-consultant-2026-04-18.md) | Cooling domain gap; national designation may restrict eligibility |
