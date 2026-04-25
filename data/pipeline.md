@@ -2,24 +2,6 @@
 
 ## Pendientes
 
-<!-- UN / International Organizations — Bangkok & Asia-Pacific -->
-- [ ] https://careers.gggi.org/vacancy/mexico-energy-and-climate-individual-consultant-598612.html | GGGI | Energy and Climate Individual Consultant
-
-<!-- SEI — Stockholm Environment Institute (Bangkok) -->
-- [ ] https://www.sei.org/people/jobs/research-fellow-urban/ | SEI Asia | Research Fellow – Urban (Bangkok, deadline 15 Apr 2026)
-- [ ] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Asia | Research Fellow – Bankable Climate Adaptation Solutions (Bangkok)
-- [ ] https://www.sei.org/people/jobs/research-fellow-climate-finance-gesi-capdev/ | SEI Asia | Research Fellow – Climate Finance, GESI & Capacity Development (Bangkok)
-- [ ] https://www.sei.org/people/jobs/research-fellow-mreal/ | SEI Asia | Research Fellow – MREAL (Monitoring, Reporting, Evaluation) (Bangkok)
-- [ ] https://www.sei.org/people/jobs/research-fellow-climate-impact-and-climate-finance/ | SEI Asia | Research Fellow – Climate Impact and Climate Finance (Bangkok)
-- [ ] https://www.sei.org/people/jobs/research-associate-genjust/ | SEI Asia | Research Associate (Bangkok)
-
-<!-- AIIB — Asian Infrastructure Investment Bank -->
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/Environment-and-Social-Analysts.html | AIIB | Environment and Social Analysts (Graduate Program)
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy.html | AIIB | Investment Analyst – Energy (Graduate Program)
-
-<!-- ADB — Asian Development Bank -->
-- [ ] https://www.adb.org/careers/260296 | ADB | Project Analyst
-
 <!-- WRI — World Resources Institute -->
 - [ ] https://www.wri.org/careers/jobs/gedsi-research-analyst-2026-jr100039 | WRI Indonesia | GEDSI Research Analyst (Jakarta)
 - [ ] https://www.wri.org/careers/jobs/sustainable-finance-partnership-and-mobilization-consultant-2026-jr100019 | WRI Indonesia | Sustainable Finance Partnership and Mobilization Consultant (Bali)
@@ -110,4 +92,14 @@
 - [x] #019 | https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant – ESG Specialist (El Salvador/CR) | 1.0/5 | PDF ❌
 - [x] #020 | https://www.impactpool.org/jobs/1083883 | GGGI | Junior Sustainability Consultant (Quito) | 1.0/5 | PDF ❌
 - [x] #021 | https://www.impactpool.org/jobs/990297 | GGGI | Sustainable Energy Officer (Cambodia) | 2.5/5 | PDF ❌
+- [x] #022 | https://careers.gggi.org/vacancy/mexico-energy-and-climate-individual-consultant-598612.html | GGGI | Energy and Climate Individual Consultant | 1.8/5 | PDF ❌
+- [x] #023 | https://www.sei.org/people/jobs/research-fellow-urban/ | SEI Asia | Research Fellow – Urban | 3.1/5 | PDF ❌
+- [x] #024 | https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Asia | Research Fellow – Bankable Climate Adaptation Solutions | 3.4/5 | PDF ❌
+- [x] #025 | https://www.sei.org/people/jobs/research-fellow-climate-finance-gesi-capdev/ | SEI Asia | Research Fellow – Climate Finance, GESI & Capacity Development | 2.9/5 | PDF ❌
+- [x] #026 | https://www.sei.org/people/jobs/research-fellow-mreal/ | SEI Asia | Research Fellow – MREAL | 3.6/5 | PDF ❌
+- [x] #027 | https://www.sei.org/people/jobs/research-fellow-climate-impact-and-climate-finance/ | SEI Africa | Research Fellow – Climate Impact and Climate Finance | 2.8/5 | PDF ❌
+- [x] #028 | https://www.sei.org/people/jobs/research-associate-genjust/ | SEI Asia | Research Associate (GenJust) | 3.4/5 | PDF ❌
+- [x] #029 | https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/Environment-and-Social-Analysts.html | AIIB | Environment and Social Analysts (Graduate Program) | 3.8/5 | PDF ❌
+- [x] #030 | https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy.html | AIIB | Investment Analyst – Energy (Graduate Program) | 4.2/5 | PDF ❌
+- [x] #031 | https://www.adb.org/careers/260296 | ADB | Project Analyst | 3.9/5 | PDF ❌
 

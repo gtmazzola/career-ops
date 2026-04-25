@@ -2,6 +2,13 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 25 | 2026-04-25 | SEI Asia | Research Fellow – Climate Finance, GESI & Capacity Development | 2.9/5 | Evaluada | ❌ | [025](reports/025-sei-asia-climate-finance-gesi-2026-04-25.md) | GESI specialist role in Bangkok — core competency (gender-transformative) absent from CV; do not apply |
+| 26 | 2026-04-25 | SEI Asia | Research Fellow – MREAL | 3.6/5 | Evaluada | ❌ | [026](reports/026-sei-asia-mreal-2026-04-25.md) | Best SEI fit — RBM/LogFrame work maps directly; Bangkok; open until 26 May; experience gap but strongest CV match of the four |
+| 27 | 2026-04-25 | SEI Africa | Research Fellow – Climate Impact and Climate Finance | 2.8/5 | Evaluada | ❌ | [027](reports/027-sei-research-fellow-climate-finance-2026-04-25.md) | Nairobi-based; hard blockers: seniority gap (5+ yrs required), no Africa experience, no publications — skip |
+| 28 | 2026-04-25 | SEI Asia | Research Associate (GenJust) | 3.4/5 | Evaluada | ❌ | [028](reports/028-sei-research-associate-genjust-2026-04-25.md) | Bangkok, right level/location, but gender-justice thematic focus is a weak fit for Gavin's energy/policy profile |
+| 29 | 2026-04-25 | AIIB | Environment and Social Analysts (Graduate Program) | 3.8/5 | Evaluada | ❌ | [029](reports/029-aiib-environment-social-analysts-2026-04-25.md) | Beijing MDB grad program; strong comp (USD 80-90k+), right level, E&S gap bridgeable via IKI/ESG coursework |
+| 30 | 2026-04-25 | AIIB | Investment Analyst – Energy (Graduate Program) | 4.2/5 | Evaluada | ❌ | [030](reports/030-aiib-investment-analyst-energy-2026-04-25.md) | Best match in batch; Beijing MDB; GAMSPy/PVsyst/LCOE skills align directly; excellent comp (USD 80-90k+); apply |
+| 31 | 2026-04-25 | ADB | Project Analyst | 3.9/5 | Evaluada | ❌ | [031](reports/031-adb-project-analyst-2026-04-25.md) | Manila MDB; DMF/LogFrame/RBM skills are direct match; URGENT — closes 28 Apr 2026; apply immediately |
 | 15 | 2026-04-19 | UNOPS | Project Support Officer (Vienna) | 1.5/5 | NO APLICAR | ❌ | [015](reports/015-unops-project-support-officer-vienna-2026-04-19.md) | Vienna ICS-9, vacancy closed Jun 2025; wrong location and level |
 | 16 | 2026-04-19 | UNOPS | Senior Programme Manager (Climate Justice) P5 | 1.5/5 | NO APLICAR | ❌ | [016](reports/016-unops-senior-programme-manager-climate-justice-2026-04-19.md) | New York P5, climate justice; aspiration role but 8-10 years premature |
 | 17 | 2026-04-19 | UNOPS | Environment and Climate Change Advisor (SAMCO) | 2.0/5 | NO APLICAR | ❌ | [017](reports/017-unops-environment-climate-change-advisor-2026-04-19.md) | SAMCO roster/retainer, 7+ years; experience gap, not applicable |
