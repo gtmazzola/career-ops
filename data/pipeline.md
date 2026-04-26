@@ -2,22 +2,6 @@
 
 ## Pendientes
 
-<!-- WRI — World Resources Institute -->
-- [ ] https://www.wri.org/careers/jobs/gedsi-research-analyst-2026-jr100039 | WRI Indonesia | GEDSI Research Analyst (Jakarta)
-- [ ] https://www.wri.org/careers/jobs/sustainable-finance-partnership-and-mobilization-consultant-2026-jr100019 | WRI Indonesia | Sustainable Finance Partnership and Mobilization Consultant (Bali)
-- [ ] https://www.wri.org/careers/jobs/sustainable-transport-analyst-2025-jr100047 | WRI Indonesia | Sustainable Transport Analyst (Jakarta)
-- [ ] https://www.wri.org/careers/jobs/planning-monitoring-and-reporting-specialist-2026-jr100042 | WRI | Planning, Monitoring, and Reporting Specialist
-
-<!-- CPI — Climate Policy Initiative -->
-- [ ] https://unjobs.org/vacancies/1757111070563 | CPI India | Analyst – Centre for Sustainable Finance (Delhi/NCR, hybrid/remote)
-- [ ] https://www.climatepolicyinitiative.org/career/junior-analyst-green-sustainable-finance/ | CPI | Junior Analyst – Green & Sustainable Finance
-- [ ] https://www.climatepolicyinitiative.org/career/senior-analyst-centre-for-sustainable-finance/ | CPI India | Senior Analyst – Centre for Sustainable Finance
-
-<!-- GIZ Thailand -->
-- [ ] https://www.thaingo.org/jobs/detail/15108 | GIZ Thailand | Junior Advisor – Thai Climate Initiative (TGC-EMC, Bangkok)
-- [ ] https://www.thaingo.org/jobs/detail/14628 | GIZ Thailand | Project Advisor – CASE Thailand (Bangkok)
-- [ ] https://www.thai-german-cooperation.info/en_US/vacancies/ | GIZ Thailand | Junior Advisor – Carbon Market / Renewable Energy (Bangkok)
-
 <!-- Consulting Firms — Bangkok & Southeast Asia -->
 - [ ] https://jobs.sea.deloitte.com/job/Bangkok-Analyst-Center-of-Excellence-Environmental,-Social-and-Governance-TH/776770210/ | Deloitte Thailand | Analyst – ESG Centre of Excellence (Bangkok)
 - [ ] https://jobs.sea.deloitte.com/job/Singapore-Risk-Advisory-Sustainability-&-Climate-Change/583472110/ | Deloitte Singapore | Risk Advisory – Sustainability & Climate Change
@@ -102,4 +86,14 @@
 - [x] #029 | https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/Environment-and-Social-Analysts.html | AIIB | Environment and Social Analysts (Graduate Program) | 3.8/5 | PDF ❌
 - [x] #030 | https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy.html | AIIB | Investment Analyst – Energy (Graduate Program) | 4.2/5 | PDF ❌
 - [x] #031 | https://www.adb.org/careers/260296 | ADB | Project Analyst | 3.9/5 | PDF ❌
+- [x] #032 | https://www.wri.org/careers/jobs/gedsi-research-analyst-2026-jr100039 | WRI Indonesia | GEDSI Research Analyst (Jakarta) | 1.5/5 | PDF ❌
+- [x] #033 | https://www.wri.org/careers/jobs/sustainable-finance-partnership-and-mobilization-consultant-2026-jr100019 | WRI Indonesia | Sustainable Finance Partnership and Mobilization Consultant (Bali) | 2.0/5 | PDF ❌
+- [x] #034 | https://www.wri.org/careers/jobs/sustainable-transport-analyst-2025-jr100047 | WRI Indonesia | Sustainable Transport Analyst (Jakarta) | 2.0/5 | PDF ❌
+- [x] #035 | https://www.wri.org/careers/jobs/planning-monitoring-and-reporting-specialist-2026-jr100042 | WRI Indonesia | Planning, Monitoring, and Reporting Specialist | 2.5/5 | PDF ❌
+- [x] #036 | https://unjobs.org/vacancies/1757111070563 | CPI India | Analyst – Centre for Sustainable Finance (Delhi/NCR) | 3.2/5 | PDF ❌
+- [x] #037 | https://www.climatepolicyinitiative.org/career/junior-analyst-green-sustainable-finance/ | CPI | Junior Analyst – Green & Sustainable Finance | 3.5/5 | PDF ❌
+- [x] #038 | https://www.climatepolicyinitiative.org/career/senior-analyst-centre-for-sustainable-finance/ | CPI India | Senior Analyst – Centre for Sustainable Finance | 2.0/5 | PDF ❌
+- [x] #039 | https://www.thaingo.org/jobs/detail/15108 | GIZ Thailand | Junior Advisor – Thai Climate Initiative (TGC-EMC, Bangkok) | 4.2/5 | PDF ❌
+- [x] #040 | https://www.thaingo.org/jobs/detail/14628 | GIZ Thailand | Project Advisor – CASE Thailand (Bangkok) | 3.8/5 | PDF ❌
+- [x] #041 | https://www.thai-german-cooperation.info/en_US/vacancies/ | GIZ Thailand | Junior Advisor – Carbon Market / Renewable Energy (Bangkok) | 4.0/5 | PDF ❌
 
