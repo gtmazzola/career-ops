@@ -54,6 +54,52 @@
 - [ ] https://www.climatechangecareers.com/job/climate-connectors/remote/strategy-research-associate-consultant/ | Climate Connectors | Strategy & Research Associate Consultant (Remote)
 - [ ] https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant for Payment for Watershed Services Policy (Indonesia)
 
+<!-- Scan 2026-04-27: AIIB additional graduate program / staff -->
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/Environment-Analyst.html | AIIB | Environment Analyst (Graduate Program, Beijing)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/Environment-Associate.html | AIIB | Environment Associate (Staff, Beijing)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Associate-for-pooling-only.html | AIIB | Environment Associate (Pooling, Beijing)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-infrastructure60.html | AIIB | Investment Analyst – Infrastructure (Graduate Program, Beijing)
+
+<!-- Scan 2026-04-27: UN system Bangkok / regional -->
+- [ ] https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management – Senior Officer (Bangkok)
+- [ ] https://unjobs.org/vacancies/1776938608815 | UNEP | Energy Finance Expert (Bangkok)
+- [ ] https://careers.un.org/jobSearchDescription/274487 | UNEP | Stakeholder Engagement and Data Collection Consultant
+- [ ] https://careers.un.org/jobSearchDescription/271977 | UNEP | Passive Cooling Expert (Cool Coalition)
+- [ ] https://unjobs.org/vacancies/1774474504647 | UNESCAP | Individual Contractor – 2030 Agenda Follow-up and Review (Bangkok)
+- [ ] https://www.unjobnet.org/jobs/detail/85823466 | UNICEF | Programme Specialist (Climate Finance) – Bangkok (P-)
+- [ ] https://www.unjobnet.org/jobs/detail/85806262 | UNDP | Training Officer (Biomass Energy)
+- [ ] https://www.impactpool.org/jobs/1201675 | UNEP | Climate Services Financing and Sustainability Consultant (International)
+- [ ] https://www.impactpool.org/jobs/1191413 | UNEP | Renewable Energy & Access to Finance Coaching Expert
+
+<!-- Scan 2026-04-27: GGGI additional vacancies -->
+- [ ] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC (URF, Colombia)
+- [ ] https://careers.gggi.org/vacancy/-investment-officer-609445.html | GGGI | Investment Officer (RP26-33)
+
+<!-- Scan 2026-04-27: WRI additional 2026 roles -->
+- [ ] https://www.wri.org/careers/jobs/bali-net-zero-emission-policy-specialist-2026-jr100047 | WRI | Bali Net Zero Emission Policy Specialist (Bali)
+- [ ] https://www.wri.org/careers/jobs/country-engagement-partner-engagement-specialist-2026-jr100165 | WRI | Country Engagement Partner Engagement Specialist
+
+<!-- Scan 2026-04-27: ReliefWeb / Asia development NGO -->
+- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I (DFAT) | Disaster Risk Reduction and Climate Change Analyst (Thailand)
+- [ ] https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | NGO | Climate and Water Research Analyst (Remote)
+- [ ] https://reliefweb.int/job/3988913/climate-resilience-national-training-officer-bangladesh | ADPC | Climate Resilience National Training Officer (Bangladesh)
+- [ ] https://reliefweb.int/job/3998840/climate-resilience-training-and-capacity-development-officer | CARE / South Asia | Climate Resilience Training and Capacity Development Officer (Thailand)
+- [ ] https://reliefweb.int/job/3900508/climate-change-cc-adviser | P4I (DFAT) | Climate Change (CC) Adviser (Thailand)
+- [ ] https://reliefweb.int/job/4194246/financing-analyst-development-peace-climate-sohs-2026-report | NGO | Financing Analyst – Development, Peace, Climate (SOHS 2026 Report)
+
+<!-- Scan 2026-04-27: ERM / Big 4 sustainability roles in Asia -->
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Managing-Consultant-Corporate-Sustainability---Climate-Change_R00019699 | ERM | Managing Consultant – Corporate Sustainability & Climate Change (Bangkok)
+- [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services – Sustainability and Climate Change Advisory Senior Associate
+- [ ] https://www.climatechangecareers.com/job/ey/hong-kong-hong-kong/assurance-climate-change-and-sustainability-service-senior-associate-hk/ | EY Hong Kong | Assurance – Climate Change and Sustainability Service Senior Associate
+
+<!-- Scan 2026-04-27: Other -->
+- [ ] https://www.climatechangecareers.com/job/sequoia-climate-foundation/remote/program-consultant-southeast-asia/ | Sequoia Climate Foundation | Program Consultant – Southeast Asia (Remote)
+- [ ] https://www.dbs.com/careers/management-associate-programme/singapore | DBS | Management Associate Programme (Singapore, 2026)
+- [ ] https://www.sei.org/people/jobs/research-associate-operationalization-raif-asia/ | SEI Asia | Research Associate – Operationalization RAIF Asia (Bangkok)
+- [ ] https://www.thaingo.org/jobs/detail/10221/219 | GIZ Thailand | Climate Finance Coordinator (Bangkok)
+- [ ] https://www.thaingo.org/jobs/detail/16950 | GIZ / SEI / NGO | Researcher – Sustainable Finance / Climate / Just Energy Transition
+- [ ] https://www.thaingo.org/jobs/detail/18089/2 | NGO Thailand | Climate and Carbon Consultant (Bangkok)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
