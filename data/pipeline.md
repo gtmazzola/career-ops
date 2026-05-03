@@ -2,25 +2,7 @@
 
 ## Pendientes
 
-<!-- Consulting Firms — Bangkok & Southeast Asia -->
-- [ ] https://jobs.sea.deloitte.com/job/Bangkok-Analyst-Center-of-Excellence-Environmental,-Social-and-Governance-TH/776770210/ | Deloitte Thailand | Analyst – ESG Centre of Excellence (Bangkok)
-- [ ] https://jobs.sea.deloitte.com/job/Singapore-Risk-Advisory-Sustainability-&-Climate-Change/583472110/ | Deloitte Singapore | Risk Advisory – Sustainability & Climate Change
-- [ ] https://eyglobal.yello.co/jobs/ZNzDDOPB8vFcsslBV5IE8w?job_board_id=c1riT--B2O-KySgYWsZO1Q | EY Singapore | Associate – Assurance, Climate Change & Sustainability Services (2026 Graduates)
-
-<!-- Nasdaq — Philippines (Asia hub) -->
-- [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/sustainability-and-climate-analyst/ | Nasdaq | Sustainability and Climate Analyst (Taguig, Philippines)
-- [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq | Senior Sustainability and Climate Advisory Analyst (Taguig, Philippines)
-
-<!-- Eco-Business — Singapore -->
-- [ ] https://www.eco-business.com/jobs/esg-intelligence-analyst-associate-singapore/ | Eco-Business | ESG Intelligence Analyst / Associate (Singapore)
-- [ ] https://www.eco-business.com/jobs/asia-pacific-lead-esg-intelligence/ | Eco-Business | Asia Pacific Lead – ESG Intelligence (Singapore)
-
-<!-- Legal & General — Singapore -->
-- [ ] https://careers.legalandgeneral.com/job/esg-analyst-in-singapore-jid-1269 | Legal & General | ESG Analyst – Investment Stewardship (Singapore)
-
 <!-- Devex listings (verified active) -->
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID/Thailand PAGI | ESG Specialist (Thailand)
-- [ ] https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Devex | ESG Reporting and Disclosures Analyst/Associate
 - [ ] https://www.devex.com/jobs/analyst-climate-policy-1419151 | ICF | Analyst – Climate Policy
 - [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Devex | Individual Consultant – Expert Engagement Framework on Climate Finance
 
@@ -96,4 +78,14 @@
 - [x] #039 | https://www.thaingo.org/jobs/detail/15108 | GIZ Thailand | Junior Advisor – Thai Climate Initiative (TGC-EMC, Bangkok) | 4.2/5 | PDF ❌
 - [x] #040 | https://www.thaingo.org/jobs/detail/14628 | GIZ Thailand | Project Advisor – CASE Thailand (Bangkok) | 3.8/5 | PDF ❌
 - [x] #041 | https://www.thai-german-cooperation.info/en_US/vacancies/ | GIZ Thailand | Junior Advisor – Carbon Market / Renewable Energy (Bangkok) | 4.0/5 | PDF ❌
+- [x] #042 | https://jobs.sea.deloitte.com/job/Bangkok-Analyst-Center-of-Excellence-Environmental,-Social-and-Governance-TH/776770210/ | Deloitte Thailand | Analyst – ESG Centre of Excellence (Bangkok) | 3.8/5 | PDF ❌
+- [x] #043 | https://jobs.sea.deloitte.com/job/Singapore-Risk-Advisory-Sustainability-&-Climate-Change/583472110/ | Deloitte Singapore | Risk Advisory – Sustainability & Climate Change | 3.2/5 | PDF ❌
+- [x] #044 | https://eyglobal.yello.co/jobs/ZNzDDOPB8vFcsslBV5IE8w?job_board_id=c1riT--B2O-KySgYWsZO1Q | EY Singapore | Associate – Assurance, Climate Change & Sustainability Services (2026 Graduates) | 3.5/5 | PDF ❌
+- [x] #045 | https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/sustainability-and-climate-analyst/ | Nasdaq | Sustainability and Climate Analyst (Taguig, Philippines) | 3.2/5 | PDF ❌
+- [x] #046 | https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq | Senior Sustainability and Climate Advisory Analyst (Taguig, Philippines) | 2.8/5 | PDF ❌
+- [x] #047 | https://www.eco-business.com/jobs/esg-intelligence-analyst-associate-singapore/ | Eco-Business | ESG Intelligence Analyst / Associate (Singapore) | 3.3/5 | PDF ❌
+- [x] #048 | https://www.eco-business.com/jobs/asia-pacific-lead-esg-intelligence/ | Eco-Business | Asia Pacific Lead – ESG Intelligence (Singapore) | 1.5/5 | PDF ❌
+- [x] #049 | https://careers.legalandgeneral.com/job/esg-analyst-in-singapore-jid-1269 | Legal & General | ESG Analyst – Investment Stewardship (Singapore) | 3.0/5 | PDF ❌
+- [x] #050 | https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID/Thailand PAGI | ESG Specialist (Thailand) | 4.0/5 | PDF ❌
+- [x] #051 | https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | BII via Devex | ESG Reporting and Disclosures Analyst/Associate | 2.5/5 | PDF ❌
 
