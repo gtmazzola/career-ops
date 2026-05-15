@@ -2,27 +2,9 @@
 
 ## Pendientes
 
-<!-- Devex listings (verified active) -->
-- [ ] https://www.devex.com/jobs/analyst-climate-policy-1419151 | ICF | Analyst – Climate Policy
-- [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Devex | Individual Consultant – Expert Engagement Framework on Climate Finance
-
-<!-- MSCI — Asia -->
-- [ ] https://careers.msci.com/job/14509026/ | MSCI | ESG Issuer Relations – APAC (Singapore)
-
-<!-- Climate Finance Asia — Tokyo -->
-- [ ] https://www.climatefinanceasia.com/about-us/careers/ | Climate Finance Asia | Junior Consultant (Tokyo)
-
-<!-- Ricardo — Energy & Carbon Policy -->
-- [ ] https://www.ricardo.com/en/careers/vacancies/2026-3263-analyst-consultant-energy-and-carbon-policy | Ricardo | Analyst Consultant – Energy and Carbon Policy
-
-<!-- ReliefWeb / other IOs -->
-- [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | NGO | Climate Change Specialist – Asia (Bangladesh/Thailand context)
-- [ ] https://reliefweb.int/job/3984413/consultant-climate-action | NGO | Consultant – Climate Action
-- [ ] https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Experienced Consultant – Climate Adaptation
-
-<!-- ImpactPool additional -->
-- [ ] https://www.impactpool.org/jobs/1085110 | OECD | Environment Economist / Policy Analyst – Climate Change Adaptation
-- [ ] https://www.impactpool.org/search?jf%5B%5D=77 | ImpactPool | [Climate Finance / Sustainable Energy open listings]
+<!-- Archived / unresolvable -->
+- [!] https://reliefweb.int/job/3984413/consultant-climate-action — Error: IPU posting from August 2023, over 3 years old, no current JD retrievable.
+- [!] https://www.impactpool.org/search?jf%5B%5D=77 — Error: Search/listing page, not a specific job offer; cannot evaluate.
 
 <!-- MyCareersFuture Singapore -->
 - [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-esg-consultant-sgs-international-certification-services-singapore-5a31169b885c05fc7aa1a6e4ee541c79 | SGS International | Sustainability & ESG Consultant – Carbon Management (Singapore)
@@ -88,4 +70,12 @@
 - [x] #049 | https://careers.legalandgeneral.com/job/esg-analyst-in-singapore-jid-1269 | Legal & General | ESG Analyst – Investment Stewardship (Singapore) | 3.0/5 | PDF ❌
 - [x] #050 | https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID/Thailand PAGI | ESG Specialist (Thailand) | 4.0/5 | PDF ❌
 - [x] #051 | https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | BII via Devex | ESG Reporting and Disclosures Analyst/Associate | 2.5/5 | PDF ❌
+- [x] #052 | https://www.devex.com/jobs/analyst-climate-policy-1419151 | ICF | Analyst – Climate Policy | 3.5/5 | PDF ❌
+- [x] #053 | https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Development Bank of Nigeria | Individual Consultant – Climate Finance Framework | 1.5/5 | PDF ❌
+- [x] #054 | https://careers.msci.com/job/14509026/ | MSCI | ESG Issuer Relations – APAC | 1.5/5 | PDF ❌
+- [x] #055 | https://www.climatefinanceasia.com/about-us/careers/ | Climate Finance Asia | Junior Consultant (Tokyo) | 3.0/5 | PDF ❌
+- [x] #056 | https://www.ricardo.com/en/careers/vacancies/2026-3263-analyst-consultant-energy-and-carbon-policy | Ricardo | Analyst Consultant – Energy and Carbon Policy | 3.5/5 | PDF ❌
+- [x] #057 | https://reliefweb.int/job/4016135/climate-change-specialist-asia | IRC | Climate Change Specialist – Asia | 1.5/5 | PDF ❌
+- [x] #058 | https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Experienced Consultant – Climate Adaptation | 1.5/5 | PDF ❌
+- [x] #059 | https://www.impactpool.org/jobs/1085110 | OECD | Environment Economist / Policy Analyst – Climate Change Adaptation | 2.5/5 | PDF ❌
 

@@ -2,6 +2,14 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 52 | 2026-05-15 | ICF | Analyst – Climate Policy | 3.5/5 | Evaluada | ❌ | [052](reports/052-icf-2026-05-15.md) | Consulting/policy hybrid, Brussels/London, EU policy gap, posting closed Mar 2026 |
+| 53 | 2026-05-15 | Development Bank of Nigeria | Individual Consultant – Climate Finance Framework | 1.5/5 | Evaluada | ❌ | [053](reports/053-development-bank-of-nigeria-2026-05-15.md) | Prequalification roster, Nigeria location not viable, closed Feb 2026 |
+| 54 | 2026-05-15 | MSCI | ESG Issuer Relations – APAC | 1.5/5 | Evaluada | ❌ | [054](reports/054-msci-2026-05-15.md) | Head-level (7-10 yrs), Singapore, strong domain but massive seniority gap |
+| 55 | 2026-05-15 | Climate Finance Asia | Junior Consultant | 3.0/5 | Evaluada | ❌ | [055](reports/055-climate-finance-asia-2026-05-15.md) | Green bond/ESG consulting Tokyo, 2-3yr preferred, Japan visa needed, modest comp |
+| 56 | 2026-05-15 | Ricardo | Analyst Consultant – Energy and Carbon Policy | 3.5/5 | Evaluada | ❌ | [056](reports/056-ricardo-2026-05-15.md) | Strong energy/policy fit, London entry-level, closed Feb 2026, UK visa required |
+| 57 | 2026-05-15 | IRC | Climate Change Specialist – Asia | 1.5/5 | Evaluada | ❌ | [057](reports/057-irc-2026-05-15.md) | 10+ yrs required, hard experience blocker, Bangladesh field posting |
+| 58 | 2026-05-15 | Mission East | Experienced Consultant – Climate Adaptation | 1.5/5 | Evaluada | ❌ | [058](reports/058-mission-east-2026-05-15.md) | Disability-inclusive climate niche, 10+ yrs required, short-term fee only |
+| 59 | 2026-05-15 | OECD | Environment Economist / Policy Analyst – Climate Adaptation | 2.5/5 | Evaluada | ❌ | [059](reports/059-oecd-2026-05-15.md) | Mid-senior (5-7yr exp implied), Paris, closed; revisit OECD Young Associate track |
 | 42 | 2026-05-03 | Deloitte Thailand | Analyst – ESG Centre of Excellence | 3.8/5 | Evaluada | ❌ | [042](reports/042-deloitte-thailand-esg-coe-2026-05-03.md) | Bangkok CoE role; good ESG match but 3yr req is a stretch; worth applying |
 | 43 | 2026-05-03 | Deloitte Singapore | Risk Advisory – Sustainability & Climate Change | 3.2/5 | Evaluada | ❌ | [043](reports/043-deloitte-singapore-risk-advisory-sustainability-2026-05-03.md) | Singapore-based; 3yr risk mgmt req; good content fit but experience gap |
 | 44 | 2026-05-03 | EY Singapore | Associate – Assurance, Climate Change & Sustainability Services | 3.5/5 | Evaluada | ❌ | [044](reports/044-ey-singapore-ccss-associate-2026-05-03.md) | Grad entry; strong ESG fit; Singapore relocation required |
