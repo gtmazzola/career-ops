@@ -18,6 +18,52 @@
 - [ ] https://www.climatechangecareers.com/job/climate-connectors/remote/strategy-research-associate-consultant/ | Climate Connectors | Strategy & Research Associate Consultant (Remote)
 - [ ] https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant for Payment for Watershed Services Policy (Indonesia)
 
+<!-- Scan 2026-05-16 — Bangkok / Thailand -->
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change (Bangkok)
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725 | ERM | Consulting Senior Associate – Climate (Bangkok)
+- [ ] https://www.sei.org/people/jobs/research-fellow-gender-inclusive-climate-finance/ | SEI Asia | Research Fellow – Gender Inclusive Climate Finance (Bangkok)
+
+<!-- Scan 2026-05-16 — Singapore / Asia Pacific -->
+- [ ] https://www.climatechangecareers.com/job/conservation-international/singapore-singapore/natural-climate-solutions-analyst-asia-pacific/ | Conservation International | Natural Climate Solutions Analyst – Asia Pacific (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/consultant-sustainability-solutions-engie-impact-1d0942aefc4e8c3e0780a279badee627 | ENGIE Impact | Consultant, Sustainability Solutions (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/esg-business-analyst-tatung-sustainability-venture-holdings-77a814b0b9038f52a68ceb64ac0200d5 | Tatung Sustainability | ESG Business Analyst (Singapore)
+- [ ] https://www.ramboll.com/careers/98893a38-85f4-4cf0-10c7-08de37875cb1 | Ramboll | Environmental Consultant (Kuala Lumpur / Asia Pacific)
+- [ ] https://www.ramboll.com/careers/b80bf430-b76e-4888-11a9-08de37875cb1 | Ramboll | Sustainability Consultant (Asia Pacific)
+
+<!-- Scan 2026-05-16 — Remote / Southeast Asia -->
+- [ ] https://www.climatechangecareers.com/job/sequoia-climate-foundation/remote/program-consultant-southeast-asia/ | Sequoia Climate Foundation | Program Consultant – Southeast Asia (Remote/Asia)
+- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
+- [ ] https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | Various | Consultancy – Climate and Water Research Analyst (Remote)
+
+<!-- Scan 2026-05-16 — UNOPS -->
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30095 | UNOPS | Technical Specialist – Environmental (EAPMCO / Asia Pacific)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28315 | UNOPS | Programme Management Senior Officer – Energy Transition Partnership (SE Asia)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30381 | UNOPS | Green Climate Fund Programme Advisory Consultant
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30379 | UNOPS | Energy Efficiency and Green Buildings Technical Specialist – Retainer
+
+<!-- Scan 2026-05-16 — UN / IOs -->
+- [ ] https://unjobs.org/vacancies/1776917510985 | Green Climate Fund | Climate Investment Analyst (Incheon, Korea)
+- [ ] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC
+- [ ] https://careers.gggi.org/vacancy/climate-change-officer-599913.html | GGGI | Climate Change Officer
+- [ ] https://careers.gggi.org/vacancy/indonesia-data-analyst-for-the-development-of-climate-finance-focal-point-cff-536922.html | GGGI | Data Analyst – Climate Finance Focal Point (Indonesia)
+- [ ] https://careers.gggi.org/vacancy/sustainable-finance-associate-africa-598621.html | GGGI | Sustainable Finance Associate (Africa)
+- [ ] https://www.irena.org/employment/Career-Detail?jobId=NC0230 | IRENA | Associate – Renewable Energy Markets & Technology
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1346809655/ | UNIDO | Project Associate (Vienna)
+
+<!-- Scan 2026-05-16 — WRI Indonesia -->
+- [ ] https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI Indonesia | Energy Research Analyst (Jakarta)
+- [ ] https://www.wri.org/careers/jobs/bali-net-zero-emission-policy-specialist-bali-based-2026-jr100047 | WRI Indonesia | Bali Net Zero Emission Policy Specialist (Bali)
+- [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI Indonesia | Urban Finance and Economy Research Analyst (Bali)
+
+<!-- Scan 2026-05-16 — South Pole -->
+- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
+- [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
+- [ ] https://careers.southpole.com/jobs/5611231-junior-associate-environmentalist | South Pole | Junior Associate, Environmentalist
+
+<!-- Scan 2026-05-16 — Devex / ReliefWeb / Other -->
+- [ ] https://www.devex.com/jobs/esg-research-analyst-energy-materials-utilities-sector-1416945 | Various (via Devex) | ESG Research Analyst – Energy, Materials & Utilities (Manila, Philippines)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
