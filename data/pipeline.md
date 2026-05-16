@@ -7,20 +7,10 @@
 - [!] https://www.impactpool.org/search?jf%5B%5D=77 — Error: Search/listing page, not a specific job offer; cannot evaluate.
 
 <!-- MyCareersFuture Singapore -->
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-esg-consultant-sgs-international-certification-services-singapore-5a31169b885c05fc7aa1a6e4ee541c79 | SGS International | Sustainability & ESG Consultant – Carbon Management (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM | Managing Consultant – Corporate Sustainability & Climate Change (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants | ESG & Sustainability Consultant (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-specialist-american-bureau-shipping-cfdf89fbbe1577957e625257fd2f669d | American Bureau of Shipping | Sustainability ESG Specialist (Singapore)
 
 <!-- ClimateChangeCareers.com additional -->
-- [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote)
-- [ ] https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote)
-- [ ] https://www.climatechangecareers.com/job/climate-connectors/remote/strategy-research-associate-consultant/ | Climate Connectors | Strategy & Research Associate Consultant (Remote)
-- [ ] https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant for Payment for Watershed Services Policy (Indonesia)
 
 <!-- Scan 2026-05-16 — Bangkok / Thailand -->
-- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change (Bangkok)
-- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725 | ERM | Consulting Senior Associate – Climate (Bangkok)
 - [ ] https://www.sei.org/people/jobs/research-fellow-gender-inclusive-climate-finance/ | SEI Asia | Research Fellow – Gender Inclusive Climate Finance (Bangkok)
 
 <!-- Scan 2026-05-16 — Singapore / Asia Pacific -->
@@ -124,4 +114,14 @@
 - [x] #057 | https://reliefweb.int/job/4016135/climate-change-specialist-asia | IRC | Climate Change Specialist – Asia | 1.5/5 | PDF ❌
 - [x] #058 | https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Experienced Consultant – Climate Adaptation | 1.5/5 | PDF ❌
 - [x] #059 | https://www.impactpool.org/jobs/1085110 | OECD | Environment Economist / Policy Analyst – Climate Change Adaptation | 2.5/5 | PDF ❌
+- [x] #060 | https://www.mycareersfuture.gov.sg/job/consulting/sustainability-esg-consultant-sgs-international-certification-services-singapore-5a31169b885c05fc7aa1a6e4ee541c79 | SGS International | Sustainability & ESG Consultant (Carbon Mgmt) | 3.3/5 | PDF ❌
+- [x] #061 | https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability & Climate Change | 1.5/5 | PDF ❌
+- [x] #062 | https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants | ESG & Sustainability Consultant | 3.2/5 | PDF ❌
+- [x] #063 | https://www.mycareersfuture.gov.sg/job/sustainability-esg-specialist-american-bureau-shipping-cfdf89fbbe1577957e625257fd2f669d | American Bureau of Shipping | Sustainability ESG Specialist | 2.5/5 | PDF ❌
+- [x] #064 | https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote) | 1.0/5 | PDF ❌
+- [x] #065 | https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote) | 1.0/5 | PDF ❌
+- [x] #066 | https://www.climatechangecareers.com/job/climate-connectors/remote/strategy-research-associate-consultant/ | Climate Connectors | Strategy & Research Associate Consultant | 2.0/5 | PDF ❌
+- [x] #067 | https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Asst, Payment for Watershed Services (Merangin) | 1.0/5 | PDF ❌
+- [x] #068 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM Bangkok | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change | 3.2/5 | PDF ❌
+- [x] #069 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725 | ERM Bangkok | Consulting Senior Associate – Climate | 2.5/5 | PDF ❌
 

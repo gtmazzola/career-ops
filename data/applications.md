@@ -2,6 +2,16 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 60 | 2026-05-16 | SGS International | Sustainability & ESG Consultant (Carbon Mgmt) | 3.3/5 | Evaluada | ❌ | [060](reports/060-sgs-international-2026-05-16.md) | ESG frameworks match solid; audit/assurance gap; Singapore EP needed |
+| 61 | 2026-05-16 | ERM Singapore | Managing Consultant – Corporate Sustainability & Climate Change | 1.5/5 | NO APLICAR | ❌ | [061](reports/061-erm-managing-consultant-sg-2026-05-16.md) | Hard seniority blocker: 7-10yr required vs 1.5yr held; do not apply |
+| 62 | 2026-05-16 | ISO Consultants | ESG & Sustainability Consultant | 3.2/5 | Evaluada | ❌ | [062](reports/062-iso-consultants-2026-05-16.md) | Strong frameworks depth; no assurance practice; Singapore SME consultancy |
+| 63 | 2026-05-16 | American Bureau of Shipping | Sustainability ESG Specialist | 2.5/5 | Evaluada | ❌ | [063](reports/063-american-bureau-of-shipping-2026-05-16.md) | Maritime domain gap; adjacent via hydrogen/energy transition; limited JD info |
+| 64 | 2026-05-16 | SEI (Strategic Energy Innovations) | Project and Sustainability Associate | 1.0/5 | NO APLICAR | ❌ | [064](reports/064-sei-project-sustainability-associate-2026-05-16.md) | California residency required; US fellowship; hard location blocker |
+| 65 | 2026-05-16 | SEI (Strategic Energy Innovations) | Strategic Energy Management Associate | 1.0/5 | NO APLICAR | ❌ | [065](reports/065-sei-strategic-energy-management-2026-05-16.md) | Puget Sound residency required; US fellowship; may be expired |
+| 66 | 2026-05-16 | Climate Connectors | Strategy & Research Associate Consultant | 2.0/5 | NO APLICAR | ❌ | [066](reports/066-climate-connectors-2026-05-16.md) | Posting likely closed; EST hours incompatible with Bangkok (12h gap) |
+| 67 | 2026-05-16 | WRI Indonesia | Consultant – Research Asst, Payment for Watershed Services (Merangin) | 1.0/5 | NO APLICAR | ❌ | [067](reports/067-wri-payment-watershed-services-2026-05-16.md) | Expired July 2025; Bahasa Indonesia required; Merangin rural Indonesia |
+| 68 | 2026-05-16 | ERM Bangkok | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change | 3.2/5 | Evaluada | ❌ | [068](reports/068-erm-bangkok-associate-2026-05-16.md) | Bangkok-based; good content fit; Thai language gap; best ERM target |
+| 69 | 2026-05-16 | ERM Bangkok | Consulting Senior Associate – Climate | 2.5/5 | Evaluada | ❌ | [069](reports/069-erm-bangkok-senior-associate-climate-2026-05-16.md) | Seniority gap (3+yr req.) + Thai required; apply to #068 instead |
 | 52 | 2026-05-15 | ICF | Analyst – Climate Policy | 3.5/5 | Evaluada | ❌ | [052](reports/052-icf-2026-05-15.md) | Consulting/policy hybrid, Brussels/London, EU policy gap, posting closed Mar 2026 |
 | 53 | 2026-05-15 | Development Bank of Nigeria | Individual Consultant – Climate Finance Framework | 1.5/5 | Evaluada | ❌ | [053](reports/053-development-bank-of-nigeria-2026-05-15.md) | Prequalification roster, Nigeria location not viable, closed Feb 2026 |
 | 54 | 2026-05-15 | MSCI | ESG Issuer Relations – APAC | 1.5/5 | Evaluada | ❌ | [054](reports/054-msci-2026-05-15.md) | Head-level (7-10 yrs), Singapore, strong domain but massive seniority gap |
