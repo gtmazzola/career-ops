@@ -11,22 +11,12 @@
 <!-- ClimateChangeCareers.com additional -->
 
 <!-- Scan 2026-05-16 — Bangkok / Thailand -->
-- [ ] https://www.sei.org/people/jobs/research-fellow-gender-inclusive-climate-finance/ | SEI Asia | Research Fellow – Gender Inclusive Climate Finance (Bangkok)
 
 <!-- Scan 2026-05-16 — Singapore / Asia Pacific -->
-- [ ] https://www.climatechangecareers.com/job/conservation-international/singapore-singapore/natural-climate-solutions-analyst-asia-pacific/ | Conservation International | Natural Climate Solutions Analyst – Asia Pacific (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/consultant-sustainability-solutions-engie-impact-1d0942aefc4e8c3e0780a279badee627 | ENGIE Impact | Consultant, Sustainability Solutions (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/esg-business-analyst-tatung-sustainability-venture-holdings-77a814b0b9038f52a68ceb64ac0200d5 | Tatung Sustainability | ESG Business Analyst (Singapore)
-- [ ] https://www.ramboll.com/careers/98893a38-85f4-4cf0-10c7-08de37875cb1 | Ramboll | Environmental Consultant (Kuala Lumpur / Asia Pacific)
-- [ ] https://www.ramboll.com/careers/b80bf430-b76e-4888-11a9-08de37875cb1 | Ramboll | Sustainability Consultant (Asia Pacific)
 
 <!-- Scan 2026-05-16 — Remote / Southeast Asia -->
-- [ ] https://www.climatechangecareers.com/job/sequoia-climate-foundation/remote/program-consultant-southeast-asia/ | Sequoia Climate Foundation | Program Consultant – Southeast Asia (Remote/Asia)
-- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
-- [ ] https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | Various | Consultancy – Climate and Water Research Analyst (Remote)
 
 <!-- Scan 2026-05-16 — UNOPS -->
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst
 - [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30095 | UNOPS | Technical Specialist – Environmental (EAPMCO / Asia Pacific)
 - [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28315 | UNOPS | Programme Management Senior Officer – Energy Transition Partnership (SE Asia)
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30381 | UNOPS | Green Climate Fund Programme Advisory Consultant
@@ -124,4 +114,14 @@
 - [x] #067 | https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Asst, Payment for Watershed Services (Merangin) | 1.0/5 | PDF ❌
 - [x] #068 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM Bangkok | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change | 3.2/5 | PDF ❌
 - [x] #069 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725 | ERM Bangkok | Consulting Senior Associate – Climate | 2.5/5 | PDF ❌
+- [x] #070 | https://www.sei.org/people/jobs/research-fellow-gender-inclusive-climate-finance/ | SEI Asia | Research Fellow – Gender Inclusive Climate Finance | 1.5/5 | PDF ❌
+- [x] #071 | https://www.climatechangecareers.com/job/conservation-international/singapore-singapore/natural-climate-solutions-analyst-asia-pacific/ | Conservation International | Natural Climate Solutions Analyst – Asia Pacific | 2.0/5 | PDF ❌
+- [x] #072 | https://www.mycareersfuture.gov.sg/job/consulting/consultant-sustainability-solutions-engie-impact-1d0942aefc4e8c3e0780a279badee627 | ENGIE Impact | Consultant, Sustainability Solutions | 3.0/5 | PDF ❌
+- [x] #073 | https://www.mycareersfuture.gov.sg/job/esg-business-analyst-tatung-sustainability-venture-holdings-77a814b0b9038f52a68ceb64ac0200d5 | Tatung Sustainability | ESG Business Analyst | 2.5/5 | PDF ❌
+- [x] #074 | https://www.ramboll.com/careers/98893a38-85f4-4cf0-10c7-08de37875cb1 | Ramboll | Environmental Consultant (Kuala Lumpur / Asia Pacific) | 2.5/5 | PDF ❌
+- [x] #075 | https://www.ramboll.com/careers/b80bf430-b76e-4888-11a9-08de37875cb1 | Ramboll | Sustainability Consultant (Asia Pacific) | 2.0/5 | PDF ❌
+- [x] #076 | https://www.climatechangecareers.com/job/sequoia-climate-foundation/remote/program-consultant-southeast-asia/ | Sequoia Climate Foundation | Program Consultant – Southeast Asia | 1.5/5 | PDF ❌
+- [x] #077 | https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | Climate Corps / JLL | Climate and Decarbonization Strategy Associate | 2.0/5 | PDF ❌
+- [x] #078 | https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | CA-SYR / ReliefWeb | Consultancy – Climate and Water Research Analyst | 1.5/5 | PDF ❌
+- [x] #079 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst (Copenhagen) | 2.5/5 | PDF ❌
 
