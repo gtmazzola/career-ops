@@ -17,18 +17,18 @@
 <!-- Scan 2026-05-16 — Remote / Southeast Asia -->
 
 <!-- Scan 2026-05-16 — UNOPS -->
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30095 | UNOPS | Technical Specialist – Environmental (EAPMCO / Asia Pacific)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28315 | UNOPS | Programme Management Senior Officer – Energy Transition Partnership (SE Asia)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30381 | UNOPS | Green Climate Fund Programme Advisory Consultant
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30379 | UNOPS | Energy Efficiency and Green Buildings Technical Specialist – Retainer
+- [x] #080 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30095 | UNOPS EAPMCO | Technical Specialist – Environmental (Asia Pacific) | 2.8/5 | PDF ❌
+- [x] #081 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28315 | UNOPS / ETP | Programme Management Senior Officer – Energy Transition Partnership | 2.5/5 | PDF ❌
+- [x] #082 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30381 | UNOPS EAPMCO | Green Climate Fund Programme Advisory Consultant | 3.8/5 | PDF ❌
+- [x] #083 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30379 | UNOPS | Energy Efficiency and Green Buildings Technical Specialist – Retainer | 2.0/5 | PDF ❌
 
 <!-- Scan 2026-05-16 — UN / IOs -->
-- [ ] https://unjobs.org/vacancies/1776917510985 | Green Climate Fund | Climate Investment Analyst (Incheon, Korea)
-- [ ] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC
-- [ ] https://careers.gggi.org/vacancy/climate-change-officer-599913.html | GGGI | Climate Change Officer
-- [ ] https://careers.gggi.org/vacancy/indonesia-data-analyst-for-the-development-of-climate-finance-focal-point-cff-536922.html | GGGI | Data Analyst – Climate Finance Focal Point (Indonesia)
-- [ ] https://careers.gggi.org/vacancy/sustainable-finance-associate-africa-598621.html | GGGI | Sustainable Finance Associate (Africa)
-- [ ] https://www.irena.org/employment/Career-Detail?jobId=NC0230 | IRENA | Associate – Renewable Energy Markets & Technology
+- [x] #084 | https://unjobs.org/vacancies/1776917510985 | Green Climate Fund | Climate Investment Analyst (Incheon) | 3.0/5 | PDF ❌
+- [x] #085 | https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC (Colombia) | 1.5/5 | PDF ❌
+- [x] #086 | https://careers.gggi.org/vacancy/climate-change-officer-599913.html | GGGI | Climate Change Officer (Guyana) | 2.0/5 | PDF ❌
+- [x] #087 | https://careers.gggi.org/vacancy/indonesia-data-analyst-for-the-development-of-climate-finance-focal-point-cff-536922.html | GGGI Indonesia | Data Analyst – Climate Finance Focal Point (Jakarta) | 2.5/5 | PDF ❌
+- [x] #088 | https://careers.gggi.org/vacancy/sustainable-finance-associate-africa-598621.html | GGGI | Sustainable Finance Associate – Africa | 2.0/5 | PDF ❌
+- [x] #089 | https://www.irena.org/employment/Career-Detail?jobId=NC0230 | IRENA | Associate – Renewable Energy Markets & Technology (Abu Dhabi) | 3.5/5 | PDF ❌
 - [ ] https://careers.unido.org/job/Vienna-Project-Associate/1346809655/ | UNIDO | Project Associate (Vienna)
 
 <!-- Scan 2026-05-16 — WRI Indonesia -->
