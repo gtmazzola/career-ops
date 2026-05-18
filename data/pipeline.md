@@ -44,6 +44,76 @@
 <!-- Scan 2026-05-16 — Devex / ReliefWeb / Other -->
 - [ ] https://www.devex.com/jobs/esg-research-analyst-energy-materials-utilities-sector-1416945 | Various (via Devex) | ESG Research Analyst – Energy, Materials & Utilities (Manila, Philippines)
 
+<!-- Scan 2026-05-18 — Bangkok / Thailand -->
+- [ ] https://unjobs.org/vacancies/1765247460856 | UNESCAP | Sustainable Finance Consultant (Bangkok) ⭐
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Managing-Consultant-Corporate-Sustainability---Climate-Change_R00019699 | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change
+- [ ] https://www.thaingo.org/jobs/detail/14119 | GIZ Thailand | Senior Advisor – Energy System/Policy (TGC-EMC)
+
+<!-- Scan 2026-05-18 — UN / IOs (Untalent / Unjobnet) -->
+- [ ] https://www.unjobnet.org/jobs/detail/85738994 | UNDP | Sustainable Finance Analyst – FAST Initiative Asia
+- [ ] https://untalent.org/jobs/technical-analyst-climate-finance | UNDP | Technical Analyst – Climate Finance
+- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
+- [ ] https://untalent.org/jobs/climate-change-energy-and-environment-associate | UNDP | Climate Change, Energy and Environment Associate
+- [ ] https://untalent.org/jobs/climate-policy-and-strategic-alliances-associate | UNDP | Climate Policy and Strategic Alliances Associate
+- [ ] https://untalent.org/jobs/associate-policy-analyst-environment-and-climate-change | UNDP | Associate Policy Analyst – Environment and Climate Change
+- [ ] https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist
+- [ ] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst
+- [ ] https://untalent.org/jobs/climate-and-energy-senior-research-analyst | WRI | Climate and Energy Senior Research Analyst
+- [ ] https://untalent.org/jobs/research-assistant-sustainable-energy | UNESCWA | Research Assistant – Sustainable Energy
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=108545 | UNDP | Consultancy – Climate Change Transparency Analysis
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=111863 | UNDP | Gender and Climate Change National Consultant (Home-Based)
+
+<!-- Scan 2026-05-18 — UNIDO Vienna -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1342750055/ | UNIDO | Project Associate (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1330023555/ | UNIDO | Project Assistant (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Programme-Associate/1335690855/ | UNIDO | Programme Associate (Vienna)
+
+<!-- Scan 2026-05-18 — UNOPS -->
+- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst (SUIDAC, Uganda/Sudan/DRC)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29989 | UNOPS | Programme Management Office – Senior Analyst
+
+<!-- Scan 2026-05-18 — GGGI -->
+- [ ] https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan)
+- [ ] https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center
+- [ ] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC – FX Risk Management Strategy for Climate & Eco Finance
+- [ ] https://careers.gggi.org/vacancy/senior-associate-resilient-green-housing-585762.html | GGGI | Senior Associate – Resilient Green Housing
+- [ ] https://www.developmentaid.org/jobs/view/1706808/sustainable-finance-associate-asia | GGGI | Sustainable Finance Associate – Asia
+
+<!-- Scan 2026-05-18 — South Pole (new) -->
+- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
+- [ ] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory
+- [ ] https://careers.southpole.com/jobs/7157375-global-lead-specialist-operations-climate-advisory | South Pole | Global Lead Specialist – Operations, Climate Advisory
+
+<!-- Scan 2026-05-18 — SEI (new roles) -->
+- [ ] https://www.sei.org/people/jobs/postdoc-fellow-climate-modelling-impact/ | SEI | Postdoctoral Fellow – Climate Modelling and Impact Assessment
+- [ ] https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America)
+- [ ] https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI | Research Associate/Staff Scientist – Climate and Energy Policy (US)
+- [ ] https://www.sei.org/people/jobs/york-research-associate/ | SEI York | Research Associate
+- [ ] https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions
+- [ ] https://www.sei.org/people/jobs/communications-policy-engagement/ | SEI | Communications and Policy Engagement
+- [ ] https://www.sei.org/people/jobs/research-fellow-water-resource-management/ | SEI Africa | Research Fellow – Water Resource Management
+
+<!-- Scan 2026-05-18 — Singapore / Hong Kong -->
+- [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services – Sustainability and Climate Change Advisory (Senior Associate)
+- [ ] https://www.climatechangecareers.com/job/deloitte/singapore-singapore/consultant-sustainability-emerging-assurance/ | Deloitte Singapore | Consultant – Sustainability & Emerging Assurance
+- [ ] https://www.climatechangecareers.com/job/temasek/singapore-singapore/associate-senior-associate-12-months-contract-sustainable-solutions/ | Temasek | Associate/Senior Associate – Sustainable Solutions (12-month contract)
+- [ ] https://www.climatechangecareers.com/job/deloitte/hong-kong-hong-kong/analyst-consultant-senior-consultant-esg-enterprise-risk-hong-kong-315112/ | Deloitte HK | Analyst/Consultant – ESG Enterprise Risk (Hong Kong)
+- [ ] https://www.climatechangecareers.com/job/arup/singapore-singapore/senior-sustainability-consultant/ | Arup | Senior Sustainability Consultant (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings | ESG Analyst (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | TangsPac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
+
+<!-- Scan 2026-05-18 — ERM / Consulting (new) -->
+- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change
+
+<!-- Scan 2026-05-18 — Impactpool / ReliefWeb / Other -->
+- [ ] https://www.impactpool.org/jobs/1153191 | OPEC Fund | Environmental and Social Specialist
+- [ ] https://www.impactpool.org/jobs/1201675 | UNEP | Climate Services Financing and Sustainability Consultant (International)
+- [ ] https://www.impactpool.org/jobs/1152853 | UNIDO | Senior Expert – Climate Innovation & Adaptation (Roster)
+- [ ] https://reliefweb.int/job/3801108/environmental-and-sustainability-officer | Various | Environmental and Sustainability Officer
+- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-1200071 | Various | ESG Specialist (Devex)
+- [ ] https://www.developmentaid.org/jobs/view/1688003/expression-of-interest-climate-finance-panel | Various | Expression of Interest – Climate Finance Panel (Indo-Pacific)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
