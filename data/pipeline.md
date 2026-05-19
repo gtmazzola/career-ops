@@ -114,6 +114,33 @@
 - [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-1200071 | Various | ESG Specialist (Devex)
 - [ ] https://www.developmentaid.org/jobs/view/1688003/expression-of-interest-climate-finance-panel | Various | Expression of Interest – Climate Finance Panel (Indo-Pacific)
 
+<!-- Scan 2026-05-19 — UN / IOs (Untalent / World Bank) -->
+- [ ] https://untalent.org/jobs/environment-social-and-governance-expert | UNEP | Environment, Social and Governance Expert
+- [ ] https://untalent.org/jobs/climate-change-analyst-programming-and-innovation | World Bank | Climate Change Analyst – Programming and Innovation
+- [ ] https://untalent.org/jobs/program-officer-corporate-sustainability-reporting-extended-term-consultant-etc2 | World Bank | Program Officer – Corporate Sustainability Reporting (ETC2)
+
+<!-- Scan 2026-05-19 — SEI -->
+- [ ] https://www.sei.org/people/jobs/senior-researcher-vulnerability-climate-risk-and-just-adaptation/ | SEI | Senior Researcher – Vulnerability, Climate Risk and Just Adaptation
+
+<!-- Scan 2026-05-19 — GIZ Thailand -->
+- [ ] https://www.thai-german-cooperation.info/en_US/junior-advisor-for-renewable-energy-and-communication-h2uppp/ | GIZ Thailand | Junior Advisor – Renewable Energy and Communication (H2Uppp, Bangkok)
+
+<!-- Scan 2026-05-19 — Singapore / ERM -->
+- [ ] https://www.mycareersfuture.gov.sg/job/senior-consultant-sustainability-climate-change-environmental-resources-management-22439ffbdd4c838420544c30d0b35315 | ERM Singapore | Senior Consultant – Sustainability and Climate Change
+
+<!-- Scan 2026-05-19 — DevelopmentAid / ReliefWeb -->
+- [ ] https://www.developmentaid.org/jobs/view/1752563/climate-finance-partnerships-officer | Various | Climate Finance & Partnerships Officer (Asia)
+- [ ] https://reliefweb.int/job/3961739/climate-change-adaptation-and-mitigation-expert-global-level-consultancy | Various | Climate Change Adaptation and Mitigation Expert – Global Consultancy
+- [ ] https://reliefweb.int/job/3840518/environmental-health-climate-change-adaptation-and-mitigation | IOM | Environmental Health & Climate Change Adaptation and Mitigation
+
+<!-- Scan 2026-05-19 — ClimateChangeCareers / WorkInGreen / Impactpool -->
+- [ ] https://www.climatechangecareers.com/job/fcs/remote/sustainability-associate/ | FCS | Sustainability Associate (Remote)
+- [ ] https://workingreen.jobs/offers/portfolio-esg-analyst-associate-at-octopus-energy-london-uk | Octopus Energy | Portfolio ESG Analyst/Associate (London)
+- [ ] https://www.impactpool.org/jobs/1051849 | GGGI Ecuador | ESG Specialist Consultant
+
+<!-- Scan 2026-05-19 — WRI Indonesia -->
+- [ ] https://www.wri.org/careers/jobs/bali-net-zero-initiative-senior-lead-2026-jr100052 | WRI Indonesia | Bali Net Zero Initiative Senior Lead (Bali)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
