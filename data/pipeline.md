@@ -141,6 +141,50 @@
 <!-- Scan 2026-05-19 — WRI Indonesia -->
 - [ ] https://www.wri.org/careers/jobs/bali-net-zero-initiative-senior-lead-2026-jr100052 | WRI Indonesia | Bali Net Zero Initiative Senior Lead (Bali)
 
+<!-- Scan 2026-05-20 — Bangkok / Thailand -->
+- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG Sustainability Services Consultant (Manager) (Bangkok)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=115478 | UN Women | Programme Officer – Thailand Country Programme (Bangkok)
+- [ ] https://unjobs.org/vacancies/1775073563554 | UNIDO | National Project Associate (Chiang Mai, Thailand) ⚠️ nationals/PR only
+
+<!-- Scan 2026-05-20 — UNOPS (new) -->
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27236 | UNOPS | Climate Senior Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29791 | UNOPS | Programme Management – Analyst (Innovation)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30871 | UNOPS | Project Management Support – Analyst (Grant)
+
+<!-- Scan 2026-05-20 — UNDP / UNEP (new) -->
+- [ ] https://www.unjobnet.org/jobs/detail/79663050 | UNDP | JPO – Programme Analyst, Environment Energy and Climate Change (EECC)
+- [ ] https://www.unjobnet.org/jobs/detail/62772291 | UNDP | Climate and Energy Analyst
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104680 | UNDP | Individual Consultant – Climate Change
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=97166 | UNDP | Individual Consultant – Sustainable Finance Analyst
+- [ ] https://www.unjobnet.org/jobs/detail/80860135 | UNEP | Climate and Energy Analyst – United for Efficiency
+- [ ] https://www.unjobnet.org/jobs/detail/83839098 | UNEP | International Consultant – MTR GEF Sustainable Cities
+
+<!-- Scan 2026-05-20 — World Bank / MDBs / IOs -->
+- [ ] https://untalent.org/jobs/operations-analyst-esg-advisory | World Bank / IFC | Operations Analyst – ESG Advisory
+- [ ] https://www.unjobnet.org/jobs/detail/77333546 | OECD | Junior Clean Energy Technology Modeller and Analyst
+- [ ] https://www.unjobnet.org/jobs/detail/85523879 | IDB Invest | Associate – Climate and Environment
+- [ ] https://www.unjobnet.org/jobs/detail/72706630 | EUISS | Associate Analyst – Energy and Climate Security
+- [ ] https://www.unjobnet.org/jobs/detail/84482595 | Winrock International | Sr. Analyst – Sustainability Services
+
+<!-- Scan 2026-05-20 — Singapore / Hong Kong -->
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore)
+- [ ] https://careers.ey.com/ey/job/Hong-Kong-Assurance-Core-CCaSS-ESG-Advisory-and-Assurance-Senior-Associate-Hong-Kong-Hong/696384001/ | EY Hong Kong | Associate – ESG Advisory and Assurance (Hong Kong)
+- [ ] https://careers.ey.com/ey/job/Hong-Kong-FSO-Assurance-Climate-Change-and-Sustainability-Services-Senior-Associate-Hong-Kong-Hong/742011201/ | EY Hong Kong | Associate – Climate Change and Sustainability Services FSO (Hong Kong)
+
+<!-- Scan 2026-05-20 — South Pole (new) -->
+- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
+- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
+- [ ] https://careers.southpole.com/jobs/949847-managing-consultant-climate-strategies | South Pole | Managing Consultant – Climate Strategies
+
+<!-- Scan 2026-05-20 — Consulting / Global -->
+- [ ] https://www.climatechangecareers.com/job/energy-and-environmental-economics/boston-ma-united-states/consulting-analyst-associate-consultant/ | Energy and Environmental Economics | Consulting Analyst / Associate Consultant (Boston)
+- [ ] https://www.climatechangecareers.com/job/energy-and-environmental-economics/boston-ma-united-states/analyst-associate-consultant/ | Energy and Environmental Economics | Analyst / Associate Consultant (Boston)
+- [ ] https://www.climatechangecareers.com/job/sirio/london-united-kingdom/consulting-analyst/ | Sirio | Consulting Analyst (London)
+- [ ] https://jobs.dnv.com/job-search/energy-systems/consultant/shanghai-china/senior-consultant-esg/300001342774558 | DNV | Senior Consultant – ESG (Shanghai)
+
+<!-- Scan 2026-05-20 — Research / Think tanks -->
+- [ ] https://www.terra.do/climate-jobs/job-board/Research-Analyst---Industrial-Sustainability-CEEW-8179038/ | CEEW | Research Analyst – Industrial Sustainability (New Delhi)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
