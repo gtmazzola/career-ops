@@ -29,24 +29,24 @@
 - [x] #087 | https://careers.gggi.org/vacancy/indonesia-data-analyst-for-the-development-of-climate-finance-focal-point-cff-536922.html | GGGI Indonesia | Data Analyst – Climate Finance Focal Point (Jakarta) | 2.5/5 | PDF ❌
 - [x] #088 | https://careers.gggi.org/vacancy/sustainable-finance-associate-africa-598621.html | GGGI | Sustainable Finance Associate – Africa | 2.0/5 | PDF ❌
 - [x] #089 | https://www.irena.org/employment/Career-Detail?jobId=NC0230 | IRENA | Associate – Renewable Energy Markets & Technology (Abu Dhabi) | 3.5/5 | PDF ❌
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1346809655/ | UNIDO | Project Associate (Vienna)
+- [x] #090 | https://careers.unido.org/job/Vienna-Project-Associate/1346809655/ | UNIDO | Project Associate (Vienna) | 2.5/5 | PDF ❌
 
 <!-- Scan 2026-05-16 — WRI Indonesia -->
-- [ ] https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI Indonesia | Energy Research Analyst (Jakarta)
-- [ ] https://www.wri.org/careers/jobs/bali-net-zero-emission-policy-specialist-bali-based-2026-jr100047 | WRI Indonesia | Bali Net Zero Emission Policy Specialist (Bali)
-- [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI Indonesia | Urban Finance and Economy Research Analyst (Bali)
+- [x] #091 | https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI Indonesia | Energy Research Analyst (Jakarta) | 1.5/5 | PDF ❌
+- [x] #092 | https://www.wri.org/careers/jobs/bali-net-zero-emission-policy-specialist-bali-based-2026-jr100047 | WRI Indonesia | Bali Net Zero Emission Policy Specialist (Bali) | 1.0/5 | PDF ❌
+- [x] #093 | https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI Indonesia | Urban Finance and Economy Research Analyst (Bali) | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-05-16 — South Pole -->
-- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
-- [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
-- [ ] https://careers.southpole.com/jobs/5611231-junior-associate-environmentalist | South Pole | Junior Associate, Environmentalist
+- [x] #094 | https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets | 3.5/5 | PDF ❌
+- [x] #095 | https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting | 3.0/5 | PDF ❌
+- [x] #096 | https://careers.southpole.com/jobs/5611231-junior-associate-environmentalist | South Pole | Junior Associate, Environmentalist | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-05-16 — Devex / ReliefWeb / Other -->
-- [ ] https://www.devex.com/jobs/esg-research-analyst-energy-materials-utilities-sector-1416945 | Various (via Devex) | ESG Research Analyst – Energy, Materials & Utilities (Manila, Philippines)
+- [x] #097 | https://www.devex.com/jobs/esg-research-analyst-energy-materials-utilities-sector-1416945 | ISS Stoxx (via Devex) | ESG Research Analyst – Energy, Materials & Utilities (Manila) | 2.8/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — Bangkok / Thailand -->
-- [ ] https://unjobs.org/vacancies/1765247460856 | UNESCAP | Sustainable Finance Consultant (Bangkok) ⭐
-- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Managing-Consultant-Corporate-Sustainability---Climate-Change_R00019699 | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change
+- [!] https://unjobs.org/vacancies/1765247460856 | UNESCAP | Sustainable Finance Consultant (Bangkok) ⭐ — Error: Expired — deliverable period ended December 2025; posting closed December 2025.
+- [x] #098 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Managing-Consultant-Corporate-Sustainability---Climate-Change_R00019699 | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change | 1.5/5 | PDF ❌
 - [ ] https://www.thaingo.org/jobs/detail/14119 | GIZ Thailand | Senior Advisor – Energy System/Policy (TGC-EMC)
 
 <!-- Scan 2026-05-18 — UN / IOs (Untalent / Unjobnet) -->
