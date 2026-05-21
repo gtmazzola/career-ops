@@ -185,6 +185,32 @@
 <!-- Scan 2026-05-20 — Research / Think tanks -->
 - [ ] https://www.terra.do/climate-jobs/job-board/Research-Analyst---Industrial-Sustainability-CEEW-8179038/ | CEEW | Research Analyst – Industrial Sustainability (New Delhi)
 
+<!-- Scan 2026-05-21 — Bangkok / Thailand ⭐ -->
+- [ ] https://careers.gggi.org/vacancy/thailand-consultant-for-green-finance-network-gfn-setup-100014324-599010.html | GGGI | Thailand: Consultant for Green Finance Network (GFN) Setup (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1776938608815 | UNEP | Energy Finance Expert (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/82738784 | UNICEF EAPRO | Consultant – CLI and ESG Country Offices Support Asia Pacific (Bangkok) ⭐
+- [ ] https://www.sei.org/people/jobs/research-associate-operationalization-raif-asia/ | SEI | Research Associate – Operationalization of RAIF (Climate Finance, Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/1209549 | UNOPS | Project Management Support – Associate (Bangkok, June–Dec 2026) ⭐
+- [ ] https://www.thaingo.org/jobs/detail/18165 | Save the Children | Climate Change and Green Jobs Technical Expert (Bangkok)
+
+<!-- Scan 2026-05-21 — Vienna / UN (URGENT) -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Specialist/1352447555/ | UNIDO | Project Specialist (Vienna) ⚠️ deadline 29 May 2026
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert – Energy Systems & Industrial Decarbonization (Vienna)
+
+<!-- Scan 2026-05-21 — Remote / Asia -->
+- [ ] https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote, Asia-based) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/84622940 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
+- [ ] https://www.unjobnet.org/jobs/detail/85785089 | GGGI | Officer, Global Voluntary Carbon Market (GVCM) Unit
+- [ ] https://unjobs.org/vacancies/1751800381928 | ASEAN Centre for Energy | Research Analyst on Climate Finance and Economic Environment – ACCEPT (Jakarta)
+- [ ] https://www.unjobnet.org/jobs/detail/85908617 | UNDP | Project Analyst on Climate Risk Issues (Tashkent)
+- [ ] https://careers.gggi.org/vacancy/green-growth-senior-associate-582071.html | GGGI | Green Growth Senior Associate (Lusaka, Zambia)
+
+<!-- Scan 2026-05-21 — Singapore / Consulting -->
+- [ ] https://www.ramboll.com/careers/abf8fb0b-d811-4d1b-26b1-08dd1f1adb29 | Ramboll | Senior Consultant – Carbon Capture (Singapore)
+- [ ] https://careers.southpole.com/jobs/1621177-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
+- [ ] https://careers.southpole.com/jobs/5571584-specialist-climate-projects | South Pole | Specialist – Climate Projects
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
