@@ -211,6 +211,55 @@
 - [ ] https://careers.southpole.com/jobs/1621177-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
 - [ ] https://careers.southpole.com/jobs/5571584-specialist-climate-projects | South Pole | Specialist – Climate Projects
 
+<!-- Scan 2026-05-22 — Bangkok / Thailand ⭐ -->
+- [ ] https://www.thaingo.org/jobs/detail/18089/2 | GIZ / ThaiNGO | Climate and Carbon Consultant (Bangkok) ⭐
+- [ ] https://www.thaingo.org/jobs/detail/12227 | GIZ Thailand | Junior Advisor or Advisor – Green Cooling Initiative (Bangkok) ⭐
+- [ ] https://thaingo.org/jobs/detail/14117 | GIZ / CCMB | Advisor (Climate Mitigation) – Climate, Coastal and Marine Biodiversity (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1103491 | GGGI Thailand | Consultant for Climate Tech Startup Roadmap (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/1181975 | GGGI Thailand | Consultant for Low Carbon Building Investments (Bangkok) ⚠️ deadline ~31 May 2026
+- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Bangkok) ⭐
+- [ ] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | RCC Asia Pacific | Climate Action Specialist and Coordinator (Bangkok) ⭐
+- [ ] https://reliefweb.int/job/3998840/climate-resilience-training-and-capacity-development-officer | Various | Climate Resilience Training and Capacity Development Officer (Bangkok)
+- [ ] https://reliefweb.int/job/4023360/specially-appointed-researcher | IGES | Specially Appointed Researcher – Asia Pacific Climate Platform (Bangkok / Hayama)
+- [ ] https://reliefweb.int/job/3958512/project-administrative-and-grant-officer-explore-recoftc-main-office-bangkok | RECOFTC | Project Administrative and Grant Officer – EXPLORE Programme (Bangkok)
+- [ ] https://thaingo.org/jobs/detail/18552/2 | DAI / USAID PAGI | ESG Specialist (Bangkok) ⚠️ 5yr exp required
+- [ ] https://unjobs.org/vacancies/1774593255927 | UNESCAP | Research and Advocacy Consultant (Bangkok)
+- [ ] https://unjobs.org/vacancies/1778832497783 | UNESCAP | Resource Management Specialist – Energy Transition / ASEAN School of Regulation (Bangkok)
+- [ ] https://unjobs.org/vacancies/1775198057786 | UNESCAP | Consultant – Sinking Cities Project, Phase 1 (Bangkok)
+- [ ] https://unjobs.org/vacancies/1775543594605 | UNEP Bangkok | PV System Management and Recycling Initiative Coordination Expert (Bangkok)
+
+<!-- Scan 2026-05-22 — UNOPS (new roles) -->
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29918 | UNOPS | Project Management Support Specialist – Climate and Energy
+- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=27496 | UNOPS | Climate Adaptation Senior Analyst (Retainer)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25645 | UNOPS | Climate Mitigation Senior Analyst (Retainer)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer, alt posting)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28498 | UNOPS | Renewable Energy Consultant (Home Based, Retainer)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28538 | UNOPS | Project Management Support – Senior Associate
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27839 | UNOPS | Project Officer – Climate Technology
+
+<!-- Scan 2026-05-22 — GGGI new roles -->
+- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda) ⚠️ wrong geography
+- [ ] https://careers.gggi.org/vacancy/program-and-operations-associate-green-trust-fund-unit-601661.html | GGGI | Program and Operations Associate – Green Trust Fund Unit
+- [ ] https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer – Carbon Project Development
+
+<!-- Scan 2026-05-22 — UN / Asia (new) -->
+- [ ] https://www.unjobnet.org/jobs/detail/55533297 | UNESCAP | Regional Climate Change Consultant (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/79500326 | UNOPS | Programme Associate (China / UNEP programme)
+- [ ] https://untalent.org/jobs/associate-officer-in-climate-change-and-energy | UNDP | Associate Officer – Climate Change and Energy
+- [ ] https://untalent.org/jobs/e-t-consultant-carbon-credit-mobilization | World Bank | ET Consultant – Carbon Credit Mobilization
+
+<!-- Scan 2026-05-22 — Singapore / Global Consulting -->
+- [ ] https://careers.southpole.com/jobs/1485792-senior-climate-investments-analyst | South Pole | Senior Climate Investments Analyst
+- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Devex | Individual Consultant – Fund ESG and Sustainability
+- [ ] https://www.devex.com/jobs/individual-consultant-conducting-a-regional-workshop-on-climate-swaps-green-bonds-blue-bonds-and-other-climate-financing-instruments-1393953 | Devex | Individual Consultant – Regional Workshop on Climate Finance (Asia)
+- [ ] https://www.devex.com/jobs/individual-consultant-transport-interventions-to-boost-trade-and-tackle-climate-change-in-the-south-asia-subregional-economic-cooperation-region-1377154 | Devex | Individual Consultant – Transport & Climate Change, South Asia (SASEC)
+- [ ] https://www.terra.do/climate-jobs/job-board/Carbon-and-Sustainability-Consultant-CLIMATE-ASIA-PTE--LTD--8256564/ | Climate Asia / Terra.do | Carbon and Sustainability Consultant (Singapore)
+- [ ] https://www.terra.do/climate-jobs/job-board/remote-financing-consultant-climate-air-quality-policy-8399399/ | Clean Air Asia / Terra.do | Remote Financing Consultant – Climate & Air Quality Policy
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change – Associate
+- [ ] https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-921ee24ea1326342ca412b31ec708087 | EY Singapore | Senior Associate – Climate Change and Sustainability Services
+- [ ] https://www.climatechangecareers.com/job/golden-hiring/london-united-kingdom/esg-sustainability-analyst-trainee-graduate-opportunity/ | ClimateChangeCareers | ESG & Sustainability Analyst Trainee – Graduate Opportunity (London)
+- [ ] https://www.sei.org/people/jobs/climate-risk-adaptation-tallinn/ | SEI | Climate Risk and Adaptation Researcher (Tallinn, Estonia)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
