@@ -47,18 +47,18 @@
 <!-- Scan 2026-05-18 — Bangkok / Thailand -->
 - [!] https://unjobs.org/vacancies/1765247460856 | UNESCAP | Sustainable Finance Consultant (Bangkok) ⭐ — Error: Expired — deliverable period ended December 2025; posting closed December 2025.
 - [x] #098 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Managing-Consultant-Corporate-Sustainability---Climate-Change_R00019699 | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change | 1.5/5 | PDF ❌
-- [ ] https://www.thaingo.org/jobs/detail/14119 | GIZ Thailand | Senior Advisor – Energy System/Policy (TGC-EMC)
+- [x] #099 | https://www.thaingo.org/jobs/detail/14119 | GIZ Thailand | Senior Advisor – Energy System/Policy (TGC-EMC) | 3.2/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — UN / IOs (Untalent / Unjobnet) -->
-- [ ] https://www.unjobnet.org/jobs/detail/85738994 | UNDP | Sustainable Finance Analyst – FAST Initiative Asia
-- [ ] https://untalent.org/jobs/technical-analyst-climate-finance | UNDP | Technical Analyst – Climate Finance
-- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
-- [ ] https://untalent.org/jobs/climate-change-energy-and-environment-associate | UNDP | Climate Change, Energy and Environment Associate
-- [ ] https://untalent.org/jobs/climate-policy-and-strategic-alliances-associate | UNDP | Climate Policy and Strategic Alliances Associate
-- [ ] https://untalent.org/jobs/associate-policy-analyst-environment-and-climate-change | UNDP | Associate Policy Analyst – Environment and Climate Change
-- [ ] https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist
-- [ ] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst
-- [ ] https://untalent.org/jobs/climate-and-energy-senior-research-analyst | WRI | Climate and Energy Senior Research Analyst
+- [x] #100 | https://www.unjobnet.org/jobs/detail/85738994 | UNDP | Sustainable Finance Analyst – FAST Initiative Asia | 2.5/5 | PDF ❌
+- [x] #101 | https://untalent.org/jobs/technical-analyst-climate-finance | UNDP | Technical Analyst – Climate Finance | 3.0/5 | PDF ❌
+- [x] #102 | https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst | 2.0/5 | PDF ❌
+- [x] #103 | https://untalent.org/jobs/climate-change-energy-and-environment-associate | UNDP | Climate Change, Energy and Environment Associate | 3.0/5 | PDF ❌
+- [x] #104 | https://untalent.org/jobs/climate-policy-and-strategic-alliances-associate | UNDP | Climate Policy and Strategic Alliances Associate | 3.0/5 | PDF ❌
+- [x] #105 | https://untalent.org/jobs/associate-policy-analyst-environment-and-climate-change | UNDP | Associate Policy Analyst – Environment and Climate Change | 2.0/5 | PDF ❌
+- [x] #106 | https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist | 2.5/5 | PDF ❌
+- [x] #107 | https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst | 3.5/5 | PDF ❌
+- [x] #108 | https://untalent.org/jobs/climate-and-energy-senior-research-analyst | WRI | Climate and Energy Senior Research Analyst | 2.8/5 | PDF ❌
 - [ ] https://untalent.org/jobs/research-assistant-sustainable-energy | UNESCWA | Research Assistant – Sustainable Energy
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=108545 | UNDP | Consultancy – Climate Change Transparency Analysis
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=111863 | UNDP | Gender and Climate Change National Consultant (Home-Based)
