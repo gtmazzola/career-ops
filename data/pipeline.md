@@ -260,6 +260,55 @@
 - [ ] https://www.climatechangecareers.com/job/golden-hiring/london-united-kingdom/esg-sustainability-analyst-trainee-graduate-opportunity/ | ClimateChangeCareers | ESG & Sustainability Analyst Trainee – Graduate Opportunity (London)
 - [ ] https://www.sei.org/people/jobs/climate-risk-adaptation-tallinn/ | SEI | Climate Risk and Adaptation Researcher (Tallinn, Estonia)
 
+<!-- Scan 2026-05-23 — Bangkok / Thailand ⭐ -->
+- [ ] https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI / DAI | ESG Program Manager – USAID Partnerships for Green Investment (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1766849148999 | UNDP Thailand | Climate Action Portfolio Manager (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1773670808816 | UNEP ROAP | Project Management Specialist – Southeast Asia and Pacific (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1774447954195 | UNEP ROAP | Project Management Specialist – South Asia (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1777287425815 | UNICEF EAPRO | Programme Specialist (Climate Finance) (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1777692497119 | UNDP Bangkok Regional Hub | Trust Funds Portfolio Manager – Blue Economy (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85457324 | UNDP Thailand | Energy Transition Specialist – Transition Finance Framework (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85674030 | UNDP | Energy Specialist (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/83538868 | UNDP Thailand | Climate Action Portfolio Manager (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/84642887 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85310215 | GGGI Thailand | Consultant – Building Readiness for Transition Finance (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85451062 | GGGI Thailand | Consultant – Building Readiness for Transition Finance Phase 1 (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/83927874 | UNDP Bangkok | FDI Expert – Green Investment and ASEAN Climate Finance (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85806262 | UNDP | Training Officer (Biomass Energy) (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85782469 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85473726 | UNEP ROAP | PV System Management and Recycling Expert (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/2783 | UNOPS APRO | Project Management Support Officer (Bangkok) ⭐
+
+<!-- Scan 2026-05-23 — GIZ Thailand -->
+- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/05/Job-Announcement_CASE-Junior-Communication-Specialist_260508.pdf | GIZ Thailand | Junior Communication Specialist – CASE Energy Cluster (Bangkok) ⭐
+
+<!-- Scan 2026-05-23 — UN / IOs (Untalent / Untalent new) -->
+- [ ] https://untalent.org/jobs/research-analyst-raising-national-climate-ambition | WRI | Research Analyst – Raising National Climate Ambition
+- [ ] https://untalent.org/jobs/research-analyst-industrial-innovation-and-carbon-removal | WRI | Research Analyst – Industrial Innovation and Carbon Removal
+- [ ] https://untalent.org/jobs/climate-research-analyst | WRI Indonesia | Climate Research Analyst (Jakarta)
+- [ ] https://untalent.org/jobs/sustainable-development-officer-18 | UNESCAP | Sustainable Development Officer (Bangkok) ⭐
+- [ ] https://untalent.org/jobs/sustainable-development-officer-37 | UN DESA | Sustainable Development Officer (New York)
+
+<!-- Scan 2026-05-23 — SEforALL -->
+- [ ] https://www.seforall.org/jobs/investment-analyst-energy-transition | SEforALL | Investment Analyst – Energy Transition (Vienna)
+- [ ] https://www.seforall.org/jobs/country-coordinator-analyst-energy-efficiency | SEforALL | Country Coordinator (Analyst) – Energy Efficiency
+
+<!-- Scan 2026-05-23 — Impactpool / ICIMOD -->
+- [ ] https://www.impactpool.org/jobs/1187076 | ICIMOD | Climate Finance and Investment Analyst (Kathmandu)
+- [ ] https://www.impactpool.org/jobs/1200105 | UNOPS Indonesia | Programme Management Senior Analyst (Indonesia)
+
+<!-- Scan 2026-05-23 — Devex new -->
+- [ ] https://www.devex.com/jobs/individual-consultant-sustainable-clean-energy-expert-1394002 | ADB via Devex | Individual Consultant – Sustainable/Clean Energy Expert
+- [ ] https://www.devex.com/jobs/energy-and-climate-individual-consultant-1387538 | Devex | Energy and Climate Individual Consultant
+- [ ] https://www.devex.com/jobs/programme-management-senior-analyst-1417192 | UNOPS via Devex | Programme Management Senior Analyst
+- [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | Devex | ESG Expert (Asia Foundation)
+
+<!-- Scan 2026-05-23 — Think tanks / Research institutes -->
+- [ ] https://newclimate.org/about-us/working-with-us/experienced-climate-policy-analyst-r-2405 | NewClimate Institute | Experienced Climate Policy Analyst (Cologne/Berlin)
+- [ ] https://newclimate.org/about-us/working-with-us/experienced-climate-policy-analyst-climate-responsibility-approaches-r | NewClimate Institute | Experienced Climate Policy Analyst – Climate Responsibility Approaches
+- [ ] https://www.climatepolicyinitiative.org/career/analyst-climate-energy-economist/ | Climate Policy Initiative | Analyst – Climate & Energy Economist
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
