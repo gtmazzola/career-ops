@@ -59,22 +59,22 @@
 - [x] #106 | https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist | 2.5/5 | PDF ❌
 - [x] #107 | https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst | 3.5/5 | PDF ❌
 - [x] #108 | https://untalent.org/jobs/climate-and-energy-senior-research-analyst | WRI | Climate and Energy Senior Research Analyst | 2.8/5 | PDF ❌
-- [ ] https://untalent.org/jobs/research-assistant-sustainable-energy | UNESCWA | Research Assistant – Sustainable Energy
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=108545 | UNDP | Consultancy – Climate Change Transparency Analysis
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=111863 | UNDP | Gender and Climate Change National Consultant (Home-Based)
+- [x] #109 | https://untalent.org/jobs/research-assistant-sustainable-energy | UNESCWA | Research Assistant – Sustainable Energy | 1.5/5 | PDF ❌
+- [x] #110 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=108545 | UNDP | Consultancy – Climate Change Transparency Analysis | 2.5/5 | PDF ❌
+- [x] #111 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=111863 | UNDP | Gender and Climate Change National Consultant (Home-Based) | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — UNIDO Vienna -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1342750055/ | UNIDO | Project Associate (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1330023555/ | UNIDO | Project Assistant (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Programme-Associate/1335690855/ | UNIDO | Programme Associate (Vienna)
+- [x] #112 | https://careers.unido.org/job/Vienna-Project-Associate/1342750055/ | UNIDO | Project Associate (IFTI, Vienna) | 3.5/5 | PDF ❌
+- [x] #113 | https://careers.unido.org/job/Vienna-Project-Assistant/1330023555/ | UNIDO | Project Assistant (Vienna) | 1.0/5 | PDF ❌
+- [x] #114 | https://careers.unido.org/job/Vienna-Programme-Associate/1335690855/ | UNIDO | Programme Associate (Vienna) | 2.5/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — UNOPS -->
-- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst (SUIDAC, Uganda/Sudan/DRC)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29989 | UNOPS | Programme Management Office – Senior Analyst
+- [x] #115 | https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst (SUIDAC, Uganda/Sudan/DRC) | 1.5/5 | PDF ❌
+- [x] #116 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29989 | UNOPS | Programme Management Office – Senior Analyst | 3.0/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — GGGI -->
-- [ ] https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan)
-- [ ] https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center
+- [x] #117 | https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan) | 2.0/5 | PDF ❌
+- [x] #118 | https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center | 1.5/5 | PDF ❌
 - [ ] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC – FX Risk Management Strategy for Climate & Eco Finance
 - [ ] https://careers.gggi.org/vacancy/senior-associate-resilient-green-housing-585762.html | GGGI | Senior Associate – Resilient Green Housing
 - [ ] https://www.developmentaid.org/jobs/view/1706808/sustainable-finance-associate-asia | GGGI | Sustainable Finance Associate – Asia
