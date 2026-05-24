@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+<!-- Scan 2026-05-24 — Bangkok / Thailand ⭐ -->
+- [ ] https://unjobs.org/vacancies/1775489861939 | IOM Bangkok | Consultant – Mapping of Community & Locally Led Initiatives Relevant to Climate Mobility (Bangkok) ⭐ ⚠️ Thai nationals only
+- [ ] https://untalent.org/jobs/consultant-nature-based-solutions-and-climate-mobility | IOM Bangkok | Consultant – Nature-Based Solutions and Climate Mobility (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1772436921936 | UNDP Thailand | Partnership Analyst – Biodiversity Finance (BIOFIN, Bangkok) ⭐
+- [ ] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/job/31219 | UNCDF Bangkok | Impact Measurement Verification and Learning Analyst (Bangkok) ⭐
+- [ ] https://reliefweb.int/job/4074119/climate-change-and-partnership-project-officer | Save the Children | Climate Change and Partnership Project Officer (Thailand) ⚠️ requires Patani-Malay/Thai
+
+<!-- Scan 2026-05-24 — GGGI / IOs (new roles) -->
+- [ ] https://careers.gggi.org/vacancy/sustainable-finance-officer-asia-595479.html | GGGI | Sustainable Finance Officer (Asia)
+- [ ] https://careers.gggi.org/vacancy/senior-project-assistant-sustainable-infrastructure-finance-609792.html | GGGI | Senior Project Assistant – Sustainable & Infrastructure Finance (Abidjan)
+
+<!-- Scan 2026-05-24 — Global Consulting / ESG Ratings -->
+- [ ] https://www.unjobnet.org/jobs/detail/82499011 | UNDP | International Sustainability and Climate Resilience Consultant
+- [ ] https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/ESG-Ratings-Analyst---Various-Sectors_JR_6204 | ISS Stoxx | ESG Ratings Analyst – Various Sectors
+- [ ] https://reliefweb.int/job/4163293/project-and-partnership-support-officer | ReliefWeb | Project and Partnership Support Officer
+
 <!-- Archived / unresolvable -->
 - [!] https://reliefweb.int/job/3984413/consultant-climate-action — Error: IPU posting from August 2023, over 3 years old, no current JD retrievable.
 - [!] https://www.impactpool.org/search?jf%5B%5D=77 — Error: Search/listing page, not a specific job offer; cannot evaluate.
