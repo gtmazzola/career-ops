@@ -325,6 +325,44 @@
 - [ ] https://newclimate.org/about-us/working-with-us/experienced-climate-policy-analyst-climate-responsibility-approaches-r | NewClimate Institute | Experienced Climate Policy Analyst – Climate Responsibility Approaches
 - [ ] https://www.climatepolicyinitiative.org/career/analyst-climate-energy-economist/ | Climate Policy Initiative | Analyst – Climate & Energy Economist
 
+<!-- Scan 2026-05-25 — Bangkok / Thailand ⭐ -->
+- [ ] https://unjobs.org/vacancies/1778832407684 | ESCAP | Programme Support Contractor (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1761384669525 | UNEP Bangkok | Associate Programme Management Officer (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/85831873 | UNEP Bangkok | National Energy Efficient Expert (Bangkok) ⭐
+- [ ] https://www.unjobnet.org/jobs/detail/75624102 | UNICEF Bangkok | National Climate Consultant (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/1073468 | GGGI Thailand | National Energy Efficiency and Low Carbon Building Consultant (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/865302 | WFP Bangkok | Regional Climate and DRR Advisor P4 (Bangkok) ⭐ ⚠️ P4 seniority
+- [ ] https://www.impactpool.org/jobs/1061077 | Tara Climate Foundation | Program Officer, Thailand (Bangkok) ⭐ ⚠️ 7yr exp
+- [ ] https://untalent.org/jobs/regional-energy-specialist-asia-pacific-region | UNDP | Regional Energy Specialist – Asia/Pacific Region (Bangkok) ⭐ ⚠️ 7yr exp
+
+<!-- Scan 2026-05-25 — UNOPS (new) -->
+- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=25318 | UNOPS | Climate Programme Officer
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29772 | UNOPS | Climate Specialist (CAP)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28293 | UNOPS | NDC Partnership Climate Change Analyst (Kazakhstan, Retainer)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29159 | UNOPS | Capacity Building Specialist – Environment and Climate Change (Retainer)
+
+<!-- Scan 2026-05-25 — UNIDO Vienna -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1352014555/ | UNIDO | Project Coordinator (Vienna) ⚠️ deadline 2 Jun 2026
+
+<!-- Scan 2026-05-25 — GGGI (new) -->
+- [ ] https://careers.gggi.org/vacancy/senior-program-officer-circular-economy-waste-600434.html | GGGI | Senior Program Officer – Circular Economy and Waste
+- [ ] https://careers.gggi.org/vacancy/vietnam-senior-program-associate-595620.html | GGGI Vietnam | Senior Program Associate (Hanoi) ⚠️ Vietnamese nationals/WP
+
+<!-- Scan 2026-05-25 — Singapore -->
+- [ ] https://www.mycareersfuture.gov.sg/job/-sustainability-esg-project-analyst-ntt-data-singapore-68d2f71cfa00d0d3a15c6ed09261dbe4 | NTT Data Singapore | Sustainability / ESG Project Analyst (Singapore)
+
+<!-- Scan 2026-05-25 — SEforALL Vienna -->
+- [ ] https://www.seforall.org/jobs/sustainable-cooling-analyst | SEforALL | Sustainable Cooling Analyst (Vienna)
+- [ ] https://www.seforall.org/jobs/energy-planning-officer | SEforALL | Energy Planning Officer (Vienna)
+
+<!-- Scan 2026-05-25 — Global / Consulting / Think tanks -->
+- [ ] https://www.terra.do/climate-jobs/job-board/project-consultant-sustainability-energy-and-climate-change-8310639/ | WSP | Project Consultant – Sustainability, Energy and Climate Change
+- [ ] https://www.terra.do/climate-jobs/job-board/Junior-Energy-Analyst-Asia-Pacific-Mainstream-Renewable-Power-8361608/ | Mainstream Renewable Power | Junior Energy Analyst Asia Pacific (Philippines)
+- [ ] https://www.terra.do/climate-jobs/job-board/Associate--Consultant---ESG---Sustainability-EiSqr-Solutions-Pvt--Ltd--8181661/ | EiSqr Solutions | Associate Consultant – ESG and Sustainability (India)
+- [ ] https://newclimate.org/about-us/working-with-us/climate-policy-analyst-r-2404 | NewClimate Institute | Climate Policy Analyst (Cologne/Berlin)
+- [ ] https://newclimate.org/about-us/working-with-us/project-manager-climate-action-tracker-r-2501 | NewClimate Institute | Project Manager – Climate Action Tracker (Cologne/Berlin)
+- [ ] https://www.impactpool.org/jobs/895244 | FAO | Climate Foresight and Scenarios Development Specialist
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
