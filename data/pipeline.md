@@ -17,6 +17,14 @@
 - [x] #126 | https://www.unjobnet.org/jobs/detail/82499011 | UNDP | International Sustainability and Climate Resilience Consultant | 2.5/5 | PDF ❌
 - [x] #127 | https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/ESG-Ratings-Analyst---Various-Sectors_JR_6204 | ISS Stoxx | ESG Ratings Analyst – Various Sectors | 2.8/5 | PDF ❌
 - [x] #128 | https://reliefweb.int/job/4163293/project-and-partnership-support-officer | ACTED | Project and Partnership Support Officer (Kampala) | 1.0/5 | PDF ❌
+- [x] #129 | https://careers.gggi.org/vacancy/senior-associate-resilient-green-housing-585762.html | GGGI | Senior Associate – Resilient Green Housing | 1.5/5 | PDF ❌
+- [x] #130 | https://www.developmentaid.org/jobs/view/1706808/sustainable-finance-associate-asia | GGGI | Sustainable Finance Associate – Asia | 3.2/5 | PDF ❌
+- [x] #131 | https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure | 2.0/5 | PDF ❌
+- [x] #132 | https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory | 1.0/5 | PDF ❌
+- [x] #133 | https://careers.southpole.com/jobs/7157375-global-lead-specialist-operations-climate-advisory | South Pole | Global Lead Specialist – Operations, Climate Advisory | 1.0/5 | PDF ❌
+- [x] #134 | https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America) | 1.5/5 | PDF ❌
+- [x] #135 | https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI US | Research Associate/Staff Scientist – Climate and Energy Policy (US) | 3.0/5 | PDF ❌
+- [x] #136 | https://www.sei.org/people/jobs/york-research-associate/ | SEI York | Research Associate | 2.0/5 | PDF ❌
 
 <!-- Archived / unresolvable -->
 - [!] https://reliefweb.int/job/3984413/consultant-climate-action — Error: IPU posting from August 2023, over 3 years old, no current JD retrievable.
@@ -91,20 +99,20 @@
 <!-- Scan 2026-05-18 — GGGI -->
 - [x] #117 | https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan) | 2.0/5 | PDF ❌
 - [x] #118 | https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center | 1.5/5 | PDF ❌
-- [ ] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC – FX Risk Management Strategy for Climate & Eco Finance
-- [ ] https://careers.gggi.org/vacancy/senior-associate-resilient-green-housing-585762.html | GGGI | Senior Associate – Resilient Green Housing
-- [ ] https://www.developmentaid.org/jobs/view/1706808/sustainable-finance-associate-asia | GGGI | Sustainable Finance Associate – Asia
+- [!] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC – FX Risk Management Strategy for Climate & Eco Finance — Error: Contract period October 2025–January 2026 already ended; posting expired.
+- [x] #129 | https://careers.gggi.org/vacancy/senior-associate-resilient-green-housing-585762.html | GGGI | Senior Associate – Resilient Green Housing | 1.5/5 | PDF ❌
+- [x] #130 | https://www.developmentaid.org/jobs/view/1706808/sustainable-finance-associate-asia | GGGI | Sustainable Finance Associate – Asia | 3.2/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — South Pole (new) -->
-- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
-- [ ] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory
-- [ ] https://careers.southpole.com/jobs/7157375-global-lead-specialist-operations-climate-advisory | South Pole | Global Lead Specialist – Operations, Climate Advisory
+- [x] #131 | https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure | 2.0/5 | PDF ❌
+- [x] #132 | https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory | 1.0/5 | PDF ❌
+- [x] #133 | https://careers.southpole.com/jobs/7157375-global-lead-specialist-operations-climate-advisory | South Pole | Global Lead Specialist – Operations, Climate Advisory | 1.0/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — SEI (new roles) -->
-- [ ] https://www.sei.org/people/jobs/postdoc-fellow-climate-modelling-impact/ | SEI | Postdoctoral Fellow – Climate Modelling and Impact Assessment
-- [ ] https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America)
-- [ ] https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI | Research Associate/Staff Scientist – Climate and Energy Policy (US)
-- [ ] https://www.sei.org/people/jobs/york-research-associate/ | SEI York | Research Associate
+- [!] https://www.sei.org/people/jobs/postdoc-fellow-climate-modelling-impact/ | SEI | Postdoctoral Fellow – Climate Modelling and Impact Assessment — Error: Application deadline January 18, 2026 — expired.
+- [x] #134 | https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America) | 1.5/5 | PDF ❌
+- [x] #135 | https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI | Research Associate/Staff Scientist – Climate and Energy Policy (US) | 3.0/5 | PDF ❌
+- [x] #136 | https://www.sei.org/people/jobs/york-research-associate/ | SEI York | Research Associate | 2.0/5 | PDF ❌
 - [ ] https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions
 - [ ] https://www.sei.org/people/jobs/communications-policy-engagement/ | SEI | Communications and Policy Engagement
 - [ ] https://www.sei.org/people/jobs/research-fellow-water-resource-management/ | SEI Africa | Research Fellow – Water Resource Management
