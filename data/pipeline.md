@@ -113,18 +113,18 @@
 - [x] #134 | https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America) | 1.5/5 | PDF ❌
 - [x] #135 | https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI | Research Associate/Staff Scientist – Climate and Energy Policy (US) | 3.0/5 | PDF ❌
 - [x] #136 | https://www.sei.org/people/jobs/york-research-associate/ | SEI York | Research Associate | 2.0/5 | PDF ❌
-- [ ] https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions
-- [ ] https://www.sei.org/people/jobs/communications-policy-engagement/ | SEI | Communications and Policy Engagement
-- [ ] https://www.sei.org/people/jobs/research-fellow-water-resource-management/ | SEI Africa | Research Fellow – Water Resource Management
+- [x] #137 | https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions | 1.5/5 | PDF ❌
+- [!] https://www.sei.org/people/jobs/communications-policy-engagement/ | SEI | Communications and Policy Engagement — Error: Expired internship; deadline April 19, 2026.
+- [x] #138 | https://www.sei.org/people/jobs/research-fellow-water-resource-management/ | SEI Africa | Research Fellow – Water Resource Management | 1.0/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — Singapore / Hong Kong -->
-- [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services – Sustainability and Climate Change Advisory (Senior Associate)
-- [ ] https://www.climatechangecareers.com/job/deloitte/singapore-singapore/consultant-sustainability-emerging-assurance/ | Deloitte Singapore | Consultant – Sustainability & Emerging Assurance
-- [ ] https://www.climatechangecareers.com/job/temasek/singapore-singapore/associate-senior-associate-12-months-contract-sustainable-solutions/ | Temasek | Associate/Senior Associate – Sustainable Solutions (12-month contract)
-- [ ] https://www.climatechangecareers.com/job/deloitte/hong-kong-hong-kong/analyst-consultant-senior-consultant-esg-enterprise-risk-hong-kong-315112/ | Deloitte HK | Analyst/Consultant – ESG Enterprise Risk (Hong Kong)
-- [ ] https://www.climatechangecareers.com/job/arup/singapore-singapore/senior-sustainability-consultant/ | Arup | Senior Sustainability Consultant (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings | ESG Analyst (Singapore)
+- [x] #139 | https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services – Sustainability and Climate Change Advisory (Senior Associate) | 3.0/5 | PDF ❌
+- [x] #140 | https://www.climatechangecareers.com/job/deloitte/singapore-singapore/consultant-sustainability-emerging-assurance/ | Deloitte Singapore | Consultant – Sustainability & Emerging Assurance | 1.5/5 | PDF ❌
+- [x] #141 | https://www.climatechangecareers.com/job/temasek/singapore-singapore/associate-senior-associate-12-months-contract-sustainable-solutions/ | Temasek | Associate/Senior Associate – Sustainable Solutions (12-month contract) | 3.5/5 | PDF ❌
+- [x] #142 | https://www.climatechangecareers.com/job/deloitte/hong-kong-hong-kong/analyst-consultant-senior-consultant-esg-enterprise-risk-hong-kong-315112/ | Deloitte HK | Analyst/Consultant – ESG Enterprise Risk (Hong Kong) | 3.0/5 | PDF ❌
+- [x] #143 | https://www.climatechangecareers.com/job/arup/singapore-singapore/senior-sustainability-consultant/ | Arup | Senior Sustainability Consultant (Singapore) | 1.5/5 | PDF ❌
+- [x] #144 | https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore) | 1.5/5 | PDF ❌
+- [x] #145 | https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings | ESG Analyst (Singapore) | 3.5/5 | PDF ❌
 - [ ] https://www.mycareersfuture.gov.sg/job/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | TangsPac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
 
 <!-- Scan 2026-05-18 — ERM / Consulting (new) -->
