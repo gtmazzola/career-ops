@@ -371,6 +371,46 @@
 - [ ] https://newclimate.org/about-us/working-with-us/project-manager-climate-action-tracker-r-2501 | NewClimate Institute | Project Manager – Climate Action Tracker (Cologne/Berlin)
 - [ ] https://www.impactpool.org/jobs/895244 | FAO | Climate Foresight and Scenarios Development Specialist
 
+<!-- Scan 2026-05-26 — UN Careers / IOs (new) -->
+- [ ] https://careers.un.org/jobSearchDescription/275144 | UN / ESCAP | Junior International Consultant – EU ESG Regulations ⭐
+- [ ] https://careers.un.org/jobSearchDescription/267070 | UN Careers | Sustainable Finance Specialist
+- [ ] https://careers.un.org/jobSearchDescription/272914 | UN Careers | Junior Consultant – Environmental Affairs
+- [ ] https://careers.un.org/jobSearchDescription/273549 | UN Careers | Climate Change Mitigation and Emissions Analysis Consultant
+- [ ] https://careers.un.org/jobSearchDescription/276436 | UN Careers | Senior Consultant for Carbon Markets and NbS
+- [ ] https://careers.un.org/jobSearchDescription/274487 | UN Careers | Stakeholder Engagement and Data Collection (Energy/Climate)
+
+<!-- Scan 2026-05-26 — Bangkok / Thailand ⭐ -->
+- [ ] https://www.thai-german-cooperation.info/en_US/project-coordinator-ccmb/ | GIZ Thailand | Project Coordinator – CCMB (Bangkok) ⭐
+
+<!-- Scan 2026-05-26 — UNIDO Vienna -->
+- [ ] https://careers.unido.org/job/Vienna-Investment-and-Finance-Specialist/1340458755/ | UNIDO | Investment and Finance Specialist (Vienna) ⚠️ 5yr exp
+
+<!-- Scan 2026-05-26 — Impactpool (new) -->
+- [ ] https://www.impactpool.org/jobs/1191413 | UNEP Vietnam | Renewable Energy & Access to Finance Coaching Expert ⚠️ 7yr exp
+- [ ] https://www.impactpool.org/jobs/1143681 | GCF | Climate Infrastructure Specialist – Asia and the Pacific ⚠️ 9yr exp
+- [ ] https://www.impactpool.org/jobs/1136686 | GGGI | Climate Change Adaptation Consultant and Team Leader (Fiji)
+
+<!-- Scan 2026-05-26 — SEI new roles -->
+- [ ] https://www.sei.org/people/jobs/researcher-land-governance-indigenous-rights/ | SEI Stockholm | Researcher – Land Governance and Indigenous Rights ⚠️ thematic mismatch
+- [ ] https://www.sei.org/people/jobs/organizational-results-learning-impact/ | SEI | Organizational Results, Learning and Impact
+
+<!-- Scan 2026-05-26 — NewClimate (new) -->
+- [ ] https://newclimate.org/about-us/working-with-us/senior-climate-policy-expert-r-2503 | NewClimate Institute | Senior Climate Policy Analyst (R-2503) ⚠️ 10yr exp
+
+<!-- Scan 2026-05-26 — Global Consulting (new) -->
+- [ ] https://www.climatechangecareers.com/job/intertek-sai-global/sydney-australia/senior-sustainability-consultant/ | Intertek SAI Global | Senior Sustainability Consultant (Sydney, Australia)
+
+<!-- Scan 2026-05-26 — Terra.do (new) -->
+- [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG (San Francisco)
+- [ ] https://www.terra.do/climate-jobs/job-board/Deloitte-Consulting-LLP---Government---Public-Services---Analyst---Sustainability--Climate-and-Equity-Deloitte-8375508/ | Deloitte | Analyst – Sustainability, Climate and Equity (US)
+- [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8169161/ | Oaktree | Analyst/Associate, ESG (Los Angeles)
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Climate-and-Decarbonization-Staff-Analyst-Qualcomm-8282401/ | Qualcomm | ESG Climate and Decarbonization Staff Analyst (US)
+- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability-Advisory--Entry-Level--Environmental-Resources-Management--Erm--8323764/ | ERM | Consulting Associate, Sustainability Advisory – Entry Level
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Consultant-Timely-Recruit-Limited-8233549/ | Timely Recruit | ESG Consultant (Sutton, UK)
+- [ ] https://www.terra.do/climate-jobs/job-board/Clean-Energy-Financial-Analyst-Public-Sector-Consultants-8390021/ | Public Sector Consultants | Clean Energy Financial Analyst (US)
+- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level-Environmental-Resources-Management--Erm--8233009/ | ERM | Consulting Associate, Sustainability – Entry Level (US/Canada)
+- [ ] https://www.terra.do/climate-jobs/job-board/sr-analyst-social-impact-sustainability-reportingesg-8354309/ | Alcon | Sr. Analyst, Social Impact & Sustainability Reporting/ESG (Wisconsin)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
