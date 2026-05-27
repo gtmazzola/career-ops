@@ -125,22 +125,22 @@
 - [x] #143 | https://www.climatechangecareers.com/job/arup/singapore-singapore/senior-sustainability-consultant/ | Arup | Senior Sustainability Consultant (Singapore) | 1.5/5 | PDF ❌
 - [x] #144 | https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore) | 1.5/5 | PDF ❌
 - [x] #145 | https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings | ESG Analyst (Singapore) | 3.5/5 | PDF ❌
-- [ ] https://www.mycareersfuture.gov.sg/job/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | TangsPac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
+- [x] #146 | https://www.mycareersfuture.gov.sg/job/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | TangsPac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance | 2.5/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — ERM / Consulting (new) -->
-- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change
+- [x] #147 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change | 2.5/5 | PDF ❌
 
 <!-- Scan 2026-05-18 — Impactpool / ReliefWeb / Other -->
-- [ ] https://www.impactpool.org/jobs/1153191 | OPEC Fund | Environmental and Social Specialist
-- [ ] https://www.impactpool.org/jobs/1201675 | UNEP | Climate Services Financing and Sustainability Consultant (International)
-- [ ] https://www.impactpool.org/jobs/1152853 | UNIDO | Senior Expert – Climate Innovation & Adaptation (Roster)
-- [ ] https://reliefweb.int/job/3801108/environmental-and-sustainability-officer | Various | Environmental and Sustainability Officer
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-1200071 | Various | ESG Specialist (Devex)
-- [ ] https://www.developmentaid.org/jobs/view/1688003/expression-of-interest-climate-finance-panel | Various | Expression of Interest – Climate Finance Panel (Indo-Pacific)
+- [x] #148 | https://www.impactpool.org/jobs/1153191 | OPEC Fund | Environmental and Social Specialist | 2.0/5 | PDF ❌
+- [x] #149 | https://www.impactpool.org/jobs/1201675 | UNEP | Climate Services Financing and Sustainability Consultant (International) | 1.5/5 | PDF ❌
+- [!] https://www.impactpool.org/jobs/1152853 | UNIDO | Senior Expert – Climate Innovation & Adaptation (Roster) — Error: Deadline June 20, 2025 expired; P5 level requires 10yr experience — not viable.
+- [!] https://reliefweb.int/job/3801108/environmental-and-sustainability-officer | IOM | Environmental and Sustainability Officer — Error: Old IOM consultancy posting (2021); expired.
+- [!] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-1200071 | Chemonics/USAID Power Africa ESA | ESG Specialist — Error: Deadline January 31, 2024 expired; South Africa location; 8yr exp required.
+- [!] https://www.developmentaid.org/jobs/view/1688003/expression-of-interest-climate-finance-panel | Various | Expression of Interest – Climate Finance Panel (Indo-Pacific) — Error: JD not retrievable (403 + search returned no specific panel description); cannot evaluate.
 
 <!-- Scan 2026-05-19 — UN / IOs (Untalent / World Bank) -->
-- [ ] https://untalent.org/jobs/environment-social-and-governance-expert | UNEP | Environment, Social and Governance Expert
-- [ ] https://untalent.org/jobs/climate-change-analyst-programming-and-innovation | World Bank | Climate Change Analyst – Programming and Innovation
+- [!] https://untalent.org/jobs/environment-social-and-governance-expert | UNEP | Environment, Social and Governance Expert (Saudi Arabia) — Error: Expired 11 months ago; 10yr exp required; Arabic language required.
+- [x] #150 | https://untalent.org/jobs/climate-change-analyst-programming-and-innovation | World Bank | Climate Change Analyst – Programming and Innovation | 2.5/5 | PDF ❌
 - [ ] https://untalent.org/jobs/program-officer-corporate-sustainability-reporting-extended-term-consultant-etc2 | World Bank | Program Officer – Corporate Sustainability Reporting (ETC2)
 
 <!-- Scan 2026-05-19 — SEI -->
