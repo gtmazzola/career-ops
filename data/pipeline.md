@@ -411,6 +411,37 @@
 - [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level-Environmental-Resources-Management--Erm--8233009/ | ERM | Consulting Associate, Sustainability – Entry Level (US/Canada)
 - [ ] https://www.terra.do/climate-jobs/job-board/sr-analyst-social-impact-sustainability-reportingesg-8354309/ | Alcon | Sr. Analyst, Social Impact & Sustainability Reporting/ESG (Wisconsin)
 
+<!-- Scan 2026-05-27 — Bangkok / Thailand ⭐ -->
+- [ ] https://www.climatechangecareers.com/job/nestle/bangkok-thailand/sustainability-manager/ | Nestlé | Sustainability Manager (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/1126880 | UNICEF Thailand | National Climate Consultant (Bangkok) ⭐
+
+<!-- Scan 2026-05-27 — GGGI (new) -->
+- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate ⚠️ 4-5yr exp
+- [ ] https://www.impactpool.org/jobs/880398 | GGGI | Associate, Sustainable Energy Program
+- [ ] https://www.impactpool.org/jobs/1107112 | GGGI | Green Finance Network Consultant (International) / IKI-ALCBT (Bangkok/Cambodia/Vietnam) ⭐
+
+<!-- Scan 2026-05-27 — UNOPS (new) -->
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29867 | UNOPS | Technical Senior Analyst – Environmental (Clean Energy), Retainer
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29254 | UNOPS | Agriculture and Energy Data Analyst
+
+<!-- Scan 2026-05-27 — CPI (new) -->
+- [ ] https://www.climatepolicyinitiative.org/career/junior-analyst-climate-energy-and-islamic-finance/ | CPI | Junior Analyst – Climate/Energy and Islamic Finance
+- [ ] https://www.climatepolicyinitiative.org/career/consultant-climate-and-nature-impact-assessment/ | CPI | Consultancy – Climate and Nature Impact Assessment
+- [ ] https://climatepolicyinitiative.org/career/analystsf/ | CPI | Analyst – Climate Finance (San Francisco)
+
+<!-- Scan 2026-05-27 — FAO / ILO (new) -->
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist
+- [ ] https://jobs.ilo.org/job/Manila-National-Project-Coordinator/13496-en_GB/ | ILO | National Project Coordinator (Manila)
+
+<!-- Scan 2026-05-27 — Terra.do / Global Consulting (new) -->
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Analyst-Inspired-PLC-8380260/ | Inspired PLC | ESG Analyst (UK)
+- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate---Sustainability-Strategy---Disclosure--Entry-level--Environmental-Resources-Management--Erm--8276927/ | ERM | Consulting Associate – Sustainability Strategy & Disclosure (Entry Level)
+- [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8349898/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability
+
+<!-- Scan 2026-05-27 — Global / Development orgs -->
+- [ ] https://unjobs.org/vacancies/1774037969427 | Winrock International | Junior/Sr. Technical Consultant – Sustainability Services (Arlington, US)
+- [ ] https://careers.southpole.com/jobs/1526673-senior-climate-impact-specialist-digital-climate-solutions | South Pole | Senior Climate Impact Specialist – Digital Climate Solutions
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
