@@ -442,6 +442,31 @@
 - [ ] https://unjobs.org/vacancies/1774037969427 | Winrock International | Junior/Sr. Technical Consultant – Sustainability Services (Arlington, US)
 - [ ] https://careers.southpole.com/jobs/1526673-senior-climate-impact-specialist-digital-climate-solutions | South Pole | Senior Climate Impact Specialist – Digital Climate Solutions
 
+<!-- Scan 2026-05-28 — Bangkok / Thailand ⭐ -->
+- [ ] https://www.unjobnet.org/jobs/detail/85823466 | UNICEF EAPRO | Programme Specialist (Climate Finance) Re-Advertisement (Bangkok) ⭐
+- [ ] https://www.thaingo.org/jobs/detail/19070/2 | GIZ / ThaiNGO | Consultant – ESG Performance Indicators for SME Suppliers Decarbonization (Bangkok) ⭐
+- [ ] https://reliefweb.int/job/3900508/climate-change-cc-adviser | P4I | Climate Change (CC) Adviser (Bangkok) ⭐
+
+<!-- Scan 2026-05-28 — IEA / OECD (new) -->
+- [ ] https://www.impactpool.org/jobs/1159461 | IEA/OECD | Energy Analyst – Desk Officer (Paris)
+- [ ] https://oecd.impactpool.org/vacancies/1183747 | IEA | Young Associate 2026–28 (Paris)
+- [ ] https://oecd.impactpool.org/vacancies/1187475 | OECD | Energy and Environment Analyst (Paris)
+
+<!-- Scan 2026-05-28 — ERM Asia (new) -->
+- [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Senior Associate – Corporate Sustainability & Climate Change (Seoul)
+- [ ] https://www.climatechangecareers.com/job/erm/tokyo-japan/graduate-consultant-entry-level/ | ERM Japan | Graduate Consultant (Entry Level) (Tokyo)
+- [ ] https://www.climatechangecareers.com/job/erm/osaka-japan/junior-mid-career-consultant-entry-level/ | ERM Japan | Junior Mid-career Consultant (Entry Level) (Osaka)
+- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Climate-Change--Entry-Level--Environmental-Resources-Management--Erm--70350006/ | ERM | Consulting Associate – Climate Change (Entry Level)
+
+<!-- Scan 2026-05-28 — Singapore / Asia (new) -->
+- [ ] https://www.terra.do/climate-jobs/job-board/Sustainability-ESG-Consultant-Delta-Electronics-Southeast-Asia---Oceania-8317938/ | Delta Electronics SEA | Sustainability/ESG Consultant (Singapore)
+- [ ] https://www.unjobnet.org/jobs/detail/85344694 | IDB Invest | Sustainability Disclosures Consultant
+- [ ] https://careers.gggi.org/vacancy/indonesia-investment-officer-climate-innovation-and-entrepreneurship-600967.html | GGGI Indonesia | Investment Officer – Climate Innovation and Entrepreneurship (Jakarta)
+
+<!-- Scan 2026-05-28 — UN / IOs (new) -->
+- [ ] https://www.unjobnet.org/jobs/detail/7209148 | UNDP | Junior Analyst Consultant – Energy and Climate Change (New York)
+- [ ] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert (India/Bangladesh)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
