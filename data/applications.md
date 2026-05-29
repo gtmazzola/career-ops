@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 157 | 2026-05-29 | KPMG Thailand | ESG (Sustainability Services) Consultant (Manager) | 2.5/5 | Evaluada | ❌ | [157](reports/157-kpmg-thailand-esg-sustainability-consultant-manager-2026-05-29.md) | Bangkok; strong ESG frameworks match (CSRD/ESRS/GRI) but Manager req 5–7yr vs ~1yr — hard blocker; apply as Senior Associate if possible |
+| 159 | 2026-05-29 | UNDP China | Climate and Energy Analyst | 2.0/5 | Evaluada | ❌ | [159](reports/159-undp-climate-energy-analyst-china-2026-05-29.md) | China duty station; no Mandarin; no China context; posting age uncertain — verify active before applying |
 | 151 | 2026-05-28 | SEI | Senior Researcher – Vulnerability, Climate Risk and Just Adaptation | 1.0/5 | Evaluada | ❌ | [151](reports/151-sei-senior-researcher-vulnerability-climate-risk-2026-05-28.md) | 10+ years required + no pub record — extreme seniority mismatch; Oxford UK |
 | 153 | 2026-05-28 | PAH | Climate Change Adaptation and Mitigation Expert (Global Consultancy) | 2.5/5 | Evaluada | ❌ | [153](reports/153-pah-climate-adaptation-mitigation-expert-2026-05-28.md) | Humanitarian sector mismatch; analytical skills transfer but field experience absent |
 | 154 | 2026-05-28 | ADEC ESG Solutions (FCS) | Sustainability Associate (Remote) | 2.5/5 | Evaluada | ❌ | [154](reports/154-adec-esg-sustainability-associate-remote-2026-05-28.md) | CSRD/GRI coursework strong; 4yr exp gap; US timezone issue |

@@ -163,22 +163,22 @@
 - [x] #156 | https://www.impactpool.org/jobs/1051849 | GGGI Ecuador | ESG Specialist Consultant | 1.0/5 | PDF ❌
 
 <!-- Scan 2026-05-19 — WRI Indonesia -->
-- [ ] https://www.wri.org/careers/jobs/bali-net-zero-initiative-senior-lead-2026-jr100052 | WRI Indonesia | Bali Net Zero Initiative Senior Lead (Bali)
+- [!] https://www.wri.org/careers/jobs/bali-net-zero-initiative-senior-lead-2026-jr100052 | WRI Indonesia | Bali Net Zero Initiative Senior Lead (Bali) — Error: Application deadline 15 February 2026 expired; requires Indonesian work authorization (WRI cannot sponsor).
 
 <!-- Scan 2026-05-20 — Bangkok / Thailand -->
-- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG Sustainability Services Consultant (Manager) (Bangkok)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=115478 | UN Women | Programme Officer – Thailand Country Programme (Bangkok)
-- [ ] https://unjobs.org/vacancies/1775073563554 | UNIDO | National Project Associate (Chiang Mai, Thailand) ⚠️ nationals/PR only
+- [x] #157 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG Sustainability Services Consultant (Manager) (Bangkok) | 2.5/5 | PDF ❌
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=115478 | UN Women | Programme Officer – Thailand Country Programme (Bangkok) — Error: Thai nationals only.
+- [!] https://unjobs.org/vacancies/1775073563554 | UNIDO | National Project Associate (Chiang Mai, Thailand) — Error: Application deadline 01 April 2026 expired; restricted to Thai nationals/PR only.
 
 <!-- Scan 2026-05-20 — UNOPS (new) -->
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27236 | UNOPS | Climate Senior Analyst
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29791 | UNOPS | Programme Management – Analyst (Innovation)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30871 | UNOPS | Project Management Support – Analyst (Grant)
+- [x] #158 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27236 | UNOPS | Climate Senior Analyst | 3.0/5 | PDF ❌
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29791 | UNOPS | Programme Management – Analyst (Innovation) — Error: Vacancy cancelled per UNOPS careers system.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30871 | UNOPS | Project Management Support – Analyst (Grant) — Error: Application deadline 17 November 2025 expired; location Kenya (AFR/ESAMCO).
 
 <!-- Scan 2026-05-20 — UNDP / UNEP (new) -->
-- [ ] https://www.unjobnet.org/jobs/detail/79663050 | UNDP | JPO – Programme Analyst, Environment Energy and Climate Change (EECC)
-- [ ] https://www.unjobnet.org/jobs/detail/62772291 | UNDP | Climate and Energy Analyst
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104680 | UNDP | Individual Consultant – Climate Change
+- [!] https://www.unjobnet.org/jobs/detail/79663050 | UNDP | JPO – Programme Analyst, Environment Energy and Climate Change (EECC) — Error: Open only to Danish nationals.
+- [x] #159 | https://www.unjobnet.org/jobs/detail/62772291 | UNDP | Climate and Energy Analyst | 2.0/5 | PDF ❌
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104680 | UNDP | Individual Consultant – Climate Change — Error: UNEP West Asia Office (Saudi Arabia duty station); requires 10 years experience + PhD preferred; wrong location and seniority level.
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=97166 | UNDP | Individual Consultant – Sustainable Finance Analyst
 - [ ] https://www.unjobnet.org/jobs/detail/80860135 | UNEP | Climate and Energy Analyst – United for Efficiency
 - [ ] https://www.unjobnet.org/jobs/detail/83839098 | UNEP | International Consultant – MTR GEF Sustainable Cities
