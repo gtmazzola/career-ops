@@ -179,20 +179,20 @@
 - [!] https://www.unjobnet.org/jobs/detail/79663050 | UNDP | JPO – Programme Analyst, Environment Energy and Climate Change (EECC) — Error: Open only to Danish nationals.
 - [x] #159 | https://www.unjobnet.org/jobs/detail/62772291 | UNDP | Climate and Energy Analyst | 2.0/5 | PDF ❌
 - [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104680 | UNDP | Individual Consultant – Climate Change — Error: UNEP West Asia Office (Saudi Arabia duty station); requires 10 years experience + PhD preferred; wrong location and seniority level.
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=97166 | UNDP | Individual Consultant – Sustainable Finance Analyst
-- [ ] https://www.unjobnet.org/jobs/detail/80860135 | UNEP | Climate and Energy Analyst – United for Efficiency
-- [ ] https://www.unjobnet.org/jobs/detail/83839098 | UNEP | International Consultant – MTR GEF Sustainable Cities
+- [x] #160 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=97166 | UNDP | Individual Consultant – Sustainable Finance Analyst | 3.0/5 | PDF (no)
+- [x] #161 | https://www.unjobnet.org/jobs/detail/80860135 | UNEP | Climate and Energy Analyst – United for Efficiency | 3.5/5 | PDF (no)
+- [x] #162 | https://www.unjobnet.org/jobs/detail/83839098 | UNEP | International Consultant – MTR GEF Sustainable Cities | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-05-20 — World Bank / MDBs / IOs -->
-- [ ] https://untalent.org/jobs/operations-analyst-esg-advisory | World Bank / IFC | Operations Analyst – ESG Advisory
-- [ ] https://www.unjobnet.org/jobs/detail/77333546 | OECD | Junior Clean Energy Technology Modeller and Analyst
-- [ ] https://www.unjobnet.org/jobs/detail/85523879 | IDB Invest | Associate – Climate and Environment
-- [ ] https://www.unjobnet.org/jobs/detail/72706630 | EUISS | Associate Analyst – Energy and Climate Security
-- [ ] https://www.unjobnet.org/jobs/detail/84482595 | Winrock International | Sr. Analyst – Sustainability Services
+- [x] #163 | https://untalent.org/jobs/operations-analyst-esg-advisory | World Bank / IFC | Operations Analyst – ESG Advisory | 2.8/5 | PDF (no)
+- [x] #164 | https://www.unjobnet.org/jobs/detail/77333546 | OECD | Junior Clean Energy Technology Modeller and Analyst | 4.5/5 | PDF (no)
+- [x] #165 | https://www.unjobnet.org/jobs/detail/85523879 | IDB Invest | Associate – Climate and Environment | 3.5/5 | PDF (no)
+- [x] #166 | https://www.unjobnet.org/jobs/detail/72706630 | EUISS | Associate Analyst – Energy and Climate Security | 2.0/5 | PDF (no)
+- [x] #167 | https://www.unjobnet.org/jobs/detail/84482595 | Winrock International | Sr. Analyst – Sustainability Services | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-05-20 — Singapore / Hong Kong -->
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore)
-- [ ] https://careers.ey.com/ey/job/Hong-Kong-Assurance-Core-CCaSS-ESG-Advisory-and-Assurance-Senior-Associate-Hong-Kong-Hong/696384001/ | EY Hong Kong | Associate – ESG Advisory and Assurance (Hong Kong)
+- [x] #168 | https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore) | 3.5/5 | PDF (no)
+- [x] #169 | https://careers.ey.com/ey/job/Hong-Kong-Assurance-Core-CCaSS-ESG-Advisory-and-Assurance-Senior-Associate-Hong-Kong-Hong/696384001/ | EY Hong Kong | Associate – ESG Advisory and Assurance (Hong Kong) | 1.5/5 | PDF (no)
 - [ ] https://careers.ey.com/ey/job/Hong-Kong-FSO-Assurance-Climate-Change-and-Sustainability-Services-Senior-Associate-Hong-Kong-Hong/742011201/ | EY Hong Kong | Associate – Climate Change and Sustainability Services FSO (Hong Kong)
 
 <!-- Scan 2026-05-20 — South Pole (new) -->
