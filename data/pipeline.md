@@ -2,6 +2,39 @@
 
 ## Pendientes
 
+<!-- Scan 2026-05-31 — Bangkok / Thailand ⭐ -->
+- [ ] https://www.unjobnet.org/jobs/detail/84911911 | IUCN | Field Project Associate – Thailand Country Programme (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant – EpiC Thailand Project (Bangkok) ⭐
+- [ ] https://www.devex.com/jobs/climate-and-energy-attache-1180086 | British Embassy Bangkok | Climate and Energy Attaché (Bangkok) ⭐
+- [ ] https://www.thaingo.org/jobs/detail/17805/55 | Various / ThaiNGO | Program Officer, Thailand and Mekong (energy transition) (Bangkok) ⭐
+- [ ] https://reliefweb.int/job/3960220/resilient-agriculture-specialist | CARE for South Asia | Resilient Agriculture Specialist (Bangkok) ⭐
+
+<!-- Scan 2026-05-31 — UNOPS (new) -->
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29434 | UNOPS | Technical Senior Officer – Environmental (Energy Policy)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning), Retainer
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27983 | UNOPS | NDC Partnership Climate Change Analyst (Kyrgyz Republic, Retainer)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28867 | UNOPS | Senior Energy Analyst – Renewable Energy ⚠️ possibly closed
+
+<!-- Scan 2026-05-31 — GGGI (new) -->
+- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) ⚠️ 8yr exp
+- [ ] https://careers.gggi.org/vacancy/senior-program-officer-ghg-management-air-quality-and-climate-economics-602632.html | GGGI | Senior Program Officer – GHG Management, Air Quality and Climate Economics (UAE) ⚠️ 9yr exp
+
+<!-- Scan 2026-05-31 — SEI (new) -->
+- [ ] https://www.sei.org/people/jobs/energy-environment-researcher/ | SEI US | Energy and Environment Researcher (Somerville, Massachusetts)
+- [ ] https://www.sei.org/people/jobs/climate-energy-modelling-expert/ | SEI | Climate and Energy Modelling Expert
+
+<!-- Scan 2026-05-31 — Consulting / Global (new) -->
+- [ ] https://www.terra.do/climate-jobs/job-board/sustainability-analytics-consultant-energy-esg-8393707/ | Guidehouse | Sustainability Analytics Consultant, Energy & ESG (Arlington, VA)
+- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change (Shanghai)
+- [ ] https://www.terra.do/climate-jobs/job-board/analyst-building-performance-decarbonization-8229181/ | USGBC | Analyst, Building Performance & Decarbonization (Remote)
+
+<!-- Scan 2026-05-31 — Research / Think Tanks (new) -->
+- [ ] https://www.climatepolicyinitiative.org/career/junior-analyst-south-africa/ | CPI South Africa | Junior Analyst – Climate Finance (South Africa)
+- [ ] https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | Various | Senior Consultant for Climate Change Policy Analysis
+- [ ] https://www.developmentaid.org/jobs/view/1513479/esg-associate | Various | ESG Associate
+- [ ] https://careers.un.org/jobSearchDescription/257545 | UN Careers | Climate Change Specialist Consultant ⚠️ verify active
+- [ ] https://careers.un.org/jobSearchDescription/252728 | UN Careers | Consultant / Environmental Sustainability Specialist ⚠️ verify active
+
 <!-- Scan 2026-05-24 — Bangkok / Thailand ⭐ -->
 - [x] #119 | https://unjobs.org/vacancies/1775489861939 | IOM Bangkok | Consultant – Mapping of Community & Locally Led Initiatives Relevant to Climate Mobility (Bangkok) | 1.0/5 | PDF ❌
 - [x] #120 | https://untalent.org/jobs/consultant-nature-based-solutions-and-climate-mobility | IOM Bangkok | Consultant – Nature-Based Solutions and Climate Mobility (Bangkok) | 2.8/5 | PDF ❌
