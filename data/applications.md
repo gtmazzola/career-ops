@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 170 | 2026-05-31 | Tara Climate Foundation | Program Officer – Thailand and Mekong (Energy Transition) | 3.0/5 | Evaluada | ❌ | [170](reports/170-tara-climate-foundation-2026-05-31.md) | Bangkok ⭐; energy transition grant-making; domain fit strong but no grant experience; below apply threshold |
+| 171 | 2026-05-31 | ADPC | Resilient Agriculture Specialist (CARE for South Asia, Bangkok) | 1.2/5 | Evaluada | ❌ | [171](reports/171-adpc-care-resilient-agriculture-2026-05-31.md) | Bangkok ⭐ only positive; agriculture domain mismatch; 7yr exp required; SKIP |
 | 163 | 2026-05-30 | World Bank / IFC | Operations Analyst – ESG Advisory | 2.8/5 | Evaluada | ❌ | [163](reports/163-ifc-operations-analyst-esg-advisory-2026-05-30.md) | IFC ESG advisory in Kathmandu; experience gap (3-5yr req), non-priority location — below threshold |
 | 164 | 2026-05-30 | OECD/IEA | Junior Clean Energy Technology Modeller and Analyst | 4.5/5 | Evaluada | ❌ | [164](reports/164-oecd-junior-clean-energy-modeller-analyst-2026-05-30.md) | Outstanding match — hydrogen expertise + GAMSPy modelling directly relevant; EUR 5,902/mo tax-exempt; Paris (EU citizen) |
 | 165 | 2026-05-30 | IDB Invest | Associate – Climate and Environment | 3.5/5 | Evaluada | ❌ | [165](reports/165-idb-invest-associate-climate-environment-2026-05-30.md) | DC-based climate finance KPI role; US citizen match, good frameworks fit, but LAC/private sector gap |

@@ -3,20 +3,20 @@
 ## Pendientes
 
 <!-- Scan 2026-05-31 — Bangkok / Thailand ⭐ -->
-- [ ] https://www.unjobnet.org/jobs/detail/84911911 | IUCN | Field Project Associate – Thailand Country Programme (Bangkok) ⭐
-- [ ] https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant – EpiC Thailand Project (Bangkok) ⭐
-- [ ] https://www.devex.com/jobs/climate-and-energy-attache-1180086 | British Embassy Bangkok | Climate and Energy Attaché (Bangkok) ⭐
-- [ ] https://www.thaingo.org/jobs/detail/17805/55 | Various / ThaiNGO | Program Officer, Thailand and Mekong (energy transition) (Bangkok) ⭐
-- [ ] https://reliefweb.int/job/3960220/resilient-agriculture-specialist | CARE for South Asia | Resilient Agriculture Specialist (Bangkok) ⭐
+- [!] https://www.unjobnet.org/jobs/detail/84911911 | IUCN | Field Project Associate – Thailand Country Programme — Error: Position confirmed closed (per hrms.iucn.org); biodiversity/conservation domain misaligned with candidate profile.
+- [!] https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant – EpiC Thailand Project — Error: Expired October 2022; public health/HIV consultancy; Thai citizenship or work authorization required.
+- [!] https://www.devex.com/jobs/climate-and-energy-attache-1180086 | British Embassy Bangkok | Climate and Energy Attaché — Error: Application deadline April 16, 2026 — expired (today: 2026-05-31).
+- [x] #170 | https://www.thaingo.org/jobs/detail/17805/55 | Tara Climate Foundation | Program Officer – Thailand and Mekong (Energy Transition) | 3.0/5 | PDF ❌
+- [x] #171 | https://reliefweb.int/job/3960220/resilient-agriculture-specialist | ADPC | Resilient Agriculture Specialist (CARE for South Asia, Bangkok) | 1.2/5 | PDF ❌
 
 <!-- Scan 2026-05-31 — UNOPS (new) -->
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29434 | UNOPS | Technical Senior Officer – Environmental (Energy Policy)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning), Retainer
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27983 | UNOPS | NDC Partnership Climate Change Analyst (Kyrgyz Republic, Retainer)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28867 | UNOPS | Senior Energy Analyst – Renewable Energy ⚠️ possibly closed
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29434 | UNOPS | Technical Senior Officer – Environmental (Energy Policy) — Error: Closed (Dec 2024–Jan 2025); Philippines nationals/residents only — ineligible.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning), Retainer — Error: Philippines nationals/residents only — ineligible local position.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27983 | UNOPS | NDC Partnership Climate Change Analyst (Kyrgyz Republic, Retainer) — Error: Kyrgyz Republic nationals/residents only — ineligible local position.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28867 | UNOPS | Senior Energy Analyst – Renewable Energy — Error: Closed (Jan–Feb 2025 application period); East Jerusalem duty station.
 
 <!-- Scan 2026-05-31 — GGGI (new) -->
-- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) ⚠️ 8yr exp
+- [x] #172 | https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) | 1.8/5 | PDF ❌
 - [ ] https://careers.gggi.org/vacancy/senior-program-officer-ghg-management-air-quality-and-climate-economics-602632.html | GGGI | Senior Program Officer – GHG Management, Air Quality and Climate Economics (UAE) ⚠️ 9yr exp
 
 <!-- Scan 2026-05-31 — SEI (new) -->
