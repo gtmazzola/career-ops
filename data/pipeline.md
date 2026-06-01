@@ -17,22 +17,22 @@
 
 <!-- Scan 2026-05-31 — GGGI (new) -->
 - [x] #172 | https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) | 1.8/5 | PDF ❌
-- [ ] https://careers.gggi.org/vacancy/senior-program-officer-ghg-management-air-quality-and-climate-economics-602632.html | GGGI | Senior Program Officer – GHG Management, Air Quality and Climate Economics (UAE) ⚠️ 9yr exp
+- [x] #173 | https://careers.gggi.org/vacancy/senior-program-officer-ghg-management-air-quality-and-climate-economics-602632.html | GGGI | Senior Program Officer – GHG Management, Air Quality and Climate Economics (UAE) | 1.8/5 | PDF ❌
 
 <!-- Scan 2026-05-31 — SEI (new) -->
-- [ ] https://www.sei.org/people/jobs/energy-environment-researcher/ | SEI US | Energy and Environment Researcher (Somerville, Massachusetts)
-- [ ] https://www.sei.org/people/jobs/climate-energy-modelling-expert/ | SEI | Climate and Energy Modelling Expert
+- [x] #174 | https://www.sei.org/people/jobs/energy-environment-researcher/ | SEI US | Energy and Environment Researcher (Somerville, Massachusetts) | 3.2/5 | PDF ❌
+- [x] #175 | https://www.sei.org/people/jobs/climate-energy-modelling-expert/ | SEI | Climate and Energy Modelling Expert | 2.5/5 | PDF ❌
 
 <!-- Scan 2026-05-31 — Consulting / Global (new) -->
-- [ ] https://www.terra.do/climate-jobs/job-board/sustainability-analytics-consultant-energy-esg-8393707/ | Guidehouse | Sustainability Analytics Consultant, Energy & ESG (Arlington, VA)
-- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change (Shanghai)
-- [ ] https://www.terra.do/climate-jobs/job-board/analyst-building-performance-decarbonization-8229181/ | USGBC | Analyst, Building Performance & Decarbonization (Remote)
+- [x] #176 | https://www.terra.do/climate-jobs/job-board/sustainability-analytics-consultant-energy-esg-8393707/ | Guidehouse | Sustainability Analytics Consultant, Energy & ESG (Arlington, VA) | 3.5/5 | PDF ❌
+- [x] #177 | https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change (Shanghai) | 2.8/5 | PDF ❌
+- [x] #178 | https://www.terra.do/climate-jobs/job-board/analyst-building-performance-decarbonization-8229181/ | USGBC | Analyst, Building Performance & Decarbonization (Remote) | 2.0/5 | PDF ❌
 
 <!-- Scan 2026-05-31 — Research / Think Tanks (new) -->
-- [ ] https://www.climatepolicyinitiative.org/career/junior-analyst-south-africa/ | CPI South Africa | Junior Analyst – Climate Finance (South Africa)
-- [ ] https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | Various | Senior Consultant for Climate Change Policy Analysis
-- [ ] https://www.developmentaid.org/jobs/view/1513479/esg-associate | Various | ESG Associate
-- [ ] https://careers.un.org/jobSearchDescription/257545 | UN Careers | Climate Change Specialist Consultant ⚠️ verify active
+- [x] #179 | https://www.climatepolicyinitiative.org/career/junior-analyst-south-africa/ | CPI South Africa | Junior Analyst – Climate Finance (South Africa) | 2.2/5 | PDF ❌
+- [x] #180 | https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | FHI 360 | Senior Consultant for Climate Change Policy Analysis | 2.0/5 | PDF ❌
+- [!] https://www.developmentaid.org/jobs/view/1513479/esg-associate | Various | ESG Associate — Error: Deadline May 8, 2024 — expired over 2 years ago; cannot evaluate.
+- [!] https://careers.un.org/jobSearchDescription/257545 | UN Careers | Climate Change Specialist Consultant — Error: JD not retrievable (403 + search returned insufficient details to evaluate); cannot confirm active or assess fit.
 - [ ] https://careers.un.org/jobSearchDescription/252728 | UN Careers | Consultant / Environmental Sustainability Specialist ⚠️ verify active
 
 <!-- Scan 2026-05-24 — Bangkok / Thailand ⭐ -->
