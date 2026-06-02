@@ -226,24 +226,24 @@
 <!-- Scan 2026-05-20 — Singapore / Hong Kong -->
 - [x] #168 | https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore) | 3.5/5 | PDF (no)
 - [x] #169 | https://careers.ey.com/ey/job/Hong-Kong-Assurance-Core-CCaSS-ESG-Advisory-and-Assurance-Senior-Associate-Hong-Kong-Hong/696384001/ | EY Hong Kong | Associate – ESG Advisory and Assurance (Hong Kong) | 1.5/5 | PDF (no)
-- [ ] https://careers.ey.com/ey/job/Hong-Kong-FSO-Assurance-Climate-Change-and-Sustainability-Services-Senior-Associate-Hong-Kong-Hong/742011201/ | EY Hong Kong | Associate – Climate Change and Sustainability Services FSO (Hong Kong)
+- [x] #181 | https://careers.ey.com/ey/job/Hong-Kong-FSO-Assurance-Climate-Change-and-Sustainability-Services-Senior-Associate-Hong-Kong-Hong/742011201/ | EY Hong Kong | Associate – Climate Change and Sustainability Services FSO (Hong Kong) | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-05-20 — South Pole (new) -->
-- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
-- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
-- [ ] https://careers.southpole.com/jobs/949847-managing-consultant-climate-strategies | South Pole | Managing Consultant – Climate Strategies
+- [x] #182 | https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk) | 1.5/5 | PDF ❌
+- [x] #183 | https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies | 2.5/5 | PDF ❌
+- [x] #184 | https://careers.southpole.com/jobs/949847-managing-consultant-climate-strategies | South Pole | Managing Consultant – Climate Strategies | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-05-20 — Consulting / Global -->
-- [ ] https://www.climatechangecareers.com/job/energy-and-environmental-economics/boston-ma-united-states/consulting-analyst-associate-consultant/ | Energy and Environmental Economics | Consulting Analyst / Associate Consultant (Boston)
-- [ ] https://www.climatechangecareers.com/job/energy-and-environmental-economics/boston-ma-united-states/analyst-associate-consultant/ | Energy and Environmental Economics | Analyst / Associate Consultant (Boston)
-- [ ] https://www.climatechangecareers.com/job/sirio/london-united-kingdom/consulting-analyst/ | Sirio | Consulting Analyst (London)
-- [ ] https://jobs.dnv.com/job-search/energy-systems/consultant/shanghai-china/senior-consultant-esg/300001342774558 | DNV | Senior Consultant – ESG (Shanghai)
+- [x] #189 | https://www.climatechangecareers.com/job/energy-and-environmental-economics/boston-ma-united-states/consulting-analyst-associate-consultant/ | Energy and Environmental Economics | Consulting Analyst / Associate Consultant (Boston) | 3.8/5 | PDF ❌
+- [x] #190 | https://www.climatechangecareers.com/job/energy-and-environmental-economics/boston-ma-united-states/analyst-associate-consultant/ | Energy and Environmental Economics | Analyst / Associate Consultant (Boston) | 3.8/5 | PDF ❌
+- [!] https://www.climatechangecareers.com/job/sirio/london-united-kingdom/consulting-analyst/ | Sirio | Consulting Analyst (London) — Error: Interview cycle was December 2025–January 2026; position likely filled as of June 2026.
+- [x] #187 | https://jobs.dnv.com/job-search/energy-systems/consultant/shanghai-china/senior-consultant-esg/300001342774558 | DNV | Senior Consultant – ESG (Shanghai) | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-05-20 — Research / Think tanks -->
-- [ ] https://www.terra.do/climate-jobs/job-board/Research-Analyst---Industrial-Sustainability-CEEW-8179038/ | CEEW | Research Analyst – Industrial Sustainability (New Delhi)
+- [x] #188 | https://www.terra.do/climate-jobs/job-board/Research-Analyst---Industrial-Sustainability-CEEW-8179038/ | CEEW | Research Analyst – Industrial Sustainability (New Delhi) | 2.5/5 | PDF ❌
 
 <!-- Scan 2026-05-21 — Bangkok / Thailand ⭐ -->
-- [ ] https://careers.gggi.org/vacancy/thailand-consultant-for-green-finance-network-gfn-setup-100014324-599010.html | GGGI | Thailand: Consultant for Green Finance Network (GFN) Setup (Bangkok) ⭐
+- [!] https://careers.gggi.org/vacancy/thailand-consultant-for-green-finance-network-gfn-setup-100014324-599010.html | GGGI | Thailand: Consultant for Green Finance Network (GFN) Setup (Bangkok) — Error: Assignment completion deadline was May 31, 2026 (passed); 7yr exp required; USD 5,000 total comp for 6 months — SKIP on all counts.
 - [ ] https://unjobs.org/vacancies/1776938608815 | UNEP | Energy Finance Expert (Bangkok) ⭐
 - [ ] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert (Bangkok) ⭐
 - [ ] https://www.unjobnet.org/jobs/detail/82738784 | UNICEF EAPRO | Consultant – CLI and ESG Country Offices Support Asia Pacific (Bangkok) ⭐
