@@ -2,6 +2,42 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-03 — Bangkok / Thailand ⭐ -->
+- [ ] https://unjobs.org/vacancies/1674676047784 | UNESCAP | Cities and Climate Change Technical Advisor (Bangkok) ⭐
+- [ ] https://reliefweb.int/job/4010286/technical-experts-rdma-partnerships-asia-green-investment-activity | USAID RDMA | Technical Experts – Partnerships for Asia Green Investment Activity (Bangkok) ⭐
+- [ ] https://reliefweb.int/job/3937595/spark-fund-thailand-specialist | Spark Fund | Thailand Specialist – Climate Change and Resilience (Bangkok) ⭐
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_EarlyCareers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725-2 | ERM Bangkok | Consulting Senior Associate – Climate (Bangkok) ⭐
+
+<!-- Scan 2026-06-03 — Singapore / Ratings -->
+- [ ] https://careers.moodys.com/job/18835919/associate-analyst-sustainable-finance-singapore-sg/ | Moody's | Associate Analyst – Sustainable Finance (Singapore)
+- [ ] https://oecd.impactpool.org/vacancies/1199180 | IEA/OECD | Renewable Energy Analyst (Paris)
+
+<!-- Scan 2026-06-03 — Ramboll Asia (new) -->
+- [ ] https://www.ramboll.com/careers/9aa2f088-e96f-4ac7-10c8-08de37875cb1 | Ramboll | Senior Environmental Consultant (Kuala Lumpur)
+- [ ] https://www.ramboll.com/careers/da59b9b7-e466-4ad8-fc6c-08dba86f756b | Ramboll | Lead Consultant/Manager – ESG Due Diligence and Sustainable Finance (Asia)
+- [ ] https://www.ramboll.com/careers/52b0d84b-a467-4a8c-ea0d-08dd97595629 | Ramboll | Consultant – Sustainable Finance (Asia)
+- [ ] https://www.ramboll.com/careers/8e766b88-1364-4da7-decd-08dd230b4ae1 | Ramboll | Climate Risk and Strategy Consultant (Asia)
+
+<!-- Scan 2026-06-03 — UNOPS / UNIDO / IOs (new) -->
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27840 | UNOPS | Project Officer – Climate Transparency
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna) ⚠️ deadline ~15 Jun 2026
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1352426455/ | UNIDO | Industrial Development Officer P3 (Vienna) ⚠️ deadline ~5 Jun 2026
+
+<!-- Scan 2026-06-03 — GGGI (new roles) -->
+- [ ] https://careers.gggi.org/vacancy/international-energy-sector-mrv-consultant-608230.html | GGGI | International Energy Sector MRV Consultant
+- [ ] https://careers.gggi.org/vacancy/energy-program-officer-586444.html | GGGI | Energy Program Officer (Philippines) ⚠️ 5-7yr exp
+- [ ] https://careers.gggi.org/vacancy/junior-consultant-africa-regional-office-aro-604169.html | GGGI | Junior Consultant – Africa Regional Office ⚠️ wrong geography
+
+<!-- Scan 2026-06-03 — Global Consulting / ESG (new) -->
+- [ ] https://www.terra.do/climate-jobs/job-board/esg-climate-analyst-datadriven-global-impact-8386015/ | Nasdaq (Terra.do) | ESG & Climate Analyst – Data-Driven & Global Impact (Philippines)
+- [ ] https://www.terra.do/climate-jobs/job-board/esg-reporting-data-analyst-8335472/ | ING (Terra.do) | ESG Reporting Data Analyst (Philippines)
+- [ ] https://www.terra.do/climate-jobs/job-board/Climate-Strategy-Consultant--Global-Business-Solutions-3Degrees-8391091/ | 3Degrees | Climate Strategy Consultant – Global Business Solutions (Remote)
+- [ ] https://www.climatechangecareers.com/job/iopa-solutions/remote/carbon-market-specialist/ | IOPA Solutions | Carbon Market Specialist (Remote)
+- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant – Climate (Bengaluru, India)
+- [ ] https://www.climatechangecareers.com/job/greenpeace-south-asia/colombo-srilanka/climate-researcher/ | Greenpeace South Asia | Climate Researcher (Colombo, Sri Lanka)
+- [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg, South Africa) ⚠️ 5yr exp + South Africa
+- [ ] https://hrms.iucn.org/vacancy/7313 | IUCN | Programme Associate – Climate Change (Africa/LatAm)
+
 <!-- Scan 2026-05-31 — Bangkok / Thailand ⭐ -->
 - [!] https://www.unjobnet.org/jobs/detail/84911911 | IUCN | Field Project Associate – Thailand Country Programme — Error: Position confirmed closed (per hrms.iucn.org); biodiversity/conservation domain misaligned with candidate profile.
 - [!] https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant – EpiC Thailand Project — Error: Expired October 2022; public health/HIV consultancy; Thai citizenship or work authorization required.
