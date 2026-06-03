@@ -3,20 +3,20 @@
 ## Pendientes
 
 <!-- Scan 2026-06-03 — Bangkok / Thailand ⭐ -->
-- [ ] https://unjobs.org/vacancies/1674676047784 | UNESCAP | Cities and Climate Change Technical Advisor (Bangkok) ⭐
-- [ ] https://reliefweb.int/job/4010286/technical-experts-rdma-partnerships-asia-green-investment-activity | USAID RDMA | Technical Experts – Partnerships for Asia Green Investment Activity (Bangkok) ⭐
-- [ ] https://reliefweb.int/job/3937595/spark-fund-thailand-specialist | Spark Fund | Thailand Specialist – Climate Change and Resilience (Bangkok) ⭐
-- [ ] https://erm.wd3.myworkdayjobs.com/ERM_EarlyCareers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725-2 | ERM Bangkok | Consulting Senior Associate – Climate (Bangkok) ⭐
+- [!] https://unjobs.org/vacancies/1674676047784 | UNESCAP | Cities and Climate Change Technical Advisor (Bangkok) ⭐ — Error: Posting from January 2023 — expired over 3 years ago; position closed.
+- [x] #191 | https://reliefweb.int/job/4010286/technical-experts-rdma-partnerships-asia-green-investment-activity | USAID RDMA | Technical Experts – Partnerships for Asia Green Investment Activity (Bangkok) | 1.5/5 | PDF ❌
+- [x] #192 | https://reliefweb.int/job/3937595/spark-fund-thailand-specialist | Global Fund for Children | Spark Fund Thailand Specialist – Climate Change and Resilience (Bangkok) | 2.0/5 | PDF ❌
+- [x] #193 | https://erm.wd3.myworkdayjobs.com/ERM_EarlyCareers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725-2 | ERM Bangkok | Consulting Senior Associate – Climate (Bangkok) | 2.5/5 | PDF ❌
 
 <!-- Scan 2026-06-03 — Singapore / Ratings -->
-- [ ] https://careers.moodys.com/job/18835919/associate-analyst-sustainable-finance-singapore-sg/ | Moody's | Associate Analyst – Sustainable Finance (Singapore)
-- [ ] https://oecd.impactpool.org/vacancies/1199180 | IEA/OECD | Renewable Energy Analyst (Paris)
+- [x] #194 | https://careers.moodys.com/job/18835919/associate-analyst-sustainable-finance-singapore-sg/ | Moody's | Associate Analyst – Sustainable Finance (Singapore) | 3.2/5 | PDF ❌
+- [!] https://oecd.impactpool.org/vacancies/1199180 | IEA/OECD | Renewable Energy Analyst (Paris) — Error: Application deadline March 18, 2026 — expired.
 
 <!-- Scan 2026-06-03 — Ramboll Asia (new) -->
-- [ ] https://www.ramboll.com/careers/9aa2f088-e96f-4ac7-10c8-08de37875cb1 | Ramboll | Senior Environmental Consultant (Kuala Lumpur)
-- [ ] https://www.ramboll.com/careers/da59b9b7-e466-4ad8-fc6c-08dba86f756b | Ramboll | Lead Consultant/Manager – ESG Due Diligence and Sustainable Finance (Asia)
-- [ ] https://www.ramboll.com/careers/52b0d84b-a467-4a8c-ea0d-08dd97595629 | Ramboll | Consultant – Sustainable Finance (Asia)
-- [ ] https://www.ramboll.com/careers/8e766b88-1364-4da7-decd-08dd230b4ae1 | Ramboll | Climate Risk and Strategy Consultant (Asia)
+- [x] #195 | https://www.ramboll.com/careers/9aa2f088-e96f-4ac7-10c8-08de37875cb1 | Ramboll | Senior Environmental Consultant (Kuala Lumpur) | 1.8/5 | PDF ❌
+- [x] #196 | https://www.ramboll.com/careers/da59b9b7-e466-4ad8-fc6c-08dba86f756b | Ramboll | Lead Consultant/Manager – ESG Due Diligence and Sustainable Finance (Asia) | 1.8/5 | PDF ❌
+- [x] #197 | https://www.ramboll.com/careers/52b0d84b-a467-4a8c-ea0d-08dd97595629 | Ramboll | Consultant – Sustainable Finance (Asia) | 2.8/5 | PDF ❌
+- [x] #198 | https://www.ramboll.com/careers/8e766b88-1364-4da7-decd-08dd230b4ae1 | Ramboll | Climate Risk and Strategy Consultant (Asia) | 3.2/5 | PDF ❌
 
 <!-- Scan 2026-06-03 — UNOPS / UNIDO / IOs (new) -->
 - [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27840 | UNOPS | Project Officer – Climate Transparency
