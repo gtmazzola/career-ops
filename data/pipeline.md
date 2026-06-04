@@ -19,20 +19,20 @@
 - [x] #198 | https://www.ramboll.com/careers/8e766b88-1364-4da7-decd-08dd230b4ae1 | Ramboll | Climate Risk and Strategy Consultant (Asia) | 3.2/5 | PDF ❌
 
 <!-- Scan 2026-06-03 — UNOPS / UNIDO / IOs (new) -->
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27840 | UNOPS | Project Officer – Climate Transparency
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna) ⚠️ deadline ~15 Jun 2026
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1352426455/ | UNIDO | Industrial Development Officer P3 (Vienna) ⚠️ deadline ~5 Jun 2026
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27840 | UNOPS | Project Officer – Climate Transparency — Error: Vacancy closed April 22, 2024 — expired nearly two years ago.
+- [x] #199 | https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna) | 4.0/5 | PDF ❌
+- [x] #207 | https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1352426455/ | UNIDO | Industrial Development Officer P3 (Vienna) | 2.0/5 | PDF ❌
 
 <!-- Scan 2026-06-03 — GGGI (new roles) -->
-- [ ] https://careers.gggi.org/vacancy/international-energy-sector-mrv-consultant-608230.html | GGGI | International Energy Sector MRV Consultant
-- [ ] https://careers.gggi.org/vacancy/energy-program-officer-586444.html | GGGI | Energy Program Officer (Philippines) ⚠️ 5-7yr exp
-- [ ] https://careers.gggi.org/vacancy/junior-consultant-africa-regional-office-aro-604169.html | GGGI | Junior Consultant – Africa Regional Office ⚠️ wrong geography
+- [x] #201 | https://careers.gggi.org/vacancy/international-energy-sector-mrv-consultant-608230.html | GGGI | International Energy Sector MRV Consultant | 2.0/5 | PDF ❌
+- [x] #202 | https://careers.gggi.org/vacancy/energy-program-officer-586444.html | GGGI | Energy Program Officer (Philippines) | 2.0/5 | PDF ❌
+- [!] https://careers.gggi.org/vacancy/junior-consultant-africa-regional-office-aro-604169.html | GGGI | Junior Consultant – Africa Regional Office — Error: Application deadline February 10, 2026 — expired.
 
 <!-- Scan 2026-06-03 — Global Consulting / ESG (new) -->
-- [ ] https://www.terra.do/climate-jobs/job-board/esg-climate-analyst-datadriven-global-impact-8386015/ | Nasdaq (Terra.do) | ESG & Climate Analyst – Data-Driven & Global Impact (Philippines)
-- [ ] https://www.terra.do/climate-jobs/job-board/esg-reporting-data-analyst-8335472/ | ING (Terra.do) | ESG Reporting Data Analyst (Philippines)
-- [ ] https://www.terra.do/climate-jobs/job-board/Climate-Strategy-Consultant--Global-Business-Solutions-3Degrees-8391091/ | 3Degrees | Climate Strategy Consultant – Global Business Solutions (Remote)
-- [ ] https://www.climatechangecareers.com/job/iopa-solutions/remote/carbon-market-specialist/ | IOPA Solutions | Carbon Market Specialist (Remote)
+- [x] #203 | https://www.terra.do/climate-jobs/job-board/esg-climate-analyst-datadriven-global-impact-8386015/ | Nasdaq | ESG & Climate Analyst – Data-Driven & Global Impact (Philippines) | 3.0/5 | PDF ❌
+- [x] #204 | https://www.terra.do/climate-jobs/job-board/esg-reporting-data-analyst-8335472/ | ING | ESG Reporting Data Analyst (Philippines) | 2.5/5 | PDF ❌
+- [x] #208 | https://www.terra.do/climate-jobs/job-board/Climate-Strategy-Consultant--Global-Business-Solutions-3Degrees-8391091/ | 3Degrees | Climate Strategy Consultant – Global Business Solutions (Remote) | 3.5/5 | PDF ❌
+- [x] #206 | https://www.climatechangecareers.com/job/iopa-solutions/remote/carbon-market-specialist/ | IOPA Solutions | Carbon Market Specialist (Remote) | 2.0/5 | PDF ❌
 - [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant – Climate (Bengaluru, India)
 - [ ] https://www.climatechangecareers.com/job/greenpeace-south-asia/colombo-srilanka/climate-researcher/ | Greenpeace South Asia | Climate Researcher (Colombo, Sri Lanka)
 - [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg, South Africa) ⚠️ 5yr exp + South Africa
