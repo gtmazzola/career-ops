@@ -2,6 +2,26 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-05 — Bangkok / Thailand ⭐ -->
+- [ ] https://untalent.org/jobs/national-consultant-environment-and-climate-action-unicef-thailand-bangkok | UNICEF Thailand | National Consultant – Environment and Climate Action (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok) ⭐
+- [ ] https://unjobs.org/vacancies/1776938744855 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) ⭐
+
+<!-- Scan 2026-06-05 — Singapore / ESG -->
+- [ ] https://www.mycareersfuture.gov.sg/job/climate-change-sustainability-services-associate-assurance-singapore-ernst-young-02d6fc44e144cda71a6c2f6a4ae3f04d | EY Singapore | Climate Change and Sustainability Services, Associate (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/senior-associate-climate-change-sustainability-assurance-singapore-ernst-young-abbefb868b2164ddc53df56cabfe486d | EY Singapore | Senior Associate, Climate Change and Sustainability Assurance (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-analyst-bnp-paribas-62058ff09a6981c8ed90a9c65b5ce332 | BNP Paribas | Sustainability Analyst (Singapore)
+
+<!-- Scan 2026-06-05 — UN / IOs (new) -->
+- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant
+- [ ] https://careers.un.org/jobSearchDescription/275973 | UN Careers | Consultant Specialist in Climate Finance
+- [ ] https://www.unjobnet.org/jobs/detail/84797759 | IDB | ESG Reporting Specialist / Senior Specialist
+
+<!-- Scan 2026-06-05 — Consulting / Global (new) -->
+- [ ] https://www.ramboll.com/careers/8586c0c1-978f-499e-4925-08dd1da336b9 | Ramboll | Associate Decarbonization/Sustainability Consultant
+- [ ] https://www.ramboll.com/careers/89ce23e1-63c0-4993-0537-08de8bce9ba0 | Ramboll | Associate Consultant (Sustainability)
+- [ ] https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead ⚠️ seniority unclear
+
 <!-- Scan 2026-06-03 — Bangkok / Thailand ⭐ -->
 - [!] https://unjobs.org/vacancies/1674676047784 | UNESCAP | Cities and Climate Change Technical Advisor (Bangkok) ⭐ — Error: Posting from January 2023 — expired over 3 years ago; position closed.
 - [x] #191 | https://reliefweb.int/job/4010286/technical-experts-rdma-partnerships-asia-green-investment-activity | USAID RDMA | Technical Experts – Partnerships for Asia Green Investment Activity (Bangkok) | 1.5/5 | PDF ❌
