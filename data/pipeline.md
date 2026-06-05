@@ -3,22 +3,22 @@
 ## Pendientes
 
 <!-- Scan 2026-06-05 — Bangkok / Thailand ⭐ -->
-- [ ] https://untalent.org/jobs/national-consultant-environment-and-climate-action-unicef-thailand-bangkok | UNICEF Thailand | National Consultant – Environment and Climate Action (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1776938744855 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) ⭐
+- [x] #209 | https://untalent.org/jobs/national-consultant-environment-and-climate-action-unicef-thailand-bangkok | UNICEF Thailand | National Consultant – Environment and Climate Action (Bangkok) | 3.0/5 | PDF ❌
+- [x] #210 | https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok) | 2.0/5 | PDF ❌
+- [!] https://unjobs.org/vacancies/1776938744855 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) ⭐ — Error: Posting expired 28 April 2026; position closed.
 
 <!-- Scan 2026-06-05 — Singapore / ESG -->
-- [ ] https://www.mycareersfuture.gov.sg/job/climate-change-sustainability-services-associate-assurance-singapore-ernst-young-02d6fc44e144cda71a6c2f6a4ae3f04d | EY Singapore | Climate Change and Sustainability Services, Associate (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/senior-associate-climate-change-sustainability-assurance-singapore-ernst-young-abbefb868b2164ddc53df56cabfe486d | EY Singapore | Senior Associate, Climate Change and Sustainability Assurance (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-analyst-bnp-paribas-62058ff09a6981c8ed90a9c65b5ce332 | BNP Paribas | Sustainability Analyst (Singapore)
+- [x] #211 | https://www.mycareersfuture.gov.sg/job/climate-change-sustainability-services-associate-assurance-singapore-ernst-young-02d6fc44e144cda71a6c2f6a4ae3f04d | EY Singapore | Climate Change and Sustainability Services, Associate (Singapore) | 3.5/5 | PDF ❌
+- [x] #212 | https://www.mycareersfuture.gov.sg/job/senior-associate-climate-change-sustainability-assurance-singapore-ernst-young-abbefb868b2164ddc53df56cabfe486d | EY Singapore | Senior Associate, Climate Change and Sustainability Assurance (Singapore) | 1.0/5 | PDF ❌
+- [x] #213 | https://www.mycareersfuture.gov.sg/job/sustainability-analyst-bnp-paribas-62058ff09a6981c8ed90a9c65b5ce332 | BNP Paribas | Sustainability Analyst – V.I.E. (Singapore) | 2.8/5 | PDF ❌
 
 <!-- Scan 2026-06-05 — UN / IOs (new) -->
-- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant
-- [ ] https://careers.un.org/jobSearchDescription/275973 | UN Careers | Consultant Specialist in Climate Finance
-- [ ] https://www.unjobnet.org/jobs/detail/84797759 | IDB | ESG Reporting Specialist / Senior Specialist
+- [!] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant — Error: Contract period Oct 2025–Mar 2026 already ended; position closed.
+- [x] #214 | https://careers.un.org/jobSearchDescription/275973 | UNEP | Consultant Specialist in Climate Finance (Panama City) | 2.0/5 | PDF ❌
+- [x] #215 | https://www.unjobnet.org/jobs/detail/84797759 | IDB | ESG Reporting Specialist / Senior Specialist (Washington D.C.) | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-06-05 — Consulting / Global (new) -->
-- [ ] https://www.ramboll.com/careers/8586c0c1-978f-499e-4925-08dd1da336b9 | Ramboll | Associate Decarbonization/Sustainability Consultant
+- [x] #216 | https://www.ramboll.com/careers/8586c0c1-978f-499e-4925-08dd1da336b9 | Ramboll | Associate Decarbonization/Sustainability Consultant (US) | 3.0/5 | PDF ❌
 - [ ] https://www.ramboll.com/careers/89ce23e1-63c0-4993-0537-08de8bce9ba0 | Ramboll | Associate Consultant (Sustainability)
 - [ ] https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead ⚠️ seniority unclear
 
