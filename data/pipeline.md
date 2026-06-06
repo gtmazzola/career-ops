@@ -2,6 +2,55 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-06 — UN / IO / Climate Funds (new) ⭐ -->
+- [ ] https://www.unjobnet.org/jobs/detail/84621152 | UNEP | Expert – Climate Change Mitigation (Energy and Buildings)
+- [ ] https://www.unjobnet.org/jobs/detail/80987257 | OECD | Energy Efficiency Policy Analysts
+- [ ] https://www.unjobnet.org/jobs/detail/77321578 | OECD | Junior Policy Analyst – Green Finance and Investment
+- [ ] https://www.unjobnet.org/jobs/detail/77504476 | EBRD | Analyst, Environmental & Social IPAM Compliance
+- [ ] https://careers.un.org/jobSearchDescription/277456 | UN Careers | Climate Services Financing Framework and Business Model Consultant
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30580 | UNOPS/SEforALL | Senior Officer, Energy Intelligence (Vienna)
+- [ ] https://www.unjobnet.org/jobs/detail/85227124 | UNIDO | Project Associate ISA-P1 (Vienna)
+- [ ] https://unjobs.org/vacancies/1774555363901 | UNIDO | Project Associate (Vienna)
+- [ ] https://www.impactpool.org/jobs/1112433 | UNOPS/NDC Partnership | NDC Partnership Climate Change Analyst (Kyrgyz Republic, Retainer)
+- [ ] https://www.devex.com/jobs/project-consultant-ndc-partnership-homebased-retainer-1405755 | NDC Partnership | Project Consultant – NDC Partnership (Homebased Retainer)
+- [ ] https://untalent.org/jobs/ndc-consultant-1 | UNEP | NDC Consultant
+- [ ] https://www.impactpool.org/jobs/843573 | GCF | Regional Analyst – Asia Pacific Regional Desk (Maternity Leave Cover)
+- [ ] https://www.impactpool.org/jobs/678719 | UNDP | Individual Consultant – Sustainable Finance Analyst
+- [ ] https://www.impactpool.org/jobs/1202896 | World Bank | Energy Specialist
+- [ ] https://untalent.org/jobs/energy-specialist-6 | World Bank | Energy Specialist
+- [ ] https://untalent.org/jobs/procurement-analyst-environment-and-social-governance | World Bank | Procurement Analyst (Environment and Social Governance)
+- [ ] https://www.unjobnet.org/jobs/detail/82783260 | OECD/IEA | Young Associate – International Energy Agency – Energy Modelling Office
+- [ ] https://www.unjobnet.org/jobs/detail/68072333 | EBRD | Climate Policy and Carbon Market Associate
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20923 | UNOPS | Programme Specialist – Climate Change & SDG Climate Facility
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24141 | UNOPS | Programme Specialist – Climate Change (Retainer)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst)
+- [ ] https://unjobs.org/vacancies/1776938345191 | UNOPS | Climate Senior Analyst (Infrastructure, Copenhagen)
+- [ ] https://www.adb.org/adbi/about/opportunities/research-associates-january-2026 | ADBI | Research Associates (Tokyo, January 2026 cohort)
+
+<!-- Scan 2026-06-06 — Consulting / ESG / Global (new) -->
+- [ ] https://careers.southpole.com/jobs/5772205-specialist-carbon-portfolio-offering | South Pole | Specialist, Carbon Portfolio Offering
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG---Sustainability-Consultant-The-Sustainability-Cloud-8262574/ | The Sustainability Cloud | ESG & Sustainability Consultant
+- [ ] https://www.terra.do/climate-jobs/job-board/senior-sustainability-analyst-8362475/ | HDR | Senior Sustainability Analyst
+- [ ] https://www.ramboll.com/careers/2dd65898-02df-4162-915a-08de5a4d2b12 | Ramboll | Environmental Impact Assessment (EIA) Consultant
+- [ ] https://www.climatepolicyinitiative.org/career/analyst-green-sustainable-finance/ | CPI | Analyst – Green & Sustainable Finance
+- [ ] https://www.bsr.org/en/careers/job-openings/esg-communications-and-reporting-associate | BSR | ESG Communications and Reporting Associate
+- [ ] https://www.bsr.org/en/careers/job-openings/specialist-sustainability-procurement | BSR | Specialist, Sustainability Procurement
+- [ ] https://ausconnect.dfat.gov.au/opportunities/renew-pacific-climate-and-development-consultant | DFAT | Climate and Development Consultant – REnew Pacific
+- [ ] https://www.terra.do/climate-jobs/job-board/associate-climate-sustainability-italy-8318728/ | BCG | Associate – Climate & Sustainability (Italy)
+- [ ] https://www.terra.do/climate-jobs/job-board/Renewable-Energy-Policy-Advocate--Analyst-to-Associate-level----REMOTE-Thinkbac-Consulting-8259194/ | ThinkBAC Consulting | Renewable Energy Policy Advocate (Remote)
+- [ ] https://www.terra.do/climate-jobs/job-board/Knowledge-Analyst---Energy-Solutions-McKinsey---Company-8346163/ | McKinsey | Knowledge Analyst – Energy Solutions
+- [ ] https://www.terra.do/climate-jobs/job-board/analyst-building-decarbonization-8235913/ | USGBC | Analyst, Building & Decarbonization
+- [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8350338/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability
+- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level--Environmental-Resources-Management--Erm--8202021/ | ERM | Consulting Associate – Sustainability (Entry Level)
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/senior-associate-manager-climate-change-and-sustainability-services-assurance/ | EY Singapore | Senior Associate / Manager – Climate Change and Sustainability Services, Assurance
+- [ ] https://www.impactpool.org/jobs/1155930 | GGGI | Senior Program Associate
+
+<!-- Scan 2026-06-06 — ReliefWeb / Development (new) -->
+- [ ] https://reliefweb.int/job/4118020/call-consultant-roster | Various (Bangladesh) | Call for Consultant Roster – Climate, ESG, Carbon, DRR Specialists
+- [ ] https://reliefweb.int/job/3801829/regional-program-officer-climate-change-and-human-rights | Various | Regional Program Officer – Climate Change and Human Rights
+- [ ] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Various | Consultant – Gendered Dimensions of Loss and Damage (Asia)
+- [ ] https://reliefweb.int/job/3998842/climate-resilience-national-training-officer-pakistan | ADPC | Climate Resilience National Training Officer (Pakistan)
+
 <!-- Scan 2026-06-05 — Bangkok / Thailand ⭐ -->
 - [x] #209 | https://untalent.org/jobs/national-consultant-environment-and-climate-action-unicef-thailand-bangkok | UNICEF Thailand | National Consultant – Environment and Climate Action (Bangkok) | 3.0/5 | PDF ❌
 - [x] #210 | https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok) | 2.0/5 | PDF ❌
