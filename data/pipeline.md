@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-06 — UN / IO / Climate Funds (new) ⭐ -->
-- [ ] https://www.unjobnet.org/jobs/detail/84621152 | UNEP | Expert – Climate Change Mitigation (Energy and Buildings)
-- [ ] https://www.unjobnet.org/jobs/detail/80987257 | OECD | Energy Efficiency Policy Analysts
-- [ ] https://www.unjobnet.org/jobs/detail/77321578 | OECD | Junior Policy Analyst – Green Finance and Investment
-- [ ] https://www.unjobnet.org/jobs/detail/77504476 | EBRD | Analyst, Environmental & Social IPAM Compliance
-- [ ] https://careers.un.org/jobSearchDescription/277456 | UN Careers | Climate Services Financing Framework and Business Model Consultant
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30580 | UNOPS/SEforALL | Senior Officer, Energy Intelligence (Vienna)
-- [ ] https://www.unjobnet.org/jobs/detail/85227124 | UNIDO | Project Associate ISA-P1 (Vienna)
-- [ ] https://unjobs.org/vacancies/1774555363901 | UNIDO | Project Associate (Vienna)
-- [ ] https://www.impactpool.org/jobs/1112433 | UNOPS/NDC Partnership | NDC Partnership Climate Change Analyst (Kyrgyz Republic, Retainer)
-- [ ] https://www.devex.com/jobs/project-consultant-ndc-partnership-homebased-retainer-1405755 | NDC Partnership | Project Consultant – NDC Partnership (Homebased Retainer)
+- [x] #217 | https://www.unjobnet.org/jobs/detail/84621152 | UNEP | Expert – Climate Change Mitigation (Energy and Buildings) | 2.8/5 | PDF ❌
+- [x] #218 | https://www.unjobnet.org/jobs/detail/80987257 | OECD | Energy Efficiency Policy Analysts | 3.5/5 | PDF ❌
+- [!] https://www.unjobnet.org/jobs/detail/77321578 | OECD | Junior Policy Analyst – Green Finance and Investment — Error: Application deadline March 5, 2025 — expired over 1 year ago; position closed.
+- [x] #219 | https://www.unjobnet.org/jobs/detail/77504476 | EBRD | Analyst, Environmental & Social IPAM Compliance | 2.2/5 | PDF ❌
+- [!] https://careers.un.org/jobSearchDescription/277456 | UN Careers | Climate Services Financing Framework and Business Model Consultant — Error: Application deadline May 27, 2026 — expired; position closed.
+- [x] #220 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30580 | UNOPS/SEforALL | Senior Officer, Energy Intelligence (Vienna) | 3.8/5 | PDF ❌
+- [x] #221 | https://www.unjobnet.org/jobs/detail/85227124 | UNIDO | Project Associate ISA-P1 (Vienna) | 4.0/5 | PDF ❌
+- [!] https://unjobs.org/vacancies/1774555363901 | UNIDO | Project Associate (Vienna) — Error: Duplicate of #199 (same posting as careers.unido.org/job/Vienna-Project-Associate/1353344655/); already evaluated.
+- [!] https://www.impactpool.org/jobs/1112433 | UNOPS/NDC Partnership | NDC Partnership Climate Change Analyst (Kyrgyz Republic, Retainer) — Error: Local position — Kyrgyz nationals/residents only; not eligible.
+- [x] #222 | https://www.devex.com/jobs/project-consultant-ndc-partnership-homebased-retainer-1405755 | NDC Partnership | Project Consultant – NDC Partnership (Homebased Retainer) | 1.8/5 | PDF ❌
 - [ ] https://untalent.org/jobs/ndc-consultant-1 | UNEP | NDC Consultant
 - [ ] https://www.impactpool.org/jobs/843573 | GCF | Regional Analyst – Asia Pacific Regional Desk (Maternity Leave Cover)
 - [ ] https://www.impactpool.org/jobs/678719 | UNDP | Individual Consultant – Sustainable Finance Analyst
