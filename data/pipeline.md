@@ -13,16 +13,16 @@
 - [!] https://unjobs.org/vacancies/1774555363901 | UNIDO | Project Associate (Vienna) — Error: Duplicate of #199 (same posting as careers.unido.org/job/Vienna-Project-Associate/1353344655/); already evaluated.
 - [!] https://www.impactpool.org/jobs/1112433 | UNOPS/NDC Partnership | NDC Partnership Climate Change Analyst (Kyrgyz Republic, Retainer) — Error: Local position — Kyrgyz nationals/residents only; not eligible.
 - [x] #222 | https://www.devex.com/jobs/project-consultant-ndc-partnership-homebased-retainer-1405755 | NDC Partnership | Project Consultant – NDC Partnership (Homebased Retainer) | 1.8/5 | PDF ❌
-- [ ] https://untalent.org/jobs/ndc-consultant-1 | UNEP | NDC Consultant
-- [ ] https://www.impactpool.org/jobs/843573 | GCF | Regional Analyst – Asia Pacific Regional Desk (Maternity Leave Cover)
-- [ ] https://www.impactpool.org/jobs/678719 | UNDP | Individual Consultant – Sustainable Finance Analyst
-- [ ] https://www.impactpool.org/jobs/1202896 | World Bank | Energy Specialist
-- [ ] https://untalent.org/jobs/energy-specialist-6 | World Bank | Energy Specialist
-- [ ] https://untalent.org/jobs/procurement-analyst-environment-and-social-governance | World Bank | Procurement Analyst (Environment and Social Governance)
-- [ ] https://www.unjobnet.org/jobs/detail/82783260 | OECD/IEA | Young Associate – International Energy Agency – Energy Modelling Office
-- [ ] https://www.unjobnet.org/jobs/detail/68072333 | EBRD | Climate Policy and Carbon Market Associate
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20923 | UNOPS | Programme Specialist – Climate Change & SDG Climate Facility
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24141 | UNOPS | Programme Specialist – Climate Change (Retainer)
+- [!] https://untalent.org/jobs/ndc-consultant-1 | UNEP | NDC Consultant — Error: Application deadline passed (~May 2026); posting closed.
+- [!] https://www.impactpool.org/jobs/843573 | GCF | Regional Analyst – Asia Pacific Regional Desk (Maternity Leave Cover) — Error: Posting from ~2022–2023 (Impactpool ID 843573); 6-month maternity cover long since completed; position closed.
+- [!] https://www.impactpool.org/jobs/678719 | UNDP | Individual Consultant – Sustainable Finance Analyst — Error: Duplicate of #160 (same posting as jobs.undp.org/cj_view_job.cfm?cur_job_id=97166, already evaluated 3.0/5); skip.
+- [!] https://www.impactpool.org/jobs/1202896 | World Bank | Energy Specialist (Vienna, GF) — Error: Application deadline 30 March 2026 — expired; position closed.
+- [!] https://untalent.org/jobs/energy-specialist-6 | World Bank | Energy Specialist (East/Southern Africa) — Error: Application deadline 13 February 2025 — expired over 1 year ago; position closed.
+- [!] https://untalent.org/jobs/procurement-analyst-environment-and-social-governance | World Bank | Procurement Analyst (Environment and Social Governance) — Error: Posting expired over 1 year ago; position closed.
+- [!] https://www.unjobnet.org/jobs/detail/82783260 | OECD/IEA | Young Associate – International Energy Agency – Energy Modelling Office — Error: Application deadline 14 December 2025 — expired; 2026–28 cohort cycle closed.
+- [!] https://www.unjobnet.org/jobs/detail/68072333 | EBRD | Climate Policy and Carbon Market Associate — Error: Posting no longer open; position closed.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20923 | UNOPS | Programme Specialist – Climate Change & SDG Climate Facility — Error: Vacancy cancelled; application period was Dec 2020–Jan 2021; position closed over 5 years ago.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24141 | UNOPS | Programme Specialist – Climate Change (Retainer) — Error: Application period June–July 2022 — expired; Jordan nationals only; ineligible.
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst)
 - [ ] https://unjobs.org/vacancies/1776938345191 | UNOPS | Climate Senior Analyst (Infrastructure, Copenhagen)
 - [ ] https://www.adb.org/adbi/about/opportunities/research-associates-january-2026 | ADBI | Research Associates (Tokyo, January 2026 cohort)
