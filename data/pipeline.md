@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-08 — Global / IOs / ESG / Bangkok (new) -->
+- [ ] https://www.thaingo.org/jobs/detail/14936 | ThaiNGO | Climate Change and Green Jobs Technical Advisor (Bangkok) ⭐
+- [ ] https://careers.gggi.org/vacancy/carbon-pricing-readiness-service-delivery-junior-consultant-580316.html | GGGI | Carbon Pricing Readiness Service Delivery Junior Consultant
+- [ ] https://untalent.org/jobs/ccac-junior-programme-manager-1 | UNEP | CCAC Junior Programme Manager
+- [ ] https://untalent.org/jobs/energy-climate-senior-advisor | UNOPS | Energy & Climate Senior Advisor ⚠️ seniority unclear
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy58.html | AIIB | Investment Analyst – Energy (new cohort)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/Environment-Associate.html | AIIB | Environment Associate (Staff)
+- [ ] https://unjobs.org/vacancies/1777417015603 | Clean Air Asia | Financing Expert (Consultant) (Manila)
+- [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-environmental-social-governance-associate-esg-assurance-2026-intake/ | PwC Singapore | Risk Services – ESG Associate (ESG Assurance) – 2026 Intake
+- [ ] https://www.terra.do/climate-jobs/job-board/Associate-Analyst---Asian-Infrastructure-Investment-Bank-Jobs-Via-Efinancialcareers-8290036/ | AIIB | Associate Analyst (via eFinancialCareers)
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate
+- [ ] https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI Beijing | Analyst – Center for Sustainable Finance
+- [ ] https://www.terra.do/climate-jobs/job-board/Graduate---Consultant--Sustainability--Climate-Change---Risk--Decarbonisation--Aurecon-Australasia-Pty-Ltd-8125041/ | Aurecon | Graduate – Consultant, Sustainability, Climate Change & Risk (Decarbonisation)
+
 <!-- Scan 2026-06-06 — UN / IO / Climate Funds (new) ⭐ -->
 - [x] #217 | https://www.unjobnet.org/jobs/detail/84621152 | UNEP | Expert – Climate Change Mitigation (Energy and Buildings) | 2.8/5 | PDF ❌
 - [x] #218 | https://www.unjobnet.org/jobs/detail/80987257 | OECD | Energy Efficiency Policy Analysts | 3.5/5 | PDF ❌
