@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-09 — Global / ESG / Bangkok (new) -->
+- [ ] https://www.unjobnet.org/jobs/detail/86072655 | UNEP | Programme Management Associate
+- [ ] https://unjobs.org/vacancies/1775844180913 | RECOFTC | Project Officer (Thailand)
+- [ ] https://www.terra.do/climate-jobs/job-board/Sustainability-ESG-Consultant-Rs-H-8253557/ | RS&H | Sustainability/ESG Consultant
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Analyst-Beacon-Hill-Staffing-Group-8298966/ | Beacon Hill | ESG Analyst
+- [ ] https://www.terra.do/climate-jobs/job-board/energy-markets-and-sustainability-analyst-coop-8298158/ | Veolia | Energy Markets and Sustainability Analyst CoOp
+- [ ] https://untalent.org/jobs/climate-finance-analyst | WRI | Climate Finance Analyst
+- [ ] https://www.devex.com/jobs/individual-consultant-climate-research-analyst-jakarta-based-1348107 | WRI | Individual Consultant – Climate Research Analyst (Jakarta)
+- [ ] https://www.devex.com/jobs/manager-in-regional-environment-social-and-governance-esg-team-885264 | Various | Manager in Regional ESG Team
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/associate-%E2%80%93-environmental-sustainability-consulting-jda-wms-333f3b4ef5e50135c0d4ad9613c11c12 | JDA WMS | Associate – Environmental Sustainability Consulting
+- [ ] https://www.climatechangecareers.com/job/pwc-india/bengaluru-india/in-senior-associate_esg-sustainability_climate-sustainability-strategy_advisory_bangalore/ | PwC India | Senior Associate – ESG Sustainability (Bangalore)
+- [ ] https://careers.un.org/jobSearchDescription/250557 | UN | Climate Information Services Consultant
+- [ ] https://careers.un.org/jobSearchDescription/228674 | UN | Consultant, Physical Climate Risk and Adaptation
+- [ ] https://www.climatepolicyinitiative.org/career/analyst-climate-finance-4/ | CPI | Analyst, Climate Finance
+
 <!-- Scan 2026-06-08 — Global / IOs / ESG / Bangkok (new) -->
 - [x] #223 | https://www.thaingo.org/jobs/detail/14936 | ThaiNGO | Climate Change and Green Jobs Technical Advisor (Bangkok) | 2.5/5 | PDF (no)
 - [x] #224 | https://careers.gggi.org/vacancy/carbon-pricing-readiness-service-delivery-junior-consultant-580316.html | GGGI | Carbon Pricing Readiness Service Delivery Junior Consultant | 3.0/5 | PDF (no)
