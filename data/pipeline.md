@@ -13,9 +13,9 @@
 - [x] #237 | https://www.devex.com/jobs/manager-in-regional-environment-social-and-governance-esg-team-885264 | PwC Advisory | Manager in Regional ESG Team (Poland/CEE) | 1.5/5 | PDF (no)
 - [x] #238 | https://www.mycareersfuture.gov.sg/job/consulting/associate-%E2%80%93-environmental-sustainability-consulting-jda-wms-333f3b4ef5e50135c0d4ad9613c11c12 | JDA WMS | Associate – Environmental Sustainability Consulting | 3.0/5 | PDF (no)
 - [x] #239 | https://www.climatechangecareers.com/job/pwc-india/bengaluru-india/in-senior-associate_esg-sustainability_climate-sustainability-strategy_advisory_bangalore/ | PwC India | Senior Associate – ESG Sustainability (Bangalore) | 3.0/5 | PDF (no)
-- [ ] https://careers.un.org/jobSearchDescription/250557 | UN | Climate Information Services Consultant
-- [ ] https://careers.un.org/jobSearchDescription/228674 | UN | Consultant, Physical Climate Risk and Adaptation
-- [ ] https://www.climatepolicyinitiative.org/career/analyst-climate-finance-4/ | CPI | Analyst, Climate Finance
+- [!] https://careers.un.org/jobSearchDescription/250557 | UN | Climate Information Services Consultant — Error: Posting expired approximately 1 year ago (UNEP consultancy); position closed.
+- [!] https://careers.un.org/jobSearchDescription/228674 | UN | Consultant, Physical Climate Risk and Adaptation — Error: Application deadline March 6, 2024 — expired over 2 years ago (UNEP FI); position closed.
+- [x] #240 | https://www.climatepolicyinitiative.org/career/analyst-climate-finance-4/ | CPI | Analyst, Climate Finance | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-06-08 — Global / IOs / ESG / Bangkok (new) -->
 - [x] #223 | https://www.thaingo.org/jobs/detail/14936 | ThaiNGO | Climate Change and Green Jobs Technical Advisor (Bangkok) | 2.5/5 | PDF (no)
@@ -28,8 +28,8 @@
 - [x] #229 | https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-environmental-social-governance-associate-esg-assurance-2026-intake/ | PwC Singapore | Risk Services – ESG Associate (ESG Assurance) – 2026 Intake | 3.2/5 | PDF (no)
 - [x] #230 | https://www.terra.do/climate-jobs/job-board/Associate-Analyst---Asian-Infrastructure-Investment-Bank-Jobs-Via-Efinancialcareers-8290036/ | AIIB | Associate Analyst (via eFinancialCareers) | 2.0/5 | PDF (no)
 - [x] #231 | https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate | 2.5/5 | PDF (no)
-- [ ] https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI Beijing | Analyst – Center for Sustainable Finance
-- [ ] https://www.terra.do/climate-jobs/job-board/Graduate---Consultant--Sustainability--Climate-Change---Risk--Decarbonisation--Aurecon-Australasia-Pty-Ltd-8125041/ | Aurecon | Graduate – Consultant, Sustainability, Climate Change & Risk (Decarbonisation)
+- [x] #241 | https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI India | Analyst – Center for Sustainable Finance | 2.5/5 | PDF (no)
+- [x] #242 | https://www.terra.do/climate-jobs/job-board/Graduate---Consultant--Sustainability--Climate-Change---Risk--Decarbonisation--Aurecon-Australasia-Pty-Ltd-8125041/ | Aurecon | Graduate – Consultant, Sustainability, Climate Change & Risk (Decarbonisation) | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-06-06 — UN / IO / Climate Funds (new) ⭐ -->
 - [x] #217 | https://www.unjobnet.org/jobs/detail/84621152 | UNEP | Expert – Climate Change Mitigation (Energy and Buildings) | 2.8/5 | PDF ❌
@@ -52,13 +52,13 @@
 - [!] https://www.unjobnet.org/jobs/detail/68072333 | EBRD | Climate Policy and Carbon Market Associate — Error: Posting no longer open; position closed.
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20923 | UNOPS | Programme Specialist – Climate Change & SDG Climate Facility — Error: Vacancy cancelled; application period was Dec 2020–Jan 2021; position closed over 5 years ago.
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24141 | UNOPS | Programme Specialist – Climate Change (Retainer) — Error: Application period June–July 2022 — expired; Jordan nationals only; ineligible.
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst)
-- [ ] https://unjobs.org/vacancies/1776938345191 | UNOPS | Climate Senior Analyst (Infrastructure, Copenhagen)
-- [ ] https://www.adb.org/adbi/about/opportunities/research-associates-january-2026 | ADBI | Research Associates (Tokyo, January 2026 cohort)
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst) — Error: Vacancy cancelled; application period March–April 2021; temporary appointment until March 2022 — position closed over 4 years ago.
+- [x] #243 | https://unjobs.org/vacancies/1776938345191 | UNOPS | Climate Senior Analyst (Infrastructure, Copenhagen) | 3.0/5 | PDF (no)
+- [!] https://www.adb.org/adbi/about/opportunities/research-associates-january-2026 | ADBI | Research Associates (Tokyo, January 2026 cohort) — Error: Application deadline January 20, 2026 — expired; also requires current Japan residency with valid working permission.
 
 <!-- Scan 2026-06-06 — Consulting / ESG / Global (new) -->
-- [ ] https://careers.southpole.com/jobs/5772205-specialist-carbon-portfolio-offering | South Pole | Specialist, Carbon Portfolio Offering
-- [ ] https://www.terra.do/climate-jobs/job-board/ESG---Sustainability-Consultant-The-Sustainability-Cloud-8262574/ | The Sustainability Cloud | ESG & Sustainability Consultant
+- [x] #244 | https://careers.southpole.com/jobs/5772205-specialist-carbon-portfolio-offering | South Pole | Specialist, Carbon Portfolio Offering | 1.0/5 | PDF (no)
+- [x] #245 | https://www.terra.do/climate-jobs/job-board/ESG---Sustainability-Consultant-The-Sustainability-Cloud-8262574/ | The Sustainability Cloud | ESG & Sustainability Consultant | 2.0/5 | PDF (no)
 - [ ] https://www.terra.do/climate-jobs/job-board/senior-sustainability-analyst-8362475/ | HDR | Senior Sustainability Analyst
 - [ ] https://www.ramboll.com/careers/2dd65898-02df-4162-915a-08de5a4d2b12 | Ramboll | Environmental Impact Assessment (EIA) Consultant
 - [ ] https://www.climatepolicyinitiative.org/career/analyst-green-sustainable-finance/ | CPI | Analyst – Green & Sustainable Finance

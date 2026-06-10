@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 242 | 2026-06-10 | Aurecon | Graduate Consultant – Sustainability, Climate Change & Risk | 2.0/5 | Evaluada | ❌ | [242](reports/242-aurecon-graduate-consultant-sustainability-2026-06-10.md) | Australia (Sydney/Brisbane/Canberra); good academic fit but visa needed; not preferred geography |
+| 244 | 2026-06-10 | South Pole | Specialist, Carbon Portfolio Offering | 1.0/5 | Evaluada | ❌ | [244](reports/244-south-pole-carbon-portfolio-specialist-2026-06-10.md) | London UK; hard blocker: German fluency required (candidate A2); UK visa also needed |
+| 245 | 2026-06-10 | The Sustainability Cloud | ESG & Sustainability Consultant | 2.0/5 | Evaluada | ❌ | [245](reports/245-sustainability-cloud-esg-consultant-2026-06-10.md) | Gurugram India; ESG knowledge match but India visa, below-target comp, sales-heavy role |
 | 233 | 2026-06-09 | RS&H | Sustainability/ESG Consultant | 1.5/5 | Evaluada | ❌ | [233](reports/233-rsh-sustainability-esg-consultant-2026-06-09.md) | Indianapolis, airports ESG; 5yr exp required — hard seniority blocker |
 | 234 | 2026-06-09 | Beacon Hill | ESG Analyst | 2.5/5 | Evaluada | ❌ | [234](reports/234-beacon-hill-esg-analyst-2026-06-09.md) | Remote part-time; CSRD/emissions data match but part-time limits value |
 | 237 | 2026-06-09 | PwC Advisory | Manager in Regional ESG Team | 1.5/5 | Evaluada | ❌ | [237](reports/237-pwc-advisory-esg-manager-poland-2026-06-09.md) | Poland CEE; 7yr exp required — hard seniority and geography blocker |
