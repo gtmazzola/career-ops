@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-11 — Bangkok / Singapore / Global ESG (new) -->
+- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/corporate-esg-officer-senior-assistant-manager/ | KPMG Thailand | Corporate ESG Officer (Senior - Assistant Manager) ⭐ Bangkok
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-isrc-31f29626edad43a7fae32d512fa354ef | ISRC | Sustainability Consultant (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/analyst-sustainability-solutions-engie-impact-811da416c2fa22d6648fd4fa20076561 | ENGIE Impact | Analyst, Sustainability Solutions (Singapore)
+- [ ] https://www.terra.do/climate-jobs/job-board/esg-research-analyst-8391590/ | MSCI | ESG Research Analyst (India, 12-month contract)
+- [ ] https://www.terra.do/climate-jobs/job-board/Carbon-Data-Analyst--1-year-Contract--Terrascope-8231993/ | Terrascope | Carbon Data Analyst (Singapore/India, 1-year contract)
+
 <!-- Scan 2026-06-09 — Global / ESG / Bangkok (new) -->
 - [x] #232 | https://www.unjobnet.org/jobs/detail/86072655 | UNEP | Programme Management Associate | 4.0/5 | PDF (no)
 - [!] https://unjobs.org/vacancies/1775844180913 | RECOFTC | Project Officer (Thailand) — Error: Application deadline April 30, 2026 — expired; position closed.
