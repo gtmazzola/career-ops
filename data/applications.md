@@ -2,6 +2,13 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 246 | 2026-06-11 | KPMG Thailand | Corporate ESG Officer (Senior AM) | 3.0/5 | Evaluada | ❌ | [246](reports/246-kpmg-thailand-corporate-esg-officer-2026-06-11.md) | Bangkok ⭐; internal CSR/ESG role; ESG reporting match but community-engagement focus dilutes fit |
+| 248 | 2026-06-11 | MSCI | ESG Research Analyst | 2.5/5 | Evaluada | ❌ | [248](reports/248-msci-esg-research-analyst-2026-06-11.md) | India; 12-month contract; fixed income ESG domain gap; quantitative skills match; India location not ideal |
+| 249 | 2026-06-11 | Terrascope | Carbon Data Analyst | 2.0/5 | Evaluada | ❌ | [249](reports/249-terrascope-carbon-data-analyst-2026-06-11.md) | Singapore/India; 1-yr contract; carbon data ops role; Scope 3 gap; company in M&A transition |
+| 250 | 2026-06-11 | HDR | Senior Sustainability Analyst | 1.5/5 | Evaluada | ❌ | [250](reports/250-hdr-senior-sustainability-analyst-2026-06-11.md) | US; built environment domain; 6yr+ required; LEED/BREEM/BIM — multiple hard blockers |
+| 251 | 2026-06-11 | Ramboll | EIA Consultant | 2.0/5 | Evaluada | ❌ | [251](reports/251-ramboll-eia-consultant-2026-06-11.md) | Europe; EIA methodology gap; ArcGIS gap; European permitting — domain mismatch |
+| 253 | 2026-06-11 | BSR Member Co. | ESG Communications and Reporting Associate | 2.0/5 | Evaluada | ❌ | [253](reports/253-bsr-esg-communications-reporting-2026-06-11.md) | Location/employer unknown; ESG reporting match but comms-heavy; DDQ/investor relations gap |
+| 254 | 2026-06-11 | BSR Member Co. | Specialist, Sustainability Procurement | 1.5/5 | Evaluada | ❌ | [254](reports/254-bsr-sustainability-procurement-2026-06-11.md) | Location/employer unknown; supply chain procurement domain mismatch; 4yr+ required |
 | 242 | 2026-06-10 | Aurecon | Graduate Consultant – Sustainability, Climate Change & Risk | 2.0/5 | Evaluada | ❌ | [242](reports/242-aurecon-graduate-consultant-sustainability-2026-06-10.md) | Australia (Sydney/Brisbane/Canberra); good academic fit but visa needed; not preferred geography |
 | 244 | 2026-06-10 | South Pole | Specialist, Carbon Portfolio Offering | 1.0/5 | Evaluada | ❌ | [244](reports/244-south-pole-carbon-portfolio-specialist-2026-06-10.md) | London UK; hard blocker: German fluency required (candidate A2); UK visa also needed |
 | 245 | 2026-06-10 | The Sustainability Cloud | ESG & Sustainability Consultant | 2.0/5 | Evaluada | ❌ | [245](reports/245-sustainability-cloud-esg-consultant-2026-06-10.md) | Gurugram India; ESG knowledge match but India visa, below-target comp, sales-heavy role |

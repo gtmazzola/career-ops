@@ -3,11 +3,11 @@
 ## Pendientes
 
 <!-- Scan 2026-06-11 — Bangkok / Singapore / Global ESG (new) -->
-- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/corporate-esg-officer-senior-assistant-manager/ | KPMG Thailand | Corporate ESG Officer (Senior - Assistant Manager) ⭐ Bangkok
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-isrc-31f29626edad43a7fae32d512fa354ef | ISRC | Sustainability Consultant (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/analyst-sustainability-solutions-engie-impact-811da416c2fa22d6648fd4fa20076561 | ENGIE Impact | Analyst, Sustainability Solutions (Singapore)
-- [ ] https://www.terra.do/climate-jobs/job-board/esg-research-analyst-8391590/ | MSCI | ESG Research Analyst (India, 12-month contract)
-- [ ] https://www.terra.do/climate-jobs/job-board/Carbon-Data-Analyst--1-year-Contract--Terrascope-8231993/ | Terrascope | Carbon Data Analyst (Singapore/India, 1-year contract)
+- [x] #246 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/corporate-esg-officer-senior-assistant-manager/ | KPMG Thailand | Corporate ESG Officer (Senior AM) | 3.0/5 | PDF (no)
+- [!] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-isrc-31f29626edad43a7fae32d512fa354ef | ISRC | Sustainability Consultant (Singapore) — Error: JD not retrievable (403 on WebFetch; WebSearch returned no JD content); cannot evaluate.
+- [x] #247 | https://www.mycareersfuture.gov.sg/job/analyst-sustainability-solutions-engie-impact-811da416c2fa22d6648fd4fa20076561 | ENGIE Impact | Analyst, Sustainability Solutions | 3.0/5 | PDF (no)
+- [x] #248 | https://www.terra.do/climate-jobs/job-board/esg-research-analyst-8391590/ | MSCI | ESG Research Analyst | 2.5/5 | PDF (no)
+- [x] #249 | https://www.terra.do/climate-jobs/job-board/Carbon-Data-Analyst--1-year-Contract--Terrascope-8231993/ | Terrascope | Carbon Data Analyst | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-06-09 — Global / ESG / Bangkok (new) -->
 - [x] #232 | https://www.unjobnet.org/jobs/detail/86072655 | UNEP | Programme Management Associate | 4.0/5 | PDF (no)
@@ -66,11 +66,11 @@
 <!-- Scan 2026-06-06 — Consulting / ESG / Global (new) -->
 - [x] #244 | https://careers.southpole.com/jobs/5772205-specialist-carbon-portfolio-offering | South Pole | Specialist, Carbon Portfolio Offering | 1.0/5 | PDF (no)
 - [x] #245 | https://www.terra.do/climate-jobs/job-board/ESG---Sustainability-Consultant-The-Sustainability-Cloud-8262574/ | The Sustainability Cloud | ESG & Sustainability Consultant | 2.0/5 | PDF (no)
-- [ ] https://www.terra.do/climate-jobs/job-board/senior-sustainability-analyst-8362475/ | HDR | Senior Sustainability Analyst
-- [ ] https://www.ramboll.com/careers/2dd65898-02df-4162-915a-08de5a4d2b12 | Ramboll | Environmental Impact Assessment (EIA) Consultant
-- [ ] https://www.climatepolicyinitiative.org/career/analyst-green-sustainable-finance/ | CPI | Analyst – Green & Sustainable Finance
-- [ ] https://www.bsr.org/en/careers/job-openings/esg-communications-and-reporting-associate | BSR | ESG Communications and Reporting Associate
-- [ ] https://www.bsr.org/en/careers/job-openings/specialist-sustainability-procurement | BSR | Specialist, Sustainability Procurement
+- [x] #250 | https://www.terra.do/climate-jobs/job-board/senior-sustainability-analyst-8362475/ | HDR | Senior Sustainability Analyst | 1.5/5 | PDF (no)
+- [x] #251 | https://www.ramboll.com/careers/2dd65898-02df-4162-915a-08de5a4d2b12 | Ramboll | Environmental Impact Assessment (EIA) Consultant | 2.0/5 | PDF (no)
+- [x] #252 | https://www.climatepolicyinitiative.org/career/analyst-green-sustainable-finance/ | CPI | Analyst – Green & Sustainable Finance | 3.5/5 | PDF (no)
+- [x] #253 | https://www.bsr.org/en/careers/job-openings/esg-communications-and-reporting-associate | BSR | ESG Communications and Reporting Associate | 2.0/5 | PDF (no)
+- [x] #254 | https://www.bsr.org/en/careers/job-openings/specialist-sustainability-procurement | BSR | Specialist, Sustainability Procurement | 1.5/5 | PDF (no)
 - [ ] https://ausconnect.dfat.gov.au/opportunities/renew-pacific-climate-and-development-consultant | DFAT | Climate and Development Consultant – REnew Pacific
 - [ ] https://www.terra.do/climate-jobs/job-board/associate-climate-sustainability-italy-8318728/ | BCG | Associate – Climate & Sustainability (Italy)
 - [ ] https://www.terra.do/climate-jobs/job-board/Renewable-Energy-Policy-Advocate--Analyst-to-Associate-level----REMOTE-Thinkbac-Consulting-8259194/ | ThinkBAC Consulting | Renewable Energy Policy Advocate (Remote)
