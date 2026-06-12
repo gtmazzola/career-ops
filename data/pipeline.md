@@ -71,18 +71,18 @@
 - [x] #252 | https://www.climatepolicyinitiative.org/career/analyst-green-sustainable-finance/ | CPI | Analyst – Green & Sustainable Finance | 3.5/5 | PDF (no)
 - [x] #253 | https://www.bsr.org/en/careers/job-openings/esg-communications-and-reporting-associate | BSR | ESG Communications and Reporting Associate | 2.0/5 | PDF (no)
 - [x] #254 | https://www.bsr.org/en/careers/job-openings/specialist-sustainability-procurement | BSR | Specialist, Sustainability Procurement | 1.5/5 | PDF (no)
-- [ ] https://ausconnect.dfat.gov.au/opportunities/renew-pacific-climate-and-development-consultant | DFAT | Climate and Development Consultant – REnew Pacific
-- [ ] https://www.terra.do/climate-jobs/job-board/associate-climate-sustainability-italy-8318728/ | BCG | Associate – Climate & Sustainability (Italy)
-- [ ] https://www.terra.do/climate-jobs/job-board/Renewable-Energy-Policy-Advocate--Analyst-to-Associate-level----REMOTE-Thinkbac-Consulting-8259194/ | ThinkBAC Consulting | Renewable Energy Policy Advocate (Remote)
-- [ ] https://www.terra.do/climate-jobs/job-board/Knowledge-Analyst---Energy-Solutions-McKinsey---Company-8346163/ | McKinsey | Knowledge Analyst – Energy Solutions
-- [ ] https://www.terra.do/climate-jobs/job-board/analyst-building-decarbonization-8235913/ | USGBC | Analyst, Building & Decarbonization
-- [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8350338/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability
-- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level--Environmental-Resources-Management--Erm--8202021/ | ERM | Consulting Associate – Sustainability (Entry Level)
-- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/senior-associate-manager-climate-change-and-sustainability-services-assurance/ | EY Singapore | Senior Associate / Manager – Climate Change and Sustainability Services, Assurance
-- [ ] https://www.impactpool.org/jobs/1155930 | GGGI | Senior Program Associate
+- [x] #255 | https://ausconnect.dfat.gov.au/opportunities/renew-pacific-climate-and-development-consultant | DFAT | Climate and Development Consultant – REnew Pacific | 2.8/5 | PDF (no)
+- [x] #256 | https://www.terra.do/climate-jobs/job-board/associate-climate-sustainability-italy-8318728/ | BCG | Associate – Climate & Sustainability (Italy) | 3.0/5 | PDF (no)
+- [x] #257 | https://www.terra.do/climate-jobs/job-board/Renewable-Energy-Policy-Advocate--Analyst-to-Associate-level----REMOTE-Thinkbac-Consulting-8259194/ | ThinkBAC Consulting | Renewable Energy Policy Advocate (Remote) | 1.8/5 | PDF (no)
+- [x] #258 | https://www.terra.do/climate-jobs/job-board/Knowledge-Analyst---Energy-Solutions-McKinsey---Company-8346163/ | McKinsey | Knowledge Analyst – Energy Solutions | 3.8/5 | PDF (no)
+- [x] #259 | https://www.terra.do/climate-jobs/job-board/analyst-building-decarbonization-8235913/ | USGBC | Analyst, Building & Decarbonization | 1.5/5 | PDF (no)
+- [x] #260 | https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8350338/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability | 2.8/5 | PDF (no)
+- [x] #261 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level--Environmental-Resources-Management--Erm--8202021/ | ERM | Consulting Associate – Sustainability (Entry Level) | 3.2/5 | PDF (no)
+- [x] #262 | https://www.climatechangecareers.com/job/ey/singapore-singapore/senior-associate-manager-climate-change-and-sustainability-services-assurance/ | EY Singapore | Senior Associate / Manager – Climate Change and Sustainability Services, Assurance | 2.5/5 | PDF (no)
+- [x] #263 | https://www.impactpool.org/jobs/1155930 | GGGI | Senior Program Associate | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-06-06 — ReliefWeb / Development (new) -->
-- [ ] https://reliefweb.int/job/4118020/call-consultant-roster | Various (Bangladesh) | Call for Consultant Roster – Climate, ESG, Carbon, DRR Specialists
+- [x] #264 | https://reliefweb.int/job/4118020/call-consultant-roster | Various (Bangladesh) | Call for Consultant Roster – Climate, ESG, Carbon, DRR Specialists | 1.8/5 | PDF (no)
 - [ ] https://reliefweb.int/job/3801829/regional-program-officer-climate-change-and-human-rights | Various | Regional Program Officer – Climate Change and Human Rights
 - [ ] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Various | Consultant – Gendered Dimensions of Loss and Damage (Asia)
 - [ ] https://reliefweb.int/job/3998842/climate-resilience-national-training-officer-pakistan | ADPC | Climate Resilience National Training Officer (Pakistan)
