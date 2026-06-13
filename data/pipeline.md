@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-13 — Multi-portal: UNjobs / Devex / FAO / GGGI / GHG Protocol / terra.do / ClimateChangeCareers -->
-- [ ] https://unjobs.org/vacancies/1739820744949 | UNDP | Climate Finance Specialist (Bangkok, Thailand) ⭐
-- [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF | Junior Climate Change Consultant – LEAD Program (Bangkok, Thailand) ⭐
-- [ ] https://community.iisd.org/jobs/climate-finance-consultant-ndc-partnership/ | NDC Partnership | Climate Finance Consultant
-- [ ] https://www.terra.do/climate-jobs/job-board/Senior-Analyst--International-Energy-Policy---Partnerships-Energy-Market-Authority--EMA--8386070/ | EMA | Senior Analyst – International Energy Policy & Partnerships (Singapore)
-- [ ] https://ghgprotocol.org/blog/job-opportunity-associate-climate-accounting-and-standards | GHG Protocol / WBCSD | Associate, Climate Accounting and Standards
-- [ ] https://www.climatechangecareers.com/job/palladium-make-it-possible/jakarta-indonesia/uk-pact-asean-senior-engagement-associate/ | Palladium | UK PACT ASEAN Senior Engagement Associate (Jakarta)
-- [ ] https://www.unjobnet.org/jobs/detail/84637350 | GGGI | Associate, Low-Carbon Buildings (Indonesia)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500920 | FAO | Climate Change and Sustainable Agriculture
+- [x] #265 | https://unjobs.org/vacancies/1739820744949 | UNDP | Climate Finance Specialist (Bangkok) | 2.0/5 | PDF (no)
+- [x] #266 | https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF | Junior Climate Change Consultant – LEAD Program (Bangkok) | 3.5/5 | PDF (no)
+- [x] #267 | https://community.iisd.org/jobs/climate-finance-consultant-ndc-partnership/ | NDC Partnership | Climate Finance Consultant | 3.2/5 | PDF (no)
+- [x] #268 | https://www.terra.do/climate-jobs/job-board/Senior-Analyst--International-Energy-Policy---Partnerships-Energy-Market-Authority--EMA--8386070/ | EMA | Senior Analyst – International Energy Policy & Partnerships (Singapore) | 1.5/5 | PDF (no)
+- [x] #269 | https://ghgprotocol.org/blog/job-opportunity-associate-climate-accounting-and-standards | GHG Protocol / WBCSD | Associate, Climate Accounting and Standards | 3.5/5 | PDF (no)
+- [x] #270 | https://www.climatechangecareers.com/job/palladium-make-it-possible/jakarta-indonesia/uk-pact-asean-senior-engagement-associate/ | Palladium | UK PACT ASEAN Senior Engagement Associate (Jakarta) | 2.5/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/84637350 | GGGI | Associate, Low-Carbon Buildings (Indonesia) — Error: Application deadline March 13, 2026 — expired; position closed.
+- [x] #271 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist (Bangladesh) | 1.5/5 | PDF (no)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS — Error: Application deadline January 8, 2026 — expired; New Delhi, India national position; ineligible.
+- [x] #272 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500920 | FAO | Climate Change and Sustainable Agriculture Specialist | 1.5/5 | PDF (no)
 - [ ] https://jobs.sea.deloitte.com/job/Kuala-Lumpur-DRSC-Business-Assurance-ESG-Analyst/1061341766 | Deloitte | DRSC Business Assurance ESG Analyst (Kuala Lumpur)
 
 <!-- Scan 2026-06-11 — Bangkok / Singapore / Global ESG (new) -->
