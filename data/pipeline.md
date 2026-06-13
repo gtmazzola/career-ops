@@ -2,6 +2,19 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-13 — Multi-portal: UNjobs / Devex / FAO / GGGI / GHG Protocol / terra.do / ClimateChangeCareers -->
+- [ ] https://unjobs.org/vacancies/1739820744949 | UNDP | Climate Finance Specialist (Bangkok, Thailand) ⭐
+- [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF | Junior Climate Change Consultant – LEAD Program (Bangkok, Thailand) ⭐
+- [ ] https://community.iisd.org/jobs/climate-finance-consultant-ndc-partnership/ | NDC Partnership | Climate Finance Consultant
+- [ ] https://www.terra.do/climate-jobs/job-board/Senior-Analyst--International-Energy-Policy---Partnerships-Energy-Market-Authority--EMA--8386070/ | EMA | Senior Analyst – International Energy Policy & Partnerships (Singapore)
+- [ ] https://ghgprotocol.org/blog/job-opportunity-associate-climate-accounting-and-standards | GHG Protocol / WBCSD | Associate, Climate Accounting and Standards
+- [ ] https://www.climatechangecareers.com/job/palladium-make-it-possible/jakarta-indonesia/uk-pact-asean-senior-engagement-associate/ | Palladium | UK PACT ASEAN Senior Engagement Associate (Jakarta)
+- [ ] https://www.unjobnet.org/jobs/detail/84637350 | GGGI | Associate, Low-Carbon Buildings (Indonesia)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500920 | FAO | Climate Change and Sustainable Agriculture
+- [ ] https://jobs.sea.deloitte.com/job/Kuala-Lumpur-DRSC-Business-Assurance-ESG-Analyst/1061341766 | Deloitte | DRSC Business Assurance ESG Analyst (Kuala Lumpur)
+
 <!-- Scan 2026-06-11 — Bangkok / Singapore / Global ESG (new) -->
 - [x] #246 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/corporate-esg-officer-senior-assistant-manager/ | KPMG Thailand | Corporate ESG Officer (Senior AM) | 3.0/5 | PDF (no)
 - [!] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-isrc-31f29626edad43a7fae32d512fa354ef | ISRC | Sustainability Consultant (Singapore) — Error: JD not retrievable (403 on WebFetch; WebSearch returned no JD content); cannot evaluate.
