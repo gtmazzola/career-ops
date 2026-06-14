@@ -13,7 +13,7 @@
 - [x] #271 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist (Bangladesh) | 1.5/5 | PDF (no)
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS — Error: Application deadline January 8, 2026 — expired; New Delhi, India national position; ineligible.
 - [x] #272 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500920 | FAO | Climate Change and Sustainable Agriculture Specialist | 1.5/5 | PDF (no)
-- [ ] https://jobs.sea.deloitte.com/job/Kuala-Lumpur-DRSC-Business-Assurance-ESG-Analyst/1061341766 | Deloitte | DRSC Business Assurance ESG Analyst (Kuala Lumpur)
+- [x] #273 | https://jobs.sea.deloitte.com/job/Kuala-Lumpur-DRSC-Business-Assurance-ESG-Analyst/1061341766 | Deloitte | DRSC Business Assurance ESG Analyst (Kuala Lumpur) | 3.0/5 | PDF (no)
 
 <!-- Scan 2026-06-11 — Bangkok / Singapore / Global ESG (new) -->
 - [x] #246 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/corporate-esg-officer-senior-assistant-manager/ | KPMG Thailand | Corporate ESG Officer (Senior AM) | 3.0/5 | PDF (no)
@@ -96,9 +96,9 @@
 
 <!-- Scan 2026-06-06 — ReliefWeb / Development (new) -->
 - [x] #264 | https://reliefweb.int/job/4118020/call-consultant-roster | Various (Bangladesh) | Call for Consultant Roster – Climate, ESG, Carbon, DRR Specialists | 1.8/5 | PDF (no)
-- [ ] https://reliefweb.int/job/3801829/regional-program-officer-climate-change-and-human-rights | Various | Regional Program Officer – Climate Change and Human Rights
-- [ ] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Various | Consultant – Gendered Dimensions of Loss and Damage (Asia)
-- [ ] https://reliefweb.int/job/3998842/climate-resilience-national-training-officer-pakistan | ADPC | Climate Resilience National Training Officer (Pakistan)
+- [x] #274 | https://reliefweb.int/job/3801829/regional-program-officer-climate-change-and-human-rights | ABA ROLI | Regional Program Officer – Climate Change and Human Rights (Indonesia) | 2.0/5 | PDF (no)
+- [x] #275 | https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Oxfam | Consultant – Gendered Dimensions of Loss and Damage (Asia) | 1.5/5 | PDF (no)
+- [x] #276 | https://reliefweb.int/job/3998842/climate-resilience-national-training-officer-pakistan | ADPC | Climate Resilience National Training Officer (Pakistan) | 1.8/5 | PDF (no)
 
 <!-- Scan 2026-06-05 — Bangkok / Thailand ⭐ -->
 - [x] #209 | https://untalent.org/jobs/national-consultant-environment-and-climate-action-unicef-thailand-bangkok | UNICEF Thailand | National Consultant – Environment and Climate Action (Bangkok) | 3.0/5 | PDF ❌
@@ -117,8 +117,8 @@
 
 <!-- Scan 2026-06-05 — Consulting / Global (new) -->
 - [x] #216 | https://www.ramboll.com/careers/8586c0c1-978f-499e-4925-08dd1da336b9 | Ramboll | Associate Decarbonization/Sustainability Consultant (US) | 3.0/5 | PDF ❌
-- [ ] https://www.ramboll.com/careers/89ce23e1-63c0-4993-0537-08de8bce9ba0 | Ramboll | Associate Consultant (Sustainability)
-- [ ] https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead ⚠️ seniority unclear
+- [x] #277 | https://www.ramboll.com/careers/89ce23e1-63c0-4993-0537-08de8bce9ba0 | Ramboll | Associate Consultant (Sustainability) | 2.5/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead — Error: Application deadline March 20, 2026 — expired; position closed.
 
 <!-- Scan 2026-06-03 — Bangkok / Thailand ⭐ -->
 - [!] https://unjobs.org/vacancies/1674676047784 | UNESCAP | Cities and Climate Change Technical Advisor (Bangkok) ⭐ — Error: Posting from January 2023 — expired over 3 years ago; position closed.
@@ -151,10 +151,10 @@
 - [x] #204 | https://www.terra.do/climate-jobs/job-board/esg-reporting-data-analyst-8335472/ | ING | ESG Reporting Data Analyst (Philippines) | 2.5/5 | PDF ❌
 - [x] #208 | https://www.terra.do/climate-jobs/job-board/Climate-Strategy-Consultant--Global-Business-Solutions-3Degrees-8391091/ | 3Degrees | Climate Strategy Consultant – Global Business Solutions (Remote) | 3.5/5 | PDF ❌
 - [x] #206 | https://www.climatechangecareers.com/job/iopa-solutions/remote/carbon-market-specialist/ | IOPA Solutions | Carbon Market Specialist (Remote) | 2.0/5 | PDF ❌
-- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant – Climate (Bengaluru, India)
-- [ ] https://www.climatechangecareers.com/job/greenpeace-south-asia/colombo-srilanka/climate-researcher/ | Greenpeace South Asia | Climate Researcher (Colombo, Sri Lanka)
-- [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg, South Africa) ⚠️ 5yr exp + South Africa
-- [ ] https://hrms.iucn.org/vacancy/7313 | IUCN | Programme Associate – Climate Change (Africa/LatAm)
+- [x] #278 | https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant – Climate (Bengaluru) | 3.0/5 | PDF (no)
+- [x] #279 | https://www.climatechangecareers.com/job/greenpeace-south-asia/colombo-srilanka/climate-researcher/ | Greenpeace South Asia | Climate Researcher (Colombo) | 2.0/5 | PDF (no)
+- [!] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg, South Africa) — Error: Application deadline June 3, 2026 — expired; South Africa location; 5yr exp required; ineligible.
+- [!] https://hrms.iucn.org/vacancy/7313 | IUCN | Programme Associate – Climate Change (Washington D.C.) — Error: Application deadline June 9, 2026 — expired; position closed.
 
 <!-- Scan 2026-05-31 — Bangkok / Thailand ⭐ -->
 - [!] https://www.unjobnet.org/jobs/detail/84911911 | IUCN | Field Project Associate – Thailand Country Programme — Error: Position confirmed closed (per hrms.iucn.org); biodiversity/conservation domain misaligned with candidate profile.
