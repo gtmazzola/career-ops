@@ -187,7 +187,7 @@
 - [x] #180 | https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | FHI 360 | Senior Consultant for Climate Change Policy Analysis | 2.0/5 | PDF ❌
 - [!] https://www.developmentaid.org/jobs/view/1513479/esg-associate | Various | ESG Associate — Error: Deadline May 8, 2024 — expired over 2 years ago; cannot evaluate.
 - [!] https://careers.un.org/jobSearchDescription/257545 | UN Careers | Climate Change Specialist Consultant — Error: JD not retrievable (403 + search returned insufficient details to evaluate); cannot confirm active or assess fit.
-- [ ] https://careers.un.org/jobSearchDescription/252728 | UN Careers | Consultant / Environmental Sustainability Specialist ⚠️ verify active
+- [!] https://careers.un.org/jobSearchDescription/252728 | UN Careers | Consultant / Environmental Sustainability Specialist — Error: JD not retrievable (403 on WebFetch; WebSearch returned insufficient details to evaluate); cannot confirm active.
 
 <!-- Scan 2026-05-24 — Bangkok / Thailand ⭐ -->
 - [x] #119 | https://unjobs.org/vacancies/1775489861939 | IOM Bangkok | Consultant – Mapping of Community & Locally Led Initiatives Relevant to Climate Mobility (Bangkok) | 1.0/5 | PDF ❌
@@ -398,19 +398,19 @@
 
 <!-- Scan 2026-05-21 — Bangkok / Thailand ⭐ -->
 - [!] https://careers.gggi.org/vacancy/thailand-consultant-for-green-finance-network-gfn-setup-100014324-599010.html | GGGI | Thailand: Consultant for Green Finance Network (GFN) Setup (Bangkok) — Error: Assignment completion deadline was May 31, 2026 (passed); 7yr exp required; USD 5,000 total comp for 6 months — SKIP on all counts.
-- [ ] https://unjobs.org/vacancies/1776938608815 | UNEP | Energy Finance Expert (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/82738784 | UNICEF EAPRO | Consultant – CLI and ESG Country Offices Support Asia Pacific (Bangkok) ⭐
-- [ ] https://www.sei.org/people/jobs/research-associate-operationalization-raif-asia/ | SEI | Research Associate – Operationalization of RAIF (Climate Finance, Bangkok) ⭐
-- [ ] https://www.impactpool.org/jobs/1209549 | UNOPS | Project Management Support – Associate (Bangkok, June–Dec 2026) ⭐
-- [ ] https://www.thaingo.org/jobs/detail/18165 | Save the Children | Climate Change and Green Jobs Technical Expert (Bangkok)
+- [!] https://unjobs.org/vacancies/1776938608815 | UNEP | Energy Finance Expert (Bangkok) — Error: Application deadline May 5, 2026 — expired; position closed.
+- [x] #280 | https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert (Bangkok) | 2.5/5 | PDF (no)
+- [x] #281 | https://www.unjobnet.org/jobs/detail/82738784 | UNICEF EAPRO | Consultant – CLI and ESG Country Offices Support Asia Pacific (Bangkok) | 3.0/5 | PDF (no)
+- [x] #282 | https://www.sei.org/people/jobs/research-associate-operationalization-raif-asia/ | SEI | Research Associate – Operationalization of RAIF (Climate Finance, Bangkok) | 3.8/5 | PDF (no)
+- [x] #283 | https://www.impactpool.org/jobs/1209549 | UNOPS | Project Management Support – Associate (Bangkok, June–Dec 2026) | 3.5/5 | PDF (no)
+- [x] #284 | https://www.thaingo.org/jobs/detail/18165 | Save the Children | Climate Change and Green Jobs Technical Expert (Bangkok) | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-05-21 — Vienna / UN (URGENT) -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Specialist/1352447555/ | UNIDO | Project Specialist (Vienna) ⚠️ deadline 29 May 2026
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert – Energy Systems & Industrial Decarbonization (Vienna)
+- [!] https://careers.unido.org/job/Vienna-Project-Specialist/1352447555/ | UNIDO | Project Specialist (Vienna) — Error: Application deadline May 29, 2026 — expired; position closed.
+- [!] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert – Energy Systems & Industrial Decarbonization (Vienna) — Error: Application deadline April 29, 2026 — expired; L3 staff grade requiring significant seniority; ineligible.
 
 <!-- Scan 2026-05-21 — Remote / Asia -->
-- [ ] https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote, Asia-based) ⭐
+- [x] #285 | https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote, Asia-based) | 3.2/5 | PDF (no)
 - [ ] https://www.unjobnet.org/jobs/detail/84622940 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
 - [ ] https://www.unjobnet.org/jobs/detail/85785089 | GGGI | Officer, Global Voluntary Carbon Market (GVCM) Unit
 - [ ] https://unjobs.org/vacancies/1751800381928 | ASEAN Centre for Energy | Research Analyst on Climate Finance and Economic Environment – ACCEPT (Jakarta)
