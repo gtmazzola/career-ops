@@ -3,14 +3,14 @@
 ## Pendientes
 
 <!-- Scan 2026-06-16 — Multi-portal: ThaiNGO / MyCareersFuture / Impactpool / FAO Careers / GGGI / ClimateChangeCareers / ReliefWeb -->
-- [ ] https://www.thaingo.org/jobs/detail/10221/219 | GIZ Thailand | Climate Finance Coordinator
-- [ ] https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability (Strategy)
-- [ ] https://www.impactpool.org/jobs/1199377 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
-- [ ] https://www.impactpool.org/jobs/1213468 | UNDP | Programme Analyst – Governance and Social Cohesion
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600649 | FAO | National Environmental Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2501593 | FAO | Climate Change Specialist (2 positions)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist
+- [!] https://www.thaingo.org/jobs/detail/10221/219 | GIZ Thailand | Climate Finance Coordinator — Error: Application deadline September 25, 2020 — expired over 5 years ago; position closed.
+- [x] #286 | https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability (Strategy) | 2.5/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/1199377 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction — Error: National Officer (NOB) position in Dominican Republic; Dominican Republic citizenship required; ineligible.
+- [x] #287 | https://www.impactpool.org/jobs/1213468 | UNDP | Programme Analyst – Governance and Social Cohesion | 1.5/5 | PDF (no)
+- [x] #288 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist | 2.0/5 | PDF (no)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600649 | FAO | National Environmental Specialist — Error: Application deadline April 24, 2026 — expired; position closed.
+- [x] #289 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2501593 | FAO | Climate Change Specialist (2 positions) | 1.5/5 | PDF (no)
+- [x] #290 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-06-13 — Multi-portal: UNjobs / Devex / FAO / GGGI / GHG Protocol / terra.do / ClimateChangeCareers -->
 - [x] #265 | https://unjobs.org/vacancies/1739820744949 | UNDP | Climate Finance Specialist (Bangkok) | 2.0/5 | PDF (no)
@@ -421,8 +421,8 @@
 
 <!-- Scan 2026-05-21 — Remote / Asia -->
 - [x] #285 | https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote, Asia-based) | 3.2/5 | PDF (no)
-- [ ] https://www.unjobnet.org/jobs/detail/84622940 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
-- [ ] https://www.unjobnet.org/jobs/detail/85785089 | GGGI | Officer, Global Voluntary Carbon Market (GVCM) Unit
+- [!] https://www.unjobnet.org/jobs/detail/84622940 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction — Error: National Officer (NOB) in Dominican Republic; citizenship required; duplicate of Impactpool 1199377; ineligible.
+- [x] #291 | https://www.unjobnet.org/jobs/detail/85785089 | GGGI | Officer, Global Voluntary Carbon Market (GVCM) Unit | 2.5/5 | PDF (no)
 - [ ] https://unjobs.org/vacancies/1751800381928 | ASEAN Centre for Energy | Research Analyst on Climate Finance and Economic Environment – ACCEPT (Jakarta)
 - [ ] https://www.unjobnet.org/jobs/detail/85908617 | UNDP | Project Analyst on Climate Risk Issues (Tashkent)
 - [ ] https://careers.gggi.org/vacancy/green-growth-senior-associate-582071.html | GGGI | Green Growth Senior Associate (Lusaka, Zambia)
