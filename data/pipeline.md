@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-16 — Multi-portal: ThaiNGO / MyCareersFuture / Impactpool / FAO Careers / GGGI / ClimateChangeCareers / ReliefWeb -->
+- [ ] https://www.thaingo.org/jobs/detail/10221/219 | GIZ Thailand | Climate Finance Coordinator
+- [ ] https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability (Strategy)
+- [ ] https://www.impactpool.org/jobs/1199377 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
+- [ ] https://www.impactpool.org/jobs/1213468 | UNDP | Programme Analyst – Governance and Social Cohesion
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600649 | FAO | National Environmental Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2501593 | FAO | Climate Change Specialist (2 positions)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist
+
 <!-- Scan 2026-06-13 — Multi-portal: UNjobs / Devex / FAO / GGGI / GHG Protocol / terra.do / ClimateChangeCareers -->
 - [x] #265 | https://unjobs.org/vacancies/1739820744949 | UNDP | Climate Finance Specialist (Bangkok) | 2.0/5 | PDF (no)
 - [x] #266 | https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF | Junior Climate Change Consultant – LEAD Program (Bangkok) | 3.5/5 | PDF (no)
