@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-17 — Multi-portal: ERM / Ramboll / GIZ / ILO / GGGI / UNOPS / UNDP / FAO / UN Careers / ClimateChangeCareers / ThaiNGO / ISS -->
-- [ ] https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst / Green Finance Executive
-- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Graduate-Consultant--Entry-Level-_R00026443 | ERM | Graduate Consultant (Entry Level)
-- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Corporate-Sustainability-and-Climate-Change-Associate--Associate-Level-_R00017209 | ERM | Corporate Sustainability and Climate Change Associate (Associate Level)
-- [ ] https://www.ramboll.com/careers/3cf7aad8-25bb-412f-055a-08de8bce9ba0 | Ramboll | Lead Consultant, Air & Climate
-- [ ] https://www.ramboll.com/careers/599f3267-f9d0-4d4b-e7fe-08deb17e4f37 | Ramboll | Senior EHS Consultant - Data Centres
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=78266 | GIZ | Junior Consultant – Private Capital Mobilization
-- [ ] https://jobs.ilo.org/job/Tokyo-Programme-Officer-NOA/13595-en_GB/ | ILO | Programme Officer (NOA) Tokyo
-- [ ] https://www.unjobnet.org/jobs/detail/83937377 | GGGI | Climate Finance Consultant (Mexico)
-- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Data-Analyst--Japanese-Speaking--Institutional-Shareholder-Services-8350643/ | ISS | ESG Data Analyst (Japanese Speaking)
-- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=25109 | UNOPS | Programme Management - Senior Analyst
+- [x] #292 | https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst / Green Finance Executive | 2.5/5 | PDF (no)
+- [x] #293 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Graduate-Consultant--Entry-Level-_R00026443 | ERM | Graduate Consultant (Entry Level) – Japan | 2.8/5 | PDF (no)
+- [x] #294 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Corporate-Sustainability-and-Climate-Change-Associate--Associate-Level-_R00017209 | ERM | Corporate Sustainability and Climate Change Associate (Brussels) | 3.2/5 | PDF (no)
+- [x] #295 | https://www.ramboll.com/careers/3cf7aad8-25bb-412f-055a-08de8bce9ba0 | Ramboll | Lead Consultant, Air & Climate (US) | 1.2/5 | PDF (no)
+- [x] #296 | https://www.ramboll.com/careers/599f3267-f9d0-4d4b-e7fe-08deb17e4f37 | Ramboll | Senior EHS Consultant – Data Centres (Belgium) | 1.0/5 | PDF (no)
+- [x] #297 | https://jobs.giz.de/index.php?ac=jobad&id=78266 | GIZ | Junior Consultant – Private Capital Mobilization | 3.2/5 | PDF (no)
+- [!] https://jobs.ilo.org/job/Tokyo-Programme-Officer-NOA/13595-en_GB/ | ILO | Programme Officer (NOA) Tokyo — Error: Application deadline 20 May 2026 — expired; position closed.
+- [x] #298 | https://www.unjobnet.org/jobs/detail/83937377 | GGGI | Climate Finance Consultant (Mexico City) | 1.8/5 | PDF (no)
+- [x] #299 | https://www.terra.do/climate-jobs/job-board/ESG-Data-Analyst--Japanese-Speaking--Institutional-Shareholder-Services-8350643/ | ISS | ESG Data Analyst (Japanese Speaking) – Manila | 1.0/5 | PDF (no)
+- [!] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=25109 | UNOPS | Programme Management – Senior Analyst — Error: Vacancy from December 2022 (VA/2022/B5004/25109); Nigeria nationals only; application period long since closed; ineligible.
 - [ ] https://www.impactpool.org/jobs/765709 | UNDP | National Consultant – ESS Specialist
 - [ ] https://www.impactpool.org/jobs/772920 | UNDP | National Environmental and Social Safeguard/ESS Specialist (National Consultant)
 - [ ] https://www.impactpool.org/jobs/732014 | UNDP | Biodiversity/Ecosystem International Consultant

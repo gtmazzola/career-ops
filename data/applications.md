@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 292 | 2026-06-17 | Sales Tips | Carbon Management Specialist / Climate Risk Analyst / Green Finance Executive | 2.5/5 | Evaluada | ❌ | [292](reports/292-sales-tips-carbon-management-2026-06-17.md) | Singapore hybrid ESG generalist role; unclear company, vague JD; domain match but low confidence |
+| 296 | 2026-06-17 | Ramboll | Senior EHS Consultant – Data Centres (Belgium) | 1.0/5 | Evaluada | ❌ | [296](reports/296-ramboll-senior-ehs-consultant-data-centres-2026-06-17.md) | EHS management systems for data centers; domain and seniority mismatch; do not apply |
+| 297 | 2026-06-17 | GIZ | Junior Consultant – Private Capital Mobilization | 3.2/5 | Evaluada | ❌ | [297](reports/297-giz-junior-consultant-private-capital-2026-06-17.md) | GIZ HQ development cooperation / private capital role; good archetype match; confirm German language requirement first |
+| 298 | 2026-06-17 | GGGI | Climate Finance Consultant (Mexico City) | 1.8/5 | Evaluada | ❌ | [298](reports/298-gggi-climate-finance-consultant-mexico-2026-06-17.md) | Mexico City on-site; 4yr exp required; Spanish needed; location and experience gap; do not apply |
+| 299 | 2026-06-17 | ISS | ESG Data Analyst (Japanese Speaking) – Manila | 1.0/5 | Evaluada | ❌ | [299](reports/299-iss-esg-data-analyst-japanese-2026-06-17.md) | Japanese language fluency required; hard blocker; do not apply |
 | 286 | 2026-06-16 | Trusted Services | Associate – Sustainability (Strategy) | 2.5/5 | Evaluada | ❌ | [286](reports/286-trusted-services-associate-sustainability-2026-06-16.md) | 12-month Singapore contract; content/comms for Temasek ecosystem; low fit for analytical sustainability candidate |
 | 287 | 2026-06-16 | UNDP | Programme Analyst – Governance and Social Cohesion | 1.5/5 | Evaluada | ❌ | [287](reports/287-undp-governance-social-cohesion-amman-2026-06-16.md) | Amman Jordan; governance/peacebuilding domain; thematic and geographic mismatch |
 | 291 | 2026-06-16 | GGGI | Officer – Global Voluntary Carbon Market (GVCM) Unit | 2.5/5 | Evaluada | ❌ | [291](reports/291-gggi-officer-gvcm-seoul-2026-06-16.md) | Seoul HQ; Article 6/VCM coordination; feasible geography but event-coordination focus; not priority |
