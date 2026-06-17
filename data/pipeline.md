@@ -2,6 +2,26 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-17 — Multi-portal: ERM / Ramboll / GIZ / ILO / GGGI / UNOPS / UNDP / FAO / UN Careers / ClimateChangeCareers / ThaiNGO / ISS -->
+- [ ] https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst / Green Finance Executive
+- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Graduate-Consultant--Entry-Level-_R00026443 | ERM | Graduate Consultant (Entry Level)
+- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Corporate-Sustainability-and-Climate-Change-Associate--Associate-Level-_R00017209 | ERM | Corporate Sustainability and Climate Change Associate (Associate Level)
+- [ ] https://www.ramboll.com/careers/3cf7aad8-25bb-412f-055a-08de8bce9ba0 | Ramboll | Lead Consultant, Air & Climate
+- [ ] https://www.ramboll.com/careers/599f3267-f9d0-4d4b-e7fe-08deb17e4f37 | Ramboll | Senior EHS Consultant - Data Centres
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=78266 | GIZ | Junior Consultant – Private Capital Mobilization
+- [ ] https://jobs.ilo.org/job/Tokyo-Programme-Officer-NOA/13595-en_GB/ | ILO | Programme Officer (NOA) Tokyo
+- [ ] https://www.unjobnet.org/jobs/detail/83937377 | GGGI | Climate Finance Consultant (Mexico)
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Data-Analyst--Japanese-Speaking--Institutional-Shareholder-Services-8350643/ | ISS | ESG Data Analyst (Japanese Speaking)
+- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=25109 | UNOPS | Programme Management - Senior Analyst
+- [ ] https://www.impactpool.org/jobs/765709 | UNDP | National Consultant – ESS Specialist
+- [ ] https://www.impactpool.org/jobs/772920 | UNDP | National Environmental and Social Safeguard/ESS Specialist (National Consultant)
+- [ ] https://www.impactpool.org/jobs/732014 | UNDP | Biodiversity/Ecosystem International Consultant
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2400008 | FAO | National Forest and Climate Specialist
+- [ ] https://www.thaingo.org/jobs/detail/3548 | WWF-Thailand | ESG Specialist
+- [ ] https://www.thaingo.org/jobs/detail/4673 | USAID Clean Power Asia | Renewable Energy Policy Specialist
+- [ ] https://careers.un.org/jobSearchDescription/270946 | UN | Programme Management Officer P4
+- [ ] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator (NOA)
+
 <!-- Scan 2026-06-16 — Multi-portal: ThaiNGO / MyCareersFuture / Impactpool / FAO Careers / GGGI / ClimateChangeCareers / ReliefWeb -->
 - [!] https://www.thaingo.org/jobs/detail/10221/219 | GIZ Thailand | Climate Finance Coordinator — Error: Application deadline September 25, 2020 — expired over 5 years ago; position closed.
 - [x] #286 | https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability (Strategy) | 2.5/5 | PDF (no)
