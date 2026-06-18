@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-18 — Multi-portal: ThaiNGO / Devex / BCG / UNDP / ADB / AIIB / SEI / KPMG / ClimateChangeCareers / UNjobs / impactpool / UNESCAP -->
-- [ ] https://www.thaingo.org/jobs/detail/21355?type=24 | Trees4All / FAO | Final Evaluation Consultant – Trees4All Project
-- [ ] https://www.devex.com/jobs/individual-consultant-corporate-sustainability-and-climate-change-consultant-1343564 | ERM | Corporate Sustainability and Climate Change Consultant
-- [ ] https://careers.bcg.com/global/en/job/53629/Associate-Thailand-Campus-2026 | BCG Thailand | Associate (Campus 2026)
-- [ ] https://unjobs.org/vacancies/1773210977751 | UNDP | Impact Measurement Verification and Learning Analyst (Bangkok)
-- [ ] https://unjobs.org/vacancies/1776675471737 | UNDP | Sustainable Finance Analyst – FAST Initiative Asia (Bangkok, 50%)
-- [ ] https://www.adb.org/careers/260165 | ADB | Senior Energy Specialist (Transmission)
-- [ ] https://www.adb.org/careers/260464 | ADB | Project Analyst
-- [ ] https://www.adb.org/careers/260157 | ADB | Project Officer (Energy)
-- [ ] https://www.adb.org/careers/260314 | ADB | Senior Natural Resources and Agriculture Specialist (Nature Finance)
-- [ ] https://www.adb.org/careers/240378 | ADB | Associate Project Analyst
+- [x] #303 | https://www.thaingo.org/jobs/detail/21355?type=24 | Trees4All/RECOFTC | Final Evaluation Consultant – Trees4All Project | 2.0/5 | PDF (no)
+- [x] #301 | https://www.devex.com/jobs/individual-consultant-corporate-sustainability-and-climate-change-consultant-1343564 | ERM | Corporate Sustainability and Climate Change Consultant | 2.2/5 | PDF (no)
+- [x] #302 | https://careers.bcg.com/global/en/job/53629/Associate-Thailand-Campus-2026 | BCG Thailand | Associate (Campus 2026) | 3.5/5 | PDF (no)
+- [!] https://unjobs.org/vacancies/1773210977751 | UNDP | Impact Measurement Verification and Learning Analyst (Bangkok) — Error: Duplicate of #122 (same UNCDF Bangkok posting reposted on unjobs.org; oracle cloud URL already evaluated 3.8/5); skip.
+- [!] https://unjobs.org/vacancies/1776675471737 | UNDP | Sustainable Finance Analyst – FAST Initiative Asia (Bangkok, 50%) — Error: Application deadline May 5, 2026 — expired; position closed.
+- [!] https://www.adb.org/careers/260165 | ADB | Senior Energy Specialist (Transmission) — Error: Application deadline March 5, 2026 — expired; 10yr experience required; position closed.
+- [!] https://www.adb.org/careers/260464 | ADB | Project Analyst — Error: Application deadline May 22, 2026 — expired; position closed.
+- [!] https://www.adb.org/careers/260157 | ADB | Project Officer (Energy) — Error: Application deadline February 27, 2026 — expired; position closed.
+- [!] https://www.adb.org/careers/260314 | ADB | Senior Natural Resources and Agriculture Specialist (Nature Finance) — Error: Application deadline June 9, 2026 — expired; 10yr experience required; position closed.
+- [!] https://www.adb.org/careers/240378 | ADB | Associate Project Analyst — Error: Application deadline May 31, 2024 — expired over 2 years ago; position closed.
 - [ ] https://www.adb.org/careers/240050 | ADB | Senior Climate and Disaster Risk Specialist
 - [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/investment-solutions-associate-climate96.html | AIIB | Investment Solutions Associate – Climate
 - [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Specialists-Senior-Specialists.html | AIIB | Environment Specialists / Senior Specialists

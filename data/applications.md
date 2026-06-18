@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 301 | 2026-06-18 | ERM | Individual Consultant – Corporate Sustainability and Climate Change | 2.2/5 | Evaluada | ❌ | [301](reports/301-erm-sustainability-climate-consultant-2026-06-18.md) | Spanish likely required; 3-5yr exp gap; JD unverified; not recommended |
+| 302 | 2026-06-18 | BCG Thailand | Associate (Campus 2026) | 3.5/5 | Evaluada | ❌ | [302](reports/302-bcg-thailand-associate-2026-06-18.md) | Strong academic fit; Bangkok location advantage; needs case prep; work visa required |
+| 303 | 2026-06-18 | Wyss Academy/RECOFTC | Final Evaluation Consultant – Trees4All Project | 2.0/5 | Evaluada | ❌ | [303](reports/303-trees4all-final-evaluation-2026-06-18.md) | Thai fluency hard blocker; 4-month forestry evaluation; not recommended |
 | 292 | 2026-06-17 | Sales Tips | Carbon Management Specialist / Climate Risk Analyst / Green Finance Executive | 2.5/5 | Evaluada | ❌ | [292](reports/292-sales-tips-carbon-management-2026-06-17.md) | Singapore hybrid ESG generalist role; unclear company, vague JD; domain match but low confidence |
 | 296 | 2026-06-17 | Ramboll | Senior EHS Consultant – Data Centres (Belgium) | 1.0/5 | Evaluada | ❌ | [296](reports/296-ramboll-senior-ehs-consultant-data-centres-2026-06-17.md) | EHS management systems for data centers; domain and seniority mismatch; do not apply |
 | 297 | 2026-06-17 | GIZ | Junior Consultant – Private Capital Mobilization | 3.2/5 | Evaluada | ❌ | [297](reports/297-giz-junior-consultant-private-capital-2026-06-17.md) | GIZ HQ development cooperation / private capital role; good archetype match; confirm German language requirement first |
