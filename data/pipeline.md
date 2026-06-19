@@ -782,16 +782,16 @@
 
 <!-- Scan 2026-06-19 — Multi-portal: UNjobs / Impactpool / Devex / GGGI / UNICEF / UNIDO / AIIB / ClimateChangeCareers / ReliefWeb -->
 
-- [ ] https://unjobs.org/vacancies/1772778838636 | ESCAP | Programme Officer (Bangkok)
-- [ ] https://unjobs.org/vacancies/1738077097467 | ESCAP | Programme Assistant (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1080628 | UNV | Climate Change, Energy and Environment Associate (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1038816 | UNEP | Coordination and Reporting Specialist – EmPower (Bangkok)
-- [ ] https://www.impactpool.org/jobs/827848 | UNDP | Gender and Climate Change Monitoring and Reporting Consultant (Bangkok)
-- [ ] https://www.impactpool.org/jobs/899923 | UNEP | APAN Forum Technical Programme Consultant (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1139565 | UNV | APAN Network Coordinator (Bangkok)
-- [ ] https://www.impactpool.org/jobs/923967 | UNV | Programme Officer (Bangkok)
-- [ ] https://jobs.unicef.org/cw/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF | Climate-Resilient Education Consultant (Bangkok)
+- [x] #304 | https://unjobs.org/vacancies/1772778838636 | ESCAP | Programme Officer (Bangkok) | 3.8/5 | PDF (no)
+- [x] #305 | https://unjobs.org/vacancies/1738077097467 | ESCAP | Programme Assistant (Bangkok) | 1.5/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia (Bangkok) — Error: Duplicate of #057 (same role crosslisted from ReliefWeb 4016135; evaluated 1.5/5); skip.
+- [!] https://www.impactpool.org/jobs/1080628 | UNV | Climate Change, Energy and Environment Associate — Error: Location is Jamaica not Bangkok; UNV volunteer assignment; ineligible.
+- [x] #306 | https://www.impactpool.org/jobs/1038816 | UNEP | Coordination and Reporting Specialist – EmPower (Bangkok) | 3.5/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/827848 | UNDP | Gender and Climate Change Monitoring and Reporting Consultant — Error: Application deadline July 2022 — expired over 4 years ago; position closed.
+- [!] https://www.impactpool.org/jobs/899923 | UNEP | APAN Forum Technical Programme Consultant — Error: Posting from February 2023 (for 8th APAN Forum); 8th Forum completed 2024; position closed.
+- [x] #307 | https://www.impactpool.org/jobs/1139565 | UNV/UNEP | APAN Network Coordinator (Bangkok) | 2.0/5 | PDF (no)
+- [x] #308 | https://www.impactpool.org/jobs/923967 | UNV/UNEP | Programme Officer – Intergovernmental Affairs (Bangkok) | 2.0/5 | PDF (no)
+- [!] https://jobs.unicef.org/cw/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF | Climate-Resilient Education Consultant — Error: Application deadline 19 May 2026 — expired; position closed.
 - [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | LEAD Program AIT | Junior Climate Change Consultant (Bangkok)
 - [ ] https://careers.gggi.org/vacancy/policy-analyst-consultant-methane-mitigation-policy-analyst-malaysia-577154.html | GGGI | Policy Analyst Consultant – Methane Mitigation (Malaysia)
 - [ ] https://careers.gggi.org/vacancy/indonesia-financial-analyst-for-assessing-local-currency-financing-571063.html | GGGI | Financial Analyst – Local Currency Financing (Indonesia)

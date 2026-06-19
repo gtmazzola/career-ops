@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 304 | 2026-06-19 | ESCAP | Programme Officer (Bangkok) | 3.8/5 | Evaluada | ❌ | [304](reports/304-escap-programme-officer-2026-06-19.md) | P3 temporary, SPMD CDPS; strong RBM/APFSD13 fit; level gap (P3 needs 5yr vs ~2yr); worth applying |
+| 305 | 2026-06-19 | ESCAP | Programme Assistant (Bangkok) | 1.5/5 | Evaluada | ❌ | [305](reports/305-escap-programme-assistant-2026-06-19.md) | GS-level admin role; overqualified; below comp targets; SKIP |
+| 306 | 2026-06-19 | UNEP | Coordination and Reporting Specialist – EmPower (Bangkok) | 3.5/5 | Evaluada | ❌ | [306](reports/306-unep-empower-reporting-specialist-2026-06-19.md) | UNEP consultancy; strong reporting/M&E fit; gender-energy gap manageable; worth applying |
+| 307 | 2026-06-19 | UNV/UNEP | APAN Network Coordinator (Bangkok) | 2.0/5 | Evaluada | ❌ | [307](reports/307-unv-apan-network-coordinator-2026-06-19.md) | UNV volunteer allowance below comp targets; experience-building only; recommend against |
+| 308 | 2026-06-19 | UNV/UNEP | Programme Officer – Intergovernmental Affairs (Bangkok) | 2.0/5 | Evaluada | ❌ | [308](reports/308-unv-programme-officer-2026-06-19.md) | UNV allowance + likely expired (5th AP Forum ref suggests ~2020-22 posting); recommend against |
 | 301 | 2026-06-18 | ERM | Individual Consultant – Corporate Sustainability and Climate Change | 2.2/5 | Evaluada | ❌ | [301](reports/301-erm-sustainability-climate-consultant-2026-06-18.md) | Spanish likely required; 3-5yr exp gap; JD unverified; not recommended |
 | 302 | 2026-06-18 | BCG Thailand | Associate (Campus 2026) | 3.5/5 | Evaluada | ❌ | [302](reports/302-bcg-thailand-associate-2026-06-18.md) | Strong academic fit; Bangkok location advantage; needs case prep; work visa required |
 | 303 | 2026-06-18 | Wyss Academy/RECOFTC | Final Evaluation Consultant – Trees4All Project | 2.0/5 | Evaluada | ❌ | [303](reports/303-trees4all-final-evaluation-2026-06-18.md) | Thai fluency hard blocker; 4-month forestry evaluation; not recommended |
