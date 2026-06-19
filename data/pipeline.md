@@ -780,3 +780,34 @@
 - [x] #078 | https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | CA-SYR / ReliefWeb | Consultancy – Climate and Water Research Analyst | 1.5/5 | PDF ❌
 - [x] #079 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst (Copenhagen) | 2.5/5 | PDF ❌
 
+<!-- Scan 2026-06-19 — Multi-portal: UNjobs / Impactpool / Devex / GGGI / UNICEF / UNIDO / AIIB / ClimateChangeCareers / ReliefWeb -->
+
+- [ ] https://unjobs.org/vacancies/1772778838636 | ESCAP | Programme Officer (Bangkok)
+- [ ] https://unjobs.org/vacancies/1738077097467 | ESCAP | Programme Assistant (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1080628 | UNV | Climate Change, Energy and Environment Associate (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1038816 | UNEP | Coordination and Reporting Specialist – EmPower (Bangkok)
+- [ ] https://www.impactpool.org/jobs/827848 | UNDP | Gender and Climate Change Monitoring and Reporting Consultant (Bangkok)
+- [ ] https://www.impactpool.org/jobs/899923 | UNEP | APAN Forum Technical Programme Consultant (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1139565 | UNV | APAN Network Coordinator (Bangkok)
+- [ ] https://www.impactpool.org/jobs/923967 | UNV | Programme Officer (Bangkok)
+- [ ] https://jobs.unicef.org/cw/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF | Climate-Resilient Education Consultant (Bangkok)
+- [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | LEAD Program AIT | Junior Climate Change Consultant (Bangkok)
+- [ ] https://careers.gggi.org/vacancy/policy-analyst-consultant-methane-mitigation-policy-analyst-malaysia-577154.html | GGGI | Policy Analyst Consultant – Methane Mitigation (Malaysia)
+- [ ] https://careers.gggi.org/vacancy/indonesia-financial-analyst-for-assessing-local-currency-financing-571063.html | GGGI | Financial Analyst – Local Currency Financing (Indonesia)
+- [ ] https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT)
+- [ ] https://www.impactpool.org/jobs/1066670 | IEA | Energy Analysts – Regional Cooperation Centre (Singapore)
+- [ ] https://www.devex.com/jobs/senior-associate-climate-action-1406803 | AVPN | Senior Associate – Climate Action (Asia)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst41.html | AIIB | Investment Analyst (Beijing)
+- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna)
+- [ ] https://careers.unido.org/job/Bogota-National-Project-and-Delivery-Associate/1344646455/ | UNIDO | National Project and Delivery Associate (Bogota)
+- [ ] https://careers.unido.org/job/Vienna-Statistical-Data-Consultant/1330114255/ | UNIDO | Statistical Data Consultant (Vienna)
+- [ ] https://www.impactpool.org/jobs/662828 | UNESCAP | Programme Officer P4 (Bangkok)
+- [ ] https://www.impactpool.org/jobs/724987 | UNESCAP | Programme Officer P3 (Bangkok)
+- [ ] https://www.impactpool.org/jobs/902738 | UN | Sustainable Development Officer (Bangkok)
+- [ ] https://www.devex.com/jobs/consultant-to-senior-consultant-sustainable-asset-advisory-green-building-building-energy-sustainability-1402475 | Various | Consultant – Sustainable Asset Advisory (Green Buildings)
+- [ ] https://www.devex.com/jobs/individual-consultant-international-climate-change-and-ghg-emissions-expert-1373873 | Various | Individual Consultant – Climate Change and GHG Emissions Expert
+- [ ] https://www.devex.com/jobs/individual-consultant-climate-research-analyst-jakarta-based-1348107 | WRI | Individual Consultant – Climate Research Analyst (Jakarta)
+- [ ] https://jobs.unicef.org/cw/fr/job/588697/individual-consultant-climate-and-environment-consultant-unicef-regional-office-for-south-asia-remote-working | UNICEF | Individual Consultant – Climate and Environment (South Asia, Remote)
+- [ ] https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based)
+
