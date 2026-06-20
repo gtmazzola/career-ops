@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 309 | 2026-06-20 | USAID/DAI (Tetra Tech) | ESG Standards Lead – RDMA Partnerships for Green Investment | 2.0/5 | Evaluada | ❌ | [309](reports/309-usaid-pagi-esg-standards-lead-2026-06-20.md) | AFOLU/land use ESG focus; "Lead" seniority gap (7-10yr); Bangkok location positive; below threshold — do not apply |
 | 304 | 2026-06-19 | ESCAP | Programme Officer (Bangkok) | 3.8/5 | Evaluada | ❌ | [304](reports/304-escap-programme-officer-2026-06-19.md) | P3 temporary, SPMD CDPS; strong RBM/APFSD13 fit; level gap (P3 needs 5yr vs ~2yr); worth applying |
 | 305 | 2026-06-19 | ESCAP | Programme Assistant (Bangkok) | 1.5/5 | Evaluada | ❌ | [305](reports/305-escap-programme-assistant-2026-06-19.md) | GS-level admin role; overqualified; below comp targets; SKIP |
 | 306 | 2026-06-19 | UNEP | Coordination and Reporting Specialist – EmPower (Bangkok) | 3.5/5 | Evaluada | ❌ | [306](reports/306-unep-empower-reporting-specialist-2026-06-19.md) | UNEP consultancy; strong reporting/M&E fit; gender-energy gap manageable; worth applying |

@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-20 — Multi-portal: UNOPS / ReliefWeb / UNJobNet / Impactpool / KPMG Thailand / ClimateChangeCareers / ThaiNGO / Devex / Untalent / WRI / MyCareersFuture -->
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24747 | UNOPS | Programme Management Analyst
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29471 | UNOPS | Programme Management Specialist (Climate Change)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=22999 | UNOPS | Programme Management Officer – Southeast Asia Energy Transition Partnership
-- [ ] https://reliefweb.int/job/4002120/environmental-social-and-governance-standards-lead-rdma-partnerships-green-investment | USAID/DAI | ESG Standards Lead – RDMA Partnerships for Green Investment
-- [ ] https://reliefweb.int/job/3997960/technical-advisor-environmental-marine-plastics-home-based | UNIDO | Technical Advisor – Environmental (Marine Plastics)
-- [ ] https://www.unjobnet.org/jobs/detail/85034759 | World Bank | Energy Specialist
-- [ ] https://www.unjobnet.org/jobs/detail/85792412 | UNEP | Energy Finance Expert
-- [ ] https://www.unjobnet.org/jobs/detail/79939148 | OECD | Energy Analyst – Desk Officer
-- [ ] https://www.unjobnet.org/jobs/detail/80901515 | OECD | Energy Investment Analyst
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management) — Error: Application period 15 Sep – 10 Oct 2025 — expired 8+ months ago; position closed.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24747 | UNOPS | Programme Management Analyst — Error: Application period Oct 2022 — expired 3.5+ years ago; position closed.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29471 | UNOPS | Programme Management Specialist (Climate Change) — Error: Application period Dec 2024 – Jan 2025 — expired; Yangon, Myanmar duty station — local ICA position; ineligible.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=22999 | UNOPS | Programme Management Officer – Southeast Asia Energy Transition Partnership — Error: Application period Dec 2021 — expired 4.5 years ago; position closed.
+- [x] #309 | https://reliefweb.int/job/4002120/environmental-social-and-governance-standards-lead-rdma-partnerships-green-investment | USAID/DAI | ESG Standards Lead – RDMA Partnerships for Green Investment | 2.0/5 | PDF (no)
+- [x] #310 | https://reliefweb.int/job/3997960/technical-advisor-environmental-marine-plastics-home-based | UNOPS | Technical Advisor – Environmental (Marine Plastics) | 1.0/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/85034759 | World Bank | Energy Specialist — Error: Closing date 30 March 2026 — expired 3 months ago; Vienna, Austria — local recruitment only; ineligible.
+- [!] https://www.unjobnet.org/jobs/detail/85792412 | UNEP | Energy Finance Expert — Error: Application deadline May 5, 2026 — expired; same posting as unjobs/1776938608815 previously flagged; position closed.
+- [!] https://www.unjobnet.org/jobs/detail/79939148 | OECD | Energy Analyst – Desk Officer — Error: Application deadline 13 July 2025 — expired 11 months ago; position closed.
+- [x] #311 | https://www.unjobnet.org/jobs/detail/80901515 | OECD/IEA | Energy Investment Analyst | 2.5/5 | PDF (no)
 - [ ] https://www.impactpool.org/jobs/897285 | UNV/UNDP | Cities and Climate Change Technical Advisor
 - [ ] https://www.impactpool.org/jobs/1211708 | UNV | Youth Empowerment in Sustainable Development Junior Officer
 - [ ] https://www.impactpool.org/jobs/843689 | UNV | Climate Science Education Specialist
