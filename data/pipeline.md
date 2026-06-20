@@ -2,6 +2,23 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-20 — Multi-portal: UNOPS / ReliefWeb / UNJobNet / Impactpool / KPMG Thailand / ClimateChangeCareers / ThaiNGO / Devex / Untalent / WRI / MyCareersFuture -->
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24747 | UNOPS | Programme Management Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29471 | UNOPS | Programme Management Specialist (Climate Change)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=22999 | UNOPS | Programme Management Officer – Southeast Asia Energy Transition Partnership
+- [ ] https://reliefweb.int/job/4002120/environmental-social-and-governance-standards-lead-rdma-partnerships-green-investment | USAID/DAI | ESG Standards Lead – RDMA Partnerships for Green Investment
+- [ ] https://reliefweb.int/job/3997960/technical-advisor-environmental-marine-plastics-home-based | UNIDO | Technical Advisor – Environmental (Marine Plastics)
+- [ ] https://www.unjobnet.org/jobs/detail/85034759 | World Bank | Energy Specialist
+- [ ] https://www.unjobnet.org/jobs/detail/85792412 | UNEP | Energy Finance Expert
+- [ ] https://www.unjobnet.org/jobs/detail/79939148 | OECD | Energy Analyst – Desk Officer
+- [ ] https://www.unjobnet.org/jobs/detail/80901515 | OECD | Energy Investment Analyst
+- [ ] https://www.impactpool.org/jobs/897285 | UNV/UNDP | Cities and Climate Change Technical Advisor
+- [ ] https://www.impactpool.org/jobs/1211708 | UNV | Youth Empowerment in Sustainable Development Junior Officer
+- [ ] https://www.impactpool.org/jobs/843689 | UNV | Climate Science Education Specialist
+- [ ] https://kpmg.com/th/en/home/careers/jobs-shared-services/corporate-esg-projec-assistant-manager.html | KPMG Thailand | Corporate ESG Project Assistant Manager
+- [ ] https://kpmg.com/th/en/home/careers/jobs-advisory/esg-sustainability-services-green-financing-manager.html | KPMG Thailand | ESG Sustainability Services – Green Financing Manager
+
 <!-- Scan 2026-06-18 — Multi-portal: ThaiNGO / Devex / BCG / UNDP / ADB / AIIB / SEI / KPMG / ClimateChangeCareers / UNjobs / impactpool / UNESCAP -->
 - [x] #303 | https://www.thaingo.org/jobs/detail/21355?type=24 | Trees4All/RECOFTC | Final Evaluation Consultant – Trees4All Project | 2.0/5 | PDF (no)
 - [x] #301 | https://www.devex.com/jobs/individual-consultant-corporate-sustainability-and-climate-change-consultant-1343564 | ERM | Corporate Sustainability and Climate Change Consultant | 2.2/5 | PDF (no)
