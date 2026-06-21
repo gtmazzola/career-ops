@@ -2,6 +2,41 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-21 — Multi-portal: LinkedIn / UNtalent / UN Careers / GGGI / FAO / GIZ / WorkInGreen / Impactpool / ReliefWeb / Devex / UNjobnet / Gold Standard / Guidehouse / Climatebase / ILO -->
+- [ ] https://www.thaingo.org/jobs/detail/12389/192 | GIZ/Mekong | Sustainable Finance Consultancy Service
+- [ ] https://www.impactpool.org/jobs/554691 | UNDP Bangkok | Consultant, Private Sector Engagement Partnership Unit
+- [ ] https://www.devex.com/jobs/research-analyst-ipsa-8-1273188 | UNDP | Research Analyst - IPSA 8
+- [ ] https://reliefweb.int/job/3856165/water-energy-consortium-analyst-wave-activity-remote | Various | Water-Energy Consortium Analyst for WAVE Activity (Remote)
+- [ ] https://careers.un.org/jobSearchDescription/234204 | UNEP | Specialist in Carbon Markets, Environmental Integrity
+- [ ] https://careers.un.org/jobSearchDescription/267239 | UN | Climate Change Mitigation Consultant
+- [ ] https://careers.un.org/jobSearchDescription/268046 | UN | Climate Change Technical Advisor - PAF Argentina
+- [ ] https://careers.un.org/jobSearchDescription/236680 | UN | Sustainable Development Officer (Climate Change)
+- [ ] https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant as Critical Minerals Research Analyst
+- [ ] https://untalent.org/jobs/economic-affairs-officer-sustainable-energy | UNESCWA | Economic Affairs Officer (Sustainable Energy)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert
+- [ ] https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist, Data Analytics – Compliance Markets, Certificates
+- [ ] https://workingreen.jobs/offers/environmental-social-governance-esg-analyst-at-beyond-meat-el-segundo-ca | Beyond Meat | ESG Analyst
+- [ ] https://www.ramboll.com/careers/69ed8bd0-fc99-4ae4-d881-08dbb26810ff | Ramboll | Consultant
+- [ ] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst
+- [ ] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote)
+- [ ] https://untalent.org/jobs/climate-change-analyst-programming-and-innovation | World Bank | Climate Change Analyst (Programming and Innovation)
+- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
+- [ ] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst
+- [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant - Climate Change Consultant
+- [ ] https://careers.un.org/jobSearchDescription/222419 | UN | Environmental Affairs Officer P3
+- [ ] https://www.unjobnet.org/jobs/detail/38682793 | GIZ | Advisor (mfd) Energy Transition Leveraged Partnerships for GET.transform
+- [ ] https://kerja-ngo.com/giz-indonesia-seti-project-job-vacancy-energy-transition-advisor-industrial-decarbonization-jakarta/ | GIZ Indonesia | Energy Transition Advisor (Industrial Decarbonization)
+- [ ] https://www.goldstandard.org/careers/job-posting-officer-methodology-development--innovation | Gold Standard | Officer, Methodology Development & Innovation
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601308 | FAO | National Project Specialist – Climate Smart Agriculture
+- [ ] https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center
+- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Consultant---Energy-and-Climate-Policy_20387 | Guidehouse | Consultant - Energy and Climate Policy
+- [ ] https://jobs.climatebase.org/job/72506675/consultant---energy-transition-advisory | ERM | Consultant - Energy Transition Advisory
+- [ ] https://jobs.ilo.org/job/Geneva-Programme-and-Operations-Analyst-1200/1004489601/ | ILO | Programme and Operations Analyst
+- [ ] https://climatebase.org/job/55430881/analyst-esg-methodology | Sustainalytics | Analyst, ESG Methodology
+- [ ] https://climatebase.org/job/53867696/sustainability-associate-esg | Cundall | Sustainability Associate (ESG)
+
 <!-- Scan 2026-06-20 — Multi-portal: UNOPS / ReliefWeb / UNJobNet / Impactpool / KPMG Thailand / ClimateChangeCareers / ThaiNGO / Devex / Untalent / WRI / MyCareersFuture -->
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management) — Error: Application period 15 Sep – 10 Oct 2025 — expired 8+ months ago; position closed.
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=24747 | UNOPS | Programme Management Analyst — Error: Application period Oct 2022 — expired 3.5+ years ago; position closed.
