@@ -2,6 +2,13 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 312 | 2026-06-21 | Asia Foundation/USAID | Sustainable Finance Consultancy Service | 1.5/5 | Evaluada | ❌ | [312](reports/312-asia-foundation-usaid-sustainable-finance-mekong-2026-06-21.md) | E&S infrastructure finance tool; Mekong Safeguards; hard technical blockers |
+| 313 | 2026-06-21 | UNDP Bangkok | Consultant – Private Sector Engagement Partnership Unit | 1.5/5 | Evaluada | ❌ | [313](reports/313-undp-bangkok-private-sector-engagement-2026-06-21.md) | Business development/deal brokering; MBA required; domain mismatch |
+| 315 | 2026-06-21 | UNEP | Specialist in Carbon Markets, Environmental Integrity | 1.5/5 | Evaluada | ❌ | [315](reports/315-unep-carbon-markets-specialist-2026-06-21.md) | Article 6/Central America; Spanish; hard domain blockers |
+| 317 | 2026-06-21 | UNEP | Climate Change Technical Advisor – PAF Argentina | 1.8/5 | Evaluada | ❌ | [317](reports/317-unep-cc-technical-advisor-paf-argentina-2026-06-21.md) | Buenos Aires hybrid; LTS Argentina; Spanish required; major relocation |
+| 318 | 2026-06-21 | UN DESA | Sustainable Development Officer (Climate Change) | 2.0/5 | Evaluada | ❌ | [318](reports/318-un-desa-sustainable-development-officer-cc-2026-06-21.md) | P3 level NYC; SDG7/energy; strong domain but experience gap |
+| 319 | 2026-06-21 | WRI | Consultant – Critical Minerals Research Analyst | 1.0/5 | Evaluada | ❌ | [319](reports/319-wri-critical-minerals-research-analyst-2026-06-21.md) | Bahasa Indonesia required; Jakarta; mining sector; hard blockers |
+| 320 | 2026-06-21 | UNDP | Research Analyst – IPSA 8 (Home-Based) | 3.2/5 | Evaluada | ❌ | [314](reports/314-undp-research-analyst-ipsa8-2026-06-21.md) | Home-based junior research; strong UN background match; worth applying |
 | 309 | 2026-06-20 | USAID/DAI (Tetra Tech) | ESG Standards Lead – RDMA Partnerships for Green Investment | 2.0/5 | Evaluada | ❌ | [309](reports/309-usaid-pagi-esg-standards-lead-2026-06-20.md) | AFOLU/land use ESG focus; "Lead" seniority gap (7-10yr); Bangkok location positive; below threshold — do not apply |
 | 304 | 2026-06-19 | ESCAP | Programme Officer (Bangkok) | 3.8/5 | Evaluada | ❌ | [304](reports/304-escap-programme-officer-2026-06-19.md) | P3 temporary, SPMD CDPS; strong RBM/APFSD13 fit; level gap (P3 needs 5yr vs ~2yr); worth applying |
 | 305 | 2026-06-19 | ESCAP | Programme Assistant (Bangkok) | 1.5/5 | Evaluada | ❌ | [305](reports/305-escap-programme-assistant-2026-06-19.md) | GS-level admin role; overqualified; below comp targets; SKIP |

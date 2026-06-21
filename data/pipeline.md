@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-21 — Multi-portal: LinkedIn / UNtalent / UN Careers / GGGI / FAO / GIZ / WorkInGreen / Impactpool / ReliefWeb / Devex / UNjobnet / Gold Standard / Guidehouse / Climatebase / ILO -->
-- [ ] https://www.thaingo.org/jobs/detail/12389/192 | GIZ/Mekong | Sustainable Finance Consultancy Service
-- [ ] https://www.impactpool.org/jobs/554691 | UNDP Bangkok | Consultant, Private Sector Engagement Partnership Unit
-- [ ] https://www.devex.com/jobs/research-analyst-ipsa-8-1273188 | UNDP | Research Analyst - IPSA 8
-- [ ] https://reliefweb.int/job/3856165/water-energy-consortium-analyst-wave-activity-remote | Various | Water-Energy Consortium Analyst for WAVE Activity (Remote)
-- [ ] https://careers.un.org/jobSearchDescription/234204 | UNEP | Specialist in Carbon Markets, Environmental Integrity
-- [ ] https://careers.un.org/jobSearchDescription/267239 | UN | Climate Change Mitigation Consultant
-- [ ] https://careers.un.org/jobSearchDescription/268046 | UN | Climate Change Technical Advisor - PAF Argentina
-- [ ] https://careers.un.org/jobSearchDescription/236680 | UN | Sustainable Development Officer (Climate Change)
-- [ ] https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant as Critical Minerals Research Analyst
-- [ ] https://untalent.org/jobs/economic-affairs-officer-sustainable-energy | UNESCWA | Economic Affairs Officer (Sustainable Energy)
+- [x] #312 | https://www.thaingo.org/jobs/detail/12389/192 | Asia Foundation/USAID | Sustainable Finance Consultancy Service | 1.5/5 | PDF (no)
+- [x] #313 | https://www.impactpool.org/jobs/554691 | UNDP Bangkok | Consultant – Private Sector Engagement Partnership Unit | 1.5/5 | PDF (no)
+- [x] #314 | https://www.devex.com/jobs/research-analyst-ipsa-8-1273188 | UNDP | Research Analyst – IPSA 8 | 3.2/5 | PDF (no)
+- [!] https://reliefweb.int/job/3856165/water-energy-consortium-analyst-wave-activity-remote | Tetra Tech/USAID | Water-Energy Consortium Analyst for WAVE Activity — Error: Position period June–November 2022 — expired over 3 years ago; Kazakhstan focus; position closed.
+- [x] #315 | https://careers.un.org/jobSearchDescription/234204 | UNEP | Specialist in Carbon Markets, Environmental Integrity | 1.5/5 | PDF (no)
+- [x] #316 | https://careers.un.org/jobSearchDescription/267239 | UNEP | Climate Change Mitigation Consultant | 2.0/5 | PDF (no)
+- [x] #317 | https://careers.un.org/jobSearchDescription/268046 | UNEP | Climate Change Technical Advisor – PAF Argentina | 1.8/5 | PDF (no)
+- [x] #318 | https://careers.un.org/jobSearchDescription/236680 | UN DESA | Sustainable Development Officer (Climate Change) | 2.0/5 | PDF (no)
+- [x] #319 | https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant – Critical Minerals Research Analyst | 1.0/5 | PDF (no)
+- [x] #320 | https://untalent.org/jobs/economic-affairs-officer-sustainable-energy | UNESCWA | Economic Affairs Officer (Sustainable Energy) | 1.5/5 | PDF (no)
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert
 - [ ] https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist, Data Analytics – Compliance Markets, Certificates
 - [ ] https://workingreen.jobs/offers/environmental-social-governance-esg-analyst-at-beyond-meat-el-segundo-ca | Beyond Meat | ESG Analyst
