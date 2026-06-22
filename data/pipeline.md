@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-22 — Multi-portal: ReliefWeb / Devex / GGGI / UNIDO / UNFCCC / ClimateChangeCareers / MyCareersFuture / FAO / Impactpool -->
-- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | Partnerships for Infrastructure (P4I) | Disaster Risk Reduction and Climate Change Analyst (Thailand)
-- [ ] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | TBD (Thailand) | Climate Action Specialist and Coordinator
-- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Various | Individual Consultant – Fund ESG and Sustainability
-- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate
-- [ ] https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer, Carbon Project Development
-- [ ] https://careers.unido.org/job/Vienna-Project-Administrator-%28roster%29/1353753855/ | UNIDO | Project Administrator – Carbon Markets / MRV (roster)
-- [ ] https://unfccc.int/secretariat/employment/UserManagement/FileStorage/K1IP5TVSHQ3AR2Z8EX0LGMWJDFU9CO | UNFCCC | Associate Programme Officer P-2
-- [ ] https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote)
-- [ ] https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-921ee24ea1326342ca412b31ec708087 | Ernst & Young Singapore | Senior Associate, Climate Change and Sustainability Services
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2403266 | FAO | Climate Change and Energy Specialist
+- [x] #328 | https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I (Adam Smith International) | Disaster Risk Reduction and Climate Change Analyst | 1.5/5 | PDF (no)
+- [x] #322 | https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | IGES / UNFCCC RCC Asia Pacific | Climate Action Specialist and Coordinator | 3.0/5 | PDF (no)
+- [!] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Various | Individual Consultant – Fund ESG and Sustainability — Error: Contract start date April 1, 2026; application deadline passed; position closed.
+- [x] #323 | https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate | 2.0/5 | PDF (no)
+- [!] https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer, Carbon Project Development — Error: Application deadline 16 November 2025 — expired; position closed.
+- [x] #324 | https://careers.unido.org/job/Vienna-Project-Administrator-%28roster%29/1353753855/ | UNIDO | Project Administrator – Carbon Markets / MRV (roster) | 3.8/5 | PDF (no)
+- [x] #329 | https://unfccc.int/secretariat/employment/UserManagement/FileStorage/K1IP5TVSHQ3AR2Z8EX0LGMWJDFU9CO | UNFCCC | Associate Programme Officer P-2 | 2.5/5 | PDF (no)
+- [x] #326 | https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | Strategic Energy Innovations (SEI) | Strategic Energy Management Associate | 2.0/5 | PDF (no)
+- [x] #327 | https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-921ee24ea1326342ca412b31ec708087 | Ernst & Young Singapore | Senior Associate, Climate Change and Sustainability Services | 3.0/5 | PDF (no)
+- [x] #290 (updated) | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2403266 | FAO | Climate Change and Energy Specialist | 2.2/5 | PDF (no)
 - [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600146 | FAO | Climate Change Specialist
 - [ ] https://www.impactpool.org/jobs/1107112 | GGGI | Green Finance Network Consultant (IKI-ALCBT)
 - [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand
