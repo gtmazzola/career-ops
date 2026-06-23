@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 331 | 2026-06-23 | UNEP | CCAC National Coordinator for Thailand | 2.5/5 | Evaluada | ❌ | [331](reports/331-unep-ccac-thailand-2026-06-23.md) | Bangkok ⭐ but SLCP domain mismatch; Thai language likely required |
+| 332 | 2026-06-23 | South Pole | Senior Specialist, Data Analytics – Compliance Markets | 2.0/5 | Evaluada | ❌ | [332](reports/332-south-pole-data-analytics-compliance-2026-06-23.md) | No carbon markets experience; SQL gap; do not apply |
+| 333 | 2026-06-23 | Beyond Meat | ESG Analyst | 2.5/5 | Evaluada | ❌ | [333](reports/333-beyond-meat-esg-analyst-2026-06-23.md) | El Segundo CA on-site; relocation needed; no corporate ESG experience in CPG/manufacturing |
+| 334 | 2026-06-23 | Ramboll | Consultant (Energy from Waste) | 1.0/5 | Evaluada | ❌ | [334](reports/334-ramboll-energy-from-waste-consultant-2026-06-23.md) | Engineering degree required; fundamental domain mismatch; do not apply |
 | 322 | 2026-06-22 | IGES / UNFCCC RCC Asia Pacific | Climate Action Specialist and Coordinator | 3.0/5 | Evaluada | ❌ | [322](reports/322-iges-unfccc-rcc-climate-action-specialist-2026-06-22.md) | Bangkok IO coordination role; UN system fit strong; slightly senior for current level |
 | 324 | 2026-06-22 | UNIDO | Project Administrator – Carbon Markets/MRV (roster) | 3.8/5 | Evaluada | ❌ | [324](reports/324-unido-project-administrator-carbon-mrv-vienna-2026-06-22.md) | UNIDO insider + roster role; strong institutional fit; Vienna (EU citizen) |
 | 326 | 2026-06-22 | Strategic Energy Innovations (SEI) | Strategic Energy Management Associate | 2.0/5 | Evaluada | ❌ | [326](reports/326-sei-strategic-energy-management-associate-2026-06-22.md) | US utility SEM program; programmatic mismatch with IO/policy profile; timezone gap |

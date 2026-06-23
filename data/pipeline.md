@@ -13,9 +13,9 @@
 - [x] #326 | https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | Strategic Energy Innovations (SEI) | Strategic Energy Management Associate | 2.0/5 | PDF (no)
 - [x] #327 | https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-921ee24ea1326342ca412b31ec708087 | Ernst & Young Singapore | Senior Associate, Climate Change and Sustainability Services | 3.0/5 | PDF (no)
 - [x] #290 (updated) | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2403266 | FAO | Climate Change and Energy Specialist | 2.2/5 | PDF (no)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600146 | FAO | Climate Change Specialist
-- [ ] https://www.impactpool.org/jobs/1107112 | GGGI | Green Finance Network Consultant (IKI-ALCBT)
-- [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600146 | FAO | Climate Change Specialist — Error: Application deadline 13 February 2026 — expired; position closed.
+- [x] #330 | https://www.impactpool.org/jobs/1107112 | GGGI | Green Finance Network Consultant (IKI-ALCBT) | 1.5/5 | PDF (no)
+- [x] #331 | https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-06-21 — Multi-portal: LinkedIn / UNtalent / UN Careers / GGGI / FAO / GIZ / WorkInGreen / Impactpool / ReliefWeb / Devex / UNjobnet / Gold Standard / Guidehouse / Climatebase / ILO -->
 - [x] #312 | https://www.thaingo.org/jobs/detail/12389/192 | Asia Foundation/USAID | Sustainable Finance Consultancy Service | 1.5/5 | PDF (no)
@@ -28,16 +28,16 @@
 - [x] #318 | https://careers.un.org/jobSearchDescription/236680 | UN DESA | Sustainable Development Officer (Climate Change) | 2.0/5 | PDF (no)
 - [x] #319 | https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant – Critical Minerals Research Analyst | 1.0/5 | PDF (no)
 - [x] #320 | https://untalent.org/jobs/economic-affairs-officer-sustainable-energy | UNESCWA | Economic Affairs Officer (Sustainable Energy) | 1.5/5 | PDF (no)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert
-- [ ] https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist, Data Analytics – Compliance Markets, Certificates
-- [ ] https://workingreen.jobs/offers/environmental-social-governance-esg-analyst-at-beyond-meat-el-segundo-ca | Beyond Meat | ESG Analyst
-- [ ] https://www.ramboll.com/careers/69ed8bd0-fc99-4ae4-d881-08dbb26810ff | Ramboll | Consultant
-- [ ] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst
-- [ ] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert — Error: Likely Fiji/Pacific duty station; JD not retrievable; insufficient data to evaluate.
+- [x] #332 | https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist, Data Analytics – Compliance Markets, Certificates | 2.0/5 | PDF (no)
+- [x] #333 | https://workingreen.jobs/offers/environmental-social-governance-esg-analyst-at-beyond-meat-el-segundo-ca | Beyond Meat | ESG Analyst | 2.5/5 | PDF (no)
+- [x] #334 | https://www.ramboll.com/careers/69ed8bd0-fc99-4ae4-d881-08dbb26810ff | Ramboll | Consultant | 1.0/5 | PDF (no)
+- [!] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst — Error: LinkedIn requires login to view JD; cannot evaluate.
+- [!] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote) — Error: LinkedIn requires login to view JD; cannot evaluate.
 - [ ] https://untalent.org/jobs/climate-change-analyst-programming-and-innovation | World Bank | Climate Change Analyst (Programming and Innovation)
 - [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
 - [ ] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst
-- [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant - Climate Change Consultant
+- [!] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant - Climate Change Consultant — Error: Posting expired approximately 4 years ago; Riyadh, Saudi Arabia duty station; 10 years experience required; Arabic language required; ineligible.
 - [ ] https://careers.un.org/jobSearchDescription/222419 | UN | Environmental Affairs Officer P3
 - [ ] https://www.unjobnet.org/jobs/detail/38682793 | GIZ | Advisor (mfd) Energy Transition Leveraged Partnerships for GET.transform
 - [ ] https://kerja-ngo.com/giz-indonesia-seti-project-job-vacancy-energy-transition-advisor-industrial-decarbonization-jakarta/ | GIZ Indonesia | Energy Transition Advisor (Industrial Decarbonization)
@@ -600,7 +600,7 @@
 - [ ] https://www.unjobnet.org/jobs/detail/85806262 | UNDP | Training Officer (Biomass Energy) (Bangkok) ⭐
 - [ ] https://www.unjobnet.org/jobs/detail/85782469 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) ⭐
 - [ ] https://www.unjobnet.org/jobs/detail/85473726 | UNEP ROAP | PV System Management and Recycling Expert (Bangkok) ⭐
-- [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐
+- [!] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐ — Error: Duplicate of #331 (same Impactpool posting; evaluated 2.5/5); skip.
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/2783 | UNOPS APRO | Project Management Support Officer (Bangkok) ⭐
 
 <!-- Scan 2026-05-23 — GIZ Thailand -->
@@ -717,7 +717,7 @@
 <!-- Scan 2026-05-27 — GGGI (new) -->
 - [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate ⚠️ 4-5yr exp
 - [ ] https://www.impactpool.org/jobs/880398 | GGGI | Associate, Sustainable Energy Program
-- [ ] https://www.impactpool.org/jobs/1107112 | GGGI | Green Finance Network Consultant (International) / IKI-ALCBT (Bangkok/Cambodia/Vietnam) ⭐
+- [!] https://www.impactpool.org/jobs/1107112 | GGGI | Green Finance Network Consultant (International) / IKI-ALCBT (Bangkok/Cambodia/Vietnam) ⭐ — Error: Duplicate of #330 (same Impactpool posting; evaluated 1.5/5); skip.
 
 <!-- Scan 2026-05-27 — UNOPS (new) -->
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29867 | UNOPS | Technical Senior Analyst – Environmental (Clean Energy), Retainer
