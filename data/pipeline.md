@@ -766,6 +766,30 @@
 - [ ] https://www.unjobnet.org/jobs/detail/7209148 | UNDP | Junior Analyst Consultant – Energy and Climate Change (New York)
 - [ ] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert (India/Bangladesh)
 
+<!-- Scan 2026-06-23 — Multi-portal: GGGI / Impactpool / OECD / EBRD / UNICEF / AIIB / FAO / GIZ / ILO / UNESCAP / Terra.do / ReliefWeb -->
+- [ ] https://careers.gggi.org/vacancy/climate-finance-access-network-cfan-senior-associate-nuku%E2%80%99alofa-tonga-568428.html | GGGI | Climate Finance Access Network (CFAN) Senior Associate – Tonga
+- [ ] https://www.impactpool.org/jobs/1203696 | World Bank | Operations Officer – Sustainable Infrastructure Advisory
+- [ ] https://oecd.impactpool.org/vacancies/1165826 | OECD | Energy Analysts (PAL5/PAL6)
+- [ ] https://reliefweb.int/job/3984131/usaidecuador-energyenvironment-analyst | USAID | Energy/Environment Analyst – Ecuador
+- [ ] https://www.unjobnet.org/jobs/detail/84348270 | EBRD | Analyst, Impact Assessment and Foresight
+- [ ] https://www.unjobnet.org/jobs/detail/85743841 | OECD | Junior Power Sector Modeller – Temporary
+- [ ] https://www.unjobnet.org/jobs/detail/84604103 | OECD | Renewable Energy Analyst
+- [ ] https://www.terra.do/climate-jobs/job-board/Remote-Energy-Transition-Analyst-WhatJobs-Direct-8375093/ | WhatJobs Direct | Remote Energy Transition Analyst
+- [ ] https://www.terra.do/climate-jobs/job-board/sr-renewables-asset-management-analyst-remote-41-8396717/ | ThinkBAC Consulting | Sr. Renewables Asset Management Analyst – Remote
+- [ ] https://www.terra.do/climate-jobs/job-board/energy-transition-analyst-8385389/ | SJ Group | Energy Transition Analyst (Singapore)
+- [ ] https://www.terra.do/climate-jobs/job-board/senior-climate-risk-analyst-8255891/ | GSI Environmental | Senior Climate Risk Analyst
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2400558 | FAO | National Climate Change Specialist
+- [ ] https://www.thaingo.org/jobs/detail/14630 | GIZ Thailand | Senior Advisor – Just Transition in Coal Regions
+- [ ] https://www.unescap.org/node/43309 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok)
+- [ ] https://jobs.ilo.org/job/National-Project-Coordinator-NOB/13692-en_GB/ | ILO | National Project Coordinator – NOB (Jakarta)
+- [ ] https://jobs.unicef.org/en-us/job/568498/consultant-climate-environment-energy-and-disaster-risk-reduction-design-req-568498 | UNICEF | Consultant – Climate, Environment, Energy and DRR Design
+- [ ] https://jobs.unicef.org/en-us/job/581647/consultancy-sustainable-energy-consultant-req581647 | UNICEF | Sustainable Energy Consultant
+- [ ] https://jobs.unicef.org/en-us/job/591382/sustainable-and-blended-finance-specialist-consultant-office-of-innovation-copenhagen-denmark-6-months-remote | UNICEF | Sustainable and Blended Finance Specialist Consultant (Copenhagen/Remote)
+- [ ] https://jobs.unicef.org/en-us/job/581662/national-consultant-to-support-climate-risk-and-vulnerability-analysis-remote-70-days | UNICEF | National Consultant – Climate Risk and Vulnerability Analysis
+- [ ] https://jobs.unicef.org/en-us/job/590650/impact-evaluation-consultant-data-analyst-evaluation-office-nyhq-remote-req-590650 | UNICEF | Impact Evaluation Consultant – Data Analyst
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – City Climate Finance Gap Fund
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/environment-and-social-analyst.html | AIIB | Environment and Social Analyst (Graduate Program)
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
