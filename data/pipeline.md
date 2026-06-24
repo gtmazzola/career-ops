@@ -34,17 +34,17 @@
 - [x] #334 | https://www.ramboll.com/careers/69ed8bd0-fc99-4ae4-d881-08dbb26810ff | Ramboll | Consultant | 1.0/5 | PDF (no)
 - [!] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst — Error: LinkedIn requires login to view JD; cannot evaluate.
 - [!] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote) — Error: LinkedIn requires login to view JD; cannot evaluate.
-- [ ] https://untalent.org/jobs/climate-change-analyst-programming-and-innovation | World Bank | Climate Change Analyst (Programming and Innovation)
-- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
-- [ ] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst
+- [!] https://untalent.org/jobs/climate-change-analyst-programming-and-innovation | World Bank | Climate Change Analyst — Error: Duplicate of #150 (same URL already evaluated 2.5/5); skip.
+- [!] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst — Error: Duplicate of #102 (same URL already evaluated 2.0/5); skip.
+- [!] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst — Error: Duplicate of #107 (same URL already evaluated 3.5/5); skip.
 - [!] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant - Climate Change Consultant — Error: Posting expired approximately 4 years ago; Riyadh, Saudi Arabia duty station; 10 years experience required; Arabic language required; ineligible.
-- [ ] https://careers.un.org/jobSearchDescription/222419 | UN | Environmental Affairs Officer P3
-- [ ] https://www.unjobnet.org/jobs/detail/38682793 | GIZ | Advisor (mfd) Energy Transition Leveraged Partnerships for GET.transform
-- [ ] https://kerja-ngo.com/giz-indonesia-seti-project-job-vacancy-energy-transition-advisor-industrial-decarbonization-jakarta/ | GIZ Indonesia | Energy Transition Advisor (Industrial Decarbonization)
-- [ ] https://www.goldstandard.org/careers/job-posting-officer-methodology-development--innovation | Gold Standard | Officer, Methodology Development & Innovation
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601308 | FAO | National Project Specialist – Climate Smart Agriculture
-- [ ] https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center
+- [x] #338 | https://careers.un.org/jobSearchDescription/222419 | UN DOS | Environmental Affairs Officer P3 | 1.5/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/38682793 | GIZ | Advisor Energy Transition GET.transform — Error: unjobnet ID 38682793 indicates posting from 2022–2023 (current active range 80M+); JD not retrievable; suspected expired.
+- [x] #336 | https://kerja-ngo.com/giz-indonesia-seti-project-job-vacancy-energy-transition-advisor-industrial-decarbonization-jakarta/ | GIZ Indonesia (SETI) | Energy Transition Advisor (Industrial Decarbonization) | 2.0/5 | PDF (no)
+- [x] #337 | https://www.goldstandard.org/careers/job-posting-officer-methodology-development--innovation | Gold Standard Foundation | Officer, Methodology Development & Innovation | 2.0/5 | PDF (no)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist — Error: Application deadline March 3, 2026 — expired; position closed.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601308 | FAO | National Project Specialist – Climate Smart Agriculture — Error: National position for Nigeria requiring Nigerian nationality; ineligible.
+- [!] https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center — Error: National grade position (X10) in Papua New Guinea; requires 9–11 years experience; ineligible.
 - [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate
 - [ ] https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Consultant---Energy-and-Climate-Policy_20387 | Guidehouse | Consultant - Energy and Climate Policy
 - [ ] https://jobs.climatebase.org/job/72506675/consultant---energy-transition-advisory | ERM | Consultant - Energy Transition Advisory

@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 336 | 2026-06-24 | GIZ Indonesia (SETI) | Energy Transition Advisor – Industrial Decarbonization | 2.0/5 | Evaluada | ❌ | [336](reports/336-giz-indonesia-seti-energy-advisor-2026-06-24.md) | Jakarta; senior role requires 5yr industrial decarbonization exp; SE Asia adjacency but hard experience gap |
+| 337 | 2026-06-24 | Gold Standard Foundation | Officer, Methodology Development & Innovation | 2.0/5 | Evaluada | ❌ | [337](reports/337-gold-standard-methodology-officer-2026-06-24.md) | Remote (UK/Germany/India); 4+yr carbon project dev required; strong analytical fit but no VCM professional exp |
+| 338 | 2026-06-24 | UN DOS | Environmental Affairs Officer P3 | 1.5/5 | Evaluada | ❌ | [338](reports/338-un-dos-eao-p3-2026-06-24.md) | Field operations env management — not policy/climate; hard domain + experience gap; P3 requires 5+yrs |
 | 331 | 2026-06-23 | UNEP | CCAC National Coordinator for Thailand | 2.5/5 | Evaluada | ❌ | [331](reports/331-unep-ccac-thailand-2026-06-23.md) | Bangkok ⭐ but SLCP domain mismatch; Thai language likely required |
 | 332 | 2026-06-23 | South Pole | Senior Specialist, Data Analytics – Compliance Markets | 2.0/5 | Evaluada | ❌ | [332](reports/332-south-pole-data-analytics-compliance-2026-06-23.md) | No carbon markets experience; SQL gap; do not apply |
 | 333 | 2026-06-23 | Beyond Meat | ESG Analyst | 2.5/5 | Evaluada | ❌ | [333](reports/333-beyond-meat-esg-analyst-2026-06-23.md) | El Segundo CA on-site; relocation needed; no corporate ESG experience in CPG/manufacturing |
