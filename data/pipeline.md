@@ -790,6 +790,9 @@
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – City Climate Finance Gap Fund
 - [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/environment-and-social-analyst.html | AIIB | Environment and Social Analyst (Graduate Program)
 
+<!-- Scan 2026-06-25 — Multi-portal: MyCareersFuture / WRI / GIZ / GGGI / South Pole / KPMG / Deloitte / ERM / Nestlé / UNEP / ESCAP / UNICEF / UNDP / Terra.do / Climatebase / ClimateChangeCareers / ThaiNGO / Impactpool / UNjobs / GCF / AIIB / BCG / IFC / Ramboll / IRC / Sustainalytics / IEEFA / Conservation International -->
+- [ ] https://www.impactpool.org/jobs/1201478 | JADE Dialogues | Strategic Initiatives Manager – Policy & Institutions (Remote APAC) ⭐ ⚠️ 5-7yr exp; contractor role
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
