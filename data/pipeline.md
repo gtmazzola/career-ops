@@ -45,12 +45,12 @@
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist — Error: Application deadline March 3, 2026 — expired; position closed.
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601308 | FAO | National Project Specialist – Climate Smart Agriculture — Error: National position for Nigeria requiring Nigerian nationality; ineligible.
 - [!] https://careers.gggi.org/vacancy/green-finance-specialist-green-finance-center-586032.html | GGGI | Green Finance Specialist – Green Finance Center — Error: National grade position (X10) in Papua New Guinea; requires 9–11 years experience; ineligible.
-- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate
-- [ ] https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Consultant---Energy-and-Climate-Policy_20387 | Guidehouse | Consultant - Energy and Climate Policy
-- [ ] https://jobs.climatebase.org/job/72506675/consultant---energy-transition-advisory | ERM | Consultant - Energy Transition Advisory
-- [ ] https://jobs.ilo.org/job/Geneva-Programme-and-Operations-Analyst-1200/1004489601/ | ILO | Programme and Operations Analyst
-- [ ] https://climatebase.org/job/55430881/analyst-esg-methodology | Sustainalytics | Analyst, ESG Methodology
-- [ ] https://climatebase.org/job/53867696/sustainability-associate-esg | Cundall | Sustainability Associate (ESG)
+- [x] #339 | https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Kigali) | 2.0/5 | PDF (no)
+- [x] #340 | https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Consultant---Energy-and-Climate-Policy_20387 | Guidehouse | Consultant – Energy and Climate Policy (Utrecht) | 3.5/5 | PDF (no)
+- [x] #341 | https://jobs.climatebase.org/job/72506675/consultant---energy-transition-advisory | ERM | Consultant – Energy Transition Advisory (Paris) | 3.2/5 | PDF (no)
+- [!] https://jobs.ilo.org/job/Geneva-Programme-and-Operations-Analyst-1200/1004489601/ | ILO | Programme and Operations Analyst — Error: Application deadline 11 December 2023 — expired over 2.5 years ago; admin/finance role at ACTRAV not aligned with candidate profile; ineligible.
+- [x] #342 | https://climatebase.org/job/55430881/analyst-esg-methodology | Sustainalytics | Analyst, ESG Methodology (Amsterdam) | 3.0/5 | PDF (no)
+- [x] #343 | https://climatebase.org/job/53867696/sustainability-associate-esg | Cundall | Sustainability Associate (ESG) – Australia | 1.8/5 | PDF (no)
 
 <!-- Scan 2026-06-20 — Multi-portal: UNOPS / ReliefWeb / UNJobNet / Impactpool / KPMG Thailand / ClimateChangeCareers / ThaiNGO / Devex / Untalent / WRI / MyCareersFuture -->
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management) — Error: Application period 15 Sep – 10 Oct 2025 — expired 8+ months ago; position closed.
@@ -63,10 +63,10 @@
 - [!] https://www.unjobnet.org/jobs/detail/85792412 | UNEP | Energy Finance Expert — Error: Application deadline May 5, 2026 — expired; same posting as unjobs/1776938608815 previously flagged; position closed.
 - [!] https://www.unjobnet.org/jobs/detail/79939148 | OECD | Energy Analyst – Desk Officer — Error: Application deadline 13 July 2025 — expired 11 months ago; position closed.
 - [x] #311 | https://www.unjobnet.org/jobs/detail/80901515 | OECD/IEA | Energy Investment Analyst | 2.5/5 | PDF (no)
-- [ ] https://www.impactpool.org/jobs/897285 | UNV/UNDP | Cities and Climate Change Technical Advisor
-- [ ] https://www.impactpool.org/jobs/1211708 | UNV | Youth Empowerment in Sustainable Development Junior Officer
-- [ ] https://www.impactpool.org/jobs/843689 | UNV | Climate Science Education Specialist
-- [ ] https://kpmg.com/th/en/home/careers/jobs-shared-services/corporate-esg-projec-assistant-manager.html | KPMG Thailand | Corporate ESG Project Assistant Manager
+- [!] https://www.impactpool.org/jobs/897285 | UNV/UNDP | Cities and Climate Change Technical Advisor — Error: Same Urban-ACT/UNESCAP posting previously flagged as expired (unjobs.org/vacancies/1674676047784, January 2023); Impactpool ID 897285 from 2022–2023 cohort; position closed.
+- [x] #344 | https://www.impactpool.org/jobs/1211708 | UNV / UNDP | Youth Empowerment in Sustainable Development Junior Officer (Bangkok) | 1.5/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/843689 | UNV | Climate Science Education Specialist — Error: Posting from 2022 (Impactpool ID 843689); inter-agency climate science literacy initiative from 2022; education specialist domain mismatch; position closed.
+- [x] #345 | https://kpmg.com/th/en/home/careers/jobs-shared-services/corporate-esg-projec-assistant-manager.html | KPMG Thailand | Corporate ESG Project Assistant Manager (Bangkok) | 1.8/5 | PDF (no)
 - [ ] https://kpmg.com/th/en/home/careers/jobs-advisory/esg-sustainability-services-green-financing-manager.html | KPMG Thailand | ESG Sustainability Services – Green Financing Manager
 
 <!-- Scan 2026-06-18 — Multi-portal: ThaiNGO / Devex / BCG / UNDP / ADB / AIIB / SEI / KPMG / ClimateChangeCareers / UNjobs / impactpool / UNESCAP -->
