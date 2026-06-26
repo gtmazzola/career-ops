@@ -2,6 +2,34 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-26 — Multi-portal: UN Careers / UNIDO / UNICEF / GCF / ERM / SEI / South Pole / MyCareersFuture / EY Singapore / ThaiNGO / Impactpool / Devex / ClimateChangeCareers / ReliefWeb / UNjobnet / GGGI / IEA / UNJSPF -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna, ISA-P3) ⚠️ deadline June 29
+- [ ] https://jobs.unicef.org/mob/cw/en-us/job/593852/senior-data-scientist-climate-change-and-emergency-consultant-593852 | UNICEF | Senior Data Scientist, Climate Change Consultant ⚠️ deadline June 28
+- [ ] https://careers.un.org/jobSearchDescription/276436 | UNEP | Senior Consultant for Carbon Markets and NbS
+- [ ] https://careers.un.org/jobSearchDescription/278165 | UN | Programme Officer P3 (Energy Transition for Green Growth)
+- [ ] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert (Consultant)
+- [ ] https://unjobs.org/vacancies/1762793914063 | UNICEF | Climate Finance Youth Engagement Consultant (New York)
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Investment-Risk-Specialist/1198367401/ | GCF | Investment Risk Specialist
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (IEU)
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool)
+- [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change
+- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
+- [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote)
+- [ ] https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | Mercy Corps | Climate and Water Research Analyst (Remote)
+- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
+- [ ] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst, Climate Advisory
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS Singapore | Sustainability & ESG Consultant
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate
+- [ ] https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings Singapore | ESG Analyst
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Assurance, Climate Change and Sustainability Services (2026 Graduates)
+- [ ] https://www.thaingo.org/jobs/detail/18552/2 | DAI/USAID PAGI | ESG Specialist (Bangkok)
+- [ ] https://www.thaingo.org/jobs/detail/15266 | Centre for Finance for Sustainability Bangkok | Research Fellow: Finance for Adaptation
+- [ ] https://oecd.impactpool.org/vacancies/1183747 | IEA/OECD | Young Associate 2026-28
+- [ ] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist (Central America)
+- [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | GGGI | Individual Consultant: Expert Engagement Framework on Climate Finance
+- [ ] https://www.impactpool.org/jobs/1126215 | UNJSPF | Responsible Investment Analyst (Geneva)
+- [ ] https://www.impactpool.org/jobs/1139263 | OECD/IEA | Junior Clean Energy Technology Modeller and Analyst
+
 <!-- Scan 2026-06-22 — Multi-portal: ReliefWeb / Devex / GGGI / UNIDO / UNFCCC / ClimateChangeCareers / MyCareersFuture / FAO / Impactpool -->
 - [x] #328 | https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I (Adam Smith International) | Disaster Risk Reduction and Climate Change Analyst | 1.5/5 | PDF (no)
 - [x] #322 | https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | IGES / UNFCCC RCC Asia Pacific | Climate Action Specialist and Coordinator | 3.0/5 | PDF (no)
