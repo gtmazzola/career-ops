@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-06-26 — Multi-portal: UN Careers / UNIDO / UNICEF / GCF / ERM / SEI / South Pole / MyCareersFuture / EY Singapore / ThaiNGO / Impactpool / Devex / ClimateChangeCareers / ReliefWeb / UNjobnet / GGGI / IEA / UNJSPF -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna, ISA-P3) ⚠️ deadline June 29
-- [ ] https://jobs.unicef.org/mob/cw/en-us/job/593852/senior-data-scientist-climate-change-and-emergency-consultant-593852 | UNICEF | Senior Data Scientist, Climate Change Consultant ⚠️ deadline June 28
-- [ ] https://careers.un.org/jobSearchDescription/276436 | UNEP | Senior Consultant for Carbon Markets and NbS
-- [ ] https://careers.un.org/jobSearchDescription/278165 | UN | Programme Officer P3 (Energy Transition for Green Growth)
-- [ ] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert (Consultant)
-- [ ] https://unjobs.org/vacancies/1762793914063 | UNICEF | Climate Finance Youth Engagement Consultant (New York)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Investment-Risk-Specialist/1198367401/ | GCF | Investment Risk Specialist
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (IEU)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool)
-- [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change
+- [x] #346 | https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna, ISA-P3) | 3.2/5 | PDF (no)
+- [x] #354 | https://jobs.unicef.org/mob/cw/en-us/job/593852/senior-data-scientist-climate-change-and-emergency-consultant-593852 | UNICEF | Senior Data Scientist, Climate Change Consultant | 2.0/5 | PDF (no)
+- [!] https://careers.un.org/jobSearchDescription/276436 | UNEP | Senior Consultant for Carbon Markets and NbS — Error: Application deadline May 12, 2026 — expired; position closed.
+- [!] https://careers.un.org/jobSearchDescription/278165 | ESCAP | Programme Officer P3 (Energy Transition for Green Growth) — Error: Application deadline June 23, 2026 — expired; position closed.
+- [x] #355 | https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert (Consultant) | 1.0/5 | PDF (no)
+- [x] #350 | https://unjobs.org/vacancies/1762793914063 | UNICEF | Climate Finance Youth Engagement Consultant (New York) | 2.2/5 | PDF (no)
+- [x] #356 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Investment-Risk-Specialist/1198367401/ | GCF | Investment Risk Specialist | 1.8/5 | PDF (no)
+- [x] #347 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (IEU) | 3.5/5 | PDF (no)
+- [x] #357 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool) | 1.5/5 | PDF (no)
+- [x] #358 | https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change | 3.0/5 | PDF (no)
 - [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
 - [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote)
 - [ ] https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | Mercy Corps | Climate and Water Research Analyst (Remote)
