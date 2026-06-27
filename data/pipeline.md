@@ -2,6 +2,34 @@
 
 ## Pendientes
 
+<!-- Scan 2026-06-27 — Multi-portal: GGGI / ReliefWeb / UN Careers / UNIDO / ClimateChangeCareers / FAO / UNtalent / UNOPS / OECD-IEA / IOM / ADB / Terra.do / Climatebase -->
+- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant
+- [ ] https://reliefweb.int/job/4194246/financing-analyst-development-peace-climate-sohs-2026-report | OCHA/SOHS | Financing Analyst – Development, Peace, Climate (SOHS 2026)
+- [ ] https://careers.un.org/jobSearchDescription/270033 | UN | Sustainable Development Officer (P3)
+- [ ] https://careers.un.org/jobSearchDescription/228443 | UN/UNEP | Programme Officer (Environment and Climate)
+- [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services – Sustainability and Climate Change Advisory (Senior Associate)
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1352426455/ | UNIDO | Industrial Development Officer (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna)
+- [ ] https://untalent.org/jobs/due-diligence-and-risk-assessment-consultant | FAO | Due Diligence and Risk Assessment Consultant
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600649 | FAO | National Environmental Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2403834 | FAO | Environmental and Social Safeguards and Sustainability Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2501593 | FAO | Climate Change Specialist (2 positions)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2500920 | FAO | Climate Change and Sustainable Agriculture Specialist
+- [ ] https://www.terra.do/climate-jobs/job-board/esg-climate-analyst-datadriven-global-impact-8386015/ | Nasdaq | ESG & Climate Analyst (Taguig, Philippines)
+- [ ] https://www.terra.do/climate-jobs/job-board/Senior-Consultant-Sustainability-Infosys-8359377/ | Infosys | Senior Consultant – Sustainability
+- [ ] https://climatebase.org/job/58735033/portfolio-esg-analystassociate | Octopus Energy | Portfolio ESG Analyst/Associate
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning), Retainer
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27983 | UNOPS | NDC Partnership Climate Change Analyst (Kyrgyz Republic), Retainer
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29434 | UNOPS | Technical Senior Officer – Environmental (Energy Policy)
+- [ ] https://oecd.impactpool.org/vacancies/1187934 | OECD/IEA | Policy Analyst – People-centred clean energy transitions
+- [ ] https://oecd.impactpool.org/vacancies/1199180 | OECD/IEA | Renewable Energy Analyst
+- [ ] https://www.impactpool.org/jobs/1118514 | IOM | Regional Preparedness and Climate Change Adaptation Officer P3 (Bangkok)
+- [ ] https://www.adb.org/careers/260384 | ADB | Senior Adaptation Solutions Specialist (Glaciers)
+- [ ] https://www.adb.org/careers/250958 | ADB | Adaptation Solutions Specialist
+- [ ] https://www.adb.org/careers/260455 | ADB | Senior Low-Carbon Solutions Specialist
+- [ ] https://www.adb.org/careers/240239 | ADB | Senior Climate Change Officer
+
 <!-- Scan 2026-06-26 — Multi-portal: UN Careers / UNIDO / UNICEF / GCF / ERM / SEI / South Pole / MyCareersFuture / EY Singapore / ThaiNGO / Impactpool / Devex / ClimateChangeCareers / ReliefWeb / UNjobnet / GGGI / IEA / UNJSPF -->
 - [x] #346 | https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna, ISA-P3) | 3.2/5 | PDF (no)
 - [x] #354 | https://jobs.unicef.org/mob/cw/en-us/job/593852/senior-data-scientist-climate-change-and-emergency-consultant-593852 | UNICEF | Senior Data Scientist, Climate Change Consultant | 2.0/5 | PDF (no)
