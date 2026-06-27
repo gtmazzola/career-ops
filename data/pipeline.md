@@ -3,29 +3,29 @@
 ## Pendientes
 
 <!-- Scan 2026-06-27 — Multi-portal: GGGI / ReliefWeb / UN Careers / UNIDO / ClimateChangeCareers / FAO / UNtalent / UNOPS / OECD-IEA / IOM / ADB / Terra.do / Climatebase -->
-- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant
-- [ ] https://reliefweb.int/job/4194246/financing-analyst-development-peace-climate-sohs-2026-report | OCHA/SOHS | Financing Analyst – Development, Peace, Climate (SOHS 2026)
-- [ ] https://careers.un.org/jobSearchDescription/270033 | UN | Sustainable Development Officer (P3)
-- [ ] https://careers.un.org/jobSearchDescription/228443 | UN/UNEP | Programme Officer (Environment and Climate)
-- [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services – Sustainability and Climate Change Advisory (Senior Associate)
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1352426455/ | UNIDO | Industrial Development Officer (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna)
-- [ ] https://untalent.org/jobs/due-diligence-and-risk-assessment-consultant | FAO | Due Diligence and Risk Assessment Consultant
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600649 | FAO | National Environmental Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2403834 | FAO | Environmental and Social Safeguards and Sustainability Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2501593 | FAO | Climate Change Specialist (2 positions)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2500920 | FAO | Climate Change and Sustainable Agriculture Specialist
-- [ ] https://www.terra.do/climate-jobs/job-board/esg-climate-analyst-datadriven-global-impact-8386015/ | Nasdaq | ESG & Climate Analyst (Taguig, Philippines)
-- [ ] https://www.terra.do/climate-jobs/job-board/Senior-Consultant-Sustainability-Infosys-8359377/ | Infosys | Senior Consultant – Sustainability
-- [ ] https://climatebase.org/job/58735033/portfolio-esg-analystassociate | Octopus Energy | Portfolio ESG Analyst/Associate
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning), Retainer
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27983 | UNOPS | NDC Partnership Climate Change Analyst (Kyrgyz Republic), Retainer
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29434 | UNOPS | Technical Senior Officer – Environmental (Energy Policy)
-- [ ] https://oecd.impactpool.org/vacancies/1187934 | OECD/IEA | Policy Analyst – People-centred clean energy transitions
-- [ ] https://oecd.impactpool.org/vacancies/1199180 | OECD/IEA | Renewable Energy Analyst
-- [ ] https://www.impactpool.org/jobs/1118514 | IOM | Regional Preparedness and Climate Change Adaptation Officer P3 (Bangkok)
-- [ ] https://www.adb.org/careers/260384 | ADB | Senior Adaptation Solutions Specialist (Glaciers)
+- [!] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant — Error: Duplicate of 2026-06-05 [!] entry — contract period Oct 2025–Mar 2026 already ended; position closed.
+- [x] #359 | https://reliefweb.int/job/4194246/financing-analyst-development-peace-climate-sohs-2026-report | OCHA/SOHS | Financing Analyst – Development, Peace, Climate (SOHS 2026) | 2.0/5 | PDF (no)
+- [x] #360 | https://careers.un.org/jobSearchDescription/270033 | UN ESCAP | Sustainable Development Officer (P3) | 2.5/5 | PDF (no)
+- [x] #361 | https://careers.un.org/jobSearchDescription/228443 | UN/UNEP | Programme Officer (Environment and Climate) | 2.0/5 | PDF (no)
+- [!] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services – Sustainability and Climate Change Advisory (Senior Associate) — Error: Duplicate of #139 (same posting already evaluated 3.0/5); skip.
+- [!] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1352426455/ | UNIDO | Industrial Development Officer (Vienna) — Error: Duplicate of #207 (same posting already evaluated 2.0/5); skip.
+- [!] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna) — Error: Duplicate of #199 (same posting already evaluated 4.0/5); skip.
+- [x] #362 | https://untalent.org/jobs/due-diligence-and-risk-assessment-consultant | FAO | Due Diligence and Risk Assessment Consultant | 1.5/5 | PDF (no)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2600649 | FAO | National Environmental Specialist — Error: Duplicate of 2026-06-16 [!] entry — application deadline April 24, 2026 expired; position closed.
+- [x] #363 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2403834 | FAO | Environmental and Social Safeguards and Sustainability Specialist | 2.0/5 | PDF (no)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist — Error: Duplicate of #290 (same posting already evaluated 1.5/5); skip.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2501593 | FAO | Climate Change Specialist (2 positions) — Error: Duplicate of #289 (same posting already evaluated 1.5/5); skip.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2500920 | FAO | Climate Change and Sustainable Agriculture Specialist — Error: Duplicate of #272 (same posting already evaluated 1.5/5); skip.
+- [!] https://www.terra.do/climate-jobs/job-board/esg-climate-analyst-datadriven-global-impact-8386015/ | Nasdaq | ESG & Climate Analyst (Taguig, Philippines) — Error: Duplicate of #203 (same posting already evaluated 3.0/5); skip.
+- [x] #364 | https://www.terra.do/climate-jobs/job-board/Senior-Consultant-Sustainability-Infosys-8359377/ | Infosys | Senior Consultant – Sustainability | 1.0/5 | PDF (no)
+- [!] https://climatebase.org/job/58735033/portfolio-esg-analystassociate | Octopus Energy | Portfolio ESG Analyst/Associate — Error: Duplicate of #155 (same posting already evaluated); skip.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning), Retainer — Error: Duplicate of 2026-05-31 [!] entry — Philippines nationals/residents only; ineligible local position.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27983 | UNOPS | NDC Partnership Climate Change Analyst (Kyrgyz Republic), Retainer — Error: Duplicate of 2026-05-31 [!] entry — Kyrgyz Republic nationals/residents only; ineligible local position.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29434 | UNOPS | Technical Senior Officer – Environmental (Energy Policy) — Error: Duplicate of 2026-05-31 [!] entry — closed Dec 2024–Jan 2025; Philippines nationals/residents only; ineligible.
+- [!] https://oecd.impactpool.org/vacancies/1187934 | OECD/IEA | Policy Analyst – People-centred clean energy transitions — Error: Application deadline January 4, 2026 — expired; position closed.
+- [!] https://oecd.impactpool.org/vacancies/1199180 | OECD/IEA | Renewable Energy Analyst — Error: Duplicate of 2026-06-03 [!] entry — application deadline March 18, 2026 expired; position closed.
+- [!] https://www.impactpool.org/jobs/1118514 | IOM | Regional Preparedness and Climate Change Adaptation Officer P3 (Bangkok) — Error: VN 2024 vacancy — application period long since closed; position filled or expired.
+- [x] #365 | https://www.adb.org/careers/260384 | ADB | Senior Adaptation Specialist (Glaciers to Farms) | 1.0/5 | PDF (no)
 - [ ] https://www.adb.org/careers/250958 | ADB | Adaptation Solutions Specialist
 - [ ] https://www.adb.org/careers/260455 | ADB | Senior Low-Carbon Solutions Specialist
 - [ ] https://www.adb.org/careers/240239 | ADB | Senior Climate Change Officer
@@ -41,17 +41,17 @@
 - [x] #347 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (IEU) | 3.5/5 | PDF (no)
 - [x] #357 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool) | 1.5/5 | PDF (no)
 - [x] #358 | https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change | 3.0/5 | PDF (no)
-- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
-- [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote)
-- [ ] https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | Mercy Corps | Climate and Water Research Analyst (Remote)
-- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
-- [ ] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst, Climate Advisory
+- [!] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote) — Error: SEI Climate Corps fellowship — cohort already started June 1, 2026; application window closed.
+- [!] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote) — Error: SEI Climate Corps fellowship started March 2026; California residency required; ineligible.
+- [x] #366 | https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | Mercy Corps | Climate and Water Research Analyst (Remote) | 2.5/5 | PDF (no)
+- [!] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure — Error: Duplicate of #131 (same posting already evaluated 2.0/5); skip.
+- [!] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst, Climate Advisory — Error: Duplicate of #132 (same posting already evaluated 1.0/5); skip.
 - [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS Singapore | Sustainability & ESG Consultant
 - [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate
-- [ ] https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings Singapore | ESG Analyst
+- [!] https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings Singapore | ESG Analyst — Error: Duplicate of #145 (same posting already evaluated 3.5/5); skip.
 - [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Assurance, Climate Change and Sustainability Services (2026 Graduates)
-- [ ] https://www.thaingo.org/jobs/detail/18552/2 | DAI/USAID PAGI | ESG Specialist (Bangkok)
-- [ ] https://www.thaingo.org/jobs/detail/15266 | Centre for Finance for Sustainability Bangkok | Research Fellow: Finance for Adaptation
+- [x] #367 | https://www.thaingo.org/jobs/detail/18552/2 | DAI/USAID PAGI | ESG and Land Use Specialist (Bangkok) | 2.5/5 | PDF (no)
+- [x] #368 | https://www.thaingo.org/jobs/detail/15266 | SEI CFSB | Research Fellow: Finance for Adaptation (Bangkok) | 3.0/5 | PDF (no)
 - [ ] https://oecd.impactpool.org/vacancies/1183747 | IEA/OECD | Young Associate 2026-28
 - [ ] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist (Central America)
 - [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | GGGI | Individual Consultant: Expert Engagement Framework on Climate Finance
