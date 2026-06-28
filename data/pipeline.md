@@ -26,9 +26,9 @@
 - [!] https://oecd.impactpool.org/vacancies/1199180 | OECD/IEA | Renewable Energy Analyst — Error: Duplicate of 2026-06-03 [!] entry — application deadline March 18, 2026 expired; position closed.
 - [!] https://www.impactpool.org/jobs/1118514 | IOM | Regional Preparedness and Climate Change Adaptation Officer P3 (Bangkok) — Error: VN 2024 vacancy — application period long since closed; position filled or expired.
 - [x] #365 | https://www.adb.org/careers/260384 | ADB | Senior Adaptation Specialist (Glaciers to Farms) | 1.0/5 | PDF (no)
-- [ ] https://www.adb.org/careers/250958 | ADB | Adaptation Solutions Specialist
-- [ ] https://www.adb.org/careers/260455 | ADB | Senior Low-Carbon Solutions Specialist
-- [ ] https://www.adb.org/careers/240239 | ADB | Senior Climate Change Officer
+- [!] https://www.adb.org/careers/250958 | ADB | Adaptation Solutions Specialist — Error: Application deadline January 23, 2026 — expired; position closed.
+- [!] https://www.adb.org/careers/260455 | ADB | Senior Low-Carbon Solutions Specialist — Error: Application deadline May 18, 2026 — expired; position closed.
+- [!] https://www.adb.org/careers/240239 | ADB | Senior Climate Change Officer — Error: Application deadline April 3, 2024 — expired over 2 years ago; position closed.
 
 <!-- Scan 2026-06-26 — Multi-portal: UN Careers / UNIDO / UNICEF / GCF / ERM / SEI / South Pole / MyCareersFuture / EY Singapore / ThaiNGO / Impactpool / Devex / ClimateChangeCareers / ReliefWeb / UNjobnet / GGGI / IEA / UNJSPF -->
 - [x] #346 | https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna, ISA-P3) | 3.2/5 | PDF (no)
@@ -46,16 +46,16 @@
 - [x] #366 | https://reliefweb.int/job/4107488/consultancy-climate-and-water-research-analyst-remote | Mercy Corps | Climate and Water Research Analyst (Remote) | 2.5/5 | PDF (no)
 - [!] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure — Error: Duplicate of #131 (same posting already evaluated 2.0/5); skip.
 - [!] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst, Climate Advisory — Error: Duplicate of #132 (same posting already evaluated 1.0/5); skip.
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS Singapore | Sustainability & ESG Consultant
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate
+- [!] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS Singapore | Sustainability & ESG Consultant — Error: Application deadline June 5, 2026 — expired; position closed.
+- [x] #369 | https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate | 2.8/5 | PDF (no)
 - [!] https://www.mycareersfuture.gov.sg/job/esg-analyst-fitch-ratings-singapore-ee65e7f20f98b2f6ebcfb864ec7f9ec6 | Fitch Ratings Singapore | ESG Analyst — Error: Duplicate of #145 (same posting already evaluated 3.5/5); skip.
-- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Assurance, Climate Change and Sustainability Services (2026 Graduates)
+- [x] #370 | https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Assurance, Climate Change and Sustainability Services (2026 Graduates) | 2.5/5 | PDF (no)
 - [x] #367 | https://www.thaingo.org/jobs/detail/18552/2 | DAI/USAID PAGI | ESG and Land Use Specialist (Bangkok) | 2.5/5 | PDF (no)
 - [x] #368 | https://www.thaingo.org/jobs/detail/15266 | SEI CFSB | Research Fellow: Finance for Adaptation (Bangkok) | 3.0/5 | PDF (no)
-- [ ] https://oecd.impactpool.org/vacancies/1183747 | IEA/OECD | Young Associate 2026-28
-- [ ] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist (Central America)
-- [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | GGGI | Individual Consultant: Expert Engagement Framework on Climate Finance
-- [ ] https://www.impactpool.org/jobs/1126215 | UNJSPF | Responsible Investment Analyst (Geneva)
+- [!] https://oecd.impactpool.org/vacancies/1183747 | IEA/OECD | Young Associate 2026-28 — Error: Application deadline December 14, 2025 — expired; 2026-28 cohort cycle closed.
+- [!] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist (Central America) — Error: Application deadline October 21, 2025 — expired; 5–8 years experience required; position closed.
+- [!] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | GGGI | Individual Consultant: Expert Engagement Framework on Climate Finance — Error: Application deadline February 19, 2026 — expired; position closed.
+- [!] https://www.impactpool.org/jobs/1126215 | UNJSPF | Responsible Investment Analyst (Geneva) — Error: Application deadline January 6, 2025 — expired over 1.5 years ago; New York duty station; position closed.
 - [ ] https://www.impactpool.org/jobs/1139263 | OECD/IEA | Junior Clean Energy Technology Modeller and Analyst
 
 <!-- Scan 2026-06-22 — Multi-portal: ReliefWeb / Devex / GGGI / UNIDO / UNFCCC / ClimateChangeCareers / MyCareersFuture / FAO / Impactpool -->
