@@ -849,6 +849,68 @@
 <!-- Scan 2026-06-25 — Multi-portal: MyCareersFuture / WRI / GIZ / GGGI / South Pole / KPMG / Deloitte / ERM / Nestlé / UNEP / ESCAP / UNICEF / UNDP / Terra.do / Climatebase / ClimateChangeCareers / ThaiNGO / Impactpool / UNjobs / GCF / AIIB / BCG / IFC / Ramboll / IRC / Sustainalytics / IEEFA / Conservation International -->
 - [ ] https://www.impactpool.org/jobs/1201478 | JADE Dialogues | Strategic Initiatives Manager – Policy & Institutions (Remote APAC) ⭐ ⚠️ 5-7yr exp; contractor role
 
+
+<!-- Scan 2026-06-28 — Multi-portal: GGGI / UNOPS / UNIDO / FAO / GCF / OECD/IEA / UNICEF / ILO / South Pole / ClimateChangeCareers / Terra.do / Climatebase / ThaiNGO / UNjobs / ReliefWeb / UN Careers / UNDP / ADB / IOM / Devex / UNtalent / UNjobnet / GIZ -->
+- [ ] https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan)
+- [ ] https://careers.gggi.org/vacancy/climate-change-officer-599913.html | GGGI | Climate Change Officer (Guyana)
+- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) ⚠️ 8yr exp
+- [ ] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC FX Risk Management Strategy for Climate and Eco Finance at FDB
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29918 | UNOPS | Project Management Support Specialist – Climate and Energy
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20149 | UNOPS | Technical Specialist – Environmental (Climate Change)
+- [ ] https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management Senior Officer (Bangkok) ⭐
+- [ ] https://careers.unido.org/job/Vienna-External-Relations-Officer/1353173555/ | UNIDO | External Relations Officer (Vienna)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501417 | FAO | National Climate Change Expert
+- [ ] https://jobs.greenclimate.fund/job/Remote-(Remote)-GCF-Roster-Pool-of-Experts-Financial-Management-Senior-Consultant/1174738101/ | GCF | GCF Roster – Financial Management Senior Consultant (Remote)
+- [ ] https://jobs.greenclimate.fund/job/Impact-Evaluation-Specialist/938313301/ | GCF | Impact Evaluation Specialist
+- [ ] https://jobs.greenclimate.fund/job/Remote-(Remote)-Strategic-Investment-Partnerships-and-Co-Investments-Consultant/1173215001/ | GCF | Strategic Investment Partnerships and Co-Investments Consultant (Remote)
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Performance-and-Flows-portfolio-Specialist/846807101/ | GCF | Financial Performance and Flows Portfolio Specialist (Incheon)
+- [ ] https://oecd.impactpool.org/vacancies/1183742 | OECD | Young Associate 2026-28 – Environment Directorate
+- [ ] https://oecd.impactpool.org/vacancies/1161486 | OECD | Environmental Data Scientist
+- [ ] https://oecd.impactpool.org/vacancies/1202046 | OECD/IEA | Critical Minerals Analyst
+- [ ] https://oecd.impactpool.org/vacancies/1189031 | OECD | Junior Policy Analyst
+- [ ] https://oecd.impactpool.org/vacancies/1194527 | OECD/IEA | Programme Manager – Energy Efficiency Hub
+- [ ] https://oecd.impactpool.org/vacancies/1172752 | OECD | Data Ecosystem Policy Analyst – Development Data (PAL6)
+- [ ] https://oecd.impactpool.org/vacancies/1209701 | OECD | Junior Policy Analyst – Development Impact and Digital
+- [ ] https://www.unjobnet.org/jobs/detail/82783260 | OECD/IEA | Young Associate – Energy Modelling Office
+- [ ] https://www.unjobnet.org/jobs/detail/77321578 | OECD | Junior Policy Analyst – Green Finance and Investment (Temporary)
+- [ ] https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead
+- [ ] https://www.unjobnet.org/jobs/detail/78080681 | ADB | ESG Transformation Expert – Individual Consultant
+- [ ] https://www.unjobnet.org/jobs/detail/68072333 | EBRD | Climate Policy and Carbon Market Associate
+- [ ] https://untalent.org/jobs/consultancy-environment-social-and-governance-esg-consultant-office-of-innovation-7-months-remote | UNICEF | ESG Consultant – Office of Innovation, 7 months (Remote)
+- [ ] https://jobs.unicef.org/en-us/job/592440 | UNICEF | COP31 Climate Action Consultant (Turkey)
+- [ ] https://jobs.unicef.org/cw/en-us/job/592504 | UNICEF | Climate Resilient WASH Data Analyst (Uganda)
+- [ ] https://jobs.unicef.org/en-us/job/581907 | UNICEF | Consultancy – Climate Change Negotiations in Latin America and Caribbean
+- [ ] https://jobs.ilo.org/job/Programme-Assistant-G5-(DC)/13655-en_GB/ | ILO | Programme Assistant G5 (Washington DC)
+- [ ] https://jobs.ilo.org/job/Tokyo-Programme-Officer-NOA/13595-en_GB/ | ILO | Programme Officer – NOA (Tokyo)
+- [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
+- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
+- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate (Bangalore)
+- [ ] https://www.climatechangecareers.com/job/kuehne-climate-center/hamburg-germany/senior-data-analyst-climate-sustainability-carbon-analytics/ | Kuehne Climate Center | Senior Data Analyst – Climate, Sustainability & Carbon Analytics (Hamburg)
+- [ ] https://www.terra.do/climate-jobs/job-board/Renewable-Energy-Policy-Advocate--Analyst-to-Associate-level----REMOTE-Thinkbac-Consulting-8259194/ | ThinkBAC Consulting | Renewable Energy Policy Advocate – Analyst to Associate level (Remote)
+- [ ] https://climatebase.org/job/66389066/analystassociate-consultant | Climatebase | Analyst/Associate Consultant
+- [ ] https://climatebase.org/job/71120474/senior-energy-data-analyst-dfm | Climatebase | (Senior) Energy Data Analyst
+- [ ] https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator ⭐
+- [ ] https://thaingo.org/jobs/detail/21355 | ThaiNGO | Final Evaluation Consultant – Trees4All Project ⭐
+- [ ] https://www.thaingo.org/jobs/detail/14119/145 | GIZ Thailand | Senior Advisor – Energy System/Policy (TGC-EMC) ⚠️ 7yr exp
+- [ ] https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P4 – Climate Change (Bangkok) ⚠️ P4 senior
+- [ ] https://careers.un.org/jobSearchDescription/278136 | UN | Programme Officer P4
+- [ ] https://careers.un.org/jobSearchDescription/230057 | UN | Programme Management Officer
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=89118 | UNDP GEF | Junior Analyst Consultant – Energy and Climate Change
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_lang=en&cur_job_id=98324 | UNDP | Project Analyst – Energy/Climate Aggregation Platform
+- [ ] https://www.adb.org/careers/240182 | ADB | Climate Change Specialist
+- [ ] https://www.adb.org/careers/260158 | ADB | Adaptation Solutions Specialist (Human and Social Development)
+- [ ] https://www.impactpool.org/jobs/1206154 | IOM | Consultant – Mapping of Community and/or Locally Led Initiatives Relevant to Climate Mobility
+- [ ] https://www.devex.com/jobs/esg-risk-consultant-738312 | Devex | ESG Risk Consultant
+- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Devex | ESG Research Analyst
+- [ ] https://www.devex.com/jobs/international-consultant-sustainable-development-strategy-for-the-seas-of-east-asia-786393 | COBSEA/UNEP | International Consultant – Sustainable Development Strategy for the Seas of East Asia
+- [ ] https://reliefweb.int/job/3872314 | FHI 360 | Senior Consultant for Climate Change Policy Analysis
+- [ ] https://reliefweb.int/job/4010181 | ReliefWeb | Project Manager – Thailand ⭐
+- [ ] https://reliefweb.int/job/3937595 | ReliefWeb | Spark Fund – Thailand Specialist ⭐
+- [ ] https://reliefweb.int/job/4204508 | ReliefWeb | Monitoring and Evaluation (M&E) Specialist (Consultant) ⭐
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=73964 | GIZ | Advisor – Technical Support Unit, Mitigation Action Facility
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
