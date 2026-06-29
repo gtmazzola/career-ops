@@ -911,6 +911,35 @@
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=73964 | GIZ | Advisor – Technical Support Unit, Mitigation Action Facility
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects
 
+<!-- Scan 2026-06-29 — Multi-portal: UN Careers / UNDP / UNOPS / ADB / FAO / GCF / GIZ / GGGI / UNICEF / Climatebase / Terra.do / ThaiNGO / UNjobnet / UNtalent -->
+- [ ] https://careers.un.org/jobSearchDescription/277456 | UN/UNEP | Climate Services Financing Framework and Business Model Consultant
+- [ ] https://careers.un.org/jobSearchDescription/275973 | UN/UNEP | Consultant Specialist in Climate Finance
+- [ ] https://careers.un.org/jobSearchDescription/257545 | UN | Climate Change Specialist Consultant
+- [ ] https://careers.un.org/jobSearchDescription/252728 | UN | Consultant – Environmental Sustainability Specialist
+- [ ] https://careers.un.org/jobSearchDescription/267189 | UN | Environmental Sustainability Consultant
+- [ ] https://careers.un.org/jobSearchDescription/232297 | UN | Climate Change Mitigation Consultant
+- [ ] https://careers.un.org/jobSearchDescription/270128 | UN | Strategic Foresight and Evaluation Expert on Climate Resilience
+- [ ] https://www.adb.org/careers/240250 | ADB | Senior Climate Change Specialist
+- [ ] https://www.adb.org/careers/260137 | ADB | Senior Project Officer (Energy)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
+- [ ] https://climatebase.org/job/71676500/data-analyst---esg | Climatebase | Data Analyst – ESG
+- [ ] https://climatebase.org/job/66085067/senior-analyst | Climatebase | Senior Analyst (Climate/Sustainability)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28867 | UNOPS | Senior Energy Analyst – Renewable Energy
+- [ ] https://www.terra.do/climate-jobs/job-board/sustainability-analytics-consultant-energy-esg-8393707/ | Guidehouse | Sustainability Analytics Consultant – Energy & ESG
+- [ ] https://www.terra.do/climate-jobs/job-board/E-S-Analyst---Greenhouse-Gas-Energy---Sustainability-Cbre-8389314/ | CBRE | E&S Analyst – Greenhouse Gas/Energy & Sustainability
+- [ ] https://www.thaingo.org/jobs/detail/14936 | GIZ Thailand | Climate Change and Green Jobs Technical Advisor ⭐
+- [ ] https://jobs.unicef.org/en-us/job/591480/international-consultant-programme-specialist-climate-change | UNICEF | International Consultant – Programme Specialist, Climate Change
+- [ ] https://www.unjobnet.org/jobs/detail/82499011 | UNDP | International Sustainability and Climate Resilience Consultant
+- [ ] https://www.unjobnet.org/jobs/detail/76067024 | UNICEF EAPRO | Programme Specialist – Climate Finance (Re-advertisement)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=92386 | UNDP/GEF | Energy Consultant (Climate Aggregation Platform)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=97291 | UNDP | Policy Analyst (Sustainable Finance / Energy)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=60650 | UNDP | Sustainable Energy Consultant
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101462 | UNDP | National Consultant – Climate Change Expert ⚠️ may require local nationality
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=63157 | GIZ | Advisor – Energy Efficiency in Buildings (Morocco)
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=76945 | GIZ | Team Leader – Energy Transition Specialist ⚠️ senior level
+- [ ] https://jobs.greenclimate.fund/job/NA-Compliance-Consultant/924586701/ | GCF | Compliance Consultant (Remote)
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Reporting-and-Accounting-Consultant/1147206801/ | GCF | Financial Reporting and Accounting Consultant
+
 ## Procesadas
 
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
