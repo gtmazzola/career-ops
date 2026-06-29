@@ -56,7 +56,7 @@
 - [!] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist (Central America) — Error: Application deadline October 21, 2025 — expired; 5–8 years experience required; position closed.
 - [!] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | GGGI | Individual Consultant: Expert Engagement Framework on Climate Finance — Error: Application deadline February 19, 2026 — expired; position closed.
 - [!] https://www.impactpool.org/jobs/1126215 | UNJSPF | Responsible Investment Analyst (Geneva) — Error: Application deadline January 6, 2025 — expired over 1.5 years ago; New York duty station; position closed.
-- [ ] https://www.impactpool.org/jobs/1139263 | OECD/IEA | Junior Clean Energy Technology Modeller and Analyst
+- [!] https://www.impactpool.org/jobs/1139263 | OECD/IEA | Junior Clean Energy Technology Modeller and Analyst — Error: Application deadline March 16, 2025 — expired over 1 year ago; position closed.
 
 <!-- Scan 2026-06-22 — Multi-portal: ReliefWeb / Devex / GGGI / UNIDO / UNFCCC / ClimateChangeCareers / MyCareersFuture / FAO / Impactpool -->
 - [x] #328 | https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I (Adam Smith International) | Disaster Risk Reduction and Climate Change Analyst | 1.5/5 | PDF (no)
@@ -123,7 +123,7 @@
 - [x] #344 | https://www.impactpool.org/jobs/1211708 | UNV / UNDP | Youth Empowerment in Sustainable Development Junior Officer (Bangkok) | 1.5/5 | PDF (no)
 - [!] https://www.impactpool.org/jobs/843689 | UNV | Climate Science Education Specialist — Error: Posting from 2022 (Impactpool ID 843689); inter-agency climate science literacy initiative from 2022; education specialist domain mismatch; position closed.
 - [x] #345 | https://kpmg.com/th/en/home/careers/jobs-shared-services/corporate-esg-projec-assistant-manager.html | KPMG Thailand | Corporate ESG Project Assistant Manager (Bangkok) | 1.8/5 | PDF (no)
-- [ ] https://kpmg.com/th/en/home/careers/jobs-advisory/esg-sustainability-services-green-financing-manager.html | KPMG Thailand | ESG Sustainability Services – Green Financing Manager
+- [x] #371 | https://kpmg.com/th/en/home/careers/jobs-advisory/esg-sustainability-services-green-financing-manager.html | KPMG Thailand | ESG Sustainability Services – Green Financing Manager | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-06-18 — Multi-portal: ThaiNGO / Devex / BCG / UNDP / ADB / AIIB / SEI / KPMG / ClimateChangeCareers / UNjobs / impactpool / UNESCAP -->
 - [x] #303 | https://www.thaingo.org/jobs/detail/21355?type=24 | Trees4All/RECOFTC | Final Evaluation Consultant – Trees4All Project | 2.0/5 | PDF (no)
@@ -136,9 +136,9 @@
 - [!] https://www.adb.org/careers/260157 | ADB | Project Officer (Energy) — Error: Application deadline February 27, 2026 — expired; position closed.
 - [!] https://www.adb.org/careers/260314 | ADB | Senior Natural Resources and Agriculture Specialist (Nature Finance) — Error: Application deadline June 9, 2026 — expired; 10yr experience required; position closed.
 - [!] https://www.adb.org/careers/240378 | ADB | Associate Project Analyst — Error: Application deadline May 31, 2024 — expired over 2 years ago; position closed.
-- [ ] https://www.adb.org/careers/240050 | ADB | Senior Climate and Disaster Risk Specialist
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/investment-solutions-associate-climate96.html | AIIB | Investment Solutions Associate – Climate
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Specialists-Senior-Specialists.html | AIIB | Environment Specialists / Senior Specialists
+- [!] https://www.adb.org/careers/240050 | ADB | Senior Climate and Disaster Risk Specialist — Error: Application deadline expired (ADB job ID from ~2024; confirmed expired per search); 8+ years experience required; position closed.
+- [x] #372 | https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/investment-solutions-associate-climate96.html | AIIB | Investment Solutions Associate – Climate | 3.2/5 | PDF (no)
+- [x] #373 | https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Specialists-Senior-Specialists.html | AIIB | Environment Specialists / Senior Specialists | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-06-17 — Multi-portal: ERM / Ramboll / GIZ / ILO / GGGI / UNOPS / UNDP / FAO / UN Careers / ClimateChangeCareers / ThaiNGO / ISS -->
 - [x] #292 | https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst / Green Finance Executive | 2.5/5 | PDF (no)
@@ -151,11 +151,11 @@
 - [x] #298 | https://www.unjobnet.org/jobs/detail/83937377 | GGGI | Climate Finance Consultant (Mexico City) | 1.8/5 | PDF (no)
 - [x] #299 | https://www.terra.do/climate-jobs/job-board/ESG-Data-Analyst--Japanese-Speaking--Institutional-Shareholder-Services-8350643/ | ISS | ESG Data Analyst (Japanese Speaking) – Manila | 1.0/5 | PDF (no)
 - [!] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=25109 | UNOPS | Programme Management – Senior Analyst — Error: Vacancy from December 2022 (VA/2022/B5004/25109); Nigeria nationals only; application period long since closed; ineligible.
-- [ ] https://www.impactpool.org/jobs/765709 | UNDP | National Consultant – ESS Specialist
-- [ ] https://www.impactpool.org/jobs/772920 | UNDP | National Environmental and Social Safeguard/ESS Specialist (National Consultant)
-- [ ] https://www.impactpool.org/jobs/732014 | UNDP | Biodiversity/Ecosystem International Consultant
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2400008 | FAO | National Forest and Climate Specialist
-- [ ] https://www.thaingo.org/jobs/detail/3548 | WWF-Thailand | ESG Specialist
+- [!] https://www.impactpool.org/jobs/765709 | UNDP | National Consultant – ESS Specialist — Error: National consultant position (Philippines) for Climate Finance PH/NBS project; Philippine national/resident eligibility required; posting from ~2022; skip.
+- [!] https://www.impactpool.org/jobs/772920 | UNDP | National Environmental and Social Safeguard/ESS Specialist (National Consultant) — Error: Consultancy period March 2022–November 2023 — expired; ASEAN ENMAPS project Philippines focus; position closed.
+- [!] https://www.impactpool.org/jobs/732014 | UNDP | Biodiversity/Ecosystem International Consultant — Error: Consultancy period October 2021–January 2022 — expired over 4 years ago; HLPF SDG14/15 background paper; position closed.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2400008 | FAO | National Forest and Climate Specialist — Error: National specialist position in Suriname (FAO/Ministry of Spatial Planning); Surinamese national eligibility required; wrong location; skip.
+- [!] https://www.thaingo.org/jobs/detail/3548 | WWF-Thailand | ESG Specialist — Error: ThaiNGO ID 3548 from ~2020-2021 (current active range 17000-21000); posting likely expired; minimum 5 years experience required — hard blocker; skip.
 - [ ] https://www.thaingo.org/jobs/detail/4673 | USAID Clean Power Asia | Renewable Energy Policy Specialist
 - [ ] https://careers.un.org/jobSearchDescription/270946 | UN | Programme Management Officer P4
 - [ ] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator (NOA)

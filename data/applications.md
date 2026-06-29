@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 372 | 2026-06-29 | AIIB | Investment Solutions Associate – Climate | 3.2/5 | Evaluada | ❌ | [372](reports/372-aiib-investment-solutions-associate-climate-2026-06-29.md) | Beijing MDB climate associate (future pool); strong thematic fit, GHG/Paris alignment match; significant relocation + junior experience gap; submit to pool |
+| 373 | 2026-06-29 | AIIB | Environment Specialists / Senior Specialists | 1.5/5 | Evaluada | ❌ | [373](reports/373-aiib-environment-specialists-senior-specialists-2026-06-29.md) | Beijing MDB E&S safeguards specialist (future pool); dual hard blockers: 5-10yr exp required + E&S domain gap; skip |
 | 359 | 2026-06-27 | OCHA | Financing Analyst – Development, Peace, Climate (SOHS 2026) | 2.0/5 | Evaluada | ❌ | [359](reports/359-ocha-sohs-financing-analyst-2026-06-27.md) | Right function, wrong domain — no humanitarian finance background; strong analytical drafting is transferable |
 | 361 | 2026-06-27 | UNEP | Programme Officer (Environment and Climate) | 2.0/5 | Evaluada | ❌ | [361](reports/361-unep-programme-officer-environment-climate-2026-06-27.md) | Limited JD data; likely P3 level; possible talent pool/roster posting — experience gap is main constraint |
 | 362 | 2026-06-27 | FAO | Due Diligence and Risk Assessment Consultant | 1.5/5 | Evaluada | ❌ | [362](reports/362-fao-due-diligence-risk-assessment-consultant-2026-06-27.md) | Do not apply — 3yr DDRA-specific experience hard gate; no Sustainalytics/RepRisk tool experience |
