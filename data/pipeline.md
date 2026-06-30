@@ -156,9 +156,9 @@
 - [!] https://www.impactpool.org/jobs/732014 | UNDP | Biodiversity/Ecosystem International Consultant — Error: Consultancy period October 2021–January 2022 — expired over 4 years ago; HLPF SDG14/15 background paper; position closed.
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2400008 | FAO | National Forest and Climate Specialist — Error: National specialist position in Suriname (FAO/Ministry of Spatial Planning); Surinamese national eligibility required; wrong location; skip.
 - [!] https://www.thaingo.org/jobs/detail/3548 | WWF-Thailand | ESG Specialist — Error: ThaiNGO ID 3548 from ~2020-2021 (current active range 17000-21000); posting likely expired; minimum 5 years experience required — hard blocker; skip.
-- [ ] https://www.thaingo.org/jobs/detail/4673 | USAID Clean Power Asia | Renewable Energy Policy Specialist
-- [ ] https://careers.un.org/jobSearchDescription/270946 | UN | Programme Management Officer P4
-- [ ] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator (NOA)
+- [!] https://www.thaingo.org/jobs/detail/4673 | USAID Clean Power Asia | Renewable Energy Policy Specialist — Error: ThaiNGO ID 4673 from ~2019–2020 (current active range 17000–21000); USAID Clean Power Asia programme ended ~2020; posting expired.
+- [!] https://careers.un.org/jobSearchDescription/270946 | UNEP | Programme Management Officer P4 (Paris) — Error: Application deadline March 21, 2026 — expired; MISEF/ACCESS clean energy finance projects; position closed.
+- [!] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator NOA (Harare, Zimbabwe) — Error: Application deadline June 15, 2026 — expired; duty station Harare, Zimbabwe; NOA National Officer — Zimbabwe nationals/residents only; ineligible.
 
 <!-- Scan 2026-06-16 — Multi-portal: ThaiNGO / MyCareersFuture / Impactpool / FAO Careers / GGGI / ClimateChangeCareers / ReliefWeb -->
 - [!] https://www.thaingo.org/jobs/detail/10221/219 | GIZ Thailand | Climate Finance Coordinator — Error: Application deadline September 25, 2020 — expired over 5 years ago; position closed.
