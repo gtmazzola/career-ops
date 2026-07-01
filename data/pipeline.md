@@ -1052,3 +1052,31 @@
 - [ ] https://jobs.unicef.org/cw/fr/job/588697/individual-consultant-climate-and-environment-consultant-unicef-regional-office-for-south-asia-remote-working | UNICEF | Individual Consultant – Climate and Environment (South Asia, Remote)
 - [ ] https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based)
 
+<!-- Scan 2026-07-01 — Multi-portal: AIIB / ThaiNGO / MyCareersFuture / EBRD / UNEP / UNOPS / WRI / ClimateChangeCareers / Terra.do / Climatebase / LinkedIn -->
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Associate-for-pooling-only.html | AIIB | Environment Associate (for pooling only)
+- [ ] https://tw.linkedin.com/jobs/view/sustainability-consultant-esg-consulting-office-taipei-at-delta-electronics-4202799125 | Delta Electronics | Sustainability Consultant – ESG Consulting Office (Taipei)
+- [ ] https://www.impactpool.org/jobs/1203696 | World Bank Group | Operations Officer – Sustainable Infrastructure Advisory (SIA)
+- [ ] https://www.impactpool.org/jobs/1197103 | EBRD | Analyst, Impact Assessment and Foresight
+- [ ] https://www.climatechangecareers.com/job/world-resources-institute/washington-dc-united-states/research-analyst-ii-natural-climate-solutions/ | WRI | Research Analyst II, Natural Climate Solutions
+- [ ] https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant, Payment Watershed Services Policy (Indonesia)
+- [ ] https://ch.linkedin.com/jobs/view/project-management-support-officer-at-unops-4378171878 | UNOPS | Project Management Support Officer (Geneva)
+- [ ] https://in.linkedin.com/jobs/view/programme-management-officer-at-un-environment-programme-3738082618 | UNEP | Programme Management Officer – Cooling Programs, Asia Pacific (New Delhi)
+- [ ] https://careers.un.org/jobSearchDescription/239662 | UNEP | Environment Officer (LTAG Monitoring and Reporting)
+- [ ] https://careers.un.org/jobSearchDescription/235339 | UNEP | Associate Programme Management Officer (Paris)
+- [ ] https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P-4 (Bangkok)
+- [ ] https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI | ESG Program Manager (Bangkok)
+- [ ] https://www.thaingo.org/jobs/detail/19070/2 | ThaiNGO | Consultancy – ESG Performance Indicators for SME Suppliers / Decarbonization
+- [ ] https://thaingo.org/jobs/detail/20933 | ThaiNGO | Senior Technical Consultant
+- [ ] https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator
+- [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore)
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Risk Services | Sustainability and Climate Change – Associate (Singapore)
+- [ ] https://jobs.ebrd.com/job/London-Analyst,-Nature-and-Climate-Finance/1401312933/ | EBRD | Analyst, Nature and Climate Finance (London)
+- [ ] https://jobs.ebrd.com/job/London-Associate,-Green-Partnerships/1386558333/ | EBRD | Associate, Green Partnerships (London)
+- [ ] https://www.terra.do/climate-jobs/job-board/sustainabilityesg-consultant-8317938/ | Delta Electronics Southeast Asia | Sustainability/ESG Consultant
+- [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG
+- [ ] https://climatebase.org/job/66389066/analystassociate-consultant | Energy and Environmental Economics (E3) | Analyst/Associate Consultant
+- [ ] https://climatebase.org/job/72381758/energy-analyst | Trio | Energy Analyst
+- [ ] https://www.terra.do/climate-jobs/job-board/Associate--Consultant---ESG---Sustainability-EiSqr-Solutions-Pvt--Ltd--8181661/ | EiSqr Solutions | Associate Consultant – ESG & Sustainability
+
