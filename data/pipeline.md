@@ -581,20 +581,20 @@
 - [x] #285 | https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote, Asia-based) | 3.2/5 | PDF (no)
 - [!] https://www.unjobnet.org/jobs/detail/84622940 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction — Error: National Officer (NOB) in Dominican Republic; citizenship required; duplicate of Impactpool 1199377; ineligible.
 - [x] #291 | https://www.unjobnet.org/jobs/detail/85785089 | GGGI | Officer, Global Voluntary Carbon Market (GVCM) Unit | 2.5/5 | PDF (no)
-- [ ] https://unjobs.org/vacancies/1751800381928 | ASEAN Centre for Energy | Research Analyst on Climate Finance and Economic Environment – ACCEPT (Jakarta)
-- [ ] https://www.unjobnet.org/jobs/detail/85908617 | UNDP | Project Analyst on Climate Risk Issues (Tashkent)
-- [ ] https://careers.gggi.org/vacancy/green-growth-senior-associate-582071.html | GGGI | Green Growth Senior Associate (Lusaka, Zambia)
+- [!] https://unjobs.org/vacancies/1751800381928 | ASEAN Centre for Energy | Research Analyst on Climate Finance and Economic Environment – ACCEPT (Jakarta) — Error: Application deadline July 20, 2025 — expired over 11 months ago; position closed.
+- [x] #374 | https://www.unjobnet.org/jobs/detail/85908617 | UNDP | Project Analyst on Climate Risk Issues (Tashkent) | 1.5/5 | PDF (no)
+- [!] https://careers.gggi.org/vacancy/green-growth-senior-associate-582071.html | GGGI | Green Growth Senior Associate (Lusaka, Zambia) — Error: Application deadline April 2, 2025 — expired over 14 months ago; Zambia national grade X7 position; position closed.
 
 <!-- Scan 2026-05-21 — Singapore / Consulting -->
-- [ ] https://www.ramboll.com/careers/abf8fb0b-d811-4d1b-26b1-08dd1f1adb29 | Ramboll | Senior Consultant – Carbon Capture (Singapore)
-- [ ] https://careers.southpole.com/jobs/1621177-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
-- [ ] https://careers.southpole.com/jobs/5571584-specialist-climate-projects | South Pole | Specialist – Climate Projects
+- [!] https://www.ramboll.com/careers/abf8fb0b-d811-4d1b-26b1-08dd1f1adb29 | Ramboll | Senior Consultant – Carbon Capture (Singapore) — Error: Requires 10–15 years CCS/O&G engineering experience — hard blocker; candidate ineligible.
+- [!] https://careers.southpole.com/jobs/1621177-consultant-climate-strategies | South Pole | Consultant – Climate Strategies — Error: Job ID 1621177 indexed March 2022 (current active IDs ~5M+); posting from 2021–2022; position closed.
+- [x] #375 | https://careers.southpole.com/jobs/5571584-specialist-climate-projects | South Pole | Specialist – Climate Projects | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-05-22 — Bangkok / Thailand ⭐ -->
-- [ ] https://www.thaingo.org/jobs/detail/18089/2 | GIZ / ThaiNGO | Climate and Carbon Consultant (Bangkok) ⭐
-- [ ] https://www.thaingo.org/jobs/detail/12227 | GIZ Thailand | Junior Advisor or Advisor – Green Cooling Initiative (Bangkok) ⭐
-- [ ] https://thaingo.org/jobs/detail/14117 | GIZ / CCMB | Advisor (Climate Mitigation) – Climate, Coastal and Marine Biodiversity (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1103491 | GGGI Thailand | Consultant for Climate Tech Startup Roadmap (Bangkok) ⭐
+- [x] #376 | https://www.thaingo.org/jobs/detail/18089/2 | GIZ Thailand | Climate and Carbon Consultant (Bangkok) | 3.2/5 | PDF (no)
+- [!] https://www.thaingo.org/jobs/detail/12227 | GIZ Thailand | Junior Advisor or Advisor – Green Cooling Initiative (Bangkok) — Error: ThaiNGO ID 12227 from ~2022 (current active range 17000–21000); Green Cooling Initiative III completed and celebrated November 2024; position closed.
+- [!] https://thaingo.org/jobs/detail/14117 | GIZ / CCMB | Advisor (Climate Mitigation) – Climate, Coastal and Marine Biodiversity (Bangkok) — Error: ThaiNGO ID 14117 from ~2022 (current active range 17000–21000); posting likely expired 3+ years ago; position closed.
+- [!] https://www.impactpool.org/jobs/1103491 | GGGI Thailand | Consultant for Climate Tech Startup Roadmap (Bangkok) — Error: Vacancy confirmed closed on ImpactPool; Thailand Climate Tech Startup Guide already launched (Beacon VC / DCCE / GGGI, June 2025); deliverable completed; position closed.
 - [ ] https://www.impactpool.org/jobs/1181975 | GGGI Thailand | Consultant for Low Carbon Building Investments (Bangkok) ⚠️ deadline ~31 May 2026
 - [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Bangkok) ⭐
 - [ ] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | RCC Asia Pacific | Climate Action Specialist and Coordinator (Bangkok) ⭐
