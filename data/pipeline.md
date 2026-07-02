@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-02 — Multi-portal: UN Women / UN Careers / S&P Global / UNDP / ESCAP / UNCTAD -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116708 | UN Women | Monitoring, Evaluation and Reporting Analyst
+- [ ] https://careers.un.org/jobSearchDescription/277892 | UN | ESG and Value Chain Due Diligence
+- [ ] https://careers.un.org/jobSearchDescription/277763 | UN-ESCAP | Management and Programme Analyst
+- [ ] https://careers.un.org/jobSearchDescription/275376 | UN | Programme Management Officer, P3
+- [ ] https://careers.un.org/jobSearchDescription/275914 | UN | Consultant - Data Analyst
+- [ ] https://careers.un.org/jobSearchDescription/267878 | UN-UNCTAD | Project Adviser, Policy & Value Chain Engagement
+- [ ] https://careers.un.org/jobSearchDescription/261940 | UN | Associate Economic Affairs Officer (Temporary)
+- [ ] https://careers.un.org/jobSearchDescription/245736 | UN | International Consultant – Asia and the Pacific
+- [ ] https://careers.un.org/jobSearchDescription/230288 | UN | Consultant on Financing the Energy Transition
+- [ ] https://careers.spglobal.com/jobs/328585 | S&P Global | Analyst - Clean Technologies & Supply Chains
+- [ ] https://careers.spglobal.com/jobs/328183 | S&P Global | Analyst - South Asia Power and Renewable Research
+- [ ] https://careers.spglobal.com/talent-network/jobs/328311 | S&P Global | Graduate Trainee - Sustainability/Climate Focus
+
 <!-- Scan 2026-06-27 — Multi-portal: GGGI / ReliefWeb / UN Careers / UNIDO / ClimateChangeCareers / FAO / UNtalent / UNOPS / OECD-IEA / IOM / ADB / Terra.do / Climatebase -->
 - [!] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant — Error: Duplicate of 2026-06-05 [!] entry — contract period Oct 2025–Mar 2026 already ended; position closed.
 - [x] #359 | https://reliefweb.int/job/4194246/financing-analyst-development-peace-climate-sohs-2026-report | OCHA/SOHS | Financing Analyst – Development, Peace, Climate (SOHS 2026) | 2.0/5 | PDF (no)
