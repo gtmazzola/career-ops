@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 377 | 2026-07-02 | UN Women | Monitoring, Evaluation and Reporting Analyst | 2.8/5 | Evaluada | ❌ | [377](reports/377-un-women-mer-analyst-bangkok-2026-07-02.md) | Bangkok SC role; strong RBM/LogFrame transfer from UNIDO but gender domain gap; below apply threshold |
+| 378 | 2026-07-02 | S&P Global | Analyst – Clean Technologies & Supply Chains | 3.0/5 | Evaluada | ❌ | [378](reports/378-sp-global-analyst-clean-tech-supply-chains-2026-07-02.md) | Commodity Insights research analyst; clean tech/energy knowledge strong but commercial market research gap; likely US/London relocation |
 | 376 | 2026-07-01 | GIZ Thailand | Climate and Carbon Consultant (Bangkok) | 3.2/5 | Evaluada | ❌ | [376](reports/376-giz-thailand-climate-carbon-consultant-2026-07-01.md) | Bangkok ⭐; UNIDO Bangkok experience transfers well; short-term consultant contract; verify posting active before applying |
 | 372 | 2026-06-29 | AIIB | Investment Solutions Associate – Climate | 3.2/5 | Evaluada | ❌ | [372](reports/372-aiib-investment-solutions-associate-climate-2026-06-29.md) | Beijing MDB climate associate (future pool); strong thematic fit, GHG/Paris alignment match; significant relocation + junior experience gap; submit to pool |
 | 373 | 2026-06-29 | AIIB | Environment Specialists / Senior Specialists | 1.5/5 | Evaluada | ❌ | [373](reports/373-aiib-environment-specialists-senior-specialists-2026-06-29.md) | Beijing MDB E&S safeguards specialist (future pool); dual hard blockers: 5-10yr exp required + E&S domain gap; skip |

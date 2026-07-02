@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-07-02 — Multi-portal: UN Women / UN Careers / S&P Global / UNDP / ESCAP / UNCTAD -->
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116708 | UN Women | Monitoring, Evaluation and Reporting Analyst
-- [ ] https://careers.un.org/jobSearchDescription/277892 | UN | ESG and Value Chain Due Diligence
-- [ ] https://careers.un.org/jobSearchDescription/277763 | UN-ESCAP | Management and Programme Analyst
-- [ ] https://careers.un.org/jobSearchDescription/275376 | UN | Programme Management Officer, P3
-- [ ] https://careers.un.org/jobSearchDescription/275914 | UN | Consultant - Data Analyst
-- [ ] https://careers.un.org/jobSearchDescription/267878 | UN-UNCTAD | Project Adviser, Policy & Value Chain Engagement
-- [ ] https://careers.un.org/jobSearchDescription/261940 | UN | Associate Economic Affairs Officer (Temporary)
-- [ ] https://careers.un.org/jobSearchDescription/245736 | UN | International Consultant – Asia and the Pacific
-- [ ] https://careers.un.org/jobSearchDescription/230288 | UN | Consultant on Financing the Energy Transition
-- [ ] https://careers.spglobal.com/jobs/328585 | S&P Global | Analyst - Clean Technologies & Supply Chains
+- [x] #377 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116708 | UN Women | Monitoring, Evaluation and Reporting Analyst | 2.8/5 | PDF (no)
+- [!] https://careers.un.org/jobSearchDescription/277892 | UN/ITC | ESG and Value Chain Due Diligence — Error: Application deadline May 31, 2026 — expired; ITC Geneva value chain due diligence consultancy (Uganda/Honduras/DRC cobalt and ASEAN SCOPE); position closed.
+- [!] https://careers.un.org/jobSearchDescription/277763 | UNODC Bangkok | Open-Source Information Analyst P2 — Error: Misidentified in scan (actual role is Open-Source Information Analyst at UNODC, not Management and Programme Analyst at ESCAP); deadline June 20, 2026 — expired; domain mismatch (OSINT/anti-trafficking); skip.
+- [!] https://careers.un.org/jobSearchDescription/275376 | UNCTAD | Programme Management Officer P3 — Error: Application deadline June 6, 2026 — expired; UNCTAD Geneva Programme Planning and Data Analytics unit; position closed.
+- [!] https://careers.un.org/jobSearchDescription/275914 | UN/OSCSEA | Consultant – Data Analyst — Error: Application deadline May 16, 2026 — expired; role focused on UN SEA (sexual exploitation and abuse) data systems — domain mismatch; position closed.
+- [!] https://careers.un.org/jobSearchDescription/267878 | ITC/UNOPS | Project Adviser, Policy & Value Chain Engagement (LICA 9, Abuja, Nigeria) — Error: Application deadline December 7, 2025 — expired over 6 months ago; ECOWAS Partner States nationals only; Africa/West Africa trade focus; ineligible.
+- [!] https://careers.un.org/jobSearchDescription/261940 | UNCTAD | Associate Economic Affairs Officer (Temporary) — Error: Temporary assignment through December 31, 2025 — expired over 6 months ago; UNCTAD Geneva temporary position; position closed.
+- [!] https://careers.un.org/jobSearchDescription/245736 | UN | International Consultant – Asia and the Pacific — Error: Posting from 2024 (job ID age); application deadline long since expired; JD not retrievable; position closed.
+- [!] https://careers.un.org/jobSearchDescription/230288 | UN | Consultant on Financing the Energy Transition — Error: Posting dated March 2024 — over 2 years old; application deadline long since expired; position closed.
+- [x] #378 | https://careers.spglobal.com/jobs/328585 | S&P Global | Analyst – Clean Technologies & Supply Chains | 3.0/5 | PDF (no)
 - [ ] https://careers.spglobal.com/jobs/328183 | S&P Global | Analyst - South Asia Power and Renewable Research
 - [ ] https://careers.spglobal.com/talent-network/jobs/328311 | S&P Global | Graduate Trainee - Sustainability/Climate Focus
 
