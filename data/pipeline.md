@@ -2,6 +2,32 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-03 — Multi-portal scheduled scan -->
+- [ ] https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Various | ESG Reporting and Disclosures Analyst/Associate
+- [ ] https://www.devex.com/jobs/research-analyst-ipsa-8-1273188 | UNDP | Research Analyst (IPSA-8)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy.html | AIIB | Investment Analyst – Energy
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/Investment-Analyst-Infrastructure-Region-1.html | AIIB | Investment Analyst – Infrastructure (Region 1)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/Environment-and-Social-Analysts.html | AIIB | Environment and Social Analysts
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/Environment-Associate.html | AIIB | Environment Associate
+- [ ] https://www.unjobnet.org/jobs/detail/oecd-junior-energy-analyst-electricity-systems-and-markets-temporary-87143115 | OECD | Junior Energy Analyst – Electricity Systems and Markets (Temporary)
+- [ ] https://www.unjobnet.org/jobs/detail/undp-sustainable-and-blended-finance-analyst-85026921 | UNDP | Sustainable and Blended Finance Analyst
+- [ ] https://www.unjobnet.org/jobs/detail/undp-energy-policy-analyst-open-to-internal-and-external-applicants-85828874 | UNDP | Energy Policy Analyst
+- [ ] https://oecd.impactpool.org/vacancies/1159461 | OECD | Energy Analyst – Desk Officer
+- [ ] https://oecd.impactpool.org/vacancies/1187475 | OECD | Energy and Environment Analyst
+- [ ] https://oecd.impactpool.org/vacancies/1172753 | OECD/IEA | Clean Energy Transition Programme Officer
+- [ ] https://oecd.impactpool.org/vacancies/1164866 | OECD | Energy Analysts
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant (Vienna)
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Infrastructure-Specialist-(Talent-Pool)/1182720801/ | GCF | Climate Infrastructure Specialist – Asia and the Pacific
+- [ ] https://careers.un.org/jobSearchDescription/233740 | UN/ESCAP | Sustainable Finance Policy Analyst for Asia-Pacific
+- [ ] https://www.climatechangecareers.com/job/sei-stockholm-environment-institute/bangkok-thailand/research-fellow-urban/ | SEI | Research Fellow – Urban (Bangkok)
+- [ ] https://www.climatechangecareers.com/job/climate-connectors/remote/strategy-research-associate-consultant/ | Climate Connectors | Strategy & Research Associate (Consultant) (Remote)
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate (Remote)
+- [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant
+- [ ] https://climatebase.org/job/51158390/consulting-associate-climate-entry-level | ERM | Consulting Associate – Climate (Entry Level)
+- [ ] https://climatebase.org/job/53867696/sustainability-associate-esg | Cundall | Sustainability Associate (ESG)
+- [ ] https://unjobs.org/vacancies/1763405251453 | GGGI | Consultant for Green Finance Network (GFN) (Bangkok)
+- [ ] https://unjobs.org/vacancies/1766043083685 | ESCAP | Consultant for Data Analysis in Disaster Risk Reduction (Bangkok)
+
 <!-- Scan 2026-07-02 — Multi-portal: UN Women / UN Careers / S&P Global / UNDP / ESCAP / UNCTAD -->
 - [x] #377 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116708 | UN Women | Monitoring, Evaluation and Reporting Analyst | 2.8/5 | PDF (no)
 - [!] https://careers.un.org/jobSearchDescription/277892 | UN/ITC | ESG and Value Chain Due Diligence — Error: Application deadline May 31, 2026 — expired; ITC Geneva value chain due diligence consultancy (Uganda/Honduras/DRC cobalt and ASEAN SCOPE); position closed.
