@@ -2,6 +2,45 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-04 — Multi-portal scheduled scan -->
+- [ ] https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant (Bangkok)
+- [ ] https://unjobs.org/vacancies/1774593255927 | ESCAP | Research and Advocacy Consultant (Bangkok)
+- [ ] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert (Bangkok)
+- [ ] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI | Research Fellow – Bankable Climate Adaptation (Bangkok)
+- [ ] https://www.sei.org/people/jobs/research-associate-operationalization-raif-asia/ | SEI | Research Associate – Operationalization RAIF Asia
+- [ ] https://www.sei.org/people/jobs/energy-environment-researcher/ | SEI | Energy and Environment Researcher
+- [ ] https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote)
+- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Various | Individual Consultant: Fund ESG and Sustainability
+- [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Various | Individual Consultant: Expert Engagement Framework on Climate Finance
+- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I / Australia | Disaster Risk Reduction and Climate Change Analyst (Thailand)
+- [ ] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC (URF/Colombia)
+- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda)
+- [ ] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer (Kenya)
+- [ ] https://careers.gggi.org/vacancy/mexico-energy-and-climate-individual-consultant-598612.html | GGGI | Energy and Climate Individual Consultant (Mexico)
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Climate Change and Sustainability Services (2026 Graduates)
+- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate – Corporate Sustainability & Climate Change (Shanghai)
+- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG Sustainability Services Consultant (Bangkok)
+- [ ] https://globalcareers-msci.icims.com/jobs/5125/sustainability-climate-client-services-associate/job | MSCI | Sustainability & Climate Client Services Associate
+- [ ] https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/ESG-Ratings-Analyst_JR_9858 | ISS ESG | ESG Ratings Analyst (Mumbai)
+- [ ] https://jobs.ebrd.com/job/London-Analyst,-ESD/1410165933/ | EBRD | Analyst, ESD (London)
+- [ ] https://jobs.ebrd.com/job/London-Associate-Banker-Green-Finance/1402971033/ | EBRD | Associate Banker – Green Finance (London)
+- [ ] https://oecd.impactpool.org/vacancies/1165826 | OECD | Energy Analysts (PAL5/PAL6)
+- [ ] https://oecd.impactpool.org/vacancies/1181504 | OECD/IEA | Energy Data Officer (Several positions)
+- [ ] https://oecd.impactpool.org/vacancies/1206688 | OECD | Policy Analyst
+- [ ] https://careers.un.org/jobSearchDescription/278773 | UN | Policy Advisory and Capacity Development
+- [ ] https://careers.un.org/jobSearchDescription/273549 | UN | Climate Change Mitigation and Emissions Analysis Consultant
+- [ ] https://www.unjobnet.org/jobs/detail/79788915 | UNDP | ESG Specialist
+- [ ] https://www.unjobnet.org/jobs/detail/85743841 | OECD | Junior Power Sector Modeller – Temporary
+- [ ] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert
+- [ ] https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based)
+- [ ] https://jobs.unicef.org/cw/fr/job/588697/individual-consultant-climate-and-environment-consultant-unicef-regional-office-for-south-asia-remote-working | UNICEF | Individual Consultant: Climate and Environment Consultant, South Asia (Remote)
+- [ ] https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant as Critical Minerals Research Analyst
+- [ ] https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist
+- [ ] https://untalent.org/jobs/program-officer-corporate-sustainability-reporting-extended-term-consultant-etc2 | World Bank | Program Officer, Corporate Sustainability Reporting (ETC2)
+- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna)
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Specialist/1199984501/ | GCF | Climate Investment Specialist (Incheon)
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (Incheon)
+
 <!-- Scan 2026-07-03 — Multi-portal scheduled scan -->
 - [x] #379 | https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Various | ESG Reporting and Disclosures Analyst/Associate | 2.0/5 | PDF (no)
 - [!] https://www.devex.com/jobs/research-analyst-ipsa-8-1273188 | UNDP | Research Analyst (IPSA-8) — Error: Duplicate of #314 (same URL already evaluated 3.2/5); skip.
