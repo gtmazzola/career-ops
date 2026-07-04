@@ -3,25 +3,25 @@
 ## Pendientes
 
 <!-- Scan 2026-07-04 — Multi-portal scheduled scan -->
-- [ ] https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant (Bangkok)
-- [ ] https://unjobs.org/vacancies/1774593255927 | ESCAP | Research and Advocacy Consultant (Bangkok)
-- [ ] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert (Bangkok)
-- [ ] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI | Research Fellow – Bankable Climate Adaptation (Bangkok)
-- [ ] https://www.sei.org/people/jobs/research-associate-operationalization-raif-asia/ | SEI | Research Associate – Operationalization RAIF Asia
-- [ ] https://www.sei.org/people/jobs/energy-environment-researcher/ | SEI | Energy and Environment Researcher
-- [ ] https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote)
-- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Various | Individual Consultant: Fund ESG and Sustainability
-- [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Various | Individual Consultant: Expert Engagement Framework on Climate Finance
-- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I / Australia | Disaster Risk Reduction and Climate Change Analyst (Thailand)
-- [ ] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC (URF/Colombia)
-- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda)
-- [ ] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer (Kenya)
-- [ ] https://careers.gggi.org/vacancy/mexico-energy-and-climate-individual-consultant-598612.html | GGGI | Energy and Climate Individual Consultant (Mexico)
-- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Climate Change and Sustainability Services (2026 Graduates)
-- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate – Corporate Sustainability & Climate Change (Shanghai)
-- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG Sustainability Services Consultant (Bangkok)
-- [ ] https://globalcareers-msci.icims.com/jobs/5125/sustainability-climate-client-services-associate/job | MSCI | Sustainability & Climate Client Services Associate
-- [ ] https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/ESG-Ratings-Analyst_JR_9858 | ISS ESG | ESG Ratings Analyst (Mumbai)
+- [x] #389 | https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant (Bangkok/Tajikistan) | 2.0/5 | PDF (no)
+- [x] #390 | https://unjobs.org/vacancies/1774593255927 | ESCAP | Research and Advocacy Consultant (Bangkok) | 3.5/5 | PDF (no)
+- [!] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert (Bangkok) — Error: Duplicate of #280 (same URL already evaluated 2.5/5); skip.
+- [x] #391 | https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI | Research Fellow – Bankable Climate Adaptation (Bangkok) | 2.0/5 | PDF (no)
+- [x] #392 | https://www.sei.org/people/jobs/research-associate-operationalization-raif-asia/ | SEI | Research Associate – Operationalization RAIF Asia | 3.0/5 | PDF (no)
+- [!] https://www.sei.org/people/jobs/energy-environment-researcher/ | SEI | Energy and Environment Researcher — Error: Duplicate of #174 (same URL already evaluated 3.2/5); skip.
+- [!] https://unjobs.org/vacancies/1703026245808 | IEEFA | Sustainable Finance Analyst, Asia (Remote) — Error: Duplicate of #285 (same URL already evaluated 3.2/5); skip.
+- [!] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Various | Individual Consultant: Fund ESG and Sustainability — Error: Application deadline passed; position closed; previously flagged as expired.
+- [!] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Various | Individual Consultant: Expert Engagement Framework on Climate Finance — Error: Application deadline February 19, 2026 — expired; position closed.
+- [!] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I / Australia | Disaster Risk Reduction and Climate Change Analyst (Thailand) — Error: Duplicate of #328 (same URL already evaluated 1.5/5); skip.
+- [!] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC (URF/Colombia) — Error: Duplicate of #085 (same URL already evaluated 1.5/5); skip.
+- [!] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda) — Error: Duplicate of #339 (same URL already evaluated 2.0/5); skip.
+- [!] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer (Kenya) — Error: Duplicate of #018 (same URL already evaluated 1.5/5); skip.
+- [x] #396 | https://careers.gggi.org/vacancy/mexico-energy-and-climate-individual-consultant-598612.html | GGGI | Energy and Climate Individual Consultant (Mexico) | 1.5/5 | PDF (no)
+- [!] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Climate Change and Sustainability Services (2026 Graduates) — Error: Duplicate of #370 (same URL already evaluated 2.5/5); skip.
+- [!] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate – Corporate Sustainability & Climate Change (Shanghai) — Error: Duplicate of #177 (same URL already evaluated 2.8/5); skip.
+- [x] #393 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG Sustainability Services Consultant (Bangkok) | 1.5/5 | PDF (no)
+- [x] #394 | https://globalcareers-msci.icims.com/jobs/5125/sustainability-climate-client-services-associate/job | MSCI | Sustainability & Climate Client Services Associate | 2.0/5 | PDF (no)
+- [x] #395 | https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/ESG-Ratings-Analyst_JR_9858 | ISS ESG | ESG Ratings Analyst (Mumbai) | 2.5/5 | PDF (no)
 - [ ] https://jobs.ebrd.com/job/London-Analyst,-ESD/1410165933/ | EBRD | Analyst, ESD (London)
 - [ ] https://jobs.ebrd.com/job/London-Associate-Banker-Green-Finance/1402971033/ | EBRD | Associate Banker – Green Finance (London)
 - [ ] https://oecd.impactpool.org/vacancies/1165826 | OECD | Energy Analysts (PAL5/PAL6)
@@ -31,15 +31,15 @@
 - [ ] https://careers.un.org/jobSearchDescription/273549 | UN | Climate Change Mitigation and Emissions Analysis Consultant
 - [ ] https://www.unjobnet.org/jobs/detail/79788915 | UNDP | ESG Specialist
 - [ ] https://www.unjobnet.org/jobs/detail/85743841 | OECD | Junior Power Sector Modeller – Temporary
-- [ ] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert
+- [!] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert — Error: Duplicate of #355 (same URL already evaluated 1.0/5); skip.
 - [ ] https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based)
 - [ ] https://jobs.unicef.org/cw/fr/job/588697/individual-consultant-climate-and-environment-consultant-unicef-regional-office-for-south-asia-remote-working | UNICEF | Individual Consultant: Climate and Environment Consultant, South Asia (Remote)
-- [ ] https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant as Critical Minerals Research Analyst
-- [ ] https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist
-- [ ] https://untalent.org/jobs/program-officer-corporate-sustainability-reporting-extended-term-consultant-etc2 | World Bank | Program Officer, Corporate Sustainability Reporting (ETC2)
-- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Specialist/1199984501/ | GCF | Climate Investment Specialist (Incheon)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (Incheon)
+- [!] https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant as Critical Minerals Research Analyst — Error: Duplicate of #319 (same URL already evaluated 1.0/5); skip.
+- [!] https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist — Error: Duplicate of #106 (same URL already evaluated 2.5/5); skip.
+- [!] https://untalent.org/jobs/program-officer-corporate-sustainability-reporting-extended-term-consultant-etc2 | World Bank | Program Officer, Corporate Sustainability Reporting (ETC2) — Error: Previously flagged as expired (posting expired 6+ months ago per source indexing); position closed.
+- [!] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna) — Error: Duplicate of #346 (same URL already evaluated 3.2/5); skip.
+- [x] #398 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Specialist/1199984501/ | GCF | Climate Investment Specialist (Incheon) | 2.0/5 | PDF (no)
+- [!] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (Incheon) — Error: Duplicate of #347 (same URL already evaluated 3.5/5); skip.
 
 <!-- Scan 2026-07-03 — Multi-portal scheduled scan -->
 - [x] #379 | https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Various | ESG Reporting and Disclosures Analyst/Associate | 2.0/5 | PDF (no)
@@ -79,7 +79,7 @@
 - [!] https://careers.un.org/jobSearchDescription/230288 | UN | Consultant on Financing the Energy Transition — Error: Posting dated March 2024 — over 2 years old; application deadline long since expired; position closed.
 - [x] #378 | https://careers.spglobal.com/jobs/328585 | S&P Global | Analyst – Clean Technologies & Supply Chains | 3.0/5 | PDF (no)
 - [x] #388 | https://careers.spglobal.com/jobs/328183 | S&P Global | Analyst - South Asia Power and Renewable Research | 1.5/5 | PDF (no)
-- [ ] https://careers.spglobal.com/talent-network/jobs/328311 | S&P Global | Graduate Trainee - Sustainability/Climate Focus
+- [x] #397 | https://careers.spglobal.com/talent-network/jobs/328311 | S&P Global | Graduate Trainee – Sustainability/Climate Focus (Madrid) | 3.0/5 | PDF (no)
 
 <!-- Scan 2026-06-27 — Multi-portal: GGGI / ReliefWeb / UN Careers / UNIDO / ClimateChangeCareers / FAO / UNtalent / UNOPS / OECD-IEA / IOM / ADB / Terra.do / Climatebase -->
 - [!] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant — Error: Duplicate of 2026-06-05 [!] entry — contract period Oct 2025–Mar 2026 already ended; position closed.
