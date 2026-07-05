@@ -22,17 +22,17 @@
 - [x] #393 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG Sustainability Services Consultant (Bangkok) | 1.5/5 | PDF (no)
 - [x] #394 | https://globalcareers-msci.icims.com/jobs/5125/sustainability-climate-client-services-associate/job | MSCI | Sustainability & Climate Client Services Associate | 2.0/5 | PDF (no)
 - [x] #395 | https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/ESG-Ratings-Analyst_JR_9858 | ISS ESG | ESG Ratings Analyst (Mumbai) | 2.5/5 | PDF (no)
-- [ ] https://jobs.ebrd.com/job/London-Analyst,-ESD/1410165933/ | EBRD | Analyst, ESD (London)
-- [ ] https://jobs.ebrd.com/job/London-Associate-Banker-Green-Finance/1402971033/ | EBRD | Associate Banker – Green Finance (London)
-- [ ] https://oecd.impactpool.org/vacancies/1165826 | OECD | Energy Analysts (PAL5/PAL6)
-- [ ] https://oecd.impactpool.org/vacancies/1181504 | OECD/IEA | Energy Data Officer (Several positions)
-- [ ] https://oecd.impactpool.org/vacancies/1206688 | OECD | Policy Analyst
-- [ ] https://careers.un.org/jobSearchDescription/278773 | UN | Policy Advisory and Capacity Development
-- [ ] https://careers.un.org/jobSearchDescription/273549 | UN | Climate Change Mitigation and Emissions Analysis Consultant
-- [ ] https://www.unjobnet.org/jobs/detail/79788915 | UNDP | ESG Specialist
-- [ ] https://www.unjobnet.org/jobs/detail/85743841 | OECD | Junior Power Sector Modeller – Temporary
+- [x] #399 | https://jobs.ebrd.com/job/London-Analyst,-ESD/1410165933/ | EBRD | Analyst, ESD (London) | 3.2/5 | PDF (no)
+- [x] #400 | https://jobs.ebrd.com/job/London-Associate-Banker-Green-Finance/1402971033/ | EBRD | Associate Banker – Green Finance (London) | 2.0/5 | PDF (no)
+- [!] https://oecd.impactpool.org/vacancies/1165826 | OECD | Energy Analysts (PAL5/PAL6) — Error: Application deadline September 15, 2025 — expired; position closed.
+- [!] https://oecd.impactpool.org/vacancies/1181504 | OECD/IEA | Energy Data Officer (Several positions) — Error: Interviews scheduled November 2025 / January 2026; position closed.
+- [!] https://oecd.impactpool.org/vacancies/1206688 | OECD | Policy Analyst — Error: Application deadline April 29, 2026 — expired; position closed.
+- [!] https://careers.un.org/jobSearchDescription/278773 | UN | Policy Advisory and Capacity Development — Error: Application deadline June 18, 2026 — expired; position closed.
+- [!] https://careers.un.org/jobSearchDescription/273549 | UNEP | Climate Change Mitigation and Emissions Analysis Consultant — Error: Posted March 2, 2026; standard UNEP consultancy deadline 2–4 weeks post-posting → deadline approximately late March/early April 2026; position closed.
+- [!] https://www.unjobnet.org/jobs/detail/79788915 | UNDP | ESG Specialist — Error: unjobnet ID 79788915 from ~2024/early 2025 (current active range 84M–86M); posting too old; likely expired and closed.
+- [!] https://www.unjobnet.org/jobs/detail/85743841 | OECD/IEA | Junior Power Sector Modeller – Temporary — Error: Application deadline April 26, 2026 — expired; position closed.
 - [!] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert — Error: Duplicate of #355 (same URL already evaluated 1.0/5); skip.
-- [ ] https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based)
+- [!] https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based) — Error: Application deadline April 17, 2026 — expired; duty station Dar-es-Salaam, Tanzania; position closed.
 - [ ] https://jobs.unicef.org/cw/fr/job/588697/individual-consultant-climate-and-environment-consultant-unicef-regional-office-for-south-asia-remote-working | UNICEF | Individual Consultant: Climate and Environment Consultant, South Asia (Remote)
 - [!] https://untalent.org/jobs/consultant-as-critical-minerals-research-analyst | WRI | Consultant as Critical Minerals Research Analyst — Error: Duplicate of #319 (same URL already evaluated 1.0/5); skip.
 - [!] https://untalent.org/jobs/sustainable-energy-specialist | UNDP | Sustainable Energy Specialist — Error: Duplicate of #106 (same URL already evaluated 2.5/5); skip.

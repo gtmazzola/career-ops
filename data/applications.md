@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 399 | 2026-07-05 | EBRD | Analyst, ESD (London) | 3.2/5 | Evaluada | ❌ | [399](reports/399-ebrd-analyst-esd-2026-07-05.md) | MDB E&S appraisal / Paris Alignment screening; London (EU citizen); decent comp; good career step |
+| 400 | 2026-07-05 | EBRD | Associate Banker – Green Finance (London) | 2.0/5 | Evaluada | ❌ | [400](reports/400-ebrd-associate-banker-green-finance-2026-07-05.md) | Banking background hard blocker; not in target archetypes; do not apply |
 | 389 | 2026-07-04 | ESCAP | Sustainable Finance Consultant (Bangkok/Tajikistan) | 2.0/5 | Evaluada | ❌ | [389](reports/389-escap-sustainable-finance-consultant-2026-07-04.md) | Hard blockers: Tajikistan expertise + securities market knowledge required |
 | 390 | 2026-07-04 | ESCAP | Research and Advocacy Consultant (Bangkok) | 3.5/5 | Evaluada | ❌ | [390](reports/390-escap-research-advocacy-consultant-2026-07-04.md) | Strong APFSD13 match; communications gap; recommend applying |
 | 394 | 2026-07-04 | MSCI | Sustainability & Climate Client Services Associate | 2.0/5 | Evaluada | ❌ | [394](reports/394-msci-sustainability-climate-client-services-associate-2026-07-04.md) | Financial markets background gap; better fit in MSCI research analyst roles |
