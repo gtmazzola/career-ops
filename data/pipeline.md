@@ -1159,3 +1159,10 @@
 - [ ] https://climatebase.org/job/72381758/energy-analyst | Trio | Energy Analyst
 - [ ] https://www.terra.do/climate-jobs/job-board/Associate--Consultant---ESG---Sustainability-EiSqr-Solutions-Pvt--Ltd--8181661/ | EiSqr Solutions | Associate Consultant – ESG & Sustainability
 
+<!-- Scan 2026-07-05 — Multi-portal scheduled scan: GGGI / SEI / UNtalent / GIZ Philippines / UNjobs Bangkok -->
+- [ ] https://careers.gggi.org/vacancy/forestry-consultant-614368.html | GGGI | Forestry Consultant (Paraguay)
+- [ ] https://www.sei.org/people/jobs/data-systems-digital-governance-researcher/ | SEI | Mid-senior researcher – Data Systems and Digital Governance
+- [ ] https://untalent.org/jobs/assistant-investment-officer-responsible-investment-analyst | UNJSPF | Assistant Investment Officer – Responsible Investment Analyst
+- [ ] https://www.giz.de/en/regions/asia/philippines/jobs/junior-advisor-energy-research-and-capacity-development-accelerating | GIZ Philippines | Junior Advisor – Energy Research and Capacity Development
+- [ ] https://unjobs.org/vacancies/1752097917220 | UNDP/UNCDF Bangkok | Programme Analyst – LoCAL Facility ⭐
+
