@@ -1197,3 +1197,40 @@
 - [ ] https://reliefweb.int/job/4118020/call-consultant-roster | ReliefWeb | Call for Consultant Roster (Bangladesh) – Climate/Environment
 - [ ] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator – NOA (Washington DC)
 
+
+<!-- Scan 2026-07-07 -->
+- [ ] https://careers.unido.org/job/Vienna-Partnerships-Coordinator/1359254155/ | UNIDO | Partnerships Coordinator (Vienna, ISA-P3)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103565 | UNDP | Energy Data Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25248 | UNOPS | Climate Transparency Officer
+- [ ] https://www.impactpool.org/jobs/1213319 | GCF | Climate Investment Management Consultant – Asia Pacific
+- [ ] https://www.impactpool.org/jobs/1002795 | UNEP FI | Consultant – V20 Sustainable Insurance Facility Asia Pacific
+- [ ] https://www.devex.com/jobs/environmental-and-social-governance-specialist-financial-intermediaries-1031444 | IFC/Dev Finance | ESG Specialist (Financial Intermediaries)
+- [ ] https://untalent.org/jobs/nature-climate-and-energy-associate | UNDP | Nature, Climate and Energy Associate
+- [ ] https://untalent.org/jobs/climate-change-specialist-31 | World Bank | Climate Change Specialist
+- [ ] https://reliefweb.int/job/3919384/program-officer-asia | P4I/DFAT | Program Officer, Asia (Climate/DRR)
+- [ ] https://employment.irena.org/careersection/1/jobdetail.ftl?job=AP0041&lang=en&portal=8205020217 | IRENA | Associate Professional – Project Navigator
+- [ ] https://community.iisd.org/jobs/researcher-or-senior-researcher-associate-research-scholar/ | Climate Analytics | Researcher / Senior Researcher
+- [ ] https://community.iisd.org/jobs/renewable-energy-analyst/ | IISD Community | Renewable Energy Analyst
+- [ ] https://community.iisd.org/jobs/research-analyst-climate-change-impacts-and-policy-climate-analytics/ | Climate Analytics | Research Analyst – Climate Change Impacts and Policy
+- [ ] https://ramboll.com/career-details?vacancy_id=21297 | Ramboll | ESG/Sustainability Consultant
+- [ ] https://ramboll.com/en-us/careers/98893a38-85f4-4cf0-10c7-08de37875cb1 | Ramboll | Environmental Consultant
+- [ ] https://ramboll.com/en-us/careers/9aa2f088-e96f-4ac7-10c8-08de37875cb1 | Ramboll | Senior Environmental Consultant
+- [ ] https://www.unjobnet.org/jobs/detail/86621620 | EBRD | Analyst, Human Capital & Skills – Energy
+- [ ] https://impactalpha.com/job/climate-and-energy-analyst/ | ImpactAlpha | Climate and Energy Analyst
+- [ ] https://www.idealist.org/en/nonprofit-job/5e2dec74856844c09182e2b8aa350743-southeast-asia-campaign-consultant-mighty-earth-washington | Mighty Earth | Southeast Asia Campaign Consultant
+- [ ] https://careers.un.org/jobSearchDescription/254689?language=en | UN/UNEP | Climate Change Analyst
+- [ ] https://careers.un.org/jobSearchDescription/234204?language=en | UNFCCC | Specialist – Carbon Markets and Environmental Integrity
+- [ ] https://careers.un.org/jobSearchDescription/261340?language=en | UNEP | Climate Policy and Energy Transition Advisor
+- [ ] https://careers.un.org/jobSearchDescription/239662?language=en | UNEP | Environment Officer (LTAG Monitoring and Reporting)
+- [ ] https://careers.un.org/jobSearchDescription/236680?language=en | UN/UNCTAD | Sustainable Development Officer (Climate Change)
+- [ ] https://careers.un.org/jobSearchDescription/276436?language=en | UNEP | Senior Consultant – Carbon Markets and NbS
+- [ ] https://www.impactpool.org/jobs/1206308 | UNIDO | Industrial Development Expert
+- [ ] https://www.impactpool.org/jobs/1189326 | UNIDO | Innovation Programme Administrator – Incubation and University Partnerships
+- [ ] https://www.impactpool.org/jobs/1199301 | UNIDO | International Value Chain Development Expert
+- [ ] https://careers.odi.org/postings/58be210c-ca33-4b7f-96f9-4cdb9bec4d8e | ODI | Senior Research Fellow
+- [ ] https://careers.who.int/careersection/ex/jobdetail.ftl?job=2501589 | WHO | Consultant – Climate-Resilient Health Infrastructure
+- [ ] https://careers.who.int/careersection/ex/jobdetail.ftl?job=2310880 | WHO | Technical Officer (Climate Change Adaptation and Health)
+- [ ] https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602165 | WHO | National Consultant – Climate Change and Health Assessment
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change & Sustainability Services
+- [ ] https://www.devex.com/jobs/senior-knowledge-analyst-social-impact-1262900 | Social Impact Inc. | Senior Knowledge Analyst – Social Impact
+- [ ] https://www.devex.com/jobs/senior-consultant-clean-energy-climate-finance-inclusive-finance-practice-team-361346 | Enclude | Senior Consultant – Clean Energy & Climate Finance
