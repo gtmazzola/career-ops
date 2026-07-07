@@ -674,34 +674,34 @@
 - [!] https://www.thaingo.org/jobs/detail/12227 | GIZ Thailand | Junior Advisor or Advisor – Green Cooling Initiative (Bangkok) — Error: ThaiNGO ID 12227 from ~2022 (current active range 17000–21000); Green Cooling Initiative III completed and celebrated November 2024; position closed.
 - [!] https://thaingo.org/jobs/detail/14117 | GIZ / CCMB | Advisor (Climate Mitigation) – Climate, Coastal and Marine Biodiversity (Bangkok) — Error: ThaiNGO ID 14117 from ~2022 (current active range 17000–21000); posting likely expired 3+ years ago; position closed.
 - [!] https://www.impactpool.org/jobs/1103491 | GGGI Thailand | Consultant for Climate Tech Startup Roadmap (Bangkok) — Error: Vacancy confirmed closed on ImpactPool; Thailand Climate Tech Startup Guide already launched (Beacon VC / DCCE / GGGI, June 2025); deliverable completed; position closed.
-- [ ] https://www.impactpool.org/jobs/1181975 | GGGI Thailand | Consultant for Low Carbon Building Investments (Bangkok) ⚠️ deadline ~31 May 2026
-- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Bangkok) ⭐
-- [ ] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | RCC Asia Pacific | Climate Action Specialist and Coordinator (Bangkok) ⭐
-- [ ] https://reliefweb.int/job/3998840/climate-resilience-training-and-capacity-development-officer | Various | Climate Resilience Training and Capacity Development Officer (Bangkok)
-- [ ] https://reliefweb.int/job/4023360/specially-appointed-researcher | IGES | Specially Appointed Researcher – Asia Pacific Climate Platform (Bangkok / Hayama)
-- [ ] https://reliefweb.int/job/3958512/project-administrative-and-grant-officer-explore-recoftc-main-office-bangkok | RECOFTC | Project Administrative and Grant Officer – EXPLORE Programme (Bangkok)
-- [ ] https://thaingo.org/jobs/detail/18552/2 | DAI / USAID PAGI | ESG Specialist (Bangkok) ⚠️ 5yr exp required
-- [ ] https://unjobs.org/vacancies/1774593255927 | UNESCAP | Research and Advocacy Consultant (Bangkok)
-- [ ] https://unjobs.org/vacancies/1778832497783 | UNESCAP | Resource Management Specialist – Energy Transition / ASEAN School of Regulation (Bangkok)
-- [ ] https://unjobs.org/vacancies/1775198057786 | UNESCAP | Consultant – Sinking Cities Project, Phase 1 (Bangkok)
-- [ ] https://unjobs.org/vacancies/1775543594605 | UNEP Bangkok | PV System Management and Recycling Initiative Coordination Expert (Bangkok)
+- [!] https://www.impactpool.org/jobs/1181975 | GGGI Thailand | Consultant for Low Carbon Building Investments (Bangkok) — Error: Application deadline ~31 May 2026 — expired; position closed.
+- [!] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Bangkok) — Error: Duplicate of #328 (same URL already evaluated 1.5/5); skip.
+- [!] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | RCC Asia Pacific | Climate Action Specialist and Coordinator (Bangkok) — Error: Duplicate of #322 (same URL already evaluated 3.0/5); skip.
+- [x] #401 | https://reliefweb.int/job/3998840/climate-resilience-training-and-capacity-development-officer | ADPC | Climate Resilience Training and Capacity Development Officer (Bangkok) | 2.5/5 | PDF (no)
+- [x] #402 | https://reliefweb.int/job/4023360/specially-appointed-researcher | IGES | Specially Appointed Researcher – AP-PLAT (Bangkok / Hayama) | 3.0/5 | PDF (no)
+- [!] https://reliefweb.int/job/3958512/project-administrative-and-grant-officer-explore-recoftc-main-office-bangkok | RECOFTC | Project Administrative and Grant Officer – EXPLORE Programme (Bangkok) — Error: Thai nationals only; ineligible.
+- [!] https://thaingo.org/jobs/detail/18552/2 | DAI / USAID PAGI | ESG Specialist (Bangkok) — Error: Duplicate of #367 (same URL already evaluated 2.5/5); skip.
+- [!] https://unjobs.org/vacancies/1774593255927 | UNESCAP | Research and Advocacy Consultant (Bangkok) — Error: Duplicate of #390 (same URL already evaluated 3.5/5); skip.
+- [x] #403 | https://unjobs.org/vacancies/1778832497783 | UNESCAP | Resource Management Specialist – Energy Transition / ASEAN School of Regulation (Bangkok) | 1.5/5 | PDF (no)
+- [!] https://unjobs.org/vacancies/1775198057786 | UNESCAP | Consultant – Sinking Cities Project, Phase 1 (Bangkok) — Error: Application deadline April 9, 2026 — expired; position closed.
+- [!] https://unjobs.org/vacancies/1775543594605 | UNEP Bangkok | PV System Management and Recycling Initiative Coordination Expert (Bangkok) — Error: Application deadline April 21, 2026 — expired; position closed.
 
 <!-- Scan 2026-05-22 — UNOPS (new roles) -->
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29918 | UNOPS | Project Management Support Specialist – Climate and Energy
-- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=27496 | UNOPS | Climate Adaptation Senior Analyst (Retainer)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25645 | UNOPS | Climate Mitigation Senior Analyst (Retainer)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer, alt posting)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28498 | UNOPS | Renewable Energy Consultant (Home Based, Retainer)
+- [x] #404 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29918 | UNOPS | Project Management Support Specialist – Climate and Energy (Vienna, Retainer) | 2.5/5 | PDF (no)
+- [!] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=27496 | UNOPS | Climate Adaptation Senior Analyst (Retainer) — Error: Vacancy closed (UNOPS VA/27496 from 2024); position no longer available.
+- [x] #405 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25645 | UNOPS | Climate Mitigation Senior Analyst (Retainer) | 2.8/5 | PDF (no)
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer, alt posting) — Error: Duplicate/alt posting of #405 (same role as VA/25645); skip.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28498 | UNOPS | Renewable Energy Consultant (Home Based, Retainer) — Error: Vacancy closed (application period July–August 2024); position no longer available.
 - [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28538 | UNOPS | Project Management Support – Senior Associate
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27839 | UNOPS | Project Officer – Climate Technology
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27839 | UNOPS | Project Officer – Climate Technology — Error: Vacancy closed (UNOPS VA/27839, posting April 2024); position no longer available.
 
 <!-- Scan 2026-05-22 — GGGI new roles -->
-- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda) ⚠️ wrong geography
-- [ ] https://careers.gggi.org/vacancy/program-and-operations-associate-green-trust-fund-unit-601661.html | GGGI | Program and Operations Associate – Green Trust Fund Unit
-- [ ] https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer – Carbon Project Development
+- [!] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda) — Error: Duplicate of #339 (same URL already evaluated 2.0/5); skip.
+- [!] https://careers.gggi.org/vacancy/program-and-operations-associate-green-trust-fund-unit-601661.html | GGGI | Program and Operations Associate – Green Trust Fund Unit — Error: Application deadline December 28, 2025 — expired; position closed.
+- [!] https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer – Carbon Project Development — Error: Application deadline November 16, 2025 — expired; position closed.
 
 <!-- Scan 2026-05-22 — UN / Asia (new) -->
-- [ ] https://www.unjobnet.org/jobs/detail/55533297 | UNESCAP | Regional Climate Change Consultant (Bangkok) ⭐
+- [!] https://www.unjobnet.org/jobs/detail/55533297 | UNESCAP | Regional Climate Change Consultant (Bangkok) — Error: Unjobnet ID 55533297 from ~2020 (current active range 80M+); posting long expired; position closed.
 - [ ] https://www.unjobnet.org/jobs/detail/79500326 | UNOPS | Programme Associate (China / UNEP programme)
 - [ ] https://untalent.org/jobs/associate-officer-in-climate-change-and-energy | UNDP | Associate Officer – Climate Change and Energy
 - [ ] https://untalent.org/jobs/e-t-consultant-carbon-credit-mobilization | World Bank | ET Consultant – Carbon Credit Mobilization
@@ -719,12 +719,12 @@
 - [ ] https://www.sei.org/people/jobs/climate-risk-adaptation-tallinn/ | SEI | Climate Risk and Adaptation Researcher (Tallinn, Estonia)
 
 <!-- Scan 2026-05-23 — Bangkok / Thailand ⭐ -->
-- [ ] https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI / DAI | ESG Program Manager – USAID Partnerships for Green Investment (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1766849148999 | UNDP Thailand | Climate Action Portfolio Manager (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1773670808816 | UNEP ROAP | Project Management Specialist – Southeast Asia and Pacific (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1774447954195 | UNEP ROAP | Project Management Specialist – South Asia (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1777287425815 | UNICEF EAPRO | Programme Specialist (Climate Finance) (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1777692497119 | UNDP Bangkok Regional Hub | Trust Funds Portfolio Manager – Blue Economy (Bangkok) ⭐
+- [x] #406 | https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI / DAI | ESG Program Manager – USAID Partnerships for Green Investment (Bangkok) | 2.0/5 | PDF (no)
+- [x] #407 | https://unjobs.org/vacancies/1766849148999 | UNDP Thailand | Climate Action Portfolio Manager (Bangkok) | 3.0/5 | PDF (no)
+- [x] #408 | https://unjobs.org/vacancies/1773670808816 | UNEP ROAP | Project Management Specialist – Southeast Asia and Pacific (Bangkok) | 2.0/5 | PDF (no)
+- [x] #409 | https://unjobs.org/vacancies/1774447954195 | UNEP ROAP | Project Management Specialist – South Asia (Bangkok) | 2.0/5 | PDF (no)
+- [!] https://unjobs.org/vacancies/1777287425815 | UNICEF EAPRO | Programme Specialist (Climate Finance) (Bangkok) — Error: Application deadline May 8, 2026 — expired; position closed.
+- [x] #410 | https://unjobs.org/vacancies/1777692497119 | UNDP Bangkok Regional Hub | Trust Funds Portfolio Manager – Blue Economy (Bangkok) | 2.2/5 | PDF (no)
 - [ ] https://www.unjobnet.org/jobs/detail/85457324 | UNDP Thailand | Energy Transition Specialist – Transition Finance Framework (Bangkok) ⭐
 - [ ] https://www.unjobnet.org/jobs/detail/85674030 | UNDP | Energy Specialist (Bangkok) ⭐
 - [ ] https://www.unjobnet.org/jobs/detail/83538868 | UNDP Thailand | Climate Action Portfolio Manager (Bangkok) ⭐
