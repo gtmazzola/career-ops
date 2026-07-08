@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-07-08 — Multi-portal scheduled scan -->
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy58.html | AIIB | Investment Analyst – Energy
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-infrastructure60.html | AIIB | Investment Analyst – Infrastructure
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Specialists-Senior-Specialists.html | AIIB | Environment Specialists / Senior Specialists
-- [ ] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist
-- [ ] https://www.impactpool.org/jobs/1180852 | GGGI | Energy and Climate Individual Consultant
-- [ ] https://www.impactpool.org/jobs/1155930 | GGGI | Senior Program Associate
-- [ ] https://www.impactpool.org/jobs/1035761 | UN-HABITAT | Public Policy Analyst (Climate and Sustainability)
-- [ ] https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | FHI 360 | Senior Consultant – Climate Change Policy Analysis
-- [ ] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Various | Consultant – Loss and Damage from Climate Change (Asia)
-- [ ] https://reliefweb.int/job/3984413/consultant-climate-action | Various | Consultant – Climate Action
+- [!] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy58.html | AIIB | Investment Analyst – Energy — Error: Application deadline February 15, 2026 — expired; AIIB 2026 graduate program cohort closed.
+- [!] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-infrastructure60.html | AIIB | Investment Analyst – Infrastructure — Error: Application deadline February 15, 2026 — expired; AIIB 2026 graduate program cohort closed.
+- [!] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Specialists-Senior-Specialists.html | AIIB | Environment Specialists / Senior Specialists — Error: Duplicate of #373 (same URL already evaluated 1.5/5); skip.
+- [!] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist — Error: Duplicate of 2026-06-26 [!] entry — application deadline October 21, 2025 expired; 5–8 years experience required; position closed.
+- [!] https://www.impactpool.org/jobs/1180852 | GGGI | Energy and Climate Individual Consultant — Error: Duplicate of #396 (same role: Mexico Energy and Climate IC already evaluated 1.5/5); skip.
+- [x] #412 | https://www.impactpool.org/jobs/1155930 | GGGI | Senior Program Associate (GTM) | 1.5/5 | PDF (no)
+- [x] #411 | https://www.impactpool.org/jobs/1035761 | UN-HABITAT | Public Policy Analyst (Climate and Sustainability, Bogotá) | 1.8/5 | PDF (no)
+- [x] #403 | https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | FHI 360 | Senior Consultant – Climate Change Policy Analysis | 2.0/5 | PDF (no)
+- [!] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Oxfam | Consultant – Loss and Damage from Climate Change (Asia) — Error: Consultancy prepared for COP28 (Nov 2023); 14-day assignment; deadline passed; position closed.
+- [!] https://reliefweb.int/job/3984413/consultant-climate-action | IPU | Consultant – Climate Action — Error: Application deadline August 25, 2023 — expired over 2.5 years ago; position closed.
 - [ ] https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Consultant – Climate Adaptation
 - [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | Various | Climate Change Specialist – Asia
 - [ ] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst

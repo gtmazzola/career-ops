@@ -2,8 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 411 | 2026-07-08 | UN-HABITAT | Public Policy Analyst – Climate & Sustainability (Bogotá) | 1.8/5 | Evaluada | ❌ | [411](reports/411-unhabitat-public-policy-analyst-bogota-2026-07-08.md) | Domain mismatch (housing/displacement/Colombia), Bogotá location, likely expired old posting |
 | 402 | 2026-07-07 | IGES | Specially Appointed Researcher – AP-PLAT | 3.0/5 | Evaluada | ❌ | [402](reports/402-iges-specially-appointed-researcher-ap-plat-2026-07-07.md) | Research/coordination for Japan-funded climate adaptation platform Bangkok; verify active status |
-| 403 | 2026-07-07 | UNESCAP | Resource Management Specialist – Energy Transition | 1.5/5 | Evaluada | ❌ | [403](reports/403-unescap-resource-management-specialist-energy-transition-2026-07-07.md) | Hard exp blocker: 6-10yr required; ESCAP Bangkok energy transition; do not apply |
+| 403 | 2026-07-08 | FHI 360 | Senior Consultant – Climate Change Policy Analysis (Bangkok/Remote) | 2.0/5 | Evaluada | ❌ | [403](reports/403-fhi360-senior-consultant-cc-policy-2026-07-08.md) | Re-eval 2026-07-08 (1.5→2). Strong topic fit (Bangkok, Asia-Pacific policy) but 7yr exp hard blocker; revisit in 4-5 years |
 | 406 | 2026-07-07 | USAID PAGI / DAI | ESG Program Manager | 2.0/5 | Evaluada | ❌ | [406](reports/406-usaid-pagi-esg-program-manager-2026-07-07.md) | AFOLU domain mismatch; seniority gap; Bangkok ✅ but do not apply |
 | 407 | 2026-07-07 | UNDP Thailand | Climate Action Portfolio Manager | 3.0/5 | Evaluada | ❌ | [407](reports/407-undp-thailand-climate-action-portfolio-manager-2026-07-07.md) | Bangkok ✅; strong mission fit; moderate seniority gap; worth exploring |
 | 408 | 2026-07-07 | UNEP ROAP | PM Specialist – Southeast Asia and Pacific | 2.0/5 | Evaluada | ❌ | [408](reports/408-unep-roap-pm-specialist-southeast-asia-2026-07-07.md) | ODS/Montreal Protocol domain mismatch; Bangkok ✅ only; do not apply |
