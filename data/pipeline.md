@@ -2,6 +2,50 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-08 — Multi-portal scheduled scan -->
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy58.html | AIIB | Investment Analyst – Energy
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-infrastructure60.html | AIIB | Investment Analyst – Infrastructure
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Specialists-Senior-Specialists.html | AIIB | Environment Specialists / Senior Specialists
+- [ ] https://www.impactpool.org/jobs/1177972 | GGGI | Individual Consultant: ESG Specialist
+- [ ] https://www.impactpool.org/jobs/1180852 | GGGI | Energy and Climate Individual Consultant
+- [ ] https://www.impactpool.org/jobs/1155930 | GGGI | Senior Program Associate
+- [ ] https://www.impactpool.org/jobs/1035761 | UN-HABITAT | Public Policy Analyst (Climate and Sustainability)
+- [ ] https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | FHI 360 | Senior Consultant – Climate Change Policy Analysis
+- [ ] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Various | Consultant – Loss and Damage from Climate Change (Asia)
+- [ ] https://reliefweb.int/job/3984413/consultant-climate-action | Various | Consultant – Climate Action
+- [ ] https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Consultant – Climate Adaptation
+- [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | Various | Climate Change Specialist – Asia
+- [ ] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst
+- [ ] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote)
+- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate
+- [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq | Senior Sustainability and Climate Advisory Analyst (Philippines)
+- [ ] https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Consultant – Corporate Sustainability and Climate Change
+- [ ] https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-climate-change-managing-consultant/ | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change
+- [ ] https://www.unjobnet.org/jobs/detail/gggi-senior-carbon-and-renewable-energy-expert-consultant-86744148 | GGGI | Senior Carbon and Renewable Energy Expert Consultant
+- [ ] https://www.unjobnet.org/jobs/detail/84769647 | UNDP | Consultant – Sustainability & Exit Strategy
+- [ ] https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan)
+- [ ] https://www.terra.do/climate-jobs/job-board/deloitte-consulting-llp-government-public-services-analyst-sustainability-climate-and-equity-8375508/ | Deloitte | Analyst – Sustainability, Climate and Equity
+- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability-Advisory--Entry-Level--Environmental-Resources-Management--Erm--8323764/ | ERM | Consulting Associate – Sustainability Advisory (Entry Level)
+- [ ] https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change
+- [ ] https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Temasek Management Services | Associate, Sustainability (Sustainability Strategy)
+- [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst
+- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
+- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change
+- [ ] https://community.iisd.org/jobs/climate-diplomacy-researcher-e3g/ | E3G | Climate Diplomacy Researcher
+- [ ] https://careers.kpmg.com.sg/job/Advisory-Consulting,-ESG-Graduate-Associate-2026/53394244/ | KPMG Singapore | ESG Graduate Associate 2026
+- [ ] https://community.iisd.org/jobs/sustainable-carbon-life-cycle-analyst/ | Various | Sustainable Carbon Life Cycle Analyst
+- [ ] https://community.iisd.org/jobs/nature-pledge-analyst-office-based/ | UNDP | Nature Pledge Analyst (Office-Based)
+- [ ] https://community.iisd.org/jobs/economics-research-associate-climate/ | WRI | Economics Research Associate – Climate
+- [ ] https://community.iisd.org/jobs/senior-research-analyst/ | Sunrise Project | Senior Research Analyst
+- [ ] https://community.iisd.org/jobs/analyst-climate-finance-vcib/ | VCIB | Analyst, Climate Finance
+- [ ] https://jobs.unicef.org/en-us/job/568498/consultant-climate-environment-energy-and-disaster-risk-reduction-design-req-568498 | UNICEF | Consultant – Climate, Environment, Energy, and DRR
+- [ ] https://careers.who.int/careersection/ex/jobdetail.ftl?job=2407584 | WHO | National Consultant – Climate Change Assessment
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2922208&lang=en | FAO | Natural Resources Officer (Climate Change)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist
+- [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | SoCha | Environmental and Social Governance (ESG) Expert
+
 <!-- Scan 2026-07-04 — Multi-portal scheduled scan -->
 - [x] #389 | https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant (Bangkok/Tajikistan) | 2.0/5 | PDF (no)
 - [x] #390 | https://unjobs.org/vacancies/1774593255927 | ESCAP | Research and Advocacy Consultant (Bangkok) | 3.5/5 | PDF (no)
