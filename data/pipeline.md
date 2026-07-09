@@ -3,27 +3,27 @@
 ## Pendientes
 
 <!-- Scan 2026-07-09 — Multi-portal scheduled scan -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant
-- [ ] https://www.impactpool.org/jobs/1203696 | World Bank Group | Operations Officer – Sustainable Infrastructure Advisory
-- [ ] https://www.impactpool.org/jobs/1159461 | OECD/IEA | Energy Analyst – Desk Officer
-- [ ] https://unjobs.org/vacancies/1762793914063 | UNICEF | Climate Finance Youth Engagement Consultant
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID/Thailand PAGI | ESG Specialist ⭐
-- [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF/USAID LEAD Bangkok | Junior Climate Change Consultant ⭐
-- [ ] https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Unknown | ESG Reporting and Disclosures Analyst/Associate
-- [ ] https://www.devex.com/jobs/esg-risk-consultant-738312 | Asia Foundation | ESG Risk Consultant
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Unknown | ESG Research Analyst
-- [ ] https://www.devex.com/jobs/international-consultant-sustainable-development-strategy-for-the-seas-of-east-asia-786393 | Unknown | International Consultant – Sustainable Development Strategy (Seas of East Asia)
-- [ ] https://reliefweb.int/job/4205358/consultant-migration-environment-climate-resilience | Unknown | Consultant – Migration, Environment & Climate Resilience
-- [ ] https://www.climatechangecareers.com/job/erm/sydney-australia/early-career-consultant-carbon-markets/ | ERM Sydney | Early Career Consultant – Carbon Markets
-- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
-- [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant
-- [ ] https://careers.gggi.org/vacancy/policy-analyst-consultant-methane-mitigation-policy-analyst-malaysia-577154.html | GGGI Malaysia | Policy Analyst Consultant – Methane Mitigation
-- [ ] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC – FX Risk Management Strategy for Climate and Eco Finance
-- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate
-- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer
-- [ ] https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT)
-- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant
-- [ ] https://careers.un.org/jobSearchDescription/277307?language=en | UNEP Bangkok | Climate Change Finance Unit Position (Bangkok) ⭐
+- [!] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant — Error: Duplicate of July 3 [!] — G5 grade, local Vienna recruitment only; ineligible.
+- [!] https://www.impactpool.org/jobs/1203696 | IFC/World Bank | Operations Officer – Sustainable Infrastructure Advisory — Error: Application deadline April 3, 2026 — expired; IFC SIA role requires 5+ years private-sector infrastructure experience; grade GG (senior); ineligible.
+- [!] https://www.impactpool.org/jobs/1159461 | OECD/IEA | Energy Analyst – Desk Officer — Error: Duplicate of #381 (same role already evaluated 2.5/5); skip.
+- [!] https://unjobs.org/vacancies/1762793914063 | UNICEF | Climate Finance Youth Engagement Consultant — Error: Duplicate of #350 (same URL already evaluated 2.2/5); skip.
+- [x] #413 | https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | DAI/USAID PAGI | ESG Specialist | 3.2/5 | PDF (no)
+- [x] #414 | https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF/USAID LEAD Bangkok | Junior Climate Change Consultant | 3.5/5 | PDF (no)
+- [!] https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Unknown | ESG Reporting and Disclosures Analyst/Associate — Error: Duplicate of #379 (same URL already evaluated 2.0/5); skip.
+- [!] https://www.devex.com/jobs/esg-risk-consultant-738312 | Asia Foundation | ESG Risk Consultant — Error: Posting from April 2020 — closed over 6 years ago; applications no longer accepted; skip.
+- [!] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Unknown | ESG Research Analyst — Error: Closed Devex posting; no JD accessible; applications closed; skip.
+- [!] https://www.devex.com/jobs/international-consultant-sustainable-development-strategy-for-the-seas-of-east-asia-786393 | COBSEA/UNEP | International Consultant – Sustainable Development Strategy (Seas of East Asia) — Error: Posting from October 2020 — closed over 5 years ago; skip.
+- [!] https://reliefweb.int/job/4205358/consultant-migration-environment-climate-resilience | IOM | Consultant – Migration, Environment & Climate Resilience — Error: JD not accessible via WebFetch/WebSearch; insufficient data for evaluation; skip.
+- [x] #417 | https://www.climatechangecareers.com/job/erm/sydney-australia/early-career-consultant-carbon-markets/ | ERM Sydney | Early Career Consultant – Carbon Markets | 2.5/5 | PDF (no)
+- [!] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst — Error: Duplicate of #102 (same URL already evaluated 2.0/5); skip.
+- [!] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant — Error: Duplicate of earlier [!] entry — posting expired ~4 years ago; Riyadh duty station; Arabic required; ineligible.
+- [x] #418 | https://careers.gggi.org/vacancy/policy-analyst-consultant-methane-mitigation-policy-analyst-malaysia-577154.html | GGGI Malaysia | Policy Analyst Consultant – Methane Mitigation | 1.5/5 | PDF (no)
+- [x] #419 | https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI / FDB Fiji | IC – FX Risk Management Strategy for Climate and Eco Finance | 1.0/5 | PDF (no)
+- [!] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate — Error: Duplicate of #323 (same URL already evaluated 2.0/5); skip.
+- [x] #420 | https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI Jordan | Carbon Pricing Senior Officer | 2.0/5 | PDF (no)
+- [x] #421 | https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI India | Project Associate (IKI-ALCBT) | 2.0/5 | PDF (no)
+- [!] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant — Error: Duplicate of June 27 [!] entry — contract period Oct 2025–Mar 2026 already ended; position closed.
+- [x] #422 | https://careers.un.org/jobSearchDescription/277307?language=en | UNEP Bangkok | Programme Management Officer P4 – Climate Change Finance | 2.0/5 | PDF (no)
 - [ ] https://careers.un.org/jobSearchDescription/248031?language=en | UNEP | Associate Administrative Officer P2 – Climate and Clean Air Coalition
 - [ ] https://community.iisd.org/jobs/low-carbon-consultant-graduate/ | Unknown | Low Carbon Consultant – Graduate
 - [ ] https://community.iisd.org/jobs/jpo-programme-analyst-environment-energy-and-climate-change-eecc-open-only-to-nationals-of-denmark/ | Unknown | JPO – Programme Analyst, Environment, Energy and Climate Change
@@ -75,14 +75,14 @@
 - [x] #403 | https://reliefweb.int/job/3872314/senior-consultant-climate-change-policy-analysis | FHI 360 | Senior Consultant – Climate Change Policy Analysis | 2.0/5 | PDF (no)
 - [!] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Oxfam | Consultant – Loss and Damage from Climate Change (Asia) — Error: Consultancy prepared for COP28 (Nov 2023); 14-day assignment; deadline passed; position closed.
 - [!] https://reliefweb.int/job/3984413/consultant-climate-action | IPU | Consultant – Climate Action — Error: Application deadline August 25, 2023 — expired over 2.5 years ago; position closed.
-- [ ] https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Consultant – Climate Adaptation
+- [!] https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Consultant – Climate Adaptation — Error: Posting from April 2024; deadline long passed; position closed.
 - [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | Various | Climate Change Specialist – Asia
-- [ ] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst
-- [ ] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote)
+- [!] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst — Error: LinkedIn login required; cannot verify posting status.
+- [!] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote) — Error: LinkedIn login required; cannot verify posting status.
 - [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate
 - [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq | Senior Sustainability and Climate Advisory Analyst (Philippines)
-- [ ] https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Consultant – Corporate Sustainability and Climate Change
-- [ ] https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-climate-change-managing-consultant/ | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change
+- [x] #415 | https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Consultant – Corporate Sustainability and Climate Change | 3.0/5 | PDF (no)
+- [x] #416 | https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-climate-change-managing-consultant/ | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change | 1.5/5 | PDF (no)
 - [ ] https://www.unjobnet.org/jobs/detail/gggi-senior-carbon-and-renewable-energy-expert-consultant-86744148 | GGGI | Senior Carbon and Renewable Energy Expert Consultant
 - [ ] https://www.unjobnet.org/jobs/detail/84769647 | UNDP | Consultant – Sustainability & Exit Strategy
 - [ ] https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan)
