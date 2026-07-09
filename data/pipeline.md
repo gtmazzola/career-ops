@@ -2,6 +2,68 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-09 — Multi-portal scheduled scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant
+- [ ] https://www.impactpool.org/jobs/1203696 | World Bank Group | Operations Officer – Sustainable Infrastructure Advisory
+- [ ] https://www.impactpool.org/jobs/1159461 | OECD/IEA | Energy Analyst – Desk Officer
+- [ ] https://unjobs.org/vacancies/1762793914063 | UNICEF | Climate Finance Youth Engagement Consultant
+- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID/Thailand PAGI | ESG Specialist ⭐
+- [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF/USAID LEAD Bangkok | Junior Climate Change Consultant ⭐
+- [ ] https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Unknown | ESG Reporting and Disclosures Analyst/Associate
+- [ ] https://www.devex.com/jobs/esg-risk-consultant-738312 | Asia Foundation | ESG Risk Consultant
+- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Unknown | ESG Research Analyst
+- [ ] https://www.devex.com/jobs/international-consultant-sustainable-development-strategy-for-the-seas-of-east-asia-786393 | Unknown | International Consultant – Sustainable Development Strategy (Seas of East Asia)
+- [ ] https://reliefweb.int/job/4205358/consultant-migration-environment-climate-resilience | Unknown | Consultant – Migration, Environment & Climate Resilience
+- [ ] https://www.climatechangecareers.com/job/erm/sydney-australia/early-career-consultant-carbon-markets/ | ERM Sydney | Early Career Consultant – Carbon Markets
+- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
+- [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant
+- [ ] https://careers.gggi.org/vacancy/policy-analyst-consultant-methane-mitigation-policy-analyst-malaysia-577154.html | GGGI Malaysia | Policy Analyst Consultant – Methane Mitigation
+- [ ] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC – FX Risk Management Strategy for Climate and Eco Finance
+- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate
+- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer
+- [ ] https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT)
+- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant
+- [ ] https://careers.un.org/jobSearchDescription/277307?language=en | UNEP Bangkok | Climate Change Finance Unit Position (Bangkok) ⭐
+- [ ] https://careers.un.org/jobSearchDescription/248031?language=en | UNEP | Associate Administrative Officer P2 – Climate and Clean Air Coalition
+- [ ] https://community.iisd.org/jobs/low-carbon-consultant-graduate/ | Unknown | Low Carbon Consultant – Graduate
+- [ ] https://community.iisd.org/jobs/jpo-programme-analyst-environment-energy-and-climate-change-eecc-open-only-to-nationals-of-denmark/ | Unknown | JPO – Programme Analyst, Environment, Energy and Climate Change
+- [ ] https://community.iisd.org/jobs/researcher-forest-and-farm-finance/ | Unknown | Researcher – Forest and Farm Finance
+- [ ] https://community.iisd.org/jobs/senior-consultant-renewable-energy-policy-finance-analyst-south-pole-group/ | South Pole | Senior Consultant – Renewable Energy Policy / Finance Analyst
+- [ ] https://www.terra.do/climate-jobs/job-board/analyst-building-decarbonization-8235913/ | USGBC | Analyst – Building & Decarbonization
+- [ ] https://climatebase.org/job/66389066/analystassociate-consultant | E3 Economics | Analyst/Associate Consultant
+- [ ] https://climatebase.org/job/51158390/consulting-associate-climate-entry-level | ERM | Consulting Associate, Climate (Entry Level)
+- [ ] https://climatebase.org/job/57600593/policy-analyst-electrification | Energy Innovation | Policy Analyst, Electrification
+- [ ] https://climatebase.org/job/72381758/energy-analyst | Trio | Energy Analyst
+- [ ] https://climatebase.org/job/58814662/consulting-associate-scientist-entry-level | ERM | Consulting Associate, Scientist (Entry Level)
+- [ ] https://climatebase.org/job/71120474/senior-energy-data-analyst-dfm | Unknown | Senior Energy Data Analyst
+- [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst
+- [ ] https://www.thaingo.org/jobs/detail/15108 | GIZ Thailand | Junior Advisor (Thai Climate Initiative) ⭐
+- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
+- [ ] https://careers.southpole.com/jobs/1485792-senior-climate-investments-analyst | South Pole | Senior Climate Investments Analyst
+- [ ] https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist – Data Analytics, Compliance Markets
+- [ ] https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America)
+- [ ] https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions
+- [ ] https://www.sei.org/people/jobs/senior-researcher-vulnerability-climate-risk-and-just-adaptation/ | SEI Oxford | Senior Researcher – Vulnerability, Climate Risk and Just Adaptation
+- [ ] https://www.thaingo.org/jobs/detail/19070/2 | Unknown (Thailand) | Consultancy – ESG Performance Indicators for SME Suppliers ⭐
+- [ ] https://www.thaingo.org/jobs/detail/18999/16 | Unknown (Thailand) | ESG Program Manager ⭐
+- [ ] https://thaingo.org/jobs/detail/18552/2 | Unknown (Thailand) | ESG Specialist ⭐
+- [ ] https://www.thaingo.org/jobs/detail/14119/93 | GIZ Thailand | Senior Advisor – Energy System / Policy (TGC-EMC) ⭐
+- [ ] https://www.thaingo.org/jobs/detail/14628 | GIZ Thailand | Project Advisor – CASE Thailand ⭐
+- [ ] https://www.thaingo.org/jobs/detail/15266 | Unknown | Research Fellow – Finance for Adaptation
+- [ ] https://jobs.unicef.org/en-us/job/594221/climate-consultant-office-of-strategy-evidenceose-innocenti-italy-12-months-remotework-from-home | UNICEF | Climate Consultant – Office of Strategy Evidence (Italy/Remote)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2403266 | FAO | Climate Change and Energy Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2400558 | FAO | National Climate Change Specialist
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist
+- [ ] https://www.idealist.org/en/nonprofit-job/91b027e9b2d74806a9271f372fa6f0fd-east-asia-esg-disclosures-research-consultancy-center-for-transnational-environmental-accountability-rockville | CTEA | East Asia ESG Disclosures Research Consultancy
+- [ ] https://www.impactpool.org/jobs/1066670 | IEA Singapore | Energy Analysts – IEA Regional Cooperation Centre ⭐
+- [ ] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia
+- [ ] https://www.impactpool.org/jobs/897285 | UNV/ESCAP | Cities and Climate Change Technical Advisor (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/1062001 | UNDP | Climate Change Specialist (Bangkok) ⭐
+- [ ] https://www.impactpool.org/jobs/865302 | WFP Bangkok | Regional Climate and DRR Advisor P4 (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1148998 | UNESCAP | Climate and Blue Finance Consultant (Bangkok) ⭐
+
 <!-- Scan 2026-07-08 — Multi-portal scheduled scan -->
 - [!] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy58.html | AIIB | Investment Analyst – Energy — Error: Application deadline February 15, 2026 — expired; AIIB 2026 graduate program cohort closed.
 - [!] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-infrastructure60.html | AIIB | Investment Analyst – Infrastructure — Error: Application deadline February 15, 2026 — expired; AIIB 2026 graduate program cohort closed.
