@@ -24,16 +24,16 @@
 - [x] #421 | https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI India | Project Associate (IKI-ALCBT) | 2.0/5 | PDF (no)
 - [!] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | Monitoring, Evaluation and Learning (MEL) Consultant — Error: Duplicate of June 27 [!] entry — contract period Oct 2025–Mar 2026 already ended; position closed.
 - [x] #422 | https://careers.un.org/jobSearchDescription/277307?language=en | UNEP Bangkok | Programme Management Officer P4 – Climate Change Finance | 2.0/5 | PDF (no)
-- [ ] https://careers.un.org/jobSearchDescription/248031?language=en | UNEP | Associate Administrative Officer P2 – Climate and Clean Air Coalition
-- [ ] https://community.iisd.org/jobs/low-carbon-consultant-graduate/ | Unknown | Low Carbon Consultant – Graduate
-- [ ] https://community.iisd.org/jobs/jpo-programme-analyst-environment-energy-and-climate-change-eecc-open-only-to-nationals-of-denmark/ | Unknown | JPO – Programme Analyst, Environment, Energy and Climate Change
-- [ ] https://community.iisd.org/jobs/researcher-forest-and-farm-finance/ | Unknown | Researcher – Forest and Farm Finance
-- [ ] https://community.iisd.org/jobs/senior-consultant-renewable-energy-policy-finance-analyst-south-pole-group/ | South Pole | Senior Consultant – Renewable Energy Policy / Finance Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/analyst-building-decarbonization-8235913/ | USGBC | Analyst – Building & Decarbonization
-- [ ] https://climatebase.org/job/66389066/analystassociate-consultant | E3 Economics | Analyst/Associate Consultant
-- [ ] https://climatebase.org/job/51158390/consulting-associate-climate-entry-level | ERM | Consulting Associate, Climate (Entry Level)
-- [ ] https://climatebase.org/job/57600593/policy-analyst-electrification | Energy Innovation | Policy Analyst, Electrification
-- [ ] https://climatebase.org/job/72381758/energy-analyst | Trio | Energy Analyst
+- [x] #431 | https://careers.un.org/jobSearchDescription/248031?language=en | UNEP CCAC | Associate Administrative Officer P2 (Paris) | 2.0/5 | PDF (no)
+- [x] #424 | https://community.iisd.org/jobs/low-carbon-consultant-graduate/ | Scene Connect | Low Carbon Consultant – Graduate (Liverpool) | 1.5/5 | PDF (no)
+- [!] https://community.iisd.org/jobs/jpo-programme-analyst-environment-energy-and-climate-change-eecc-open-only-to-nationals-of-denmark/ | IISD | JPO – Programme Analyst, Environment, Energy and Climate Change — Error: Open only to nationals of Denmark per role title; ineligible.
+- [x] #425 | https://community.iisd.org/jobs/researcher-forest-and-farm-finance/ | IISD / Unknown | Researcher – Forest and Farm Finance | 1.0/5 | PDF (no)
+- [x] #132 | https://community.iisd.org/jobs/senior-consultant-renewable-energy-policy-finance-analyst-south-pole-group/ | South Pole | Senior Consultant – Renewable Energy Policy / Finance Analyst (Bangkok) | 3.0/5 | PDF (no)
+- [!] https://www.terra.do/climate-jobs/job-board/analyst-building-decarbonization-8235913/ | USGBC | Analyst – Building & Decarbonization (DC/Remote) — Error: Duplicate of #178 (same role already evaluated 2.0/5); skip.
+- [x] #432 | https://climatebase.org/job/66389066/analystassociate-consultant | E3 Economics | Analyst / Associate Consultant | 3.8/5 | PDF (no)
+- [!] https://climatebase.org/job/51158390/consulting-associate-climate-entry-level | ERM | Consulting Associate, Climate (Entry Level) — Error: Duplicate of #387 (same URL already evaluated 2.0/5); skip.
+- [x] #429 | https://climatebase.org/job/57600593/policy-analyst-electrification | Energy Innovation | Policy Analyst, Electrification (SF/DC) | 3.5/5 | PDF (no)
+- [x] #430 | https://climatebase.org/job/72381758/energy-analyst | Trio (Edison Intl) | Energy Analyst – Data Settlement (Remote US) | 1.5/5 | PDF (no)
 - [ ] https://climatebase.org/job/58814662/consulting-associate-scientist-entry-level | ERM | Consulting Associate, Scientist (Entry Level)
 - [ ] https://climatebase.org/job/71120474/senior-energy-data-analyst-dfm | Unknown | Senior Energy Data Analyst
 - [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
