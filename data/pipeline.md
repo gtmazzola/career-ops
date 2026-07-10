@@ -1340,3 +1340,18 @@
 - [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change & Sustainability Services
 - [ ] https://www.devex.com/jobs/senior-knowledge-analyst-social-impact-1262900 | Social Impact Inc. | Senior Knowledge Analyst – Social Impact
 - [ ] https://www.devex.com/jobs/senior-consultant-clean-energy-climate-finance-inclusive-finance-practice-team-361346 | Enclude | Senior Consultant – Clean Energy & Climate Finance
+<!-- Scan 2026-07-10 — Multi-portal scheduled scan -->
+- [ ] https://untalent.org/jobs/sustainability-consultant | WRI/UNTalent | Sustainability Consultant
+- [ ] https://www.impactpool.org/jobs/1209929 | ADB | Investment Officer (Climate Change)
+- [ ] https://www.impactpool.org/jobs/1174869 | UNDP | JPO - Climate Change Analyst
+- [ ] https://www.impactpool.org/jobs/1072467 | OECD/IEA | Energy Analysts - IEA Regional Cooperation Centre Singapore
+- [ ] https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer
+- [ ] https://unjobs.org/vacancies/1783465328142 | IDB | Financial Analyst Consultant - Infrastructure & Energy
+- [ ] https://careers.uobgroup.com/job/Singapore-(City-Area)-Senior-Officer,-ESG-Investment-Analyst,-UOB-Asset-Management-048624/1056726366/ | UOB | Senior Officer, ESG Investment Analyst
+- [ ] https://climatebase.org/job/48916321/allied-climate-partners---operations-associateanalyst | Allied Climate Partners | Operations Associate/Analyst
+- [ ] https://climatebase.org/job/55116918/consulting-senior-associate---corporate-sustainability--climate-change | ERM | Consulting Senior Associate - Corporate Sustainability & Climate Change
+- [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM | Consulting Senior Associate (Climate)
+- [ ] https://www.wri.org/careers/jobs/senior-project-associate-communication-2026-jr100300 | WRI | Senior Project Associate - Communication
+- [ ] https://www.wri.org/careers/jobs/communications-and-outreach-associate-2026-jr100161 | WRI | Communications and Outreach Associate
+- [ ] https://jobs.lever.co/ethree/3515aaa0-c54c-483a-9eee-97b5dfeb0818 | E3 | Energy and Environmental Economics - Analyst/Associate Consultant
+- [ ] https://www.impactpool.org/jobs/1039915 | OECD | Senior Energy Analyst - Technology Supply Chains
