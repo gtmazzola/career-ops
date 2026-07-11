@@ -34,16 +34,16 @@
 - [!] https://climatebase.org/job/51158390/consulting-associate-climate-entry-level | ERM | Consulting Associate, Climate (Entry Level) — Error: Duplicate of #387 (same URL already evaluated 2.0/5); skip.
 - [x] #429 | https://climatebase.org/job/57600593/policy-analyst-electrification | Energy Innovation | Policy Analyst, Electrification (SF/DC) | 3.5/5 | PDF (no)
 - [x] #430 | https://climatebase.org/job/72381758/energy-analyst | Trio (Edison Intl) | Energy Analyst – Data Settlement (Remote US) | 1.5/5 | PDF (no)
-- [ ] https://climatebase.org/job/58814662/consulting-associate-scientist-entry-level | ERM | Consulting Associate, Scientist (Entry Level)
-- [ ] https://climatebase.org/job/71120474/senior-energy-data-analyst-dfm | Unknown | Senior Energy Data Analyst
-- [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst
-- [ ] https://www.thaingo.org/jobs/detail/15108 | GIZ Thailand | Junior Advisor (Thai Climate Initiative) ⭐
-- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
-- [ ] https://careers.southpole.com/jobs/1485792-senior-climate-investments-analyst | South Pole | Senior Climate Investments Analyst
-- [ ] https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist – Data Analytics, Compliance Markets
-- [ ] https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America)
+- [x] #433 | https://climatebase.org/job/58814662/consulting-associate-scientist-entry-level | ERM | Consulting Associate, Scientist (Entry Level) | 1.5/5 | PDF (no)
+- [!] https://climatebase.org/job/71120474/senior-energy-data-analyst-dfm | Unknown | (Senior) Energy Data Analyst (d/f/m) — Error: JD not accessible via WebFetch or WebSearch; (d/f/m) indicates German/European company; insufficient data for evaluation; skip.
+- [!] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance — Error: JD not accessible (MyCareersFuture blocked); Tangspac is a staffing agency — actual employer and role details unknown; skip.
+- [x] #434 | https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant | 3.0/5 | PDF (no)
+- [x] #435 | https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst | 2.0/5 | PDF (no)
+- [!] https://www.thaingo.org/jobs/detail/15108 | GIZ Thailand | Junior Advisor (Thai Climate Initiative) — Error: Application deadline March 10, 2023 — expired over 3 years ago; ThaiNGO posting ID 15108 from 2023; skip.
+- [x] #436 | https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies | 2.8/5 | PDF (no)
+- [x] #437 | https://careers.southpole.com/jobs/1485792-senior-climate-investments-analyst | South Pole | Senior Climate Investments Analyst | 1.8/5 | PDF (no)
+- [!] https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist – Data Analytics, Compliance Markets — Error: Duplicate of #332 (same URL already evaluated 2.0/5); skip.
+- [!] https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America) — Error: Application deadline October 19, 2025 — expired; Colombia duty station; Spanish fluency required; ineligible.
 - [ ] https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions
 - [ ] https://www.sei.org/people/jobs/senior-researcher-vulnerability-climate-risk-and-just-adaptation/ | SEI Oxford | Senior Researcher – Vulnerability, Climate Risk and Just Adaptation
 - [ ] https://www.thaingo.org/jobs/detail/19070/2 | Unknown (Thailand) | Consultancy – ESG Performance Indicators for SME Suppliers ⭐
