@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-12 — Multi-portal scheduled scan -->
+- [ ] https://www.thai-german-cooperation.info/en_US/carbon-finance-advisor-thai-rice-gcf-2/ | GIZ Thailand | Carbon Finance Advisor (Thai Rice GCF)
+- [ ] https://www.thai-german-cooperation.info/en_US/advisor-renewable-energy-transition-senior-level/ | GIZ Thailand | Advisor – Renewable Energy Transition (Senior Level)
+- [ ] https://www.thai-german-cooperation.info/en_US/energy-advisor-case/ | GIZ Thailand | Energy Advisor (CASE)
+- [ ] https://www.sei.org/people/jobs/research-assistant-land-use-ecosystems-sustainable-transitions/ | SEI | Research Assistant – Land Use, Ecosystems and Sustainable Transitions
+- [ ] https://www.impactpool.org/jobs/1157458 | GGGI | Individual Consultant – ESG Trainer (UAE)
+- [ ] https://careers.un.org/jobSearchDescription/277103?language=en | UN | Associate Programme Officer, OED/SPPG (Temporary), P2
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500585 | FAO | Expert on Climate Change Analysis
+- [ ] https://www.climatechangecareers.com/job/world-resources-institute/washington-dc-united-states/research-analyst-ii-natural-climate-solutions/ | WRI | Research Analyst II – Natural Climate Solutions (DC)
+- [ ] https://www.climatechangecareers.com/job/consulting-for-sustainable-solutions/cape-town-south-africa/senior-associate-climate/ | Consulting for Sustainable Solutions | Senior Associate (Climate)
+- [ ] https://www.climatechangecareers.com/job/ricardo/madrid-spain/analyst-consultant-energy-and-carbon-policy/ | Ricardo | Analyst Consultant – Energy and Carbon Policy (Madrid)
+- [ ] https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote)
+- [ ] https://www.unjobnet.org/jobs/detail/gggi-carbon-finance-consultant-85159412 | GGGI | Carbon Finance Consultant
+- [ ] https://www.developmentaid.org/jobs/view/1779329/consultant-program-manager-southeast-asia | Sequoia Climate Foundation | Consultant Program Manager – Southeast Asia
+
 <!-- Scan 2026-07-09 — Multi-portal scheduled scan -->
 - [!] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant — Error: Duplicate of July 3 [!] — G5 grade, local Vienna recruitment only; ineligible.
 - [!] https://www.impactpool.org/jobs/1203696 | IFC/World Bank | Operations Officer – Sustainable Infrastructure Advisory — Error: Application deadline April 3, 2026 — expired; IFC SIA role requires 5+ years private-sector infrastructure experience; grade GG (senior); ineligible.
