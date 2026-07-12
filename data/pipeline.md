@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-07-12 — Multi-portal scheduled scan -->
-- [ ] https://www.thai-german-cooperation.info/en_US/carbon-finance-advisor-thai-rice-gcf-2/ | GIZ Thailand | Carbon Finance Advisor (Thai Rice GCF)
-- [ ] https://www.thai-german-cooperation.info/en_US/advisor-renewable-energy-transition-senior-level/ | GIZ Thailand | Advisor – Renewable Energy Transition (Senior Level)
-- [ ] https://www.thai-german-cooperation.info/en_US/energy-advisor-case/ | GIZ Thailand | Energy Advisor (CASE)
-- [ ] https://www.sei.org/people/jobs/research-assistant-land-use-ecosystems-sustainable-transitions/ | SEI | Research Assistant – Land Use, Ecosystems and Sustainable Transitions
-- [ ] https://www.impactpool.org/jobs/1157458 | GGGI | Individual Consultant – ESG Trainer (UAE)
-- [ ] https://careers.un.org/jobSearchDescription/277103?language=en | UN | Associate Programme Officer, OED/SPPG (Temporary), P2
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500585 | FAO | Expert on Climate Change Analysis
-- [ ] https://www.climatechangecareers.com/job/world-resources-institute/washington-dc-united-states/research-analyst-ii-natural-climate-solutions/ | WRI | Research Analyst II – Natural Climate Solutions (DC)
-- [ ] https://www.climatechangecareers.com/job/consulting-for-sustainable-solutions/cape-town-south-africa/senior-associate-climate/ | Consulting for Sustainable Solutions | Senior Associate (Climate)
-- [ ] https://www.climatechangecareers.com/job/ricardo/madrid-spain/analyst-consultant-energy-and-carbon-policy/ | Ricardo | Analyst Consultant – Energy and Carbon Policy (Madrid)
+- [x] #438 | https://www.thai-german-cooperation.info/en_US/carbon-finance-advisor-thai-rice-gcf-2/ | GIZ Thailand | Carbon Finance Advisor (Thai Rice GCF) | 2.5/5 | PDF (no)
+- [x] #439 | https://www.thai-german-cooperation.info/en_US/advisor-renewable-energy-transition-senior-level/ | GIZ Thailand | Advisor – Renewable Energy Transition (Senior Level) | 1.5/5 | PDF (no)
+- [x] #440 | https://www.thai-german-cooperation.info/en_US/energy-advisor-case/ | GIZ Thailand | Energy Advisor (CASE) | 2.8/5 | PDF (no)
+- [x] #441 | https://www.sei.org/people/jobs/research-assistant-land-use-ecosystems-sustainable-transitions/ | SEI | Research Assistant – Land Use, Ecosystems and Sustainable Transitions | 1.0/5 | PDF (no)
+- [x] #442 | https://www.impactpool.org/jobs/1157458 | GGGI | Individual Consultant – ESG Trainer (UAE) | 1.8/5 | PDF (no)
+- [x] #443 | https://careers.un.org/jobSearchDescription/277103?language=en | UN/ITC | Associate Programme Officer, OED/SPPG (Temporary), P2 | 2.5/5 | PDF (no)
+- [x] #444 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500585 | FAO | Expert on Climate Change Analysis | 1.0/5 | PDF (no)
+- [x] #445 | https://www.climatechangecareers.com/job/world-resources-institute/washington-dc-united-states/research-analyst-ii-natural-climate-solutions/ | WRI | Research Analyst II – Natural Climate Solutions (DC) | 2.0/5 | PDF (no)
+- [x] #446 | https://www.climatechangecareers.com/job/consulting-for-sustainable-solutions/cape-town-south-africa/senior-associate-climate/ | Consulting for Sustainable Solutions | Senior Associate (Climate) | 1.8/5 | PDF (no)
+- [x] #447 | https://www.climatechangecareers.com/job/ricardo/madrid-spain/analyst-consultant-energy-and-carbon-policy/ | Ricardo | Analyst Consultant – Energy and Carbon Policy (Madrid) | 3.0/5 | PDF (no)
 - [ ] https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote)
 - [ ] https://www.unjobnet.org/jobs/detail/gggi-carbon-finance-consultant-85159412 | GGGI | Carbon Finance Consultant
 - [ ] https://www.developmentaid.org/jobs/view/1779329/consultant-program-manager-southeast-asia | Sequoia Climate Foundation | Consultant Program Manager – Southeast Asia
