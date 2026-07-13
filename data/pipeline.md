@@ -3,11 +3,11 @@
 ## Pendientes
 
 <!-- Scan 2026-07-13 — Multi-portal scheduled scan -->
-- [ ] https://community.iisd.org/jobs/analyst-climate-negotiations-climate-finance/ | IISD | Analyst, Climate Negotiations & Climate Finance
-- [ ] https://thaingo.org/jobs/detail/21355?type=24 | ThaiNGO | Final Evaluation Consultant – Trees4All Project
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Case-Associate/1055679901/ | GCF | Case Associate
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Readiness-and-Preparatory-Support-Programme-Assistant-Consultant/846865701/ | GCF | Readiness and Preparatory Support Programme Assistant Consultant
-- [ ] https://www.unjobnet.org/jobs/detail/ebrd-analyst-human-capital-skills-energy-86621620 | EBRD | Analyst, Human Capital & Skills, Energy
+- [!] https://community.iisd.org/jobs/analyst-climate-negotiations-climate-finance/ | IISD | Analyst, Climate Negotiations & Climate Finance — Error: Spain residency required (remote-first from Spain only); Gavin is Bangkok-based; geographic blocker.
+- [!] https://thaingo.org/jobs/detail/21355?type=24 | ThaiNGO | Final Evaluation Consultant – Trees4All Project — Error: Thai and English fluency required; Gavin has no Thai language proficiency; hard language blocker.
+- [x] #448 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Case-Associate/1055679901/ | GCF | Case Associate | 2.5/5 | PDF (no)
+- [x] #449 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Readiness-and-Preparatory-Support-Programme-Assistant-Consultant/846865701/ | GCF | Readiness and Preparatory Support Programme Assistant Consultant | 2.8/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/ebrd-analyst-human-capital-skills-energy-86621620 | EBRD | Analyst, Human Capital & Skills, Energy — Error: Application deadline 18 June 2026 — expired; position closed.
 
 <!-- Scan 2026-07-12 — Multi-portal scheduled scan -->
 - [x] #438 | https://www.thai-german-cooperation.info/en_US/carbon-finance-advisor-thai-rice-gcf-2/ | GIZ Thailand | Carbon Finance Advisor (Thai Rice GCF) | 2.5/5 | PDF (no)
@@ -20,9 +20,9 @@
 - [x] #445 | https://www.climatechangecareers.com/job/world-resources-institute/washington-dc-united-states/research-analyst-ii-natural-climate-solutions/ | WRI | Research Analyst II – Natural Climate Solutions (DC) | 2.0/5 | PDF (no)
 - [x] #446 | https://www.climatechangecareers.com/job/consulting-for-sustainable-solutions/cape-town-south-africa/senior-associate-climate/ | Consulting for Sustainable Solutions | Senior Associate (Climate) | 1.8/5 | PDF (no)
 - [x] #447 | https://www.climatechangecareers.com/job/ricardo/madrid-spain/analyst-consultant-energy-and-carbon-policy/ | Ricardo | Analyst Consultant – Energy and Carbon Policy (Madrid) | 3.0/5 | PDF (no)
-- [ ] https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote)
-- [ ] https://www.unjobnet.org/jobs/detail/gggi-carbon-finance-consultant-85159412 | GGGI | Carbon Finance Consultant
-- [ ] https://www.developmentaid.org/jobs/view/1779329/consultant-program-manager-southeast-asia | Sequoia Climate Foundation | Consultant Program Manager – Southeast Asia
+- [x] #450 | https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote) | 3.0/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/gggi-carbon-finance-consultant-85159412 | GGGI | Carbon Finance Consultant — Error: Position no longer open per employer; Luxembourg-based consultancy (Senegal/Morocco); closed.
+- [x] #451 | https://www.developmentaid.org/jobs/view/1779329/consultant-program-manager-southeast-asia | Sequoia Climate Foundation | Consultant Program Manager – Southeast Asia | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-07-09 — Multi-portal scheduled scan -->
 - [!] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant — Error: Duplicate of July 3 [!] — G5 grade, local Vienna recruitment only; ineligible.
@@ -66,8 +66,8 @@
 - [x] #437 | https://careers.southpole.com/jobs/1485792-senior-climate-investments-analyst | South Pole | Senior Climate Investments Analyst | 1.8/5 | PDF (no)
 - [!] https://careers.southpole.com/jobs/7812769-senior-specialist-data-analytics-compliance-markets-certificates | South Pole | Senior Specialist – Data Analytics, Compliance Markets — Error: Duplicate of #332 (same URL already evaluated 2.0/5); skip.
 - [!] https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America) — Error: Application deadline October 19, 2025 — expired; Colombia duty station; Spanish fluency required; ineligible.
-- [ ] https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions
-- [ ] https://www.sei.org/people/jobs/senior-researcher-vulnerability-climate-risk-and-just-adaptation/ | SEI Oxford | Senior Researcher – Vulnerability, Climate Risk and Just Adaptation
+- [x] #452 | https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions | 1.8/5 | PDF (no)
+- [!] https://www.sei.org/people/jobs/senior-researcher-vulnerability-climate-risk-and-just-adaptation/ | SEI Oxford | Senior Researcher – Vulnerability, Climate Risk and Just Adaptation — Error: Application deadline 7 January 2026 — expired over 6 months ago; position closed.
 - [ ] https://www.thaingo.org/jobs/detail/19070/2 | Unknown (Thailand) | Consultancy – ESG Performance Indicators for SME Suppliers ⭐
 - [ ] https://www.thaingo.org/jobs/detail/18999/16 | Unknown (Thailand) | ESG Program Manager ⭐
 - [ ] https://thaingo.org/jobs/detail/18552/2 | Unknown (Thailand) | ESG Specialist ⭐
