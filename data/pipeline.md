@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-13 — Multi-portal scheduled scan -->
+- [ ] https://community.iisd.org/jobs/analyst-climate-negotiations-climate-finance/ | IISD | Analyst, Climate Negotiations & Climate Finance
+- [ ] https://thaingo.org/jobs/detail/21355?type=24 | ThaiNGO | Final Evaluation Consultant – Trees4All Project
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Case-Associate/1055679901/ | GCF | Case Associate
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Readiness-and-Preparatory-Support-Programme-Assistant-Consultant/846865701/ | GCF | Readiness and Preparatory Support Programme Assistant Consultant
+- [ ] https://www.unjobnet.org/jobs/detail/ebrd-analyst-human-capital-skills-energy-86621620 | EBRD | Analyst, Human Capital & Skills, Energy
+
 <!-- Scan 2026-07-12 — Multi-portal scheduled scan -->
 - [x] #438 | https://www.thai-german-cooperation.info/en_US/carbon-finance-advisor-thai-rice-gcf-2/ | GIZ Thailand | Carbon Finance Advisor (Thai Rice GCF) | 2.5/5 | PDF (no)
 - [x] #439 | https://www.thai-german-cooperation.info/en_US/advisor-renewable-energy-transition-senior-level/ | GIZ Thailand | Advisor – Renewable Energy Transition (Senior Level) | 1.5/5 | PDF (no)
