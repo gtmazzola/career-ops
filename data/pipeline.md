@@ -1377,3 +1377,10 @@
 - [ ] https://www.wri.org/careers/jobs/communications-and-outreach-associate-2026-jr100161 | WRI | Communications and Outreach Associate
 - [ ] https://jobs.lever.co/ethree/3515aaa0-c54c-483a-9eee-97b5dfeb0818 | E3 | Energy and Environmental Economics - Analyst/Associate Consultant
 - [ ] https://www.impactpool.org/jobs/1039915 | OECD | Senior Energy Analyst - Technology Supply Chains
+<!-- Scan 2026-07-14 — Multi-portal scheduled scan -->
+- [ ] https://www.terra.do/climate-jobs/job-board/Entry-Level-Net-Zero-Finance-Analyst--Hybrid-Beijing-Climate-Policy-Initiative-8397337/ | Climate Policy Initiative | Entry-Level Net Zero Finance Analyst (Hybrid, Beijing)
+- [ ] https://climatebase.org/job/60738810/junior-energy-analyst-asia-pacific | Mainstream Projects | Junior Energy Analyst – Asia Pacific
+- [ ] https://www.terra.do/climate-jobs/job-board/junior-environmental-policy-financial-analyst-8405417/ | The Cadmus Group | Junior Environmental Policy & Financial Analyst
+- [ ] https://www.terra.do/climate-jobs/job-board/Climate-finance-investment-analyst--emerging-markets--Responsability-Investments-Ag-8398885/ | Responsability Investments | Climate Finance Investment Analyst (Emerging Markets)
+- [ ] https://reliefweb.int/job/3951704/project-management-office-pmo-analyst-iica-1-bkk-thailand | IO / Bangkok | PMO Analyst (IICA-1, Bangkok, Thailand)
+- [ ] https://reliefweb.int/job/3987988/program-officer-asia-pacific | NGO / Asia-Pacific | Program Officer, Asia-Pacific
