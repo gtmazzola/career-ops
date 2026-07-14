@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 453 | 2026-07-14 | Mekong Institute | ESG Performance Indicators Consultant (SME Suppliers) | 1.5/5 | Evaluada | ❌ | [453](reports/453-mekong-institute-esg-sme-indicators-2026-07-14.md) | Consultancy ending Aug 2026; $12k total budget; SME ESG delivery experience gap; likely already contracted — SKIP |
+| 454 | 2026-07-14 | DAI / USAID PAGI | ESG Program Manager | 1.5/5 | Evaluada | ❌ | [454](reports/454-dai-usaid-pagi-esg-program-manager-2026-07-14.md) | 10 years experience required; hard blocker; land use domain mismatch — SKIP |
+| 456 | 2026-07-14 | UNICEF Innocenti | Climate Consultant – Office of Strategy & Evidence (OSE) | 2.5/5 | Evaluada | ❌ | [456](reports/456-unicef-innocenti-climate-consultant-ose-2026-07-14.md) | Remote/EU location good; strong research synthesis skills; climate education domain is weak match — borderline |
 | 448 | 2026-07-13 | GCF | Case Associate | 2.5/5 | Evaluada | ❌ | [448](reports/448-gcf-case-associate-2026-07-13.md) | Incheon HQ associate role; limited JD info; IO background is adjacent but no direct GCF portfolio experience |
 | 449 | 2026-07-13 | GCF | Readiness and Preparatory Support Programme Assistant Consultant | 2.8/5 | Evaluada | ❌ | [449](reports/449-gcf-readiness-programme-assistant-consultant-2026-07-13.md) | 230-day consultancy in Incheon; dashboard, Board papers, knowledge products — strong overlap with UNIDO deliverables |
 | 450 | 2026-07-13 | Kaleidoscope | Sustainability Strategy Analyst | 3.0/5 | Evaluada | ❌ | [450](reports/450-kaleidoscope-sustainability-strategy-analyst-2026-07-13.md) | Remote UK consultancy; strong ESG frameworks match (CSRD/GRI/SBTi); verify vacancy still open before applying |

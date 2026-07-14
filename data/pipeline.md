@@ -68,16 +68,16 @@
 - [!] https://www.sei.org/people/jobs/research-associate-renewable-energy-latin-america/ | SEI | Research Associate – Renewable Energy (Latin America) — Error: Application deadline October 19, 2025 — expired; Colombia duty station; Spanish fluency required; ineligible.
 - [x] #452 | https://www.sei.org/people/jobs/research-associate-climate-land-sustainable-transitions/ | SEI | Research Associate – Climate, Land and Sustainable Transitions | 1.8/5 | PDF (no)
 - [!] https://www.sei.org/people/jobs/senior-researcher-vulnerability-climate-risk-and-just-adaptation/ | SEI Oxford | Senior Researcher – Vulnerability, Climate Risk and Just Adaptation — Error: Application deadline 7 January 2026 — expired over 6 months ago; position closed.
-- [ ] https://www.thaingo.org/jobs/detail/19070/2 | Unknown (Thailand) | Consultancy – ESG Performance Indicators for SME Suppliers ⭐
-- [ ] https://www.thaingo.org/jobs/detail/18999/16 | Unknown (Thailand) | ESG Program Manager ⭐
-- [ ] https://thaingo.org/jobs/detail/18552/2 | Unknown (Thailand) | ESG Specialist ⭐
-- [ ] https://www.thaingo.org/jobs/detail/14119/93 | GIZ Thailand | Senior Advisor – Energy System / Policy (TGC-EMC) ⭐
-- [ ] https://www.thaingo.org/jobs/detail/14628 | GIZ Thailand | Project Advisor – CASE Thailand ⭐
-- [ ] https://www.thaingo.org/jobs/detail/15266 | Unknown | Research Fellow – Finance for Adaptation
-- [ ] https://jobs.unicef.org/en-us/job/594221/climate-consultant-office-of-strategy-evidenceose-innocenti-italy-12-months-remotework-from-home | UNICEF | Climate Consultant – Office of Strategy Evidence (Italy/Remote)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2403266 | FAO | Climate Change and Energy Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2400558 | FAO | National Climate Change Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist
+- [x] #453 | https://www.thaingo.org/jobs/detail/19070/2 | Mekong Institute | ESG Performance Indicators Consultant (SME Suppliers) | 1.5/5 | PDF (no)
+- [x] #454 | https://www.thaingo.org/jobs/detail/18999/16 | DAI / USAID PAGI | ESG Program Manager | 1.5/5 | PDF (no)
+- [!] https://thaingo.org/jobs/detail/18552/2 | DAI/USAID PAGI | ESG and Land Use Specialist — Error: Duplicate of #367 (same URL already evaluated 2.5/5); skip.
+- [x] #455 | https://www.thaingo.org/jobs/detail/14119/93 | GIZ Thailand | Senior Advisor – Energy System / Policy (TGC-EMC) | 2.5/5 | PDF (no)
+- [!] https://www.thaingo.org/jobs/detail/14628 | GIZ Thailand | Project Advisor – CASE Thailand — Error: Application deadline January 20, 2023 — expired over 3 years ago; position closed.
+- [!] https://www.thaingo.org/jobs/detail/15266 | SEI CFSB | Research Fellow – Finance for Adaptation — Error: Duplicate of #368 (same URL already evaluated 3.0/5); skip.
+- [x] #456 | https://jobs.unicef.org/en-us/job/594221/climate-consultant-office-of-strategy-evidenceose-innocenti-italy-12-months-remotework-from-home | UNICEF Innocenti | Climate Consultant – Office of Strategy & Evidence (OSE) | 2.5/5 | PDF (no)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2403266 | FAO | Climate Change and Energy Specialist — Error: Duplicate of #290 (same URL already evaluated 2.2/5); skip.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2400558 | FAO | National Climate Change Specialist — Error: National Professional Officer position requires host-country (Thailand) nationality; Gavin holds US+Italian citizenship; ineligible.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist — Error: Position expired approximately 3+ years ago per search results; no longer accepting applications; skip.
 - [ ] https://www.idealist.org/en/nonprofit-job/91b027e9b2d74806a9271f372fa6f0fd-east-asia-esg-disclosures-research-consultancy-center-for-transnational-environmental-accountability-rockville | CTEA | East Asia ESG Disclosures Research Consultancy
 - [ ] https://www.impactpool.org/jobs/1066670 | IEA Singapore | Energy Analysts – IEA Regional Cooperation Centre ⭐
 - [ ] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia
