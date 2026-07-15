@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 457 | 2026-07-15 | CTEA | East Asia ESG Disclosures Research Consultancy | 1.5/5 | Evaluada | ❌ | [457](reports/457-ctea-east-asia-esg-disclosures-2026-07-15.md) | Niche expert consultancy requiring East Asian stock exchange ESG law expertise; hard gap vs. Gavin's European-centric frameworks training |
+| 458 | 2026-07-15 | IEA / OECD | Energy Analysts – IEA Regional Cooperation Centre (Singapore) | 3.2/5 | Evaluada | ❌ | [458](reports/458-iea-singapore-energy-analysts-2026-07-15.md) | Strong thematic match (SE Asia energy, UNIDO, hydrogen/EV); EUR 9,700+/month; gap is experience level vs. typical IEA profile |
 | 453 | 2026-07-14 | Mekong Institute | ESG Performance Indicators Consultant (SME Suppliers) | 1.5/5 | Evaluada | ❌ | [453](reports/453-mekong-institute-esg-sme-indicators-2026-07-14.md) | Consultancy ending Aug 2026; $12k total budget; SME ESG delivery experience gap; likely already contracted — SKIP |
 | 454 | 2026-07-14 | DAI / USAID PAGI | ESG Program Manager | 1.5/5 | Evaluada | ❌ | [454](reports/454-dai-usaid-pagi-esg-program-manager-2026-07-14.md) | 10 years experience required; hard blocker; land use domain mismatch — SKIP |
 | 456 | 2026-07-14 | UNICEF Innocenti | Climate Consultant – Office of Strategy & Evidence (OSE) | 2.5/5 | Evaluada | ❌ | [456](reports/456-unicef-innocenti-climate-consultant-ose-2026-07-14.md) | Remote/EU location good; strong research synthesis skills; climate education domain is weak match — borderline |

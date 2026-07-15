@@ -78,13 +78,13 @@
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2403266 | FAO | Climate Change and Energy Specialist — Error: Duplicate of #290 (same URL already evaluated 2.2/5); skip.
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2400558 | FAO | National Climate Change Specialist — Error: National Professional Officer position requires host-country (Thailand) nationality; Gavin holds US+Italian citizenship; ineligible.
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2500809 | FAO | Climate Change Specialist — Error: Position expired approximately 3+ years ago per search results; no longer accepting applications; skip.
-- [ ] https://www.idealist.org/en/nonprofit-job/91b027e9b2d74806a9271f372fa6f0fd-east-asia-esg-disclosures-research-consultancy-center-for-transnational-environmental-accountability-rockville | CTEA | East Asia ESG Disclosures Research Consultancy
-- [ ] https://www.impactpool.org/jobs/1066670 | IEA Singapore | Energy Analysts – IEA Regional Cooperation Centre ⭐
-- [ ] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia
-- [ ] https://www.impactpool.org/jobs/897285 | UNV/ESCAP | Cities and Climate Change Technical Advisor (Bangkok) ⭐
-- [ ] https://www.impactpool.org/jobs/1062001 | UNDP | Climate Change Specialist (Bangkok) ⭐
-- [ ] https://www.impactpool.org/jobs/865302 | WFP Bangkok | Regional Climate and DRR Advisor P4 (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1148998 | UNESCAP | Climate and Blue Finance Consultant (Bangkok) ⭐
+- [x] #457 | https://www.idealist.org/en/nonprofit-job/91b027e9b2d74806a9271f372fa6f0fd-east-asia-esg-disclosures-research-consultancy-center-for-transnational-environmental-accountability-rockville | CTEA | East Asia ESG Disclosures Research Consultancy | 1.5/5 | PDF (no)
+- [x] #458 | https://www.impactpool.org/jobs/1066670 | IEA / OECD | Energy Analysts – IEA Regional Cooperation Centre | 3.2/5 | PDF (no)
+- [x] #459 | https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia | 1.0/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/897285 | UNV/ESCAP | Cities and Climate Change Technical Advisor (Bangkok) — Error: Position posted January 2023 with start date March 1, 2023 — over 3 years old; position closed.
+- [x] #460 | https://www.impactpool.org/jobs/1062001 | UNDP | Climate Change Specialist – LoCAL Programme (Cambodia) | 2.5/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/865302 | WFP Bangkok | Regional Climate and DRR Advisor P4 (Bangkok) — Error: Position posted November 2022 — over 3.5 years old; position closed.
+- [x] #461 | https://www.impactpool.org/jobs/1148998 | UNESCAP | Climate and Blue Finance Consultant (Bangkok/Maldives) | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-07-08 — Multi-portal scheduled scan -->
 - [!] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst-energy58.html | AIIB | Investment Analyst – Energy — Error: Application deadline February 15, 2026 — expired; AIIB 2026 graduate program cohort closed.
@@ -98,11 +98,11 @@
 - [!] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | Oxfam | Consultant – Loss and Damage from Climate Change (Asia) — Error: Consultancy prepared for COP28 (Nov 2023); 14-day assignment; deadline passed; position closed.
 - [!] https://reliefweb.int/job/3984413/consultant-climate-action | IPU | Consultant – Climate Action — Error: Application deadline August 25, 2023 — expired over 2.5 years ago; position closed.
 - [!] https://reliefweb.int/job/4053352/experienced-consultant-climate-adaptation-mission-easts-inclusive-climate-solutions-study | Mission East | Consultant – Climate Adaptation — Error: Posting from April 2024; deadline long passed; position closed.
-- [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | Various | Climate Change Specialist – Asia
+- [!] https://reliefweb.int/job/4016135/climate-change-specialist-asia | IRC | Climate Change Specialist – Asia — Error: Duplicate of #459 (same IRC role cross-posted on ReliefWeb with Bangladesh duty station); skip.
 - [!] https://sg.linkedin.com/jobs/view/esg-and-sustainable-development-analyst-at-cycle-carriage-singapore-2947062728 | Cycle & Carriage Singapore | ESG and Sustainable Development Analyst — Error: LinkedIn login required; cannot verify posting status.
 - [!] https://hk.linkedin.com/jobs/view/esg-research-analyst-remote-position-multiple-openings-at-transition-asia-3818874025 | Transition Asia | ESG Research Analyst (Remote) — Error: LinkedIn login required; cannot verify posting status.
-- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate
-- [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq | Senior Sustainability and Climate Advisory Analyst (Philippines)
+- [!] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate — Error: Job listing no longer available; position removed from employer's site.
+- [x] #462 | https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq | Senior Sustainability and Climate Advisory Analyst (Philippines) | 2.8/5 | PDF (no)
 - [x] #415 | https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Consultant – Corporate Sustainability and Climate Change | 3.0/5 | PDF (no)
 - [x] #416 | https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-climate-change-managing-consultant/ | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change | 1.5/5 | PDF (no)
 - [ ] https://www.unjobnet.org/jobs/detail/gggi-senior-carbon-and-renewable-energy-expert-consultant-86744148 | GGGI | Senior Carbon and Renewable Energy Expert Consultant
