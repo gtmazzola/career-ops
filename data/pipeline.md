@@ -105,16 +105,16 @@
 - [x] #462 | https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq | Senior Sustainability and Climate Advisory Analyst (Philippines) | 2.8/5 | PDF (no)
 - [x] #415 | https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Consultant – Corporate Sustainability and Climate Change | 3.0/5 | PDF (no)
 - [x] #416 | https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-climate-change-managing-consultant/ | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change | 1.5/5 | PDF (no)
-- [ ] https://www.unjobnet.org/jobs/detail/gggi-senior-carbon-and-renewable-energy-expert-consultant-86744148 | GGGI | Senior Carbon and Renewable Energy Expert Consultant
-- [ ] https://www.unjobnet.org/jobs/detail/84769647 | UNDP | Consultant – Sustainability & Exit Strategy
-- [ ] https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan)
-- [ ] https://www.terra.do/climate-jobs/job-board/deloitte-consulting-llp-government-public-services-analyst-sustainability-climate-and-equity-8375508/ | Deloitte | Analyst – Sustainability, Climate and Equity
-- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability-Advisory--Entry-Level--Environmental-Resources-Management--Erm--8323764/ | ERM | Consulting Associate – Sustainability Advisory (Entry Level)
-- [ ] https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change
-- [ ] https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Temasek Management Services | Associate, Sustainability (Sustainability Strategy)
-- [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst
-- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
-- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change
+- [x] #463 | https://www.unjobnet.org/jobs/detail/gggi-senior-carbon-and-renewable-energy-expert-consultant-86744148 | GGGI | Senior Carbon and Renewable Energy Expert Consultant | 2.0/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/84769647 | UNDP | Consultant – Sustainability & Exit Strategy — Error: Application deadline March 18, 2026 — expired; Mauritius/Seychelles coral reef project-specific consultancy; position closed.
+- [x] #464 | https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan) | 1.8/5 | PDF (no)
+- [x] #465 | https://www.terra.do/climate-jobs/job-board/deloitte-consulting-llp-government-public-services-analyst-sustainability-climate-and-equity-8375508/ | Deloitte | Analyst – Sustainability, Climate and Equity | 3.0/5 | PDF (no)
+- [x] #466 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability-Advisory--Entry-Level--Environmental-Resources-Management--Erm--8323764/ | ERM | Consulting Associate – Sustainability Advisory (Entry Level) | 3.2/5 | PDF (no)
+- [x] #467 | https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change | 1.5/5 | PDF (no)
+- [x] #468 | https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Temasek Management Services | Associate, Sustainability (Sustainability Strategy) | 2.5/5 | PDF (no)
+- [!] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst — Error: Application deadline April 10, 2026 — expired; Indonesian work authorization required for Bali-based position; ineligible.
+- [x] #469 | https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk) | 1.5/5 | PDF (no)
+- [x] #470 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change | 2.5/5 | PDF (no)
 - [ ] https://community.iisd.org/jobs/climate-diplomacy-researcher-e3g/ | E3G | Climate Diplomacy Researcher
 - [ ] https://careers.kpmg.com.sg/job/Advisory-Consulting,-ESG-Graduate-Associate-2026/53394244/ | KPMG Singapore | ESG Graduate Associate 2026
 - [ ] https://community.iisd.org/jobs/sustainable-carbon-life-cycle-analyst/ | Various | Sustainable Carbon Life Cycle Analyst
