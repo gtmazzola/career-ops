@@ -1402,3 +1402,10 @@
 - [ ] https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok)
 - [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-sector-based-screening-664346 | Devex | ESG Research Analyst – Sector-Based Screening
 - [ ] https://careers.gggi.org/vacancy/sustainable-finance-senior-associate-578689.html | GGGI | Sustainable Finance Senior Associate
+
+<!-- Scan 2026-07-16 — Multi-portal scheduled scan -->
+- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst Climate Change, Water, Energy & Environment
+- [ ] https://jobs.accaglobal.com/job/13992411/national-environmental-finance-analyst/ | UNDP | National Environmental Finance Analyst (BIOFIN) — deadline July 20
+- [ ] https://unjobs.org/vacancies/1747214532271 | UNDP | Project Management Support Analyst (Environment & Energy, Bangkok)
+- [ ] https://unjobs.org/vacancies/1753137747944 | UNEP | Associate Programme Management Officer (Bangkok)
+- [ ] https://unjobs.org/vacancies/1771353147147 | UNEP | Technical Advisor REDD+ and Forests (Bangkok)
