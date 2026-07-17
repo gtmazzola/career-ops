@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-07-17 — Multi-portal scheduled scan -->
-- [ ] https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer
-- [ ] https://unjobs.org/vacancies/1781560799604 | WMO | Consultancy – Strategic Outreach and Resource Mobilization Support
-- [ ] https://unjobs.org/vacancies/1774037969427 | Winrock International | Technical Consultant – Sustainability Services
-- [ ] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst
-- [ ] https://untalent.org/jobs/assistant-investment-officer-responsible-investment-analyst | UNJSPF | Assistant Investment Officer (Responsible Investment Analyst)
-- [ ] https://untalent.org/jobs/sustainability-consultant | WRI | Sustainability Consultant
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert
-- [ ] https://careers.un.org/jobSearchDescription/275144 | UN | Junior International Consultant – EU ESG Regulations
-- [ ] https://thaingo.org/jobs/detail/20933 | ThaiNGO | Senior Technical Consultant
-- [ ] https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator
+- [x] #471 | https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer | 2.8/5 | PDF (no)
+- [x] #472 | https://unjobs.org/vacancies/1781560799604 | WMO | Consultancy – Strategic Outreach and Resource Mobilization Support | 1.0/5 | PDF (no)
+- [x] #473 | https://unjobs.org/vacancies/1774037969427 | Winrock International | Technical Consultant – Sustainability Services | 2.0/5 | PDF (no)
+- [x] #474 | https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst | 3.0/5 | PDF (no)
+- [x] #475 | https://untalent.org/jobs/assistant-investment-officer-responsible-investment-analyst | UNJSPF | Assistant Investment Officer (Responsible Investment Analyst) | 2.2/5 | PDF (no)
+- [!] https://untalent.org/jobs/sustainability-consultant | WRI | Sustainability Consultant — Error: Position no longer available per untalent.org; posting removed; skip.
+- [!] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert — Error: Application deadline April 29, 2026 — expired; L3 grade requires 5+ years experience; position closed.
+- [!] https://careers.un.org/jobSearchDescription/275144 | ITC/UN | Junior International Consultant – EU ESG Regulations — Error: Consultancy deliverables started April 30, 2026; contract already underway; application window closed; skip.
+- [!] https://thaingo.org/jobs/detail/20933 | REACH for Equity | Senior Technical Consultant — Error: TB and HIV public health domain; requires 8+ years TB/HIV clinical programming; complete domain mismatch; ineligible.
+- [!] https://thaingo.org/jobs/detail/21402 | REACH for Equity | Program Coordinator — Error: AIDS/TB/Malaria interventions in Myanmar conflict zones; public health domain mismatch; ineligible.
 - [ ] https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants Singapore | ESG & Sustainability Consultant
 - [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change Associate
 - [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability (Senior to Manager)

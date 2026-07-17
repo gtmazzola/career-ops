@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 471 | 2026-07-17 | CERN | Sustainability Reporting & Communications Project Officer | 2.8/5 | Evaluada | ❌ | [471](reports/471-cern-sustainability-reporting-communications-2026-07-17.md) | Excellent ESG/GRI/CSRD thematic fit; experience gap (needs 2 yrs, has ~1.5); URGENT deadline July 21 |
+| 472 | 2026-07-17 | WMO | Consultancy – Strategic Outreach and Resource Mobilization Support | 1.0/5 | Evaluada | ❌ | [472](reports/472-wmo-strategic-outreach-resource-mobilization-2026-07-17.md) | Hard blocker: 10 years experience required; senior consultancy; do not apply |
+| 475 | 2026-07-17 | UNJSPF | Assistant Investment Officer (Responsible Investment Analyst) | 2.2/5 | Evaluada | ❌ | [475](reports/475-unjspf-assistant-investment-officer-responsible-investment-2026-07-17.md) | ESG investment management experience missing; finance domain gap; US citizen eligible; below 3.5 threshold |
 | 464 | 2026-07-16 | GGGI Jordan | Project Officer – Green Growth and Climate Change | 1.8/5 | Evaluada | ❌ | [464](reports/464-gggi-jordan-project-officer-green-growth-2026-07-16.md) | Jordan duty station; 5+ yrs MENA experience required; hard blockers on location and experience |
 | 465 | 2026-07-16 | Deloitte | Analyst – Sustainability, Climate and Equity (GPS) | 3.0/5 | Evaluada | ❌ | [465](reports/465-deloitte-gps-analyst-sustainability-climate-equity-2026-07-16.md) | Entry-level US consulting; strong education match; relocation required; grad cohort timing slightly off |
 | 468 | 2026-07-16 | Temasek Management Services | Associate, Sustainability (Sustainability Strategy) | 2.5/5 | Evaluada | ❌ | [468](reports/468-temasek-associate-sustainability-strategy-2026-07-16.md) | 12-month contract; Singapore; communications-heavy scope; Temasek brand valuable but not analytical match |
