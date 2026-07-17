@@ -2,6 +2,30 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-17 — Multi-portal scheduled scan -->
+- [ ] https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer
+- [ ] https://unjobs.org/vacancies/1781560799604 | WMO | Consultancy – Strategic Outreach and Resource Mobilization Support
+- [ ] https://unjobs.org/vacancies/1774037969427 | Winrock International | Technical Consultant – Sustainability Services
+- [ ] https://untalent.org/jobs/climate-change-analyst-5 | UNOPS | Climate Change Analyst
+- [ ] https://untalent.org/jobs/assistant-investment-officer-responsible-investment-analyst | UNJSPF | Assistant Investment Officer (Responsible Investment Analyst)
+- [ ] https://untalent.org/jobs/sustainability-consultant | WRI | Sustainability Consultant
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert
+- [ ] https://careers.un.org/jobSearchDescription/275144 | UN | Junior International Consultant – EU ESG Regulations
+- [ ] https://thaingo.org/jobs/detail/20933 | ThaiNGO | Senior Technical Consultant
+- [ ] https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator
+- [ ] https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants Singapore | ESG & Sustainability Consultant
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change Associate
+- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability (Senior to Manager)
+- [ ] https://climatebase.org/job/71676500/data-analyst---esg | Climatebase | Data Analyst – ESG
+- [ ] https://climatebase.org/job/74060375/consulting-senior-associate--low-carbon-solutions--electricity-networks--energy-systems | ERM | Consulting Senior Associate – Low Carbon Solutions
+- [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
+- [ ] https://careers.southpole.com/jobs/5526878-junior-associate-associate-specialist | South Pole | Junior Associate / Associate Specialist
+- [ ] https://www.sei.org/people/jobs/research-associate-genjust/ | SEI | Research Associate – GenJust
+- [ ] https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI | Research Associate / Staff Scientist – Climate and Energy Policy (US)
+- [ ] https://adb.org/careers/260636 | ADB | Economics Analyst
+- [ ] https://www.adb.org/careers/260464 | ADB | Project Analyst
+- [ ] https://www.adb.org/careers/260571 | ADB | Associate Strategy and Policy Officer
+
 <!-- Scan 2026-07-13 — Multi-portal scheduled scan -->
 - [!] https://community.iisd.org/jobs/analyst-climate-negotiations-climate-finance/ | IISD | Analyst, Climate Negotiations & Climate Finance — Error: Spain residency required (remote-first from Spain only); Gavin is Bangkok-based; geographic blocker.
 - [!] https://thaingo.org/jobs/detail/21355?type=24 | ThaiNGO | Final Evaluation Consultant – Trees4All Project — Error: Thai and English fluency required; Gavin has no Thai language proficiency; hard language blocker.
