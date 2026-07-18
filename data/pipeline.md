@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-18 — Multi-portal scheduled scan -->
+- [ ] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE (15 months, Bangkok, office-based)
+- [ ] https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer (Climate Change and Sustainable Development Dept)
+- [ ] https://www.adb.org/careers/260160 | ADB | Project Officer (Energy)
+- [ ] https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist
+- [ ] https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico)
+
 <!-- Scan 2026-07-17 — Multi-portal scheduled scan -->
 - [x] #471 | https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer | 2.8/5 | PDF (no)
 - [x] #472 | https://unjobs.org/vacancies/1781560799604 | WMO | Consultancy – Strategic Outreach and Resource Mobilization Support | 1.0/5 | PDF (no)
