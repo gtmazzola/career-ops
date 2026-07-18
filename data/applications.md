@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 476 | 2026-07-18 | ISO Consultants Singapore | ESG & Sustainability Consultant | 2.0/5 | Evaluada | ❌ | [476](reports/476-iso-consultants-esg-sustainability-consultant-2026-07-18.md) | ISO 9001/14001/45001 implementation mismatch; comp below target; boutique scope not aligned with climate/policy trajectory |
+| 477 | 2026-07-18 | PwC Singapore | Sustainability and Climate Change Associate | 3.0/5 | Evaluada | ❌ | [477](reports/477-pwc-singapore-sustainability-climate-associate-2026-07-18.md) | Good ESG frameworks match; entry-level Big 4 Singapore; no assurance experience; EP sponsorship needed |
+| 478 | 2026-07-18 | ERM | Data Analyst – ESG | 2.5/5 | Evaluada | ❌ | [478](reports/478-erm-data-analyst-esg-2026-07-18.md) | Strong quant+ESG match; location unknown from JD; apply if Bangkok/Singapore office confirmed |
 | 471 | 2026-07-17 | CERN | Sustainability Reporting & Communications Project Officer | 2.8/5 | Evaluada | ❌ | [471](reports/471-cern-sustainability-reporting-communications-2026-07-17.md) | Excellent ESG/GRI/CSRD thematic fit; experience gap (needs 2 yrs, has ~1.5); URGENT deadline July 21 |
 | 472 | 2026-07-17 | WMO | Consultancy – Strategic Outreach and Resource Mobilization Support | 1.0/5 | Evaluada | ❌ | [472](reports/472-wmo-strategic-outreach-resource-mobilization-2026-07-17.md) | Hard blocker: 10 years experience required; senior consultancy; do not apply |
 | 475 | 2026-07-17 | UNJSPF | Assistant Investment Officer (Responsible Investment Analyst) | 2.2/5 | Evaluada | ❌ | [475](reports/475-unjspf-assistant-investment-officer-responsible-investment-2026-07-17.md) | ESG investment management experience missing; finance domain gap; US citizen eligible; below 3.5 threshold |

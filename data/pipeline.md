@@ -3,12 +3,12 @@
 ## Pendientes
 
 <!-- Scan 2026-07-18 — Multi-portal scheduled scan -->
-- [ ] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE (15 months, Bangkok, office-based)
-- [ ] https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer (Climate Change and Sustainable Development Dept)
-- [ ] https://www.adb.org/careers/260160 | ADB | Project Officer (Energy)
-- [ ] https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist
-- [ ] https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico)
+- [!] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme — Error: Requires 8 years specialized experience in air quality monitoring, emissions inventory, and sensor QA/QC; hard experience blocker and domain mismatch; skip.
+- [!] https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer (Climate Change and Sustainable Development Dept) — Error: Application deadline July 2, 2026 — expired; Manila, Philippines duty station; position closed.
+- [!] https://www.adb.org/careers/260160 | ADB | Project Officer (Energy) — Error: Application deadline February 27, 2026 — expired; Jakarta, Indonesia duty station; position closed.
+- [!] https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy) — Error: Application deadline March 11, 2026 — expired; Ashgabat, Turkmenistan duty station; position closed.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist — Error: Application deadline June 22, 2026 — expired; Dili, Timor-Leste duty station; position closed.
+- [!] https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico) — Error: Contract started April 15, 2026 — already underway (end date Dec 2026); USD 32,000 total; Mexico City; position likely filled; skip.
 
 <!-- Scan 2026-07-17 — Multi-portal scheduled scan -->
 - [x] #471 | https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer | 2.8/5 | PDF (no)
@@ -21,10 +21,10 @@
 - [!] https://careers.un.org/jobSearchDescription/275144 | ITC/UN | Junior International Consultant – EU ESG Regulations — Error: Consultancy deliverables started April 30, 2026; contract already underway; application window closed; skip.
 - [!] https://thaingo.org/jobs/detail/20933 | REACH for Equity | Senior Technical Consultant — Error: TB and HIV public health domain; requires 8+ years TB/HIV clinical programming; complete domain mismatch; ineligible.
 - [!] https://thaingo.org/jobs/detail/21402 | REACH for Equity | Program Coordinator — Error: AIDS/TB/Malaria interventions in Myanmar conflict zones; public health domain mismatch; ineligible.
-- [ ] https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants Singapore | ESG & Sustainability Consultant
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change Associate
-- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability (Senior to Manager)
-- [ ] https://climatebase.org/job/71676500/data-analyst---esg | Climatebase | Data Analyst – ESG
+- [x] #476 | https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants Singapore | ESG & Sustainability Consultant | 2.0/5 | PDF (no)
+- [x] #477 | https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change Associate | 3.0/5 | PDF (no)
+- [!] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability (Senior to Manager) — Error: Requires excellent command of English and Thai — Gavin has no Thai proficiency; hard language blocker; skip.
+- [x] #478 | https://climatebase.org/job/71676500/data-analyst---esg | ERM (via Climatebase) | Data Analyst – ESG | 2.5/5 | PDF (no)
 - [ ] https://climatebase.org/job/74060375/consulting-senior-associate--low-carbon-solutions--electricity-networks--energy-systems | ERM | Consulting Senior Associate – Low Carbon Solutions
 - [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
 - [ ] https://careers.southpole.com/jobs/5526878-junior-associate-associate-specialist | South Pole | Junior Associate / Associate Specialist
@@ -159,7 +159,7 @@
 - [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
 - [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist
 - [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2922208&lang=en | FAO | Natural Resources Officer (Climate Change)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist — Error: Duplicate of 2026-07-18 [!] entry — application deadline June 22, 2026 expired; Dili, Timor-Leste; position closed.
 - [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | SoCha | Environmental and Social Governance (ESG) Expert
 
 <!-- Scan 2026-07-04 — Multi-portal scheduled scan -->
@@ -1161,7 +1161,7 @@
 - [ ] https://www.adb.org/careers/240250 | ADB | Senior Climate Change Specialist
 - [ ] https://www.adb.org/careers/260137 | ADB | Senior Project Officer (Energy)
 - [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
-- [ ] https://climatebase.org/job/71676500/data-analyst---esg | Climatebase | Data Analyst – ESG
+- [!] https://climatebase.org/job/71676500/data-analyst---esg | ERM (via Climatebase) | Data Analyst – ESG — Error: Duplicate of #478 (same URL already evaluated 2.5/5 in this run); skip.
 - [ ] https://climatebase.org/job/66085067/senior-analyst | Climatebase | Senior Analyst (Climate/Sustainability)
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28867 | UNOPS | Senior Energy Analyst – Renewable Energy
 - [ ] https://www.terra.do/climate-jobs/job-board/sustainability-analytics-consultant-energy-esg-8393707/ | Guidehouse | Sustainability Analytics Consultant – Energy & ESG
