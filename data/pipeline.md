@@ -1441,3 +1441,59 @@
 - [ ] https://unjobs.org/vacancies/1747214532271 | UNDP | Project Management Support Analyst (Environment & Energy, Bangkok)
 - [ ] https://unjobs.org/vacancies/1753137747944 | UNEP | Associate Programme Management Officer (Bangkok)
 - [ ] https://unjobs.org/vacancies/1771353147147 | UNEP | Technical Advisor REDD+ and Forests (Bangkok)
+
+<!-- Scan 2026-07-18 — Multi-portal scheduled scan (backfill) -->
+- [ ] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE
+- [ ] https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer
+- [ ] https://www.adb.org/careers/260160 | ADB | Project Officer (Energy)
+- [ ] https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist
+- [ ] https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico)
+
+<!-- Scan 2026-07-19 — Multi-portal scheduled scan -->
+- [ ] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Bangkok | Research Fellow – Bankable Climate Adaptation Solutions and Finance Mechanisms
+- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Thailand)
+- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG (Sustainability Services) Consultant (Manager)
+- [ ] https://aseanenergy.org/opportunities/vacancy/research-analyst-on-sustainable-and-renewable-energy-sre | ASEAN Centre for Energy | Research Analyst – Sustainable and Renewable Energy
+- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole APAC | Managing Consultant – Climate Risk & Disclosure (Asia Pacific)
+- [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq Philippines | Senior Sustainability and Climate Advisory Analyst
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International Singapore | Sustainability & ESG Consultant
+- [ ] https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate
+- [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | TangsPac Consulting Singapore | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon Singapore | Sustainability Consultant
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International Singapore | Sustainability Analyst
+- [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change
+- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate / Senior Associate – Corporate Sustainability & Climate Change
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant
+- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
+- [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=56681 | UNDP | Assistant Programme Officer
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=55904 | UNDP | Programme Specialist – Global Environment Facility
+- [ ] https://www.unjobnet.org/jobs/detail/oecd-junior-energy-analyst-electricity-systems-and-markets-temporary-87143115 | OECD | Junior Energy Analyst – Electricity Systems and Markets (Temporary)
+- [ ] https://www.unjobnet.org/jobs/detail/undp-sustainable-and-blended-finance-analyst-85026921 | UNDP | Sustainable and Blended Finance Analyst
+- [ ] https://www.unjobnet.org/jobs/detail/85743841 | OECD | Junior Power Sector Modeller (Temporary)
+- [ ] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC
+- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | MEL Consultant
+- [ ] https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT)
+- [ ] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist
+- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool)
+- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29791 | UNOPS | Programme Management – Analyst (Innovation)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=26314 | UNOPS | Programme Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst) – Climate Action Team
+- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
+- [ ] https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote)
+- [ ] https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote)
+- [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote)
+- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact India | Associate Consultant – Climate
+- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | IO | Individual Consultant – Fund ESG and Sustainability
+- [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | NGO Asia | Climate Change Specialist – Asia (Bangladesh)
+- [ ] https://reliefweb.int/job/3984413/consultant-climate-action | NGO | Consultant – Climate Action
+- [ ] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | UN/IO | Services of Consultant – Loss and Damage from Climate Change in Asia
+- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
+- [ ] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory
+- [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions | South Pole | Managing Consultant – Renewable Energy Solutions (1-year contract)
+- [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst (Bali, Indonesia)
+- [ ] https://jobs.ilo.org/job/Geneva-Programme-and-Operations-Analyst-1200/1004489601/ | ILO | Programme and Operations Analyst (Geneva)
