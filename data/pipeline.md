@@ -25,14 +25,14 @@
 - [x] #477 | https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change Associate | 3.0/5 | PDF (no)
 - [!] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability (Senior to Manager) — Error: Requires excellent command of English and Thai — Gavin has no Thai proficiency; hard language blocker; skip.
 - [x] #478 | https://climatebase.org/job/71676500/data-analyst---esg | ERM (via Climatebase) | Data Analyst – ESG | 2.5/5 | PDF (no)
-- [ ] https://climatebase.org/job/74060375/consulting-senior-associate--low-carbon-solutions--electricity-networks--energy-systems | ERM | Consulting Senior Associate – Low Carbon Solutions
-- [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
-- [ ] https://careers.southpole.com/jobs/5526878-junior-associate-associate-specialist | South Pole | Junior Associate / Associate Specialist
-- [ ] https://www.sei.org/people/jobs/research-associate-genjust/ | SEI | Research Associate – GenJust
-- [ ] https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI | Research Associate / Staff Scientist – Climate and Energy Policy (US)
-- [ ] https://adb.org/careers/260636 | ADB | Economics Analyst
-- [ ] https://www.adb.org/careers/260464 | ADB | Project Analyst
-- [ ] https://www.adb.org/careers/260571 | ADB | Associate Strategy and Policy Officer
+- [x] #479 | https://climatebase.org/job/74060375/consulting-senior-associate--low-carbon-solutions--electricity-networks--energy-systems | ERM | Consulting Senior Associate – Low Carbon Solutions | 3.0/5 | PDF (no)
+- [x] #480 | https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting | 3.0/5 | PDF (no)
+- [x] #481 | https://careers.southpole.com/jobs/5526878-junior-associate-associate-specialist | South Pole | Junior Associate / Associate Specialist | 3.0/5 | PDF (no)
+- [!] https://www.sei.org/people/jobs/research-associate-genjust/ | SEI | Research Associate – GenJust — Error: Application deadline October 31, 2025 — expired; Bangkok-based gender/equity research role (GenJust cluster); position closed.
+- [x] #482 | https://www.sei.org/people/jobs/research-associate-staff-scientist-climate-and-energy-policy-us/ | SEI | Research Associate / Staff Scientist – Climate and Energy Policy (US) | 3.5/5 | PDF (no)
+- [!] https://adb.org/careers/260636 | ADB | Economics Analyst — Error: Application deadline July 3, 2026 — expired; Manila headquarters, Macroeconomics Research Division; position closed.
+- [!] https://www.adb.org/careers/260464 | ADB | Project Analyst — Error: Application deadline May 22, 2026 — expired; Manila headquarters, Water and Urban Development sector; position closed.
+- [!] https://www.adb.org/careers/260571 | ADB | Associate Strategy and Policy Officer — Error: Application deadline June 8, 2026 — expired; Manila headquarters, Strategy Policy and Partnerships Department; position closed.
 
 <!-- Scan 2026-07-13 — Multi-portal scheduled scan -->
 - [!] https://community.iisd.org/jobs/analyst-climate-negotiations-climate-finance/ | IISD | Analyst, Climate Negotiations & Climate Finance — Error: Spain residency required (remote-first from Spain only); Gavin is Bangkok-based; geographic blocker.
@@ -147,8 +147,8 @@
 - [!] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst — Error: Application deadline April 10, 2026 — expired; Indonesian work authorization required for Bali-based position; ineligible.
 - [x] #469 | https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk) | 1.5/5 | PDF (no)
 - [x] #470 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change | 2.5/5 | PDF (no)
-- [ ] https://community.iisd.org/jobs/climate-diplomacy-researcher-e3g/ | E3G | Climate Diplomacy Researcher
-- [ ] https://careers.kpmg.com.sg/job/Advisory-Consulting,-ESG-Graduate-Associate-2026/53394244/ | KPMG Singapore | ESG Graduate Associate 2026
+- [!] https://community.iisd.org/jobs/climate-diplomacy-researcher-e3g/ | E3G | Climate Diplomacy Researcher — Error: Posting no longer available; confirmed expired per IISD community and E3G careers page; skip.
+- [x] #483 | https://careers.kpmg.com.sg/job/Advisory-Consulting,-ESG-Graduate-Associate-2026/53394244/ | KPMG Singapore | ESG Graduate Associate 2026 | 3.2/5 | PDF (no)
 - [ ] https://community.iisd.org/jobs/sustainable-carbon-life-cycle-analyst/ | Various | Sustainable Carbon Life Cycle Analyst
 - [ ] https://community.iisd.org/jobs/nature-pledge-analyst-office-based/ | UNDP | Nature Pledge Analyst (Office-Based)
 - [ ] https://community.iisd.org/jobs/economics-research-associate-climate/ | WRI | Economics Research Associate – Climate
