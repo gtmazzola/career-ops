@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-07-20 — Multi-portal scheduled scan -->
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601355 | FAO | Senior Natural Resources Officer (Climate Change)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2502168 | FAO | Environment and Climate Change Assistant
-- [ ] https://community.iisd.org/jobs/senior-researcher-or-senior-associate-climate-law-and-finance-columbia-center-on-sustainable-investment/ | Columbia Center on Sustainable Investment | Senior Researcher or Senior Associate, Climate Law and Finance
-- [ ] https://www.adb.org/careers/260240 | ADB | Senior Natural Resources and Agriculture Specialist
-- [ ] https://www.adb.org/careers/260715 | ADB | Senior Project Officer (Energy)
-- [ ] https://www.adb.org/careers/230336 | ADB | (Senior) Energy Specialist (ETM Partnership Trust Fund)
-- [ ] https://untalent.org/jobs/programme-finance-and-reporting-analyst | UNEP | Programme Finance and Reporting Analyst
-- [ ] https://community.iisd.org/jobs/climate-policy-consultant-d-f-m/ | Climate Desk Berlin | Climate Policy Consultant
-- [ ] https://climatebase.org/job/57553180/consulting-associate-gis-entry-level | ERM | Consulting Associate, GIS (Entry Level)
-- [ ] https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/IN-Associate-ESG-sustainability-Climate---Energy-Advisory-kolkata_574755WD-1 | PwC India | Associate – ESG Sustainability Climate and Energy Advisory
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601355 | FAO | Senior Natural Resources Officer (Climate Change) — Error: Application deadline July 17, 2026 — expired; P-5 level requires 10 years experience; Rome HQ; position closed.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2502168 | FAO | Environment and Climate Change Assistant — Error: JD not retrievable (FAO Oracle Taleo portal requires JavaScript; all sources return 403); insufficient data for evaluation; skip.
+- [x] #485 | https://community.iisd.org/jobs/senior-researcher-or-senior-associate-climate-law-and-finance-columbia-center-on-sustainable-investment/ | Columbia Center on Sustainable Investment | Senior Researcher or Senior Associate, Climate Law and Finance | 2.0/5 | PDF (no)
+- [!] https://www.adb.org/careers/260240 | ADB | Senior Natural Resources and Agriculture Specialist — Error: Application deadline June 2, 2026 — expired; requires 10 years experience; agriculture/food systems domain; Ulaanbaatar/Manila duty station; position closed.
+- [!] https://www.adb.org/careers/260715 | ADB | Senior Project Officer (Energy) — Error: Local staff position open only to nationals and permanent residents of Pakistan; Islamabad duty station; ineligible.
+- [!] https://www.adb.org/careers/230336 | ADB | (Senior) Energy Specialist (ETM Partnership Trust Fund) — Error: Application deadline June 20, 2023 — expired over 3 years ago; IS4/5 level requires 8-10 years experience; position closed.
+- [!] https://untalent.org/jobs/programme-finance-and-reporting-analyst | UNEP | Programme Finance and Reporting Analyst — Error: Domain mismatch — finance/accounting specialist role requiring CPA/CA certification, 5+ years in project finance/budgeting, GEF/SAP-Umoja experience; not sustainability analysis; skip.
+- [!] https://community.iisd.org/jobs/climate-policy-consultant-d-f-m/ | Climate Desk Berlin | Climate Policy Consultant — Error: Requires 5 years professional experience + full German proficiency (C1/C2); Gavin has A2 German — hard language blocker; Berlin duty station; skip.
+- [x] #484 | https://climatebase.org/job/57553180/consulting-associate-gis-entry-level | ERM | Consulting Associate, GIS (Entry Level) | 1.0/5 | PDF (no)
+- [x] #486 | https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/IN-Associate-ESG-sustainability-Climate---Energy-Advisory-kolkata_574755WD-1 | PwC India | Associate – ESG Sustainability Climate and Energy Advisory | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-07-18 — Multi-portal scheduled scan -->
 - [!] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme — Error: Requires 8 years specialized experience in air quality monitoring, emissions inventory, and sensor QA/QC; hard experience blocker and domain mismatch; skip.

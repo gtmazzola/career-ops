@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 485 | 2026-07-20 | Columbia CCSI | Senior Researcher/Associate, Climate Law and Finance | 2.0/5 | Evaluada | ❌ | [485](reports/485-columbia-ccsi-senior-researcher-climate-law-finance-2026-07-20.md) | Likely law degree required; senior experience gap; NYC no remote; incomplete JD — verify before applying |
 | 483 | 2026-07-19 | KPMG Singapore | ESG Graduate Associate 2026 | 3.2/5 | Evaluada | ❌ | [483](reports/483-kpmg-singapore-esg-graduate-associate-2026-07-19.md) | Singapore; strong academic fit (109/110) + ESG framework match; comp below target (SGD 50k); Big 4 career trajectory play |
 | 476 | 2026-07-18 | ISO Consultants Singapore | ESG & Sustainability Consultant | 2.0/5 | Evaluada | ❌ | [476](reports/476-iso-consultants-esg-sustainability-consultant-2026-07-18.md) | ISO 9001/14001/45001 implementation mismatch; comp below target; boutique scope not aligned with climate/policy trajectory |
 | 477 | 2026-07-18 | PwC Singapore | Sustainability and Climate Change Associate | 3.0/5 | Evaluada | ❌ | [477](reports/477-pwc-singapore-sustainability-climate-associate-2026-07-18.md) | Good ESG frameworks match; entry-level Big 4 Singapore; no assurance experience; EP sponsorship needed |
