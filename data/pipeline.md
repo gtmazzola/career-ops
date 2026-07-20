@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-20 — Multi-portal scheduled scan -->
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601355 | FAO | Senior Natural Resources Officer (Climate Change)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2502168 | FAO | Environment and Climate Change Assistant
+- [ ] https://community.iisd.org/jobs/senior-researcher-or-senior-associate-climate-law-and-finance-columbia-center-on-sustainable-investment/ | Columbia Center on Sustainable Investment | Senior Researcher or Senior Associate, Climate Law and Finance
+- [ ] https://www.adb.org/careers/260240 | ADB | Senior Natural Resources and Agriculture Specialist
+- [ ] https://www.adb.org/careers/260715 | ADB | Senior Project Officer (Energy)
+- [ ] https://www.adb.org/careers/230336 | ADB | (Senior) Energy Specialist (ETM Partnership Trust Fund)
+- [ ] https://untalent.org/jobs/programme-finance-and-reporting-analyst | UNEP | Programme Finance and Reporting Analyst
+- [ ] https://community.iisd.org/jobs/climate-policy-consultant-d-f-m/ | Climate Desk Berlin | Climate Policy Consultant
+- [ ] https://climatebase.org/job/57553180/consulting-associate-gis-entry-level | ERM | Consulting Associate, GIS (Entry Level)
+- [ ] https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/IN-Associate-ESG-sustainability-Climate---Energy-Advisory-kolkata_574755WD-1 | PwC India | Associate – ESG Sustainability Climate and Energy Advisory
+
 <!-- Scan 2026-07-18 — Multi-portal scheduled scan -->
 - [!] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme — Error: Requires 8 years specialized experience in air quality monitoring, emissions inventory, and sensor QA/QC; hard experience blocker and domain mismatch; skip.
 - [!] https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer (Climate Change and Sustainable Development Dept) — Error: Application deadline July 2, 2026 — expired; Manila, Philippines duty station; position closed.
