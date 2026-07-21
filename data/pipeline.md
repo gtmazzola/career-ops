@@ -1509,3 +1509,7 @@
 - [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions | South Pole | Managing Consultant – Renewable Energy Solutions (1-year contract)
 - [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst (Bali, Indonesia)
 - [ ] https://jobs.ilo.org/job/Geneva-Programme-and-Operations-Analyst-1200/1004489601/ | ILO | Programme and Operations Analyst (Geneva)
+
+<!-- Scan 2026-07-21 — Multi-portal scheduled scan -->
+- [ ] https://untalent.org/jobs/climate-change-data-analyst-consultant | FAO | Climate Change Data Analyst (Consultant)
+- [ ] https://community.iisd.org/jobs/program-associate-across-various-ccsi-focus-areas/ | Columbia CCSI | Program Associate (across various CCSI focus areas)
