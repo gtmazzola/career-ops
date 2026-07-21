@@ -161,16 +161,16 @@
 - [x] #470 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consultant---Corporate-Sustainability---Climate-Change_R00021388 | ERM | Consultant – Corporate Sustainability & Climate Change | 2.5/5 | PDF (no)
 - [!] https://community.iisd.org/jobs/climate-diplomacy-researcher-e3g/ | E3G | Climate Diplomacy Researcher — Error: Posting no longer available; confirmed expired per IISD community and E3G careers page; skip.
 - [x] #483 | https://careers.kpmg.com.sg/job/Advisory-Consulting,-ESG-Graduate-Associate-2026/53394244/ | KPMG Singapore | ESG Graduate Associate 2026 | 3.2/5 | PDF (no)
-- [ ] https://community.iisd.org/jobs/sustainable-carbon-life-cycle-analyst/ | Various | Sustainable Carbon Life Cycle Analyst
-- [ ] https://community.iisd.org/jobs/nature-pledge-analyst-office-based/ | UNDP | Nature Pledge Analyst (Office-Based)
-- [ ] https://community.iisd.org/jobs/economics-research-associate-climate/ | WRI | Economics Research Associate – Climate
-- [ ] https://community.iisd.org/jobs/senior-research-analyst/ | Sunrise Project | Senior Research Analyst
-- [ ] https://community.iisd.org/jobs/analyst-climate-finance-vcib/ | VCIB | Analyst, Climate Finance
-- [ ] https://jobs.unicef.org/en-us/job/568498/consultant-climate-environment-energy-and-disaster-risk-reduction-design-req-568498 | UNICEF | Consultant – Climate, Environment, Energy, and DRR
-- [ ] https://careers.who.int/careersection/ex/jobdetail.ftl?job=2407584 | WHO | National Consultant – Climate Change Assessment
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2922208&lang=en | FAO | Natural Resources Officer (Climate Change)
+- [x] #487 | https://community.iisd.org/jobs/sustainable-carbon-life-cycle-analyst/ | Nuseed | Sustainable Carbon Life Cycle Analyst | 1.0/5 | PDF (no)
+- [x] #488 | https://community.iisd.org/jobs/nature-pledge-analyst-office-based/ | UNDP | Nature Pledge Analyst (Office-Based) | 2.8/5 | PDF (no)
+- [!] https://community.iisd.org/jobs/economics-research-associate-climate/ | WRI | Economics Research Associate – Climate — Error: WRI Beijing role requires 8 years experience in climate mitigation/adaptation economics; hard experience blocker (Gavin has <2 years); Beijing duty station; skip.
+- [x] #490 | https://community.iisd.org/jobs/senior-research-analyst/ | Sunrise Project | Senior Research Analyst | 2.5/5 | PDF (no)
+- [x] #491 | https://community.iisd.org/jobs/analyst-climate-finance-vcib/ | VCIB | Analyst, Climate Finance | 2.0/5 | PDF (no)
+- [!] https://jobs.unicef.org/en-us/job/568498/consultant-climate-environment-energy-and-disaster-risk-reduction-design-req-568498 | UNICEF | Consultant – Climate, Environment, Energy, and DRR — Error: Graphic design/communications consultancy (InDesign reports and infographics for CEED team); domain mismatch; skip.
+- [!] https://careers.who.int/careersection/ex/jobdetail.ftl?job=2407584 | WHO | National Consultant – Climate Change Assessment — Error: National Consultant designation requires host-country nationality; Gavin holds US/Italian citizenship — ineligible for national consultant positions; skip.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS — Error: Application deadline January 8, 2026 — expired; National Specialist = Indian national required; New Delhi duty station; ineligible and closed.
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist — Error: National Environment and Climate Change Specialist position — Bhutanese nationality required; Thimphu duty station; ineligible.
+- [x] #496 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2922208&lang=en | FAO | Natural Resources Officer (Climate Change) | 3.2/5 | PDF (no)
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist — Error: Duplicate of 2026-07-18 [!] entry — application deadline June 22, 2026 expired; Dili, Timor-Leste; position closed.
 - [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | SoCha | Environmental and Social Governance (ESG) Expert
 
