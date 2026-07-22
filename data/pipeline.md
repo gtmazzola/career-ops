@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-07-22 — Multi-portal scheduled scan -->
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110138 | UNDP | Programme Analyst – Climate Strategies (IPSA-8)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110145 | UNDP | Junior Programme Analyst – Climate and Forest
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=107409 | UNDP | Programme Analyst – Transparency (IPSA-8, Home-based)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=107678 | UNDP | Programme Analyst (IPSA-9)
-- [ ] https://careers.unesco.org/job/Bangkok-Consultant-Transformative-Education/1361423357/ | UNESCO Bangkok | Consultant – Transformative Education
-- [ ] https://www.unjobnet.org/jobs/detail/85348705 | UNDP | Programme Analyst (Open to all applicants)
-- [ ] https://www.impactpool.org/jobs/1201773 | IUCN | Field Project Associate, Thailand Country Programme
-- [ ] https://www.impactpool.org/jobs/1139264 | OECD | Junior Policy Analyst – Green Finance and Investment (Temporary)
-- [ ] https://careers.un.org/jobSearchDescription/266020 | UN | Environmental Junior Analyst
-- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-Bang-10330/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff (Fresh grads)
+- [x] #497 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110138 | UNDP | Programme Analyst – Climate Strategies (IPSA-8) | 3.8/5 | PDF (no)
+- [x] #498 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110145 | UNDP | Junior Programme Analyst – Climate and Forest | 2.8/5 | PDF (no)
+- [x] #499 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=107409 | UNDP | Programme Analyst – Transparency (IPSA-8, Home-based) | 3.8/5 | PDF (no)
+- [x] #500 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=107678 | UNDP | Programme Analyst (IPSA-9) – Tax for SDGs | 1.8/5 | PDF (no)
+- [!] https://careers.unesco.org/job/Bangkok-Consultant-Transformative-Education/1361423357/ | UNESCO Bangkok | Consultant – Transformative Education — Error: Application deadline October 8, 2025 — expired over 9 months ago; position closed.
+- [x] #501 | https://www.unjobnet.org/jobs/detail/85348705 | UNDP Lao PDR | Programme Analyst (NR/CC/DRR) | 3.5/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/1201773 | IUCN | Field Project Associate, Thailand Country Programme — Error: Locally recruited (Thai work authorization required — Gavin has no Thai work visa); expected start date April 1, 2026 — position already underway; ineligible and likely filled.
+- [!] https://www.impactpool.org/jobs/1139264 | OECD | Junior Policy Analyst – Green Finance and Investment (Temporary) — Error: Application deadline March 5, 2025 — expired over 16 months ago; position closed.
+- [x] #502 | https://careers.un.org/jobSearchDescription/266020 | UNEP | Environmental Junior Analyst | 2.8/5 | PDF (no)
+- [x] #503 | https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-Bang-10330/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff (Fresh grads) | 3.2/5 | PDF (no)
 - [ ] https://www.unjobnet.org/jobs/detail/unicef-early-warning-systems-ews-consultant-gpd-ceedclimate-resilience-coe-19-mo-86165314 | UNICEF EAPRO | Early Warning Systems Consultant (Bangkok, 19 months)
 
 <!-- Scan 2026-07-20 — Multi-portal scheduled scan -->
