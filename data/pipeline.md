@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-23 — Multi-portal scheduled scan -->
+- [ ] https://www.unjobnet.org/jobs/detail/84616849 | UN Women Bangkok | Programme Analyst – AI, Green Skills and Youth Pathways for Gender-Responsive Climate Action
+- [ ] https://jobs.ebrd.com/job/London-Analyst,-Climate-Risk/1259197301/ | EBRD | Analyst, Climate Risk (London)
+- [ ] https://careers.gggi.org/vacancy/senior-carbon-project-assistant-586026.html | GGGI | Senior Carbon Project Assistant
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-consultant-2b80f5f5635fd548c65ddda87758ce42 | (MyCareersFuture SGP) | Sustainability Consultant
+
 <!-- Scan 2026-07-22 — Multi-portal scheduled scan -->
 - [x] #497 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110138 | UNDP | Programme Analyst – Climate Strategies (IPSA-8) | 3.8/5 | PDF (no)
 - [x] #498 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110145 | UNDP | Junior Programme Analyst – Climate and Forest | 2.8/5 | PDF (no)
