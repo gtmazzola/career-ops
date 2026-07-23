@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-07-23 — Multi-portal scheduled scan -->
-- [ ] https://www.unjobnet.org/jobs/detail/84616849 | UN Women Bangkok | Programme Analyst – AI, Green Skills and Youth Pathways for Gender-Responsive Climate Action
-- [ ] https://jobs.ebrd.com/job/London-Analyst,-Climate-Risk/1259197301/ | EBRD | Analyst, Climate Risk (London)
-- [ ] https://careers.gggi.org/vacancy/senior-carbon-project-assistant-586026.html | GGGI | Senior Carbon Project Assistant
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-consultant-2b80f5f5635fd548c65ddda87758ce42 | (MyCareersFuture SGP) | Sustainability Consultant
+- [!] https://www.unjobnet.org/jobs/detail/84616849 | UN Women Bangkok | Programme Analyst – AI, Green Skills and Youth Pathways for Gender-Responsive Climate Action — Error: Contract period already commenced (15 March 2026 – 31 Dec 2026); position likely filled over 4 months ago; skip.
+- [!] https://jobs.ebrd.com/job/London-Analyst,-Climate-Risk/1259197301/ | EBRD | Analyst, Climate Risk (London) — Error: Application deadline October 30, 2025 — expired; London duty station; position closed.
+- [!] https://careers.gggi.org/vacancy/senior-carbon-project-assistant-586026.html | GGGI | Senior Carbon Project Assistant — Error: Nationally recruited position (New-RP24-151) — must be Rwandan national; Kigali, Rwanda duty station; Gavin holds US+Italian citizenship; ineligible.
+- [!] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-consultant-2b80f5f5635fd548c65ddda87758ce42 | (MyCareersFuture SGP) | Sustainability Consultant — Error: JD not retrievable (MyCareersFuture portal blocked); employer not identifiable from search results; insufficient data for evaluation; skip.
 
 <!-- Scan 2026-07-22 — Multi-portal scheduled scan -->
 - [x] #497 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110138 | UNDP | Programme Analyst – Climate Strategies (IPSA-8) | 3.8/5 | PDF (no)
@@ -19,7 +19,7 @@
 - [!] https://www.impactpool.org/jobs/1139264 | OECD | Junior Policy Analyst – Green Finance and Investment (Temporary) — Error: Application deadline March 5, 2025 — expired over 16 months ago; position closed.
 - [x] #502 | https://careers.un.org/jobSearchDescription/266020 | UNEP | Environmental Junior Analyst | 2.8/5 | PDF (no)
 - [x] #503 | https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-Bang-10330/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff (Fresh grads) | 3.2/5 | PDF (no)
-- [ ] https://www.unjobnet.org/jobs/detail/unicef-early-warning-systems-ews-consultant-gpd-ceedclimate-resilience-coe-19-mo-86165314 | UNICEF EAPRO | Early Warning Systems Consultant (Bangkok, 19 months)
+- [!] https://www.unjobnet.org/jobs/detail/unicef-early-warning-systems-ews-consultant-gpd-ceedclimate-resilience-coe-19-mo-86165314 | UNICEF EAPRO | Early Warning Systems Consultant (Bangkok, 19 months) — Error: Position no longer open per aggregator sources (UNJobNet); 19-month contract likely already underway; position closed.
 
 <!-- Scan 2026-07-20 — Multi-portal scheduled scan -->
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601355 | FAO | Senior Natural Resources Officer (Climate Change) — Error: Application deadline July 17, 2026 — expired; P-5 level requires 10 years experience; Rome HQ; position closed.
@@ -191,7 +191,7 @@
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501643 | FAO | Environment and Climate Change Specialist — Error: National Environment and Climate Change Specialist position — Bhutanese nationality required; Thimphu duty station; ineligible.
 - [x] #496 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2922208&lang=en | FAO | Natural Resources Officer (Climate Change) | 3.2/5 | PDF (no)
 - [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601218 | FAO | Climate Change Programme Specialist — Error: Duplicate of 2026-07-18 [!] entry — application deadline June 22, 2026 expired; Dili, Timor-Leste; position closed.
-- [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | SoCha | Environmental and Social Governance (ESG) Expert
+- [!] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | SoCha | Environmental and Social Governance (ESG) Expert — Error: Africa duty stations (Kenya, Uganda, Tanzania, DRC, Zambia, Nigeria); requires 8+ years ESG monitoring/fisheries experience; geographic and experience-level mismatch; posted April 2025 (likely expired); skip.
 
 <!-- Scan 2026-07-04 — Multi-portal scheduled scan -->
 - [x] #389 | https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant (Bangkok/Tajikistan) | 2.0/5 | PDF (no)
