@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-24 — Multi-portal scheduled scan -->
+- [ ] https://careers.gggi.org/vacancy/enhanced-transparency-framework-international-consultant-593362.html | GGGI | Enhanced Transparency Framework - International Consultant
+- [ ] https://careers.gggi.org/vacancy/experts-roster-climate-change-resilience-adaptation-545736.html | GGGI | Experts Roster — Climate Change Resilience & Adaptation (LAC)
+- [ ] https://www.sei.org/people/jobs/iccap-project/ | SEI Asia | Research Fellow – Inclusive Climate Finance (ICCAP, Bangkok)
+- [ ] https://www.wri.org/careers/jobs/project-operations-specialist-2026-jr100282 | WRI | Project Operations Specialist
+
 <!-- Scan 2026-07-23 — Multi-portal scheduled scan -->
 - [!] https://www.unjobnet.org/jobs/detail/84616849 | UN Women Bangkok | Programme Analyst – AI, Green Skills and Youth Pathways for Gender-Responsive Climate Action — Error: Contract period already commenced (15 March 2026 – 31 Dec 2026); position likely filled over 4 months ago; skip.
 - [!] https://jobs.ebrd.com/job/London-Analyst,-Climate-Risk/1259197301/ | EBRD | Analyst, Climate Risk (London) — Error: Application deadline October 30, 2025 — expired; London duty station; position closed.
