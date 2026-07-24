@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-07-24 — Multi-portal scheduled scan -->
-- [ ] https://careers.gggi.org/vacancy/enhanced-transparency-framework-international-consultant-593362.html | GGGI | Enhanced Transparency Framework - International Consultant
-- [ ] https://careers.gggi.org/vacancy/experts-roster-climate-change-resilience-adaptation-545736.html | GGGI | Experts Roster — Climate Change Resilience & Adaptation (LAC)
-- [ ] https://www.sei.org/people/jobs/iccap-project/ | SEI Asia | Research Fellow – Inclusive Climate Finance (ICCAP, Bangkok)
-- [ ] https://www.wri.org/careers/jobs/project-operations-specialist-2026-jr100282 | WRI | Project Operations Specialist
+- [x] #504 | https://careers.gggi.org/vacancy/enhanced-transparency-framework-international-consultant-593362.html | GGGI | Enhanced Transparency Framework - International Consultant | 2.0/5 | PDF (no)
+- [!] https://careers.gggi.org/vacancy/experts-roster-climate-change-resilience-adaptation-545736.html | GGGI | Experts Roster — Climate Change Resilience & Adaptation (LAC) — Error: National Scale salary roster in LAC duty stations (Colombia, Costa Rica, Mexico, Peru, etc.) — not expatriate positions; Gavin is Bangkok-based with US+Italian citizenship and no LAC residency or work authorization; ineligible.
+- [!] https://www.sei.org/people/jobs/iccap-project/ | SEI Asia | Research Fellow – Inclusive Climate Finance (ICCAP, Bangkok) — Error: Application deadline December 15, 2025 — expired approximately 7 months ago; position closed.
+- [!] https://www.wri.org/careers/jobs/project-operations-specialist-2026-jr100282 | WRI | Project Operations Specialist — Error: Application deadline June 11, 2026 — expired; locally engaged position in Jakarta, Indonesia; Indonesian work authorization required; ineligible.
 
 <!-- Scan 2026-07-23 — Multi-portal scheduled scan -->
 - [!] https://www.unjobnet.org/jobs/detail/84616849 | UN Women Bangkok | Programme Analyst – AI, Green Skills and Youth Pathways for Gender-Responsive Climate Action — Error: Contract period already commenced (15 March 2026 – 31 Dec 2026); position likely filled over 4 months ago; skip.
