@@ -2,6 +2,9 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-25 — Multi-portal scheduled scan -->
+- [ ] https://www.terra.do/climate-jobs/job-board/Junior-Climate---ESG-Financial-Analyst-Intellect-Group-8205056/ | Intellect Group | Junior Climate & ESG Financial Analyst
+
 <!-- Scan 2026-07-24 — Multi-portal scheduled scan -->
 - [x] #504 | https://careers.gggi.org/vacancy/enhanced-transparency-framework-international-consultant-593362.html | GGGI | Enhanced Transparency Framework - International Consultant | 2.0/5 | PDF (no)
 - [!] https://careers.gggi.org/vacancy/experts-roster-climate-change-resilience-adaptation-545736.html | GGGI | Experts Roster — Climate Change Resilience & Adaptation (LAC) — Error: National Scale salary roster in LAC duty stations (Colombia, Costa Rica, Mexico, Peru, etc.) — not expatriate positions; Gavin is Bangkok-based with US+Italian citizenship and no LAC residency or work authorization; ineligible.
