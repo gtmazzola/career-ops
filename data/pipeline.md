@@ -3,7 +3,7 @@
 ## Pendientes
 
 <!-- Scan 2026-07-25 — Multi-portal scheduled scan -->
-- [ ] https://www.terra.do/climate-jobs/job-board/Junior-Climate---ESG-Financial-Analyst-Intellect-Group-8205056/ | Intellect Group | Junior Climate & ESG Financial Analyst
+- [x] #505 | https://www.terra.do/climate-jobs/job-board/Junior-Climate---ESG-Financial-Analyst-Intellect-Group-8205056/ | Intellect Group | Junior Climate & ESG Financial Analyst | 2.8/5 | PDF (no)
 
 <!-- Scan 2026-07-24 — Multi-portal scheduled scan -->
 - [x] #504 | https://careers.gggi.org/vacancy/enhanced-transparency-framework-international-consultant-593362.html | GGGI | Enhanced Transparency Framework - International Consultant | 2.0/5 | PDF (no)

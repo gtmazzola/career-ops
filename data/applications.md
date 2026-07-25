@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 505 | 2026-07-25 | Intellect Group | Junior Climate & ESG Financial Analyst | 2.8/5 | Evaluada | ❌ | [505](reports/505-intellect-group-junior-esg-analyst-2026-07-25.md) | London hybrid £35k; Italian C1 is strong differentiator but comp ~30elow target and UK visa sponsorship needed |
 | 501 | 2026-07-22 | UNDP Lao PDR | Programme Analyst – NR/CC/DRR | 3.5/5 | Evaluada | ❌ | [501](reports/501-undp-programme-analyst-lao-pdr-nrccdrr-2026-07-22.md) | Lao PDR NR/CC/DRR; direct UNSDCF Lao PDR experience differentiates; relocation and unclear contract are risks |
 | 502 | 2026-07-22 | UNEP | Environmental Junior Analyst | 2.8/5 | Evaluada | ❌ | [502](reports/502-unep-environmental-junior-analyst-2026-07-22.md) | Limited JD data; possible internship; Panama location uncertain; check contract type before applying |
 | 504 | 2026-07-24 | GGGI | Enhanced Transparency Framework - International Consultant | 2.0/5 | Evaluada | ❌ | [504](reports/504-gggi-etf-international-consultant-2026-07-24.md) | Zambia ETF/iMRV lead; senior-level and domain mismatch; no Sub-Saharan Africa experience |
