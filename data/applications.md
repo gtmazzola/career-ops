@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 506 | 2026-07-26 | Search Ally / PwC SGP | Senior Associate – Risk Services, Sustainability & Climate Change | 2.2/5 | Evaluada | ❌ | [506](reports/506-search-ally-pwc-senior-associate-sustainability-2026-07-26.md) | Singapore Big4 via staffing; 3–5yr exp required vs Gavin's <2; EP needed; good ESG thematic match but experience gap is principal blocker |
+| 507 | 2026-07-26 | UNDP Angola | Programme Analyst – Nature, Climate and Environment (NCE) | 3.0/5 | Evaluada | ❌ | [507](reports/507-undp-angola-programme-analyst-nce-2026-07-26.md) | Luanda Angola hardship post; strong NCE thematic match to UNIDO work; experience borderline; outside preferred geography |
 | 505 | 2026-07-25 | Intellect Group | Junior Climate & ESG Financial Analyst | 2.8/5 | Evaluada | ❌ | [505](reports/505-intellect-group-junior-esg-analyst-2026-07-25.md) | London hybrid £35k; Italian C1 is strong differentiator but comp ~30elow target and UK visa sponsorship needed |
 | 501 | 2026-07-22 | UNDP Lao PDR | Programme Analyst – NR/CC/DRR | 3.5/5 | Evaluada | ❌ | [501](reports/501-undp-programme-analyst-lao-pdr-nrccdrr-2026-07-22.md) | Lao PDR NR/CC/DRR; direct UNSDCF Lao PDR experience differentiates; relocation and unclear contract are risks |
 | 502 | 2026-07-22 | UNEP | Environmental Junior Analyst | 2.8/5 | Evaluada | ❌ | [502](reports/502-unep-environmental-junior-analyst-2026-07-22.md) | Limited JD data; possible internship; Panama location uncertain; check contract type before applying |
