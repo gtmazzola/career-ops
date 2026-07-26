@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-26 — Multi-portal scheduled scan -->
+- [ ] https://www.impactpool.org/jobs/1217377 | UNEP | Climate Finance and Stakeholders Engagement Analyst
+- [ ] https://climatebase.org/job/52353640 | ERM Bangkok | Consultant – Social and Sustainability Support (Entry Level)
+- [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-associate-risk-services-sustainability-climate-change-search-ally-4ee2ec9d96327b8c77aaa594d4dc98db | Search Ally | Senior Associate – Risk Services, Sustainability & Climate Change
+- [ ] https://www.unjobnet.org/jobs/detail/85054987 | UNDP | Programme Analyst – Nature, Climate and Environment (NCE)
+
 <!-- Scan 2026-07-25 — Multi-portal scheduled scan -->
 - [x] #505 | https://www.terra.do/climate-jobs/job-board/Junior-Climate---ESG-Financial-Analyst-Intellect-Group-8205056/ | Intellect Group | Junior Climate & ESG Financial Analyst | 2.8/5 | PDF (no)
 
