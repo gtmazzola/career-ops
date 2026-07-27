@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 508 | 2026-07-27 | World Bank / Adaptation Fund | ET Consultant – Carbon Credit Mobilization | 2.5/5 | Evaluada | ❌ | [508](reports/508-worldbank-et-consultant-carbon-credit-mobilization-2026-07-27.md) | Washington DC EC1 ETC; Article 6 carbon market expertise gap; US citizenship removes visa barrier; analytical skills match but domain is a stretch |
+| 509 | 2026-07-27 | Climate Asia (Singapore) | Carbon and Sustainability Consultant | 2.0/5 | Evaluada | ❌ | [509](reports/509-climate-asia-carbon-sustainability-consultant-2026-07-27.md) | ISO 14040/LCA hard gap; Singapore EP needed; ESG frameworks match but product-level LCA is core requirement |
 | 506 | 2026-07-26 | Search Ally / PwC SGP | Senior Associate – Risk Services, Sustainability & Climate Change | 2.2/5 | Evaluada | ❌ | [506](reports/506-search-ally-pwc-senior-associate-sustainability-2026-07-26.md) | Singapore Big4 via staffing; 3–5yr exp required vs Gavin's <2; EP needed; good ESG thematic match but experience gap is principal blocker |
 | 507 | 2026-07-26 | UNDP Angola | Programme Analyst – Nature, Climate and Environment (NCE) | 3.0/5 | Evaluada | ❌ | [507](reports/507-undp-angola-programme-analyst-nce-2026-07-26.md) | Luanda Angola hardship post; strong NCE thematic match to UNIDO work; experience borderline; outside preferred geography |
 | 505 | 2026-07-25 | Intellect Group | Junior Climate & ESG Financial Analyst | 2.8/5 | Evaluada | ❌ | [505](reports/505-intellect-group-junior-esg-analyst-2026-07-25.md) | London hybrid £35k; Italian C1 is strong differentiator but comp ~30elow target and UK visa sponsorship needed |

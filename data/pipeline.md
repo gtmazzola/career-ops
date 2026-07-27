@@ -898,7 +898,7 @@
 - [x] #405 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25645 | UNOPS | Climate Mitigation Senior Analyst (Retainer) | 2.8/5 | PDF (no)
 - [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer, alt posting) — Error: Duplicate/alt posting of #405 (same role as VA/25645); skip.
 - [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28498 | UNOPS | Renewable Energy Consultant (Home Based, Retainer) — Error: Vacancy closed (application period July–August 2024); position no longer available.
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28538 | UNOPS | Project Management Support – Senior Associate
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28538 | UNOPS | Project Management Support – Senior Associate — Error: Vacancy closed (application period 15 Jul–04 Aug 2024); Belgrade Serbia local recruitment (Serbian nationals/residents only); position closed.
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27839 | UNOPS | Project Officer – Climate Technology — Error: Vacancy closed (UNOPS VA/27839, posting April 2024); position no longer available.
 
 <!-- Scan 2026-05-22 — GGGI new roles -->
@@ -908,17 +908,17 @@
 
 <!-- Scan 2026-05-22 — UN / Asia (new) -->
 - [!] https://www.unjobnet.org/jobs/detail/55533297 | UNESCAP | Regional Climate Change Consultant (Bangkok) — Error: Unjobnet ID 55533297 from ~2020 (current active range 80M+); posting long expired; position closed.
-- [ ] https://www.unjobnet.org/jobs/detail/79500326 | UNOPS | Programme Associate (China / UNEP programme)
-- [ ] https://untalent.org/jobs/associate-officer-in-climate-change-and-energy | UNDP | Associate Officer – Climate Change and Energy
-- [ ] https://untalent.org/jobs/e-t-consultant-carbon-credit-mobilization | World Bank | ET Consultant – Carbon Credit Mobilization
+- [!] https://www.unjobnet.org/jobs/detail/79500326 | UNOPS | Programme Associate (China / UNEP programme) — Error: Unjobnet ID 79500326 from ~2024 (current active range 84M+); posting likely expired over 12 months ago; position closed.
+- [!] https://untalent.org/jobs/associate-officer-in-climate-change-and-energy | UNDP | Associate Officer – Climate Change and Energy — Error: Posting expired approximately 2 years ago per search results; Ecuador duty station; position closed.
+- [x] #508 | https://untalent.org/jobs/e-t-consultant-carbon-credit-mobilization | World Bank / Adaptation Fund | ET Consultant – Carbon Credit Mobilization | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-05-22 — Singapore / Global Consulting -->
-- [ ] https://careers.southpole.com/jobs/1485792-senior-climate-investments-analyst | South Pole | Senior Climate Investments Analyst
-- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Devex | Individual Consultant – Fund ESG and Sustainability
-- [ ] https://www.devex.com/jobs/individual-consultant-conducting-a-regional-workshop-on-climate-swaps-green-bonds-blue-bonds-and-other-climate-financing-instruments-1393953 | Devex | Individual Consultant – Regional Workshop on Climate Finance (Asia)
-- [ ] https://www.devex.com/jobs/individual-consultant-transport-interventions-to-boost-trade-and-tackle-climate-change-in-the-south-asia-subregional-economic-cooperation-region-1377154 | Devex | Individual Consultant – Transport & Climate Change, South Asia (SASEC)
-- [ ] https://www.terra.do/climate-jobs/job-board/Carbon-and-Sustainability-Consultant-CLIMATE-ASIA-PTE--LTD--8256564/ | Climate Asia / Terra.do | Carbon and Sustainability Consultant (Singapore)
-- [ ] https://www.terra.do/climate-jobs/job-board/remote-financing-consultant-climate-air-quality-policy-8399399/ | Clean Air Asia / Terra.do | Remote Financing Consultant – Climate & Air Quality Policy
+- [!] https://careers.southpole.com/jobs/1485792-senior-climate-investments-analyst | South Pole | Senior Climate Investments Analyst — Error: Posting date January 2022 — over 4 years old; position closed.
+- [!] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Devex | Individual Consultant – Fund ESG and Sustainability — Error: Contract start date April 1, 2026 — 132-day consultancy already underway; application window closed; position filled.
+- [!] https://www.devex.com/jobs/individual-consultant-conducting-a-regional-workshop-on-climate-swaps-green-bonds-blue-bonds-and-other-climate-financing-instruments-1393953 | Devex | Individual Consultant – Regional Workshop on Climate Finance (Asia) — Error: Contract December 2025 – July 2026; assignment period ended; position closed.
+- [!] https://www.devex.com/jobs/individual-consultant-transport-interventions-to-boost-trade-and-tackle-climate-change-in-the-south-asia-subregional-economic-cooperation-region-1377154 | Devex | Individual Consultant – Transport & Climate Change, South Asia (SASEC) — Error: Contract November 2025 – May 2026; assignment period ended; transport/trade domain mismatch; position closed.
+- [x] #509 | https://www.terra.do/climate-jobs/job-board/Carbon-and-Sustainability-Consultant-CLIMATE-ASIA-PTE--LTD--8256564/ | Climate Asia | Carbon and Sustainability Consultant (Singapore) | 2.0/5 | PDF (no)
+- [x] #510 | https://www.terra.do/climate-jobs/job-board/remote-financing-consultant-climate-air-quality-policy-8399399/ | Clean Air Asia | Remote Financing Consultant – Climate & Air Quality Policy | 1.5/5 | PDF (no)
 - [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change – Associate
 - [ ] https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-921ee24ea1326342ca412b31ec708087 | EY Singapore | Senior Associate – Climate Change and Sustainability Services
 - [ ] https://www.climatechangecareers.com/job/golden-hiring/london-united-kingdom/esg-sustainability-analyst-trainee-graduate-opportunity/ | ClimateChangeCareers | ESG & Sustainability Analyst Trainee – Graduate Opportunity (London)
