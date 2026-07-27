@@ -1547,3 +1547,8 @@
 <!-- Scan 2026-07-21 — Multi-portal scheduled scan -->
 - [ ] https://untalent.org/jobs/climate-change-data-analyst-consultant | FAO | Climate Change Data Analyst (Consultant)
 - [ ] https://community.iisd.org/jobs/program-associate-across-various-ccsi-focus-areas/ | Columbia CCSI | Program Associate (across various CCSI focus areas)
+
+<!-- Scan 2026-07-27 — Multi-portal scheduled scan -->
+- [ ] https://www.climatechangecareers.com/job/wsp-in-india/noida-india/associate-consultant-esg-climate-change-and-carbon/ | WSP in India | Associate Consultant – ESG, Climate Change and Carbon
+- [ ] https://jobs.unicef.org/mob/cw/en-us/job/591257/consultant-evaluation-officer-for-the-regional-office-and-country-offices-in-the-east-asia-and-the-pacific-region-unicef-east-asia-and-pacific-regional-office-eapro-bangkok-thailand | UNICEF EAPRO | Consultant – Evaluation Officer (Bangkok)
+- [ ] https://jobs.unicef.org/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF Bangkok | Climate Resilient Education Consultant
