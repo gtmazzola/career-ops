@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-28 — Multi-portal scheduled scan -->
+- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst – Climate Change, Water, Energy & Environment (CCEE)
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM Bangkok | Consulting Associate / Senior Associate – Corporate Sustainability and Climate Change
+- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
+- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International | Sustainability & ESG Consultant
+- [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business | ESG Intelligence Analyst / Associate
+- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate
+- [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate
+- [ ] https://community.iisd.org/jobs/renewable-energy-analyst/ | IEA | Renewable Energy Analyst
+- [ ] https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI | Energy Research Analyst (Jakarta)
+- [ ] https://www.wri.org/careers/jobs/strategic-research-and-communications-consultant-2026-jr100176 | WRI | Strategic Research and Communications Consultant
+- [ ] https://www.impactpool.org/jobs/1199377 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
+- [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM Bangkok | Consulting Senior Associate (Climate)
+
 <!-- Scan 2026-07-26 — Multi-portal scheduled scan -->
 - [!] https://www.impactpool.org/jobs/1217377 | UNEP | Climate Finance and Stakeholders Engagement Analyst — Error: Position based in Hanoi or Ho Chi Minh City, Vietnam; supports VN-ADAPT agriculture finance project; requires Vietnamese language fluency for stakeholder engagement and document translation (English-Vietnamese); Gavin has no Vietnamese proficiency; hard language blocker; skip.
 - [!] https://climatebase.org/job/52353640 | ERM Bangkok | Consultant – Social and Sustainability Support (Entry Level) — Error: Job posting dated October 2024 — approximately 21 months old; entry-level positions at ERM are typically filled within weeks; position almost certainly closed and filled; skip.
