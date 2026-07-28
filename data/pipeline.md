@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-07-28 — Multi-portal scheduled scan -->
-- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst – Climate Change, Water, Energy & Environment (CCEE)
-- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM Bangkok | Consulting Associate / Senior Associate – Corporate Sustainability and Climate Change
-- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International | Sustainability & ESG Consultant
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business | ESG Intelligence Analyst / Associate
-- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate
-- [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate
-- [ ] https://community.iisd.org/jobs/renewable-energy-analyst/ | IEA | Renewable Energy Analyst
-- [ ] https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI | Energy Research Analyst (Jakarta)
-- [ ] https://www.wri.org/careers/jobs/strategic-research-and-communications-consultant-2026-jr100176 | WRI | Strategic Research and Communications Consultant
+- [x] #511 | https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst – Climate Change, Water, Energy & Environment (CCEE) | 3.5/5 | PDF (no)
+- [x] #512 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM Bangkok | Consulting Associate / Senior Associate – Corporate Sustainability and Climate Change | 2.8/5 | PDF (no)
+- [x] #513 | https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets | 3.0/5 | PDF (no)
+- [!] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International | Sustainability & ESG Consultant — Error: Application deadline June 5, 2026 — expired approximately 7 weeks ago; position closed; skip.
+- [x] #514 | https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business | ESG Intelligence Analyst / Associate | 2.0/5 | PDF (no)
+- [!] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI (Climate Corps/JLL) | Climate and Decarbonization Strategy Associate — Error: Duplicate of #077 (same URL already evaluated 2.0/5); also a Climate Corps Fellowship with JLL, not Stockholm Environment Institute; fellowship started June 1, 2026; position closed; skip.
+- [!] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI (Climate Corps) | Project and Sustainability Associate — Error: Duplicate of #064 (same URL already evaluated 1.0/5); Climate Corps Fellowship started March 2, 2026; California residency required; position closed; skip.
+- [!] https://community.iisd.org/jobs/renewable-energy-analyst/ | OECD/IEA | Renewable Energy Analyst — Error: OECD/IEA position; written tests and panel interviews completed March–April 2026; position has been filled; skip.
+- [!] https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI | Energy Research Analyst (Jakarta) — Error: Application deadline April 12, 2026 — expired 3.5 months ago; Indonesian work authorization required; contract started May 2026; ineligible.
+- [!] https://www.wri.org/careers/jobs/strategic-research-and-communications-consultant-2026-jr100176 | WRI | Strategic Research and Communications Consultant — Error: Application deadline April 10, 2026 — expired 3.5 months ago; Indonesian work authorization required; locally engaged position; ineligible.
 - [ ] https://www.impactpool.org/jobs/1199377 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
 - [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM Bangkok | Consulting Senior Associate (Climate)
 
