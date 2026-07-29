@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- Scan 2026-07-29 — Multi-portal scheduled scan -->
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert (Roster)
+- [ ] https://www.devex.com/jobs/climate-lead-1448873 | Devex | Climate Lead
+- [ ] https://climatejobs.shortlist.net/companies/sustainable-energy-for-all-seforall/jobs/37369014-energy-analyst | SE4All | Energy Analyst
+- [ ] https://www.wri.org/careers/jobs/research-analyst-power-sector-transition-2026-jr100383 | WRI | Research Analyst, Power Sector Transition
+- [ ] https://climatebase.org/job/72482581/energy-analyst | PEG Associates | Energy Analyst
+- [ ] https://climatebase.org/job/73831170/analyst---nature-based-solutions | AFRY Management Consulting | Analyst - Nature Based Solutions
+
 <!-- Scan 2026-07-28 — Multi-portal scheduled scan -->
 - [x] #511 | https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst – Climate Change, Water, Energy & Environment (CCEE) | 3.5/5 | PDF (no)
 - [x] #512 | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Associate-Senior-Associate---Corporate-Sustainability-and-Climate-Change_R00018755 | ERM Bangkok | Consulting Associate / Senior Associate – Corporate Sustainability and Climate Change | 2.8/5 | PDF (no)
