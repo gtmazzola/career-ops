@@ -3,12 +3,12 @@
 ## Pendientes
 
 <!-- Scan 2026-07-29 — Multi-portal scheduled scan -->
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert (Roster)
-- [ ] https://www.devex.com/jobs/climate-lead-1448873 | Devex | Climate Lead
-- [ ] https://climatejobs.shortlist.net/companies/sustainable-energy-for-all-seforall/jobs/37369014-energy-analyst | SE4All | Energy Analyst
-- [ ] https://www.wri.org/careers/jobs/research-analyst-power-sector-transition-2026-jr100383 | WRI | Research Analyst, Power Sector Transition
-- [ ] https://climatebase.org/job/72482581/energy-analyst | PEG Associates | Energy Analyst
-- [ ] https://climatebase.org/job/73831170/analyst---nature-based-solutions | AFRY Management Consulting | Analyst - Nature Based Solutions
+- [x] #515 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert (Roster) | 2.5/5 | PDF (no)
+- [x] #521 | https://www.devex.com/jobs/climate-lead-1448873 | P4I / DT Global | Climate Lead | 2.5/5 | PDF (no)
+- [x] #522 | https://climatejobs.shortlist.net/companies/sustainable-energy-for-all-seforall/jobs/37369014-energy-analyst | SEforALL | Energy Analyst | 2.5/5 | PDF (no)
+- [x] (ref #319) | https://www.wri.org/careers/jobs/research-analyst-power-sector-transition-2026-jr100383 | WRI | Research Analyst, Power Sector Transition | 1.5/5 | PDF (no) | duplicate org/role skipped by merge; report at 518-wri-research-analyst-power-sector-transition-2026-07-29.md
+- [x] #519 | https://climatebase.org/job/72482581/energy-analyst | PEG LLC | Energy Analyst | 1.0/5 | PDF (no)
+- [x] #520 | https://climatebase.org/job/73831170/analyst---nature-based-solutions | AFRY Management Consulting | Analyst - Nature Based Solutions | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-07-28 — Multi-portal scheduled scan -->
 - [x] #511 | https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst – Climate Change, Water, Energy & Environment (CCEE) | 3.5/5 | PDF (no)
@@ -21,8 +21,8 @@
 - [!] https://community.iisd.org/jobs/renewable-energy-analyst/ | OECD/IEA | Renewable Energy Analyst — Error: OECD/IEA position; written tests and panel interviews completed March–April 2026; position has been filled; skip.
 - [!] https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI | Energy Research Analyst (Jakarta) — Error: Application deadline April 12, 2026 — expired 3.5 months ago; Indonesian work authorization required; contract started May 2026; ineligible.
 - [!] https://www.wri.org/careers/jobs/strategic-research-and-communications-consultant-2026-jr100176 | WRI | Strategic Research and Communications Consultant — Error: Application deadline April 10, 2026 — expired 3.5 months ago; Indonesian work authorization required; locally engaged position; ineligible.
-- [ ] https://www.impactpool.org/jobs/1199377 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction
-- [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM Bangkok | Consulting Senior Associate (Climate)
+- [!] https://www.impactpool.org/jobs/1199377 | UNDP | Programme Analyst – Nature, Climate, Energy and Disaster Risk Reduction — Error: Grade NOB (National Officer B) in Santo Domingo, Dominican Republic — requires Dominican nationality or permanent residency; Gavin holds US+Italian citizenship; ineligible.
+- [x] (ref #68) | https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM Bangkok | Consulting Senior Associate (Climate) | 2.8/5 | PDF (no) | duplicate org/role skipped by merge; report at 521-erm-bangkok-consulting-senior-associate-climate-2026-07-29.md
 
 <!-- Scan 2026-07-26 — Multi-portal scheduled scan -->
 - [!] https://www.impactpool.org/jobs/1217377 | UNEP | Climate Finance and Stakeholders Engagement Analyst — Error: Position based in Hanoi or Ho Chi Minh City, Vietnam; supports VN-ADAPT agriculture finance project; requires Vietnamese language fluency for stakeholder engagement and document translation (English-Vietnamese); Gavin has no Vietnamese proficiency; hard language blocker; skip.
