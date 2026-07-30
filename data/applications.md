@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 523 | 2026-07-30 | Golden Hiring (Investment Firm) | ESG & Sustainability Analyst Trainee | 3.0/5 | Evaluada | ❌ | [523](reports/523-golden-hiring-esg-sustainability-analyst-trainee-2026-07-30.md) | Grad-level ESG analyst at unknown London investment firm; strong domain match but employer opaque and London relocation required |
 | 515 | 2026-07-29 | UNIDO | Industrial Development Expert (Roster) | 2.5/5 | Evaluada | ❌ | [515](reports/515-unido-industrial-development-expert-roster-2026-07-29.md) | L3 grade too senior (~5 yr req vs 1.5 yr actual); roster position Vienna; UNIDO insider advantage noted but experience gap hard; do not apply now |
 | 519 | 2026-07-29 | PEG LLC | Energy Analyst | 1.0/5 | Evaluada | ❌ | [519](reports/519-peg-energy-analyst-2026-07-29.md) | Residential HERS modelling — complete domain mismatch; Fairfax VA location; keyword collision on Climatebase; do not apply |
 | 520 | 2026-07-29 | AFRY Management Consulting | Analyst - Nature Based Solutions | 2.0/5 | Evaluada | ❌ | [520](reports/520-afry-analyst-nature-based-solutions-2026-07-29.md) | London/Helsinki; early career welcome but forestry/NBS domain missing; GIS gap; EU citizenship covers Helsinki; low-conviction application only |

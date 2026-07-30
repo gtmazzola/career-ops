@@ -941,10 +941,10 @@
 - [!] https://www.devex.com/jobs/individual-consultant-transport-interventions-to-boost-trade-and-tackle-climate-change-in-the-south-asia-subregional-economic-cooperation-region-1377154 | Devex | Individual Consultant – Transport & Climate Change, South Asia (SASEC) — Error: Contract November 2025 – May 2026; assignment period ended; transport/trade domain mismatch; position closed.
 - [x] #509 | https://www.terra.do/climate-jobs/job-board/Carbon-and-Sustainability-Consultant-CLIMATE-ASIA-PTE--LTD--8256564/ | Climate Asia | Carbon and Sustainability Consultant (Singapore) | 2.0/5 | PDF (no)
 - [x] #510 | https://www.terra.do/climate-jobs/job-board/remote-financing-consultant-climate-air-quality-policy-8399399/ | Clean Air Asia | Remote Financing Consultant – Climate & Air Quality Policy | 1.5/5 | PDF (no)
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change – Associate
-- [ ] https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-921ee24ea1326342ca412b31ec708087 | EY Singapore | Senior Associate – Climate Change and Sustainability Services
-- [ ] https://www.climatechangecareers.com/job/golden-hiring/london-united-kingdom/esg-sustainability-analyst-trainee-graduate-opportunity/ | ClimateChangeCareers | ESG & Sustainability Analyst Trainee – Graduate Opportunity (London)
-- [ ] https://www.sei.org/people/jobs/climate-risk-adaptation-tallinn/ | SEI | Climate Risk and Adaptation Researcher (Tallinn, Estonia)
+- [!] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Singapore | Sustainability and Climate Change – Associate — Error: Duplicate of #477 (same URL already evaluated 3.0/5); skip.
+- [!] https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-921ee24ea1326342ca412b31ec708087 | EY Singapore | Senior Associate – Climate Change and Sustainability Services — Error: Duplicate of #327 (same URL already evaluated 3.0/5); skip.
+- [x] #523 | https://www.climatechangecareers.com/job/golden-hiring/london-united-kingdom/esg-sustainability-analyst-trainee-graduate-opportunity/ | Golden Hiring (Investment Firm) | ESG & Sustainability Analyst Trainee (London) | 3.0/5 | PDF (no)
+- [!] https://www.sei.org/people/jobs/climate-risk-adaptation-tallinn/ | SEI | Climate Risk and Adaptation Researcher (Tallinn, Estonia) — Error: JD not retrievable (website returns 403); search results only surface an internship posting from Jan 2026; full researcher JD not accessible; insufficient data for evaluation; skip.
 
 <!-- Scan 2026-05-23 — Bangkok / Thailand ⭐ -->
 - [x] #406 | https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI / DAI | ESG Program Manager – USAID Partnerships for Green Investment (Bangkok) | 2.0/5 | PDF (no)
@@ -953,12 +953,12 @@
 - [x] #409 | https://unjobs.org/vacancies/1774447954195 | UNEP ROAP | Project Management Specialist – South Asia (Bangkok) | 2.0/5 | PDF (no)
 - [!] https://unjobs.org/vacancies/1777287425815 | UNICEF EAPRO | Programme Specialist (Climate Finance) (Bangkok) — Error: Application deadline May 8, 2026 — expired; position closed.
 - [x] #410 | https://unjobs.org/vacancies/1777692497119 | UNDP Bangkok Regional Hub | Trust Funds Portfolio Manager – Blue Economy (Bangkok) | 2.2/5 | PDF (no)
-- [ ] https://www.unjobnet.org/jobs/detail/85457324 | UNDP Thailand | Energy Transition Specialist – Transition Finance Framework (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/85674030 | UNDP | Energy Specialist (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/83538868 | UNDP Thailand | Climate Action Portfolio Manager (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/84642887 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/85310215 | GGGI Thailand | Consultant – Building Readiness for Transition Finance (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/85451062 | GGGI Thailand | Consultant – Building Readiness for Transition Finance Phase 1 (Bangkok) ⭐
+- [!] https://www.unjobnet.org/jobs/detail/85457324 | UNDP Thailand | Energy Transition Specialist – Transition Finance Framework (Bangkok) ⭐ — Error: Position closed — 90-day consultancy assignment; search confirms "no longer open"; skip.
+- [!] https://www.unjobnet.org/jobs/detail/85674030 | UNDP | Energy Specialist (Bangkok) ⭐ — Error: JD not retrievable (unjobnet returns 403); search results indicate Jordan location — inconsistent with pipeline Bangkok label; insufficient confirmed data for evaluation; skip.
+- [!] https://www.unjobnet.org/jobs/detail/83538868 | UNDP Thailand | Climate Action Portfolio Manager (Bangkok) ⭐ — Error: Duplicate of #407 (same role cross-posted on unjobnet; already evaluated 3.0/5 via unjobs.org/vacancies/1766849148999); skip.
+- [!] https://www.unjobnet.org/jobs/detail/84642887 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐ — Error: Duplicate of #331 (same role as impactpool/1199629 already evaluated 2.5/5 and separately marked duplicate); skip.
+- [!] https://www.unjobnet.org/jobs/detail/85310215 | GGGI Thailand | Consultant – Building Readiness for Transition Finance (Bangkok) ⭐ — Error: Position closed — search confirms "no longer open"; posted March–April 2026; position has since closed; skip.
+- [!] https://www.unjobnet.org/jobs/detail/85451062 | GGGI Thailand | Consultant – Building Readiness for Transition Finance Phase 1 (Bangkok) ⭐ — Error: Position closed — search confirms "no longer open"; posted March–April 2026; position has since closed; skip.
 - [ ] https://www.unjobnet.org/jobs/detail/83927874 | UNDP Bangkok | FDI Expert – Green Investment and ASEAN Climate Finance (Bangkok) ⭐
 - [ ] https://www.unjobnet.org/jobs/detail/85806262 | UNDP | Training Officer (Biomass Energy) (Bangkok) ⭐
 - [ ] https://www.unjobnet.org/jobs/detail/85782469 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) ⭐
