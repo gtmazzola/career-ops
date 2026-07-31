@@ -959,21 +959,21 @@
 - [!] https://www.unjobnet.org/jobs/detail/84642887 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐ — Error: Duplicate of #331 (same role as impactpool/1199629 already evaluated 2.5/5 and separately marked duplicate); skip.
 - [!] https://www.unjobnet.org/jobs/detail/85310215 | GGGI Thailand | Consultant – Building Readiness for Transition Finance (Bangkok) ⭐ — Error: Position closed — search confirms "no longer open"; posted March–April 2026; position has since closed; skip.
 - [!] https://www.unjobnet.org/jobs/detail/85451062 | GGGI Thailand | Consultant – Building Readiness for Transition Finance Phase 1 (Bangkok) ⭐ — Error: Position closed — search confirms "no longer open"; posted March–April 2026; position has since closed; skip.
-- [ ] https://www.unjobnet.org/jobs/detail/83927874 | UNDP Bangkok | FDI Expert – Green Investment and ASEAN Climate Finance (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/85806262 | UNDP | Training Officer (Biomass Energy) (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/85782469 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/85473726 | UNEP ROAP | PV System Management and Recycling Expert (Bangkok) ⭐
+- [!] https://www.unjobnet.org/jobs/detail/83927874 | UNDP Bangkok | FDI Expert – Green Investment and ASEAN Climate Finance — Error: Posted January 19, 2026 (~6 months ago); individual consultant UNDP-BRC-00219 supporting ASEAN Green Investment Catalyst and Laos LIFT; application window for consultancies typically 2–4 weeks; position almost certainly filled; skip.
+- [!] https://www.unjobnet.org/jobs/detail/85806262 | UNDP | Training Officer (Biomass Energy) — Error: Location is Islamabad, Pakistan (UNDP-PAK-01577), not Bangkok; 45-day consultancy started May 15, 2026 and completing October 1, 2026 — already underway; pipeline Bangkok label was incorrect; ineligible.
+- [!] https://www.unjobnet.org/jobs/detail/85782469 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) — Error: Application deadline April 28, 2026 — expired approximately 3 months ago; GIS/spatial DRR analysis requiring Master's/PhD in disaster management + 3 years; position closed.
+- [x] #524 | https://www.unjobnet.org/jobs/detail/85473726 | UNEP ROAP | PV System Management and Recycling Expert | 2.0/5 | PDF (no)
 - [!] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand (Bangkok) ⭐ — Error: Duplicate of #331 (same Impactpool posting; evaluated 2.5/5); skip.
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/2783 | UNOPS APRO | Project Management Support Officer (Bangkok) ⭐
+- [x] #525 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/2783 | UNOPS APRO | Project Management Support Officer | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-05-23 — GIZ Thailand -->
-- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/05/Job-Announcement_CASE-Junior-Communication-Specialist_260508.pdf | GIZ Thailand | Junior Communication Specialist – CASE Energy Cluster (Bangkok) ⭐
+- [!] https://www.thai-german-cooperation.info/wp-content/uploads/2026/05/Job-Announcement_CASE-Junior-Communication-Specialist_260508.pdf | GIZ Thailand | Junior Communication Specialist – CASE Energy Cluster (Bangkok) — Error: Application deadline June 3, 2026 — expired approximately 8 weeks ago; Communications/PR/Journalism role (not analytical); domain mismatch with Gavin's sustainability analysis profile; position closed.
 
 <!-- Scan 2026-05-23 — UN / IOs (Untalent / Untalent new) -->
 - [ ] https://untalent.org/jobs/research-analyst-raising-national-climate-ambition | WRI | Research Analyst – Raising National Climate Ambition
 - [ ] https://untalent.org/jobs/research-analyst-industrial-innovation-and-carbon-removal | WRI | Research Analyst – Industrial Innovation and Carbon Removal
 - [ ] https://untalent.org/jobs/climate-research-analyst | WRI Indonesia | Climate Research Analyst (Jakarta)
-- [ ] https://untalent.org/jobs/sustainable-development-officer-18 | UNESCAP | Sustainable Development Officer (Bangkok) ⭐
+- [x] #526 | https://untalent.org/jobs/sustainable-development-officer-18 | UNESCAP | Sustainable Development Officer | 2.5/5 | PDF (no)
 - [ ] https://untalent.org/jobs/sustainable-development-officer-37 | UN DESA | Sustainable Development Officer (New York)
 
 <!-- Scan 2026-05-23 — SEforALL -->
@@ -1074,8 +1074,8 @@
 - [ ] https://www.terra.do/climate-jobs/job-board/sr-analyst-social-impact-sustainability-reportingesg-8354309/ | Alcon | Sr. Analyst, Social Impact & Sustainability Reporting/ESG (Wisconsin)
 
 <!-- Scan 2026-05-27 — Bangkok / Thailand ⭐ -->
-- [ ] https://www.climatechangecareers.com/job/nestle/bangkok-thailand/sustainability-manager/ | Nestlé | Sustainability Manager (Bangkok) ⭐
-- [ ] https://www.impactpool.org/jobs/1126880 | UNICEF Thailand | National Climate Consultant (Bangkok) ⭐
+- [x] #527 | https://www.climatechangecareers.com/job/nestle/bangkok-thailand/sustainability-manager/ | Nestlé Thailand | Sustainability Manager | 2.0/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/1126880 | UNICEF Thailand | National Climate Consultant (Bangkok) — Error: Old Impactpool posting (ID 1126880; current active range 1190000+); cross-posted on unjobnet as #75624102 (current active range 84-87M); GCF/NDA coordination consultancy; posting likely from 2024 and long expired; skip.
 
 <!-- Scan 2026-05-27 — GGGI (new) -->
 - [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate ⚠️ 4-5yr exp
@@ -1105,7 +1105,7 @@
 - [ ] https://careers.southpole.com/jobs/1526673-senior-climate-impact-specialist-digital-climate-solutions | South Pole | Senior Climate Impact Specialist – Digital Climate Solutions
 
 <!-- Scan 2026-05-28 — Bangkok / Thailand ⭐ -->
-- [ ] https://www.unjobnet.org/jobs/detail/85823466 | UNICEF EAPRO | Programme Specialist (Climate Finance) Re-Advertisement (Bangkok) ⭐
+- [!] https://www.unjobnet.org/jobs/detail/85823466 | UNICEF EAPRO | Programme Specialist (Climate Finance) Re-Advertisement (Bangkok) — Error: Application deadline May 8, 2026 — expired approximately 12 weeks ago; P-level Bangkok role supporting GCF pipeline development; position closed.
 - [ ] https://www.thaingo.org/jobs/detail/19070/2 | GIZ / ThaiNGO | Consultant – ESG Performance Indicators for SME Suppliers Decarbonization (Bangkok) ⭐
 - [ ] https://reliefweb.int/job/3900508/climate-change-cc-adviser | P4I | Climate Change (CC) Adviser (Bangkok) ⭐
 

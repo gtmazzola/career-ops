@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 524 | 2026-07-31 | UNEP ROAP | PV System Management and Recycling Expert | 2.0/5 | Evaluada | ❌ | [524](reports/524-unep-roap-pv-system-management-recycling-expert-2026-07-31.md) | Bangkok; PV recycling/circular economy — domain mismatch; adjacent solar experience insufficient |
+| 525 | 2026-07-31 | UNOPS APRO | Project Management Support Officer | 3.5/5 | Evaluada | ❌ | [525](reports/525-unops-apro-project-management-support-officer-2026-07-31.md) | Bangkok; good IO project support fit (LogFrame, ToC, inter-agency); officer level matches career stage |
+| 526 | 2026-07-31 | UNESCAP | Sustainable Development Officer | 2.5/5 | Evaluada | ❌ | [526](reports/526-unescap-sustainable-development-officer-2026-07-31.md) | Bangkok; strong thematic/ESCAP fit but 5yr exp blocker; worth applying if P2 Temporary |
+| 527 | 2026-07-31 | Nestlé Thailand | Sustainability Manager | 2.0/5 | Evaluada | ❌ | [527](reports/527-nestle-sustainability-manager-2026-07-31.md) | Bangkok; Manager (5+yr) vs 18mo exp — hard blocker; revisit in 2028 |
 | 523 | 2026-07-30 | Golden Hiring (Investment Firm) | ESG & Sustainability Analyst Trainee | 3.0/5 | Evaluada | ❌ | [523](reports/523-golden-hiring-esg-sustainability-analyst-trainee-2026-07-30.md) | Grad-level ESG analyst at unknown London investment firm; strong domain match but employer opaque and London relocation required |
 | 515 | 2026-07-29 | UNIDO | Industrial Development Expert (Roster) | 2.5/5 | Evaluada | ❌ | [515](reports/515-unido-industrial-development-expert-roster-2026-07-29.md) | L3 grade too senior (~5 yr req vs 1.5 yr actual); roster position Vienna; UNIDO insider advantage noted but experience gap hard; do not apply now |
 | 519 | 2026-07-29 | PEG LLC | Energy Analyst | 1.0/5 | Evaluada | ❌ | [519](reports/519-peg-energy-analyst-2026-07-29.md) | Residential HERS modelling — complete domain mismatch; Fairfax VA location; keyword collision on Climatebase; do not apply |
