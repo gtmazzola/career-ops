@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 524 | 2026-07-31 | UNEP ROAP | PV System Management and Recycling Expert | 2.0/5 | Evaluada | ❌ | [524](reports/524-unep-roap-pv-system-management-recycling-expert-2026-07-31.md) | Bangkok; PV recycling/circular economy — domain mismatch; adjacent solar experience insufficient |
+| 524 | 2026-08-01 | GGGI | SPAR6C MEL Consultant (HQ) | 2.5/5 | Evaluada | ❌ | [524](reports/524-gggi-spar6c-mel-2026-08-01.md) | Re-eval 2026-08-01 (2→2.5). Article 6 MEL specialization not in profile; RBM/reporting match partial; Seoul relocation required |
 | 525 | 2026-07-31 | UNOPS APRO | Project Management Support Officer | 3.5/5 | Evaluada | ❌ | [525](reports/525-unops-apro-project-management-support-officer-2026-07-31.md) | Bangkok; good IO project support fit (LogFrame, ToC, inter-agency); officer level matches career stage |
 | 526 | 2026-07-31 | UNESCAP | Sustainable Development Officer | 2.5/5 | Evaluada | ❌ | [526](reports/526-unescap-sustainable-development-officer-2026-07-31.md) | Bangkok; strong thematic/ESCAP fit but 5yr exp blocker; worth applying if P2 Temporary |
 | 527 | 2026-07-31 | Nestlé Thailand | Sustainability Manager | 2.0/5 | Evaluada | ❌ | [527](reports/527-nestle-sustainability-manager-2026-07-31.md) | Bangkok; Manager (5+yr) vs 18mo exp — hard blocker; revisit in 2028 |

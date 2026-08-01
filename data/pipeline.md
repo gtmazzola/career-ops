@@ -3,11 +3,11 @@
 ## Pendientes
 
 <!-- Scan 2026-08-01 — Multi-portal scheduled scan -->
-- [ ] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer
-- [ ] https://www.unjobnet.org/jobs/detail/86332208 | UNESCWA | Climate Change Consultant
-- [ ] https://reliefweb.int/job/4220548/climate-officer-fixed-term-18-months-possibility-extension | Unknown | Climate Officer
-- [ ] https://careers.gggi.org/vacancy/hq-spar6c-monitoring-evaluation-and-learning-consultant-575026.html | GGGI | SPAR6C Monitoring, Evaluation and Learning Consultant
-- [ ] https://reliefweb.int/job/4199242/climate-and-gender-consultant | Unknown | Climate and Gender Consultant
+- [!] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer — Error: Application deadline July 30, 2026 — expired; P3 staff position in Vienna, Austria; position closed.
+- [!] https://www.unjobnet.org/jobs/detail/86332208 | UNESCWA | Climate Change Consultant — Error: Application deadline May 25, 2026 — expired approximately 10 weeks ago; Beirut duty station; RICCAR sand and dust storms consultancy; position closed.
+- [!] https://reliefweb.int/job/4220548/climate-officer-fixed-term-18-months-possibility-extension | Unknown | Climate Officer — Error: JD not retrievable (ReliefWeb blocked via WebFetch/WebSearch); organization unconfirmed; insufficient data for evaluation; skip.
+- [x] #524 | https://careers.gggi.org/vacancy/hq-spar6c-monitoring-evaluation-and-learning-consultant-575026.html | GGGI | SPAR6C Monitoring, Evaluation and Learning Consultant | 2.5/5 | PDF (no)
+- [!] https://reliefweb.int/job/4199242/climate-and-gender-consultant | IOM | Climate and Gender Consultant — Error: Application deadline February 28, 2026 — expired approximately 5 months ago; Nairobi, Kenya duty station; IOM CMIL Africa gender-sensitive needs assessment consultancy; position closed.
 
 <!-- Scan 2026-07-29 — Multi-portal scheduled scan -->
 - [x] #515 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert (Roster) | 2.5/5 | PDF (no)
