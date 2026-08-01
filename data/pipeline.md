@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-01 — Multi-portal scheduled scan -->
+- [ ] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer
+- [ ] https://www.unjobnet.org/jobs/detail/86332208 | UNESCWA | Climate Change Consultant
+- [ ] https://reliefweb.int/job/4220548/climate-officer-fixed-term-18-months-possibility-extension | Unknown | Climate Officer
+- [ ] https://careers.gggi.org/vacancy/hq-spar6c-monitoring-evaluation-and-learning-consultant-575026.html | GGGI | SPAR6C Monitoring, Evaluation and Learning Consultant
+- [ ] https://reliefweb.int/job/4199242/climate-and-gender-consultant | Unknown | Climate and Gender Consultant
+
 <!-- Scan 2026-07-29 — Multi-portal scheduled scan -->
 - [x] #515 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert (Roster) | 2.5/5 | PDF (no)
 - [x] #521 | https://www.devex.com/jobs/climate-lead-1448873 | P4I / DT Global | Climate Lead | 2.5/5 | PDF (no)
