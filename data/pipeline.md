@@ -3,7 +3,7 @@
 ## Pendientes
 
 <!-- Scan 2026-08-02 — Multi-portal scheduled scan -->
-- [ ] https://jobs.sea.deloitte.com/job/Bangkok-A%26A-Analyst-%28Sustainability-%26-Emerging-Assurance%29/1213218766 | Deloitte Thailand | A&A Analyst – Sustainability & Emerging Assurance
+- [!] https://jobs.sea.deloitte.com/job/Bangkok-A%26A-Analyst-%28Sustainability-%26-Emerging-Assurance%29/1213218766 | Deloitte Thailand | A&A Analyst – Sustainability & Emerging Assurance — Error: Requires excellent communication and writing skills in both Thai and English; Gavin has no Thai language proficiency; hard language blocker; skip.
 
 <!-- Scan 2026-08-01 — Multi-portal scheduled scan -->
 - [!] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer — Error: Application deadline July 30, 2026 — expired; P3 staff position in Vienna, Austria; position closed.
