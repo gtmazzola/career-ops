@@ -2,6 +2,9 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-02 — Multi-portal scheduled scan -->
+- [ ] https://jobs.sea.deloitte.com/job/Bangkok-A%26A-Analyst-%28Sustainability-%26-Emerging-Assurance%29/1213218766 | Deloitte Thailand | A&A Analyst – Sustainability & Emerging Assurance
+
 <!-- Scan 2026-08-01 — Multi-portal scheduled scan -->
 - [!] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer — Error: Application deadline July 30, 2026 — expired; P3 staff position in Vienna, Austria; position closed.
 - [!] https://www.unjobnet.org/jobs/detail/86332208 | UNESCWA | Climate Change Consultant — Error: Application deadline May 25, 2026 — expired approximately 10 weeks ago; Beirut duty station; RICCAR sand and dust storms consultancy; position closed.
