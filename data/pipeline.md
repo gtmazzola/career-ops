@@ -980,23 +980,23 @@
 - [!] https://www.thai-german-cooperation.info/wp-content/uploads/2026/05/Job-Announcement_CASE-Junior-Communication-Specialist_260508.pdf | GIZ Thailand | Junior Communication Specialist – CASE Energy Cluster (Bangkok) — Error: Application deadline June 3, 2026 — expired approximately 8 weeks ago; Communications/PR/Journalism role (not analytical); domain mismatch with Gavin's sustainability analysis profile; position closed.
 
 <!-- Scan 2026-05-23 — UN / IOs (Untalent / Untalent new) -->
-- [ ] https://untalent.org/jobs/research-analyst-raising-national-climate-ambition | WRI | Research Analyst – Raising National Climate Ambition
-- [ ] https://untalent.org/jobs/research-analyst-industrial-innovation-and-carbon-removal | WRI | Research Analyst – Industrial Innovation and Carbon Removal
-- [ ] https://untalent.org/jobs/climate-research-analyst | WRI Indonesia | Climate Research Analyst (Jakarta)
+- [!] https://untalent.org/jobs/research-analyst-raising-national-climate-ambition | WRI | Research Analyst – Raising National Climate Ambition — Error: Application deadline January 26, 2024 — expired over 2 years ago; archived posting on untalent.org; WRI Washington DC hybrid role requiring existing work authorization; position closed; skip.
+- [!] https://untalent.org/jobs/research-analyst-industrial-innovation-and-carbon-removal | WRI | Research Analyst – Industrial Innovation and Carbon Removal — Error: Application deadline January 19, 2024 — expired over 2 years ago; archived posting on untalent.org; remote US role, Gavin eligible but position closed; skip.
+- [!] https://untalent.org/jobs/climate-research-analyst | WRI Indonesia | Climate Research Analyst (Jakarta) — Error: Application deadline June 6, 2025 — expired approximately 14 months ago; locally engaged position (Indonesian nationals encouraged to apply); ineligible and closed; skip.
 - [x] #526 | https://untalent.org/jobs/sustainable-development-officer-18 | UNESCAP | Sustainable Development Officer | 2.5/5 | PDF (no)
-- [ ] https://untalent.org/jobs/sustainable-development-officer-37 | UN DESA | Sustainable Development Officer (New York)
+- [x] #528 | https://untalent.org/jobs/sustainable-development-officer-37 | UN DESA | Sustainable Development Officer (New York) | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-05-23 — SEforALL -->
-- [ ] https://www.seforall.org/jobs/investment-analyst-energy-transition | SEforALL | Investment Analyst – Energy Transition (Vienna)
-- [ ] https://www.seforall.org/jobs/country-coordinator-analyst-energy-efficiency | SEforALL | Country Coordinator (Analyst) – Energy Efficiency
+- [x] #529 | https://www.seforall.org/jobs/investment-analyst-energy-transition | SEforALL | Investment Analyst – Energy Transition (Vienna) | 2.8/5 | PDF (no)
+- [x] #530 | https://www.seforall.org/jobs/country-coordinator-analyst-energy-efficiency | SEforALL | Country Coordinator (Analyst) – Energy Efficiency | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-05-23 — Impactpool / ICIMOD -->
-- [ ] https://www.impactpool.org/jobs/1187076 | ICIMOD | Climate Finance and Investment Analyst (Kathmandu)
-- [ ] https://www.impactpool.org/jobs/1200105 | UNOPS Indonesia | Programme Management Senior Analyst (Indonesia)
+- [!] https://www.impactpool.org/jobs/1187076 | ICIMOD | Climate Finance and Investment Analyst (Kathmandu) — Error: Application deadline January 18, 2026 — expired approximately 6.5 months ago; Kathmandu, Nepal duty station; position closed; skip.
+- [!] https://www.impactpool.org/jobs/1200105 | UNOPS Indonesia | Programme Management Senior Analyst (Indonesia) — Error: National level position (LICA 9); Indonesian language required; Jakarta duty station; Gavin ineligible; skip.
 
 <!-- Scan 2026-05-23 — Devex new -->
-- [ ] https://www.devex.com/jobs/individual-consultant-sustainable-clean-energy-expert-1394002 | ADB via Devex | Individual Consultant – Sustainable/Clean Energy Expert
-- [ ] https://www.devex.com/jobs/energy-and-climate-individual-consultant-1387538 | Devex | Energy and Climate Individual Consultant
+- [x] #531 | https://www.devex.com/jobs/individual-consultant-sustainable-clean-energy-expert-1394002 | ADB via Devex | Individual Consultant – Sustainable/Clean Energy Expert | 1.5/5 | PDF (no)
+- [!] https://www.devex.com/jobs/energy-and-climate-individual-consultant-1387538 | GGGI via Devex | Energy and Climate Individual Consultant — Error: Duplicate of #396 (GGGI Mexico Energy and Climate IC already evaluated 1.5/5; same role cross-posted on Devex); application deadline October 11, 2025 — expired approximately 9 months ago; Mexico duty station; skip.
 - [ ] https://www.devex.com/jobs/programme-management-senior-analyst-1417192 | UNOPS via Devex | Programme Management Senior Analyst
 - [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | Devex | ESG Expert (Asia Foundation)
 
