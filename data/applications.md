@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 532 | 2026-08-04 | Othello International | ESG Consultant | 3.2/5 | Evaluada | ❌ | [532](reports/532-othello-international-esg-consultant-2026-08-04.md) | Bangkok ESG advisory for SET-listed clients; strong framework match from education; low-end comp; work visa sponsorship needed |
 | 531 | 2026-08-03 | ADB | Individual Consultant – Sustainable/Clean Energy Expert | 1.5/5 | Evaluada | ❌ | [531](reports/531-adb-individual-consultant-sustainable-clean-energy-expert-2026-08-03.md) | Senior expert IC role; 8-15yr exp typical; experience gap fundamental; ACEF advisory |
 | 524 | 2026-08-01 | GGGI | SPAR6C MEL Consultant (HQ) | 2.5/5 | Evaluada | ❌ | [524](reports/524-gggi-spar6c-mel-2026-08-01.md) | Re-eval 2026-08-01 (2→2.5). Article 6 MEL specialization not in profile; RBM/reporting match partial; Seoul relocation required |
 | 525 | 2026-07-31 | UNOPS APRO | Project Management Support Officer | 3.5/5 | Evaluada | ❌ | [525](reports/525-unops-apro-project-management-support-officer-2026-07-31.md) | Bangkok; good IO project support fit (LogFrame, ToC, inter-agency); officer level matches career stage |

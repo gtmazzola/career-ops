@@ -3,12 +3,12 @@
 ## Pendientes
 
 <!-- Scan 2026-08-04 — Multi-portal scheduled scan -->
-- [ ] https://www.climatechangecareers.com/job/othello-international-co-ltd-official-thailand-headquarters/bangkok-thailand/esg-consultant-othello-international/ | Othello International | ESG Consultant
-- [ ] https://unjobs.org/vacancies/1784946402310 | IISD | Policy Analyst – Fossil Fuel Transition
-- [ ] https://unjobs.org/vacancies/1783607410422 | InfluenceMap | Analyst – Climate Change Think Tank
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27586 | UNOPS | Programme Management Officer
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=24892 | UNOPS | Programme Management – Senior Officer
-- [ ] https://bebee.com/th/jobs/energy-system-expert-tcg-emc-re-giz-office-bangkok-bangkok--theirstack-718741829 | GIZ Bangkok | Energy System Expert
+- [x] #532 | https://www.climatechangecareers.com/job/othello-international-co-ltd-official-thailand-headquarters/bangkok-thailand/esg-consultant-othello-international/ | Othello International | ESG Consultant | 3.2/5 | PDF (no)
+- [!] https://unjobs.org/vacancies/1784946402310 | IISD | Policy Analyst – Fossil Fuel Transition — Error: Remote position restricted to specific Global South countries (Ethiopia, Kenya, Rwanda, South Africa, Uganda); Gavin is Bangkok-based; geographic blocker; skip.
+- [!] https://unjobs.org/vacancies/1783607410422 | InfluenceMap | Analyst – Climate Change Think Tank — Error: Japan-based (Tokyo) position requiring 1–2 years full-time experience in a Japanese business working environment; Gavin has no Japanese business experience; hard experience blocker; skip.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=27586 | UNOPS | Programme Management Officer — Error: Application deadline March 10, 2024 — expired over 2 years ago; LICA Specialist-8, Bangkok; position closed.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=24892 | UNOPS | Programme Management – Senior Officer — Error: Application deadline December 5, 2022 — expired nearly 4 years ago; LICA Specialist-9, Bangkok; position closed.
+- [!] https://bebee.com/th/jobs/energy-system-expert-tcg-emc-re-giz-office-bangkok-bangkok--theirstack-718741829 | GIZ Bangkok | Energy System Expert — Error: Application deadline June 26, 2026 — expired approximately 5 weeks ago; fixed-term contract ending Dec 2026; position closed.
 
 <!-- Scan 2026-08-02 — Multi-portal scheduled scan -->
 - [!] https://jobs.sea.deloitte.com/job/Bangkok-A%26A-Analyst-%28Sustainability-%26-Emerging-Assurance%29/1213218766 | Deloitte Thailand | A&A Analyst – Sustainability & Emerging Assurance — Error: Requires excellent communication and writing skills in both Thai and English; Gavin has no Thai language proficiency; hard language blocker; skip.
