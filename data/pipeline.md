@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-05 — Multi-portal scheduled scan -->
+- [ ] https://oecd.impactpool.org/vacancies/1210894 | OECD | Junior Policy Analyst – Evaluation
+- [ ] https://oecd.impactpool.org/vacancies/1214948 | OECD | Junior Data Analyst
+- [ ] https://oecd.impactpool.org/vacancies/1209167 | OECD | Junior Policy Analyst
+- [ ] https://oecd.impactpool.org/vacancies/1163058 | OECD | Junior Policy Analyst – MOPAN
+- [ ] https://careers.msci.com/job/data-and-operations/pune/climate-data-analyst/2026-5455 | MSCI | Climate Data Analyst
+- [ ] https://careers.msci.com/job/product-management/budapest/climate-product-associate/2026-5479 | MSCI | Climate Product Associate
+- [ ] https://www.terra.do/climate-jobs/job-board/climate-sustainability-data-senior-associate-8361815/ | MSCI | Climate & Sustainability Data Senior Associate
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29576 | UNOPS/SE4ALL | Energy Officer, Green Value Chains
+- [ ] https://unvacancies.org/jobs/programme-officer-P-278136 | ESCAP | Programme Officer (P-4, Bangkok)
+- [ ] https://www.idealist.org/en/job/0f20957f1a32405e99ff5908f8c60235-consultant-program-manager-southeast-asia-sequoia-climate-foundation-hanoi | Sequoia Climate Foundation | Consultant Program Manager – Southeast Asia
+
 <!-- Scan 2026-08-04 — Multi-portal scheduled scan -->
 - [x] #532 | https://www.climatechangecareers.com/job/othello-international-co-ltd-official-thailand-headquarters/bangkok-thailand/esg-consultant-othello-international/ | Othello International | ESG Consultant | 3.2/5 | PDF (no)
 - [!] https://unjobs.org/vacancies/1784946402310 | IISD | Policy Analyst – Fossil Fuel Transition — Error: Remote position restricted to specific Global South countries (Ethiopia, Kenya, Rwanda, South Africa, Uganda); Gavin is Bangkok-based; geographic blocker; skip.
