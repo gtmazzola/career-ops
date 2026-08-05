@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-08-05 — Multi-portal scheduled scan -->
-- [ ] https://oecd.impactpool.org/vacancies/1210894 | OECD | Junior Policy Analyst – Evaluation
-- [ ] https://oecd.impactpool.org/vacancies/1214948 | OECD | Junior Data Analyst
-- [ ] https://oecd.impactpool.org/vacancies/1209167 | OECD | Junior Policy Analyst
-- [ ] https://oecd.impactpool.org/vacancies/1163058 | OECD | Junior Policy Analyst – MOPAN
-- [ ] https://careers.msci.com/job/data-and-operations/pune/climate-data-analyst/2026-5455 | MSCI | Climate Data Analyst
-- [ ] https://careers.msci.com/job/product-management/budapest/climate-product-associate/2026-5479 | MSCI | Climate Product Associate
-- [ ] https://www.terra.do/climate-jobs/job-board/climate-sustainability-data-senior-associate-8361815/ | MSCI | Climate & Sustainability Data Senior Associate
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29576 | UNOPS/SE4ALL | Energy Officer, Green Value Chains
-- [ ] https://unvacancies.org/jobs/programme-officer-P-278136 | ESCAP | Programme Officer (P-4, Bangkok)
-- [ ] https://www.idealist.org/en/job/0f20957f1a32405e99ff5908f8c60235-consultant-program-manager-southeast-asia-sequoia-climate-foundation-hanoi | Sequoia Climate Foundation | Consultant Program Manager – Southeast Asia
+- [!] https://oecd.impactpool.org/vacancies/1210894 | OECD | Junior Policy Analyst – Evaluation — Error: Application deadline May 24, 2026 — expired over 2 months ago; OECD PAL-grade Paris position; position closed; skip.
+- [!] https://oecd.impactpool.org/vacancies/1214948 | OECD | Junior Data Analyst — Error: Application deadline June 11, 2026 — expired; TAD/ATM agricultural markets role (Aglink-Cosimo model, FAO-OECD Agricultural Outlook); domain mismatch (agriculture commodity modeling, not climate/sustainability); Paris; skip.
+- [!] https://oecd.impactpool.org/vacancies/1209167 | OECD | Junior Policy Analyst — Error: Application deadline May 13, 2026 — expired over 2 months ago; OECD GOV Directorate public governance role; Paris; position closed; skip.
+- [!] https://oecd.impactpool.org/vacancies/1163058 | OECD | Junior Policy Analyst – MOPAN — Error: Vacancy ID lower than confirmed-expired roles (1209167, 1210894); posted earlier in early 2026; deadline likely March–April 2026 based on OECD ID sequence; position almost certainly closed; MOPAN multilateral performance assessment role; skip.
+- [x] #533 | https://careers.msci.com/job/data-and-operations/pune/climate-data-analyst/2026-5455 | MSCI | Climate Data Analyst | 2.2/5 | PDF (no)
+- [x] #534 | https://careers.msci.com/job/product-management/budapest/climate-product-associate/2026-5479 | MSCI | Climate Product Associate | 2.8/5 | PDF (no)
+- [!] https://www.terra.do/climate-jobs/job-board/climate-sustainability-data-senior-associate-8361815/ | MSCI | Climate & Sustainability Data Senior Associate — Error: Requires 7+ years experience in relevant sectors; Gavin has ~18 months — hard experience blocker; Monterrey, Mexico duty station; geographic mismatch; skip.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29576 | UNOPS/SE4ALL | Energy Officer, Green Value Chains — Error: Application deadline February 4, 2025 — expired over 18 months ago; SEforALL secretariat position; Vienna; position closed; skip.
+- [!] https://unvacancies.org/jobs/programme-officer-P-278136 | ESCAP | Programme Officer (P-4, Bangkok) — Error: Application deadline July 3, 2026 — expired; P-4 level requires 7+ years professional experience; fixed-term appointment; Gavin has 18 months — hard seniority blocker; skip.
+- [!] https://www.idealist.org/en/job/0f20957f1a32405e99ff5908f8c60235-consultant-program-manager-southeast-asia-sequoia-climate-foundation-hanoi | Sequoia Climate Foundation | Consultant Program Manager – Southeast Asia — Error: Application deadline July 20, 2026 — expired; also duplicate cross-posting of #451 (developmentaid.org, same role evaluated 2.0/5 on 2026-07-12); Hanoi/SE Asia regional; skip.
 
 <!-- Scan 2026-08-04 — Multi-portal scheduled scan -->
 - [x] #532 | https://www.climatechangecareers.com/job/othello-international-co-ltd-official-thailand-headquarters/bangkok-thailand/esg-consultant-othello-international/ | Othello International | ESG Consultant | 3.2/5 | PDF (no)
