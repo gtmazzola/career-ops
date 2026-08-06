@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 535 | 2026-08-06 | GHGMI | Program Officer | 3.5/5 | Evaluada | ❌ | [535](reports/535-ghgmi-program-officer-2026-08-06.md) | Full-remote USD 60-79k GHG/MRV capacity-building; perfect archetype match; 18mo vs 3-5yr gap is only blocker |
 | 533 | 2026-08-05 | MSCI | Climate Data Analyst | 2.2/5 | Evaluada | ❌ | [533](reports/533-msci-climate-data-analyst-pune-2026-08-05.md) | Pune India; ESG data operations; education fit strong but India comp well below target (USD 7-12k vs 55k+ target); domain partial (GHG collection gap) |
 | 532 | 2026-08-04 | Othello International | ESG Consultant | 3.2/5 | Evaluada | ❌ | [532](reports/532-othello-international-esg-consultant-2026-08-04.md) | Bangkok ESG advisory for SET-listed clients; strong framework match from education; low-end comp; work visa sponsorship needed |
 | 531 | 2026-08-03 | ADB | Individual Consultant – Sustainable/Clean Energy Expert | 1.5/5 | Evaluada | ❌ | [531](reports/531-adb-individual-consultant-sustainable-clean-energy-expert-2026-08-03.md) | Senior expert IC role; 8-15yr exp typical; experience gap fundamental; ACEF advisory |

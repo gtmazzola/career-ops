@@ -3,9 +3,9 @@
 ## Pendientes
 
 <!-- Scan 2026-08-06 — Multi-portal scheduled scan -->
-- [ ] https://ghginstitute.org/hiring/ | GHGMI | Program Officer
-- [ ] https://community.iisd.org/jobs/junior-officer-innovative-finance/ | ICLEI | Junior Officer, Innovative Finance
-- [ ] https://www.terra.do/climate-jobs/job-board/Health---Safety---Sustainability-Associate-Environmental-Resources-Management--Erm--8408970/ | ERM | Health, Safety & Sustainability Associate
+- [x] #535 | https://ghginstitute.org/hiring/ | GHGMI | Program Officer | 3.5/5 | PDF (no)
+- [!] https://community.iisd.org/jobs/junior-officer-innovative-finance/ | ICLEI | Junior Officer, Innovative Finance — Error: Application deadline May 2, 2025 — expired over 15 months ago; contract period June 1, 2025 – May 31, 2026 has already ended; Bonn, Germany duty station; position closed; skip.
+- [!] https://www.terra.do/climate-jobs/job-board/Health---Safety---Sustainability-Associate-Environmental-Resources-Management--Erm--8408970/ | ERM | Health, Safety & Sustainability Associate — Error: India duty station (Gurugram Global Delivery Centre); internal H&S operations support role not client-facing consulting; no Indian work authorization; geographic and domain mismatch; skip.
 
 <!-- Scan 2026-08-05 — Multi-portal scheduled scan -->
 - [!] https://oecd.impactpool.org/vacancies/1210894 | OECD | Junior Policy Analyst – Evaluation — Error: Application deadline May 24, 2026 — expired over 2 months ago; OECD PAL-grade Paris position; position closed; skip.
