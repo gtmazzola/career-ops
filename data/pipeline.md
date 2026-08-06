@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-06 — Multi-portal scheduled scan -->
+- [ ] https://ghginstitute.org/hiring/ | GHGMI | Program Officer
+- [ ] https://community.iisd.org/jobs/junior-officer-innovative-finance/ | ICLEI | Junior Officer, Innovative Finance
+- [ ] https://www.terra.do/climate-jobs/job-board/Health---Safety---Sustainability-Associate-Environmental-Resources-Management--Erm--8408970/ | ERM | Health, Safety & Sustainability Associate
+
 <!-- Scan 2026-08-05 — Multi-portal scheduled scan -->
 - [!] https://oecd.impactpool.org/vacancies/1210894 | OECD | Junior Policy Analyst – Evaluation — Error: Application deadline May 24, 2026 — expired over 2 months ago; OECD PAL-grade Paris position; position closed; skip.
 - [!] https://oecd.impactpool.org/vacancies/1214948 | OECD | Junior Data Analyst — Error: Application deadline June 11, 2026 — expired; TAD/ATM agricultural markets role (Aglink-Cosimo model, FAO-OECD Agricultural Outlook); domain mismatch (agriculture commodity modeling, not climate/sustainability); Paris; skip.
