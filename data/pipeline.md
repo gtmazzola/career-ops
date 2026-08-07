@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-07 — Multi-portal scheduled scan -->
+- [ ] https://www.impactpool.org/jobs/1209185 | UNOPS | Climate Senior Analyst (Buildings) – Copenhagen
+- [ ] https://www.climatechangecareers.com/job/unops/copenhagen-denmark/climate-senior-analyst-infrastructure/ | UNOPS | Climate Senior Analyst (Infrastructure) – Copenhagen
+- [ ] https://www.impactpool.org/jobs/1217377 | UNEP | Climate Finance and Stakeholders Engagement Analyst – Vietnam
+- [ ] https://www.impactpool.org/jobs/1219304 | IEA (OECD) | Senior Energy Analysts – IEA Regional Cooperation Centre (Singapore)
+- [ ] https://unjobs.org/vacancies/1783377331728 | UNOPS | Technical Advisor – Energy Transition (Homebased)
+- [ ] https://www.climatechangecareers.com/job/ngo-recruitment/singapore-singapore/senior-climate-associate-east-asia-protein-transition-team/ | NGO Recruitment | Senior Climate Associate – East Asia Protein Transition Team (Singapore)
+- [ ] https://careers.unido.org/job/Vienna-Partnerships-Coordinator/1359254155/ | UNIDO | Partnerships Coordinator (Vienna)
+- [ ] https://careers.un.org/jobSearchDescription/277103?language=en | UN | Associate Programme Officer, OED/SPPG (Temporary), P2
+
 <!-- Scan 2026-08-06 — Multi-portal scheduled scan -->
 - [x] #535 | https://ghginstitute.org/hiring/ | GHGMI | Program Officer | 3.5/5 | PDF (no)
 - [!] https://community.iisd.org/jobs/junior-officer-innovative-finance/ | ICLEI | Junior Officer, Innovative Finance — Error: Application deadline May 2, 2025 — expired over 15 months ago; contract period June 1, 2025 – May 31, 2026 has already ended; Bonn, Germany duty station; position closed; skip.
