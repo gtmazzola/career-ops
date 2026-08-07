@@ -3,14 +3,14 @@
 ## Pendientes
 
 <!-- Scan 2026-08-07 — Multi-portal scheduled scan -->
-- [ ] https://www.impactpool.org/jobs/1209185 | UNOPS | Climate Senior Analyst (Buildings) – Copenhagen
-- [ ] https://www.climatechangecareers.com/job/unops/copenhagen-denmark/climate-senior-analyst-infrastructure/ | UNOPS | Climate Senior Analyst (Infrastructure) – Copenhagen
-- [ ] https://www.impactpool.org/jobs/1217377 | UNEP | Climate Finance and Stakeholders Engagement Analyst – Vietnam
-- [ ] https://www.impactpool.org/jobs/1219304 | IEA (OECD) | Senior Energy Analysts – IEA Regional Cooperation Centre (Singapore)
-- [ ] https://unjobs.org/vacancies/1783377331728 | UNOPS | Technical Advisor – Energy Transition (Homebased)
-- [ ] https://www.climatechangecareers.com/job/ngo-recruitment/singapore-singapore/senior-climate-associate-east-asia-protein-transition-team/ | NGO Recruitment | Senior Climate Associate – East Asia Protein Transition Team (Singapore)
-- [ ] https://careers.unido.org/job/Vienna-Partnerships-Coordinator/1359254155/ | UNIDO | Partnerships Coordinator (Vienna)
-- [ ] https://careers.un.org/jobSearchDescription/277103?language=en | UN | Associate Programme Officer, OED/SPPG (Temporary), P2
+- [!] https://www.impactpool.org/jobs/1209185 | UNOPS | Climate Senior Analyst (Buildings) – Copenhagen — Error: Application deadline May 6, 2026 — expired approximately 3 months ago; ICS-09 mid-level position requiring green building (EDGE/LEED/BREEAM) and AutoCAD expertise not in Gavin's profile; Copenhagen duty station; position closed; skip.
+- [!] https://www.climatechangecareers.com/job/unops/copenhagen-denmark/climate-senior-analyst-infrastructure/ | UNOPS | Climate Senior Analyst (Infrastructure) – Copenhagen — Error: Companion vacancy to Climate Senior Analyst (Buildings); posted April–May 2026 with same closing period (~May 6, 2026); vacancy confirmed closed per aggregator sources; requires Scope 3 GHG accounting and LCA software (SimaPro/OpenLCA) expertise; Copenhagen duty station; skip.
+- [!] https://www.impactpool.org/jobs/1217377 | UNEP | Climate Finance and Stakeholders Engagement Analyst – Vietnam — Error: Duplicate of 2026-07-26 [!] entry — position based in Hanoi or Ho Chi Minh City; VN-ADAPT agriculture finance project; requires Vietnamese language fluency for stakeholder engagement and document translation (English-Vietnamese); Gavin has no Vietnamese proficiency; hard language blocker; skip.
+- [!] https://www.impactpool.org/jobs/1219304 | IEA (OECD) | Senior Energy Analysts – IEA Regional Cooperation Centre (Singapore) — Error: Senior Energy Analyst level at IEA/OECD requires leadership experience (supervise and coordinate reports, lead SE Asia electricity/energy policy analysis); typically requires 5+ years in electricity policy, energy technology, and oil and gas security — hard seniority blocker for Gavin's ~18 months; above seniority ceiling of previously evaluated IEA Energy Analyst #458 (3.2/5); skip.
+- [!] https://unjobs.org/vacancies/1783377331728 | UNOPS | Technical Advisor – Energy Transition (Homebased) — Error: Application deadline July 19, 2026 — expired approximately 19 days ago; ICS-11 (IICA-3) level requires 7+ years experience with Master's degree; hard seniority and experience blockers; 6-month contract; position closed; skip.
+- [!] https://www.climatechangecareers.com/job/ngo-recruitment/singapore-singapore/senior-climate-associate-east-asia-protein-transition-team/ | NGO Recruitment (Mighty Earth) | Senior Climate Associate – East Asia Protein Transition Team (Singapore) — Error: Requires advanced Mandarin Chinese (written and verbal) for East Asia campaign work targeting food systems and corporate climate policies; Gavin has no Chinese language proficiency; hard language blocker; agricultural methane/protein transition domain has limited overlap with Gavin's energy-climate-UNIDO profile; skip.
+- [!] https://careers.unido.org/job/Vienna-Partnerships-Coordinator/1359254155/ | UNIDO | Partnerships Coordinator (Vienna) — Error: Application deadline July 23, 2026 — expired approximately 15 days ago; ISA-P3 grade 6-month consultancy; Vienna duty station; position closed; skip.
+- [!] https://careers.un.org/jobSearchDescription/277103?language=en | UN | Associate Programme Officer, OED/SPPG (Temporary), P2 — Error: Duplicate of #443 (same URL already evaluated 2.5/5 on 2026-07-12); ITC/Geneva temporary appointment; skip.
 
 <!-- Scan 2026-08-06 — Multi-portal scheduled scan -->
 - [x] #535 | https://ghginstitute.org/hiring/ | GHGMI | Program Officer | 3.5/5 | PDF (no)
