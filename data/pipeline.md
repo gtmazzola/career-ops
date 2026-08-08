@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-08-08 — Multi-portal scheduled scan -->
-- [ ] https://www.sei.org/people/jobs/team-lead-researcher-gender-environment-justice/ | SEI Asia | Team Lead and Researcher – Gender, Environment and Justice
-- [ ] https://impactpool.org/jobs/1214163 | GGGI | Cambodia: Green Investment and Stakeholder Coordination Consultant
-- [ ] https://untalent.org/jobs/environmental-sustainability-and-green-spaces-consultant | OHCHR | Environmental Sustainability and Green Spaces Consultant
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Senior-Analyst/3797 | UNOPS EAPMCO | Project Management Office (PMO) - Senior Analyst
+- [!] https://www.sei.org/people/jobs/team-lead-researcher-gender-environment-justice/ | SEI Asia | Team Lead and Researcher – Gender, Environment and Justice — Error: Requires 8+ years professional experience and line management experience; Gavin has ~18 months — hard seniority blocker; above seniority ceiling; deadline August 16, 2026 but position clearly above level; skip.
+- [!] https://impactpool.org/jobs/1214163 | GGGI | Cambodia: Green Investment and Stakeholder Coordination Consultant — Error: Assignment started June 1, 2026 — already underway for 2+ months (end date December 31, 2026); 154 working days; Phnom Penh duty station; position almost certainly filled; skip.
+- [!] https://untalent.org/jobs/environmental-sustainability-and-green-spaces-consultant | OHCHR | Environmental Sustainability and Green Spaces Consultant — Error: Requires 5+ years in sustainable architecture, urban planning, or landscape architecture; role focuses on green space design and sustainable construction for Palais Wilson Building in Geneva — hard domain mismatch (not Gavin's expertise); Geneva duty station; skip.
+- [!] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Senior-Analyst/3797 | UNOPS EAPMCO | Project Management Office (PMO) - Senior Analyst — Error: Application deadline July 23, 2026 — expired approximately 16 days ago; Bangkok duty station; position closed; skip.
 
 <!-- Scan 2026-08-07 — Multi-portal scheduled scan -->
 - [!] https://www.impactpool.org/jobs/1209185 | UNOPS | Climate Senior Analyst (Buildings) – Copenhagen — Error: Application deadline May 6, 2026 — expired approximately 3 months ago; ICS-09 mid-level position requiring green building (EDGE/LEED/BREEAM) and AutoCAD expertise not in Gavin's profile; Copenhagen duty station; position closed; skip.
