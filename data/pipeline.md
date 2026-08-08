@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-08 — Multi-portal scheduled scan -->
+- [ ] https://www.sei.org/people/jobs/team-lead-researcher-gender-environment-justice/ | SEI Asia | Team Lead and Researcher – Gender, Environment and Justice
+- [ ] https://impactpool.org/jobs/1214163 | GGGI | Cambodia: Green Investment and Stakeholder Coordination Consultant
+- [ ] https://untalent.org/jobs/environmental-sustainability-and-green-spaces-consultant | OHCHR | Environmental Sustainability and Green Spaces Consultant
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Senior-Analyst/3797 | UNOPS EAPMCO | Project Management Office (PMO) - Senior Analyst
+
 <!-- Scan 2026-08-07 — Multi-portal scheduled scan -->
 - [!] https://www.impactpool.org/jobs/1209185 | UNOPS | Climate Senior Analyst (Buildings) – Copenhagen — Error: Application deadline May 6, 2026 — expired approximately 3 months ago; ICS-09 mid-level position requiring green building (EDGE/LEED/BREEAM) and AutoCAD expertise not in Gavin's profile; Copenhagen duty station; position closed; skip.
 - [!] https://www.climatechangecareers.com/job/unops/copenhagen-denmark/climate-senior-analyst-infrastructure/ | UNOPS | Climate Senior Analyst (Infrastructure) – Copenhagen — Error: Companion vacancy to Climate Senior Analyst (Buildings); posted April–May 2026 with same closing period (~May 6, 2026); vacancy confirmed closed per aggregator sources; requires Scope 3 GHG accounting and LCA software (SimaPro/OpenLCA) expertise; Copenhagen duty station; skip.
