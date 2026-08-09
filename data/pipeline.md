@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-09 — Multi-portal scheduled scan -->
+- [ ] https://www.impactpool.org/jobs/1229319 | UNEP FI | UNEP Finance Initiative – Climate and Investment Consultant
+- [ ] https://www.impactpool.org/jobs/1168040 | UNOPS | Investment Analyst, Energy Transition
+- [ ] https://community.iisd.org/jobs/associate-scientist/ | TBD (IISD board) | Associate Scientist – Natural Climate Solutions
+- [ ] https://careers.un.org/jobSearchDescription/265377 | ITC (UN) | Associate Programme Officer, DECI/IE (Temporary), P2
+- [ ] https://www.unjobnet.org/jobs/detail/85168169 | World Bank | Energy Specialist
+- [ ] https://www.wri.org/careers/jobs/research-analyst-food-and-land-use-2026-jr100384 | WRI | Research Analyst, Food and Land Use
+
 <!-- Scan 2026-08-08 — Multi-portal scheduled scan -->
 - [!] https://www.sei.org/people/jobs/team-lead-researcher-gender-environment-justice/ | SEI Asia | Team Lead and Researcher – Gender, Environment and Justice — Error: Requires 8+ years professional experience and line management experience; Gavin has ~18 months — hard seniority blocker; above seniority ceiling; deadline August 16, 2026 but position clearly above level; skip.
 - [!] https://impactpool.org/jobs/1214163 | GGGI | Cambodia: Green Investment and Stakeholder Coordination Consultant — Error: Assignment started June 1, 2026 — already underway for 2+ months (end date December 31, 2026); 154 working days; Phnom Penh duty station; position almost certainly filled; skip.
