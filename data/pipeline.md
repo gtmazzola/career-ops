@@ -3,12 +3,12 @@
 ## Pendientes
 
 <!-- Scan 2026-08-09 — Multi-portal scheduled scan -->
-- [ ] https://www.impactpool.org/jobs/1229319 | UNEP FI | UNEP Finance Initiative – Climate and Investment Consultant
-- [ ] https://www.impactpool.org/jobs/1168040 | UNOPS | Investment Analyst, Energy Transition
-- [ ] https://community.iisd.org/jobs/associate-scientist/ | TBD (IISD board) | Associate Scientist – Natural Climate Solutions
-- [ ] https://careers.un.org/jobSearchDescription/265377 | ITC (UN) | Associate Programme Officer, DECI/IE (Temporary), P2
-- [ ] https://www.unjobnet.org/jobs/detail/85168169 | World Bank | Energy Specialist
-- [ ] https://www.wri.org/careers/jobs/research-analyst-food-and-land-use-2026-jr100384 | WRI | Research Analyst, Food and Land Use
+- [!] https://www.impactpool.org/jobs/1229319 | UNEP FI | UNEP Finance Initiative – Climate and Investment Consultant — Error: Application deadline August 9, 2026 (today — expired end of day); requires 7 years experience in programme management, climate change, or economics (Master's + 7yr or Bachelor's + 9yr) — hard experience blocker; Gavin has ~18 months; skip.
+- [x] #536 | https://www.impactpool.org/jobs/1168040 | UNOPS | Investment Analyst, Energy Transition | 2.5/5 | PDF (no)
+- [!] https://community.iisd.org/jobs/associate-scientist/ | Conservation International (IISD board) | Associate Scientist – Natural Climate Solutions — Error: Role physically based in CI's Africa Field Division country offices (Kenya or South Africa); hard geographic blocker (Gavin is Bangkok-based); conservation ecology and climate-smart spatial planning domain is outside Gavin's profile (energy/climate policy); skip.
+- [x] #537 | https://careers.un.org/jobSearchDescription/265377 | ITC (UN) | Associate Programme Officer, DECI/IE (Temporary), P2 | 3.0/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/85168169 | World Bank | Energy Specialist — Error: Application deadline April 6, 2026 — expired over 4 months ago; GF grade local recruitment only (Tashkent, Uzbekistan duty station); Gavin holds no Uzbek work authorization; position closed; skip.
+- [x] (ref #319) | https://www.wri.org/careers/jobs/research-analyst-food-and-land-use-2026-jr100384 | WRI | Research Analyst, Food and Land Use | 2.0/5 | PDF (no) | duplicate org/role skipped by merge; report at 538-wri-research-analyst-food-land-use-2026-08-09.md
 
 <!-- Scan 2026-08-08 — Multi-portal scheduled scan -->
 - [!] https://www.sei.org/people/jobs/team-lead-researcher-gender-environment-justice/ | SEI Asia | Team Lead and Researcher – Gender, Environment and Justice — Error: Requires 8+ years professional experience and line management experience; Gavin has ~18 months — hard seniority blocker; above seniority ceiling; deadline August 16, 2026 but position clearly above level; skip.

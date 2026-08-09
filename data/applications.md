@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 536 | 2026-08-09 | UNOPS | Investment Analyst, Energy Transition | 2.5/5 | Evaluada | ❌ | [536](reports/536-unops-investment-analyst-energy-transition-2026-08-09.md) | Vienna IICA-1 open-ended ICA; energy finance focus; techno-economic skills partially transfer but investment modeling gap; EU citizen eligible |
+| 537 | 2026-08-09 | ITC | Associate Programme Officer, DECI/IE (Temporary) | 3.0/5 | Evaluada | ❌ | [537](reports/537-itc-associate-programme-officer-deci-ie-2026-08-09.md) | Geneva P2 temporary; UNIDO programme management skills transfer well; trade domain gap; EU citizen eligible; career stepping stone |
 | 535 | 2026-08-06 | GHGMI | Program Officer | 3.5/5 | Evaluada | ❌ | [535](reports/535-ghgmi-program-officer-2026-08-06.md) | Full-remote USD 60-79k GHG/MRV capacity-building; perfect archetype match; 18mo vs 3-5yr gap is only blocker |
 | 533 | 2026-08-05 | MSCI | Climate Data Analyst | 2.2/5 | Evaluada | ❌ | [533](reports/533-msci-climate-data-analyst-pune-2026-08-05.md) | Pune India; ESG data operations; education fit strong but India comp well below target (USD 7-12k vs 55k+ target); domain partial (GHG collection gap) |
 | 532 | 2026-08-04 | Othello International | ESG Consultant | 3.2/5 | Evaluada | ❌ | [532](reports/532-othello-international-esg-consultant-2026-08-04.md) | Bangkok ESG advisory for SET-listed clients; strong framework match from education; low-end comp; work visa sponsorship needed |
