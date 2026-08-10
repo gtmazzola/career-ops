@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-10 — Multi-portal scheduled scan -->
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3959 | UNOPS | Project Management Support Officer
+- [ ] https://untalent.org/jobs/climate-programme-officer | UNOPS/UNEP-CCC | Climate Programme Officer
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Officer/1861 | UNOPS | Project Officer
+- [ ] https://www.unjobnet.org/jobs/detail/85881522 | ADB | Investment Officer (Climate Change)
+- [ ] https://www.unjobnet.org/jobs/detail/83617586 | UNCTAD | Advisor – Private Investment in Energy Infrastructure
+- [ ] https://unjobs.org/vacancies/1782249827231 | South Pole | Managing Consultant – Renewable Energy Solutions
+- [ ] https://careers.nus.edu.sg/job/Research-AnalystSenior-Research-Analyst-%28Centre-for-Governance-and-Sustainability%29/26481-en_GB | NUS | Research Analyst – Centre for Governance and Sustainability
+
 <!-- Scan 2026-08-09 — Multi-portal scheduled scan -->
 - [!] https://www.impactpool.org/jobs/1229319 | UNEP FI | UNEP Finance Initiative – Climate and Investment Consultant — Error: Application deadline August 9, 2026 (today — expired end of day); requires 7 years experience in programme management, climate change, or economics (Master's + 7yr or Bachelor's + 9yr) — hard experience blocker; Gavin has ~18 months; skip.
 - [x] #536 | https://www.impactpool.org/jobs/1168040 | UNOPS | Investment Analyst, Energy Transition | 2.5/5 | PDF (no)
