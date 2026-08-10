@@ -3,13 +3,13 @@
 ## Pendientes
 
 <!-- Scan 2026-08-10 — Multi-portal scheduled scan -->
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3959 | UNOPS | Project Management Support Officer
-- [ ] https://untalent.org/jobs/climate-programme-officer | UNOPS/UNEP-CCC | Climate Programme Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Officer/1861 | UNOPS | Project Officer
-- [ ] https://www.unjobnet.org/jobs/detail/85881522 | ADB | Investment Officer (Climate Change)
-- [ ] https://www.unjobnet.org/jobs/detail/83617586 | UNCTAD | Advisor – Private Investment in Energy Infrastructure
-- [ ] https://unjobs.org/vacancies/1782249827231 | South Pole | Managing Consultant – Renewable Energy Solutions
-- [ ] https://careers.nus.edu.sg/job/Research-AnalystSenior-Research-Analyst-%28Centre-for-Governance-and-Sustainability%29/26481-en_GB | NUS | Research Analyst – Centre for Governance and Sustainability
+- [x] #539 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3959 | UNOPS | Project Management Support Officer | 3.0/5 | PDF (no)
+- [x] #540 | https://untalent.org/jobs/climate-programme-officer | UNOPS/UNEP-CCC | Climate Programme Officer | 3.2/5 | PDF (no)
+- [x] #541 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Officer/1861 | UNOPS | Project Officer – TNA (Geneva) | 2.8/5 | PDF (no)
+- [!] https://www.unjobnet.org/jobs/detail/85881522 | ADB | Investment Officer (Climate Change) — Error: Application deadline May 11, 2026 — expired approximately 3 months ago; TL5 grade Manila duty station; position closed; skip.
+- [!] https://www.unjobnet.org/jobs/detail/83617586 | UNCTAD | Advisor – Private Investment in Energy Infrastructure — Error: Contract period 20.01.2026–20.07.2026 — consultancy already ended July 20, 2026; World Investment Forum 2026 project deliverables completed; position closed; skip.
+- [x] #542 | https://unjobs.org/vacancies/1782249827231 | South Pole | Managing Consultant – Renewable Energy Solutions | 2.5/5 | PDF (no)
+- [!] https://careers.nus.edu.sg/job/Research-AnalystSenior-Research-Analyst-%28Centre-for-Governance-and-Sustainability%29/26481-en_GB | NUS | Research Analyst – Centre for Governance and Sustainability — Error: Requires strong command of English and Chinese language (written and verbal) — hard language blocker (Gavin has no Chinese proficiency); posting dated July 2025 (12+ months old, likely filled); skip.
 
 <!-- Scan 2026-08-09 — Multi-portal scheduled scan -->
 - [!] https://www.impactpool.org/jobs/1229319 | UNEP FI | UNEP Finance Initiative – Climate and Investment Consultant — Error: Application deadline August 9, 2026 (today — expired end of day); requires 7 years experience in programme management, climate change, or economics (Master's + 7yr or Bachelor's + 9yr) — hard experience blocker; Gavin has ~18 months; skip.
