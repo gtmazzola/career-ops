@@ -1653,3 +1653,15 @@
 - [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
 - [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
 - [ ] https://www.impactpool.org/jobs/1177258 | GGGI | IC: Policy Research – GGPM
+
+<!-- Scan 2026-08-11 — Multi-portal scheduled scan -->
+- [ ] https://www.impactpool.org/jobs/1191702 | UNICEF | WASH Climate Resilience Consultant
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Climate-Finance-Analyst-Retainer/2123 | UNOPS | Climate Finance Analyst – Retainer
+- [ ] https://careers.ey.com/ey/job/Associate-Senior-Associate,-Climate-Change-and-Sustainability-Services,-Assurance-048583/1029272001/ | EY | Associate/Senior Associate – Climate Change and Sustainability Services
+- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-10110/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff
+- [ ] https://www.unjobnet.org/jobs/detail/unep-junior-climate-change-specialist-latin-america-and-the-caribbean-lac-87030089 | UNEP | Junior Climate Change Specialist – Latin America and Caribbean
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor – Energy Transition
+- [ ] https://www.irena.org/employment/Career-Detail?jobId=NC0129.1 | IRENA | Associate Programme Officer
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=87881 | UNDP | Fund Design Junior Consultant (Re-Advertised)
+- [ ] https://www.impactpool.org/jobs/939361 | UNDP | Programme Analyst – IPSA 8 (Home Based)
+- [ ] https://www.impactpool.org/jobs/965287 | UNDP | Project Analyst – IPSA 8
