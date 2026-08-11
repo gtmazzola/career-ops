@@ -1055,20 +1055,20 @@
 <!-- Scan 2026-05-23 — Devex new -->
 - [x] #531 | https://www.devex.com/jobs/individual-consultant-sustainable-clean-energy-expert-1394002 | ADB via Devex | Individual Consultant – Sustainable/Clean Energy Expert | 1.5/5 | PDF (no)
 - [!] https://www.devex.com/jobs/energy-and-climate-individual-consultant-1387538 | GGGI via Devex | Energy and Climate Individual Consultant — Error: Duplicate of #396 (GGGI Mexico Energy and Climate IC already evaluated 1.5/5; same role cross-posted on Devex); application deadline October 11, 2025 — expired approximately 9 months ago; Mexico duty station; skip.
-- [ ] https://www.devex.com/jobs/programme-management-senior-analyst-1417192 | UNOPS via Devex | Programme Management Senior Analyst
-- [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | Devex | ESG Expert (Asia Foundation)
+- [!] https://www.devex.com/jobs/programme-management-senior-analyst-1417192 | UNOPS via Devex | Programme Management Senior Analyst — Error: devex.com blocked by egress proxy; JD could not be retrieved; WebSearch found UNOPS SUIDAC Africa posting as likely match (Uganda/Sudan/DRC duty station) — location mismatch with Gavin's Bangkok base; skip pending manual review.
+- [!] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | Devex | ESG Expert (Asia Foundation) — Error: devex.com blocked by egress proxy; JD could not be retrieved; only a 2020 ESG Risk Consultant role found via search; specific posting ID 1337173 unresolvable; skip pending manual review.
 
 <!-- Scan 2026-05-23 — Think tanks / Research institutes -->
-- [ ] https://newclimate.org/about-us/working-with-us/experienced-climate-policy-analyst-r-2405 | NewClimate Institute | Experienced Climate Policy Analyst (Cologne/Berlin)
-- [ ] https://newclimate.org/about-us/working-with-us/experienced-climate-policy-analyst-climate-responsibility-approaches-r | NewClimate Institute | Experienced Climate Policy Analyst – Climate Responsibility Approaches
-- [ ] https://www.climatepolicyinitiative.org/career/analyst-climate-energy-economist/ | Climate Policy Initiative | Analyst – Climate & Energy Economist
+- [x] #524 | https://newclimate.org/about-us/working-with-us/experienced-climate-policy-analyst-r-2405 | NewClimate Institute | Experienced Climate Policy Analyst (Cologne/Berlin) | 3.0/5 | PDF (no)
+- [x] #543 | https://newclimate.org/about-us/working-with-us/experienced-climate-policy-analyst-climate-responsibility-approaches-r | NewClimate Institute | Experienced Climate Policy Analyst – Climate Responsibility Approaches | 2.8/5 | PDF (no)
+- [x] #526 | https://www.climatepolicyinitiative.org/career/analyst-climate-energy-economist/ | Climate Policy Initiative | Analyst – Climate & Energy Economist | 3.2/5 | PDF (no)
 
 <!-- Scan 2026-05-25 — Bangkok / Thailand ⭐ -->
-- [ ] https://unjobs.org/vacancies/1778832407684 | ESCAP | Programme Support Contractor (Bangkok) ⭐
-- [ ] https://unjobs.org/vacancies/1761384669525 | UNEP Bangkok | Associate Programme Management Officer (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/85831873 | UNEP Bangkok | National Energy Efficient Expert (Bangkok) ⭐
-- [ ] https://www.unjobnet.org/jobs/detail/75624102 | UNICEF Bangkok | National Climate Consultant (Bangkok) ⭐
-- [ ] https://www.impactpool.org/jobs/1073468 | GGGI Thailand | National Energy Efficiency and Low Carbon Building Consultant (Bangkok) ⭐
+- [x] #527 | https://unjobs.org/vacancies/1778832407684 | ESCAP | Programme Support Contractor (Bangkok) ⭐ | 3.5/5 | PDF (no)
+- [!] https://unjobs.org/vacancies/1761384669525 | UNEP Bangkok | Associate Programme Management Officer (Bangkok) ⭐ — Error: unjobs.org blocked by egress proxy; search found deadline August 19, 2025 (expired ~12 months ago); P-2 level requires 5 years experience (hard blocker for Gavin at 18 months); skip.
+- [!] https://www.unjobnet.org/jobs/detail/85831873 | UNEP Bangkok | National Energy Efficient Expert (Bangkok) ⭐ — Error: unjobnet.org blocked by egress proxy; JD could not be retrieved via search; skip pending manual review.
+- [!] https://www.unjobnet.org/jobs/detail/75624102 | UNICEF Bangkok | National Climate Consultant (Bangkok) ⭐ — Error: unjobnet.org blocked by egress proxy; search found posting period December 19, 2024 – January 5, 2025 (expired ~19 months ago); skip.
+- [x] #542 | https://www.impactpool.org/jobs/1073468 | GGGI Thailand | National Energy Efficiency and Low Carbon Building Consultant (Bangkok) ⭐ | 1.5/5 | PDF (no)
 - [ ] https://www.impactpool.org/jobs/865302 | WFP Bangkok | Regional Climate and DRR Advisor P4 (Bangkok) ⭐ ⚠️ P4 seniority
 - [ ] https://www.impactpool.org/jobs/1061077 | Tara Climate Foundation | Program Officer, Thailand (Bangkok) ⭐ ⚠️ 7yr exp
 - [ ] https://untalent.org/jobs/regional-energy-specialist-asia-pacific-region | UNDP | Regional Energy Specialist – Asia/Pacific Region (Bangkok) ⭐ ⚠️ 7yr exp
