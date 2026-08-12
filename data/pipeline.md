@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-12 — Multi-portal scheduled scan -->
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Knowledge-Management-Analyst/3808 | UNOPS | Knowledge Management Analyst
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Social-and-Environmental-Senior-Analyst/3969 | UNOPS | Social and Environmental Senior Analyst
+- [ ] https://www.impactpool.org/jobs/1205813 | ITC | Junior International Consultant – EU ESG Regulations
+
 <!-- Scan 2026-08-10 — Multi-portal scheduled scan -->
 - [x] #539 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3959 | UNOPS | Project Management Support Officer | 3.0/5 | PDF (no)
 - [x] #540 | https://untalent.org/jobs/climate-programme-officer | UNOPS/UNEP-CCC | Climate Programme Officer | 3.2/5 | PDF (no)
