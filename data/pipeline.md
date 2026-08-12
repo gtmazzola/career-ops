@@ -3,9 +3,9 @@
 ## Pendientes
 
 <!-- Scan 2026-08-12 — Multi-portal scheduled scan -->
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Knowledge-Management-Analyst/3808 | UNOPS | Knowledge Management Analyst
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Social-and-Environmental-Senior-Analyst/3969 | UNOPS | Social and Environmental Senior Analyst
-- [ ] https://www.impactpool.org/jobs/1205813 | ITC | Junior International Consultant – EU ESG Regulations
+- [!] https://careers.unops.org/careersmarketplace/JobDetail/Knowledge-Management-Analyst/3808 | UNOPS | Knowledge Management Analyst — Error: LICA-8 home-based role supporting UNICEF Digital Guardrails digital ecosystems agenda; requires French or Spanish proficiency (hard language blocker for Gavin); domain mismatch (digital/knowledge management for child online safety, not climate/sustainability); skip.
+- [!] https://careers.unops.org/careersmarketplace/JobDetail/Social-and-Environmental-Senior-Analyst/3969 | UNOPS | Social and Environmental Senior Analyst — Error: Afghanistan duty station (confirmed); application deadline August 12, 2026 — expires end of day; hard geographic blocker (Gavin is Bangkok-based); E&S safeguards field role (World Bank ESF compliance) is outside Gavin's core profile; skip.
+- [!] https://www.impactpool.org/jobs/1205813 | ITC | Junior International Consultant – EU ESG Regulations — Error: Geneva duty station; requires English and French fluency — hard language blocker (Gavin has no French); most deliverables already completed (Output 4 due July 30, Output 5 due August 28, 2026); contract nearly complete; skip.
 
 <!-- Scan 2026-08-10 — Multi-portal scheduled scan -->
 - [x] #539 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3959 | UNOPS | Project Management Support Officer | 3.0/5 | PDF (no)
@@ -1074,15 +1074,15 @@
 - [!] https://www.unjobnet.org/jobs/detail/85831873 | UNEP Bangkok | National Energy Efficient Expert (Bangkok) ⭐ — Error: unjobnet.org blocked by egress proxy; JD could not be retrieved via search; skip pending manual review.
 - [!] https://www.unjobnet.org/jobs/detail/75624102 | UNICEF Bangkok | National Climate Consultant (Bangkok) ⭐ — Error: unjobnet.org blocked by egress proxy; search found posting period December 19, 2024 – January 5, 2025 (expired ~19 months ago); skip.
 - [x] #542 | https://www.impactpool.org/jobs/1073468 | GGGI Thailand | National Energy Efficiency and Low Carbon Building Consultant (Bangkok) ⭐ | 1.5/5 | PDF (no)
-- [ ] https://www.impactpool.org/jobs/865302 | WFP Bangkok | Regional Climate and DRR Advisor P4 (Bangkok) ⭐ ⚠️ P4 seniority
-- [ ] https://www.impactpool.org/jobs/1061077 | Tara Climate Foundation | Program Officer, Thailand (Bangkok) ⭐ ⚠️ 7yr exp
-- [ ] https://untalent.org/jobs/regional-energy-specialist-asia-pacific-region | UNDP | Regional Energy Specialist – Asia/Pacific Region (Bangkok) ⭐ ⚠️ 7yr exp
+- [!] https://www.impactpool.org/jobs/865302 | WFP Bangkok | Regional Climate and DRR Advisor P4 (Bangkok) — Error: Position closed February 21, 2025 (confirmed via ausconnect.dfat.gov.au); P4 level requires 8-10+ years professional experience — hard seniority blocker for Gavin at ~18 months; skip.
+- [!] https://www.impactpool.org/jobs/1061077 | Tara Climate Foundation | Program Officer, Thailand (Bangkok) — Error: Requires Thai citizenship or long-term residency with valid work permit — hard eligibility blocker (Gavin holds US/Italian citizenship, based in Bangkok on contract basis); vacancy closed approximately November 2024; skip.
+- [!] https://untalent.org/jobs/regional-energy-specialist-asia-pacific-region | UNDP | Regional Energy Specialist – Asia/Pacific Region (Bangkok) — Error: IPSA-11 level requires 7-10 years professional experience in energy access/efficiency/renewable energy or climate change policy — hard seniority blocker for Gavin at ~18 months; skip.
 
 <!-- Scan 2026-05-25 — UNOPS (new) -->
-- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=25318 | UNOPS | Climate Programme Officer
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29772 | UNOPS | Climate Specialist (CAP)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28293 | UNOPS | NDC Partnership Climate Change Analyst (Kazakhstan, Retainer)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29159 | UNOPS | Capacity Building Specialist – Environment and Climate Change (Retainer)
+- [!] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=25318 | UNOPS | Climate Programme Officer — Error: Application period January 25 – February 15, 2023 — expired over 3 years ago; ICS-9 Copenhagen duty station (UNEP-CCC); position closed; skip.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29772 | UNOPS | Climate Specialist (CAP) — Error: Application period February 24 – March 10, 2025 — expired approximately 17 months ago; ICS-10 Copenhagen duty station; position closed; skip.
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28293 | UNOPS | NDC Partnership Climate Change Analyst (Kazakhstan, Retainer) — Error: Local LICA-9 position requiring Kazakhstan citizenship or valid residence permit — hard citizenship/eligibility blocker (Gavin holds US/Italian citizenship); embedded in Kazakhstan Ministry of Ecology; skip.
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29159 | UNOPS | Capacity Building Specialist – Environment and Climate Change (Retainer) — Error: Application period October 31 – November 24, 2024 — expired approximately 9 months ago; local Serbia/North Macedonia position for EU integration project; domain mismatch (EU accession negotiation support); position closed; skip.
 
 <!-- Scan 2026-05-25 — UNIDO Vienna -->
 - [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1352014555/ | UNIDO | Project Coordinator (Vienna) ⚠️ deadline 2 Jun 2026
