@@ -1085,24 +1085,14 @@
 - [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29159 | UNOPS | Capacity Building Specialist – Environment and Climate Change (Retainer) — Error: Application period October 31 – November 24, 2024 — expired approximately 9 months ago; local Serbia/North Macedonia position for EU integration project; domain mismatch (EU accession negotiation support); position closed; skip.
 
 <!-- Scan 2026-05-25 — UNIDO Vienna -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1352014555/ | UNIDO | Project Coordinator (Vienna) ⚠️ deadline 2 Jun 2026
 
 <!-- Scan 2026-05-25 — GGGI (new) -->
-- [ ] https://careers.gggi.org/vacancy/senior-program-officer-circular-economy-waste-600434.html | GGGI | Senior Program Officer – Circular Economy and Waste
-- [ ] https://careers.gggi.org/vacancy/vietnam-senior-program-associate-595620.html | GGGI Vietnam | Senior Program Associate (Hanoi) ⚠️ Vietnamese nationals/WP
 
 <!-- Scan 2026-05-25 — Singapore -->
-- [ ] https://www.mycareersfuture.gov.sg/job/-sustainability-esg-project-analyst-ntt-data-singapore-68d2f71cfa00d0d3a15c6ed09261dbe4 | NTT Data Singapore | Sustainability / ESG Project Analyst (Singapore)
 
 <!-- Scan 2026-05-25 — SEforALL Vienna -->
-- [ ] https://www.seforall.org/jobs/sustainable-cooling-analyst | SEforALL | Sustainable Cooling Analyst (Vienna)
-- [ ] https://www.seforall.org/jobs/energy-planning-officer | SEforALL | Energy Planning Officer (Vienna)
 
 <!-- Scan 2026-05-25 — Global / Consulting / Think tanks -->
-- [ ] https://www.terra.do/climate-jobs/job-board/project-consultant-sustainability-energy-and-climate-change-8310639/ | WSP | Project Consultant – Sustainability, Energy and Climate Change
-- [ ] https://www.terra.do/climate-jobs/job-board/Junior-Energy-Analyst-Asia-Pacific-Mainstream-Renewable-Power-8361608/ | Mainstream Renewable Power | Junior Energy Analyst Asia Pacific (Philippines)
-- [ ] https://www.terra.do/climate-jobs/job-board/Associate--Consultant---ESG---Sustainability-EiSqr-Solutions-Pvt--Ltd--8181661/ | EiSqr Solutions | Associate Consultant – ESG and Sustainability (India)
-- [ ] https://newclimate.org/about-us/working-with-us/climate-policy-analyst-r-2404 | NewClimate Institute | Climate Policy Analyst (Cologne/Berlin)
 - [ ] https://newclimate.org/about-us/working-with-us/project-manager-climate-action-tracker-r-2501 | NewClimate Institute | Project Manager – Climate Action Tracker (Cologne/Berlin)
 - [ ] https://www.impactpool.org/jobs/895244 | FAO | Climate Foresight and Scenarios Development Specialist
 
@@ -1322,6 +1312,17 @@
 
 ## Procesadas
 
+- [x] #524 | https://careers.unido.org/job/Vienna-Project-Coordinator/1352014555/ | UNIDO | Project Coordinator (Vienna) | SKIP (expired Jun 2026) | PDF ❌
+- [x] #525 | https://careers.gggi.org/vacancy/senior-program-officer-circular-economy-waste-600434.html | GGGI | Senior Program Officer – Circular Economy & Waste | 3.5/5 | PDF ❌
+- [x] #526 | https://careers.gggi.org/vacancy/vietnam-senior-program-associate-595620.html | GGGI Vietnam | Senior Program Associate (Hanoi) | SKIP (expired + WP) | PDF ❌
+- [x] #527 | https://www.mycareersfuture.gov.sg/job/-sustainability-esg-project-analyst-ntt-data-singapore-68d2f71cfa00d0d3a15c6ed09261dbe4 | NTT Data Singapore | Sustainability / ESG Project Analyst | 3.3/5 | PDF ❌
+- [x] #528 | https://www.seforall.org/jobs/sustainable-cooling-analyst | SEforALL | Sustainable Cooling Analyst (Vienna) | 3.6/5 | PDF ❌
+- [x] #529 | https://www.seforall.org/jobs/energy-planning-officer | SEforALL | Energy Planning Officer (Vienna) | 2.8/5 | PDF ❌
+- [x] #530 | https://www.terra.do/climate-jobs/job-board/project-consultant-sustainability-energy-and-climate-change-8310639/ | WSP | Project Consultant – Sustainability, Energy and Climate Change | 2.5/5 | PDF ❌
+- [x] #531 | https://www.terra.do/climate-jobs/job-board/Junior-Energy-Analyst-Asia-Pacific-Mainstream-Renewable-Power-8361608/ | Mainstream Renewable Power | Junior Energy Analyst Asia Pacific (Philippines) | 3.0/5 | PDF ❌
+- [x] #532 | https://www.terra.do/climate-jobs/job-board/Associate--Consultant---ESG---Sustainability-EiSqr-Solutions-Pvt--Ltd--8181661/ | EiSqr Solutions | Associate Consultant – ESG & Sustainability (India) | SKIP (visa+location) | PDF ❌
+- [x] #533 | https://newclimate.org/about-us/working-with-us/climate-policy-analyst-r-2404 | NewClimate Institute | Climate Policy Analyst (Cologne/Berlin) | 3.8/5 | PDF ❌
+
 - [x] #001 | https://unjobs.org/vacancies/1767208633031 | UNDP Thailand | Project Analyst (Climate Resilience / GCF) | 3.0/5 | PDF ❌
 - [x] #002 | https://www.unjobnet.org/jobs/detail/52348814 | UNESCAP | Consultant – Climate Finance (Bangkok) | 3.5/5 | PDF ❌
 - [x] #003 | https://unjobs.org/vacancies/1774561034325 | UNESCAP | National Cooling Consultant (Bangkok) | 3.2/5 | PDF ❌
@@ -1458,7 +1459,6 @@
 - [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG
 - [ ] https://climatebase.org/job/66389066/analystassociate-consultant | Energy and Environmental Economics (E3) | Analyst/Associate Consultant
 - [ ] https://climatebase.org/job/72381758/energy-analyst | Trio | Energy Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/Associate--Consultant---ESG---Sustainability-EiSqr-Solutions-Pvt--Ltd--8181661/ | EiSqr Solutions | Associate Consultant – ESG & Sustainability
 
 <!-- Scan 2026-07-05 — Multi-portal scheduled scan: GGGI / SEI / UNtalent / GIZ Philippines / UNjobs Bangkok -->
 - [ ] https://careers.gggi.org/vacancy/forestry-consultant-614368.html | GGGI | Forestry Consultant (Paraguay)
