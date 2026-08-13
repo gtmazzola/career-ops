@@ -1670,3 +1670,31 @@
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=87881 | UNDP | Fund Design Junior Consultant (Re-Advertised)
 - [ ] https://www.impactpool.org/jobs/939361 | UNDP | Programme Analyst – IPSA 8 (Home Based)
 - [ ] https://www.impactpool.org/jobs/965287 | UNDP | Project Analyst – IPSA 8
+
+<!-- Scan 2026-08-13 — Multi-portal scheduled scan -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88932 | UNDP | Climate Finance Consultant – Energy and Climate Change
+- [ ] https://untalent.org/jobs/unep-finance-initiative-unep-fi-africa-and-middle-east-ame-regional-analyst | UNEP | UNEP FI – Africa and Middle East Regional Analyst
+- [ ] https://www.unjobnet.org/jobs/detail/85592976 | UNEP | Programme Management Officer – Bangkok
+- [ ] https://careers.un.org/jobSearchDescription/252728?language=en | UN | Consultant / Environmental Sustainability Specialist
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110113 | UNDP | Policy and Strategy Analyst – IPSA 9 (Rome Centre)
+- [ ] https://southasiacareers.deloitte.com/job/Colombo-Analyst-Sustainability/40894344 | Deloitte South Asia | Analyst – Sustainability
+- [ ] https://southasiacareers.deloitte.com/job/Colombo-SRT-Sustainability-Associate-Consultant/46991044 | Deloitte South Asia | SRT Sustainability – Associate Consultant
+- [ ] https://unjobs.org/vacancies/1778718924128 | WWF | Project Coordinator – Habitat Improvement (Bangkok)
+- [ ] https://hrms.iucn.org/iresy/index.cfm?event=vac.show&vacId=11629&lang=en | IUCN | Field Project Associate – Thailand
+- [ ] https://jobs.lever.co/terrascope/e03bd0f3-a3d7-4bd7-8d29-cc06471ed8ca | Terrascope | Associate, Climate Solutions
+- [ ] https://www.unjobnet.org/jobs/detail/85828318 | World Bank | Environmental and Social Development Specialist
+- [ ] https://unjobs.org/vacancies/1779205028577 | World Bank | Extended Term Consultant / Analyst – Dhaka
+- [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37522?c=worldbankgroup | World Bank | Extended Term Consultant – Climate Change
+- [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37958?c=worldbankgroup | World Bank | Operations Analyst – Climate and Sustainable Finance
+- [ ] https://careers.un.org/jobSearchDescription/281881 | UN | Anti-Corruption and Climate Governance Consultant
+- [ ] https://jobs.trellis.net/j/bloomberg-intelligence-esg-research-analyst-contract-862051791e64 | Bloomberg | ESG Research Analyst (Contract)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98324 | UNDP | Project Analyst – Energy / Climate Aggregation Platform
+- [ ] https://jobs.ashbyhq.com/Watershed/dccdcaae-2521-47d5-a97e-c51bbd2537ee | Watershed | Sustainability Data Advisor
+- [ ] https://www.terra.do/climate-jobs/job-board/Sustainability-and-Climate-Change-Expert-Tetra-Tech--Inc--8193939/ | Tetra Tech | Sustainability and Climate Change Expert
+- [ ] https://untalent.org/jobs/senior-energy-specialist-1 | ADB | Senior Energy Specialist
+- [ ] https://untalent.org/jobs/senior-climate-change-specialist-2 | ADB | Senior Climate Change Specialist
+- [ ] https://jobs.climatedraft.org/companies/sylvera/jobs/72978221-carbon-analyst | Sylvera | Carbon Analyst
+- [ ] https://www.impactpool.org/jobs/1136353 | UNDP | Technical Analyst – Climate Finance
+- [ ] https://www.impactpool.org/jobs/1120313 | UNDP | Programme Analyst
+- [ ] https://www.impactpool.org/jobs/1128516 | UNDP | Policy Analyst
+- [ ] https://www.impactpool.org/jobs/963668 | GCF | Climate Policy Specialist
