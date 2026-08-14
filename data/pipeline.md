@@ -1698,3 +1698,7 @@
 - [ ] https://www.impactpool.org/jobs/1120313 | UNDP | Programme Analyst
 - [ ] https://www.impactpool.org/jobs/1128516 | UNDP | Policy Analyst
 - [ ] https://www.impactpool.org/jobs/963668 | GCF | Climate Policy Specialist
+
+<!-- Scan 2026-08-14 — Multi-portal scheduled scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Monitoring-and-Reporting-Administrator/1362469755/ | UNIDO | Project Monitoring and Reporting Administrator
+- [ ] https://jobs.climatedraft.org/companies/beijing-climate-policy-initiative/jobs/46927432-junior-analyst-analyst-climate-energy-finance | CPI Beijing | Junior Analyst – Climate & Energy Finance
