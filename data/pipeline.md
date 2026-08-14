@@ -1093,22 +1093,22 @@
 <!-- Scan 2026-05-25 — SEforALL Vienna -->
 
 <!-- Scan 2026-05-25 — Global / Consulting / Think tanks -->
-- [ ] https://newclimate.org/about-us/working-with-us/project-manager-climate-action-tracker-r-2501 | NewClimate Institute | Project Manager – Climate Action Tracker (Cologne/Berlin)
-- [ ] https://www.impactpool.org/jobs/895244 | FAO | Climate Foresight and Scenarios Development Specialist
+- [x] #534 | https://newclimate.org/about-us/working-with-us/project-manager-climate-action-tracker-r-2501 | NewClimate Institute | Project Manager – Climate Action Tracker (Cologne/Berlin) | 2.5/5 | PDF (no)
+- [x] #535 | https://www.impactpool.org/jobs/895244 | FAO | Climate Foresight and Scenarios Development Specialist | 2.8/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — UN Careers / IOs (new) -->
-- [ ] https://careers.un.org/jobSearchDescription/275144 | UN / ESCAP | Junior International Consultant – EU ESG Regulations ⭐
-- [ ] https://careers.un.org/jobSearchDescription/267070 | UN Careers | Sustainable Finance Specialist
-- [ ] https://careers.un.org/jobSearchDescription/272914 | UN Careers | Junior Consultant – Environmental Affairs
-- [ ] https://careers.un.org/jobSearchDescription/273549 | UN Careers | Climate Change Mitigation and Emissions Analysis Consultant
-- [ ] https://careers.un.org/jobSearchDescription/276436 | UN Careers | Senior Consultant for Carbon Markets and NbS
-- [ ] https://careers.un.org/jobSearchDescription/274487 | UN Careers | Stakeholder Engagement and Data Collection (Energy/Climate)
+- [x] #536 | https://careers.un.org/jobSearchDescription/275144 | ITC (UN/WTO) | Junior International Consultant – EU ESG Regulations ⭐ | 4.2/5 | PDF (no)
+- [x] #537 | https://careers.un.org/jobSearchDescription/267070 | UN Careers | Sustainable Finance Specialist | 3.2/5 | PDF (no)
+- [x] #538 | https://careers.un.org/jobSearchDescription/272914 | UNEP | Junior Consultant – Environmental Affairs | 3.5/5 | PDF (no)
+- [x] #539 | https://careers.un.org/jobSearchDescription/273549 | UNEP | Climate Change Mitigation and Emissions Analysis Consultant | 3.8/5 | PDF (no)
+- [x] #540 | https://careers.un.org/jobSearchDescription/276436 | UNEP | Senior Consultant for Carbon Markets and NbS | 2.2/5 | PDF (no)
+- [x] #541 | https://careers.un.org/jobSearchDescription/274487 | UNEP | Stakeholder Engagement and Data Collection (Energy/Climate) | 3.8/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — Bangkok / Thailand ⭐ -->
-- [ ] https://www.thai-german-cooperation.info/en_US/project-coordinator-ccmb/ | GIZ Thailand | Project Coordinator – CCMB (Bangkok) ⭐
+- [x] #542 | https://www.thai-german-cooperation.info/en_US/project-coordinator-ccmb/ | GIZ Thailand | Project Coordinator – CCMB (Bangkok) ⭐ | 3.8/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — UNIDO Vienna -->
-- [ ] https://careers.unido.org/job/Vienna-Investment-and-Finance-Specialist/1340458755/ | UNIDO | Investment and Finance Specialist (Vienna) ⚠️ 5yr exp
+- [x] #543 | https://careers.unido.org/job/Vienna-Investment-and-Finance-Specialist/1340458755/ | UNIDO | Investment and Finance Specialist (Vienna) ⚠️ 5yr exp | 2.8/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — Impactpool (new) -->
 - [ ] https://www.impactpool.org/jobs/1191413 | UNEP Vietnam | Renewable Energy & Access to Finance Coaching Expert ⚠️ 7yr exp
