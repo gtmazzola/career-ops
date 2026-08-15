@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-08-15 — Multi-portal scheduled scan -->
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Operations-Associate-Project-Support/3552 | UNOPS | Operations Associate (Project Support) – Bangkok
-- [ ] https://jobs.smartrecruiters.com/ecovadis/743999778103611-senior-sustainability-analyst | EcoVadis | Senior Sustainability Analyst – Singapore
-- [ ] https://careers.southpole.com/jobs/7812414-senior-specialist-nature-based-solutions-nbs | South Pole | Senior Specialist – Nature-Based Solutions
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Policy-Advisor/3989 | UNOPS | Policy Advisor – GPA Energy
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/1371 | UNOPS SAMCO | Project Management Support Senior Officer (South Asia)
-- [ ] https://unjobs.org/vacancies/1723157860206 | South Pole | Managing Consultant – Agricultural Value Chains
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/2940 | UNOPS | Project Management Support Senior Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/2939 | UNOPS | Project Management Support Senior Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3549 | UNOPS | Project Management Support Senior Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3817 | UNOPS | Project Management Support Officer
+- [x] #524 | https://careers.unops.org/careersmarketplace/JobDetail/Operations-Associate-Project-Support/3552 | UNOPS | Operations Associate (Project Support) – Bangkok | 2.5/5 | PDF (no)
+- [x] #525 | https://jobs.smartrecruiters.com/ecovadis/743999778103611-senior-sustainability-analyst | EcoVadis | Senior Sustainability Analyst – Singapore | 3.2/5 | PDF (no)
+- [x] #526 | https://careers.southpole.com/jobs/7812414-senior-specialist-nature-based-solutions-nbs | South Pole | Senior Specialist – Nature-Based Solutions | 2.0/5 | PDF (no)
+- [x] #527 | https://careers.unops.org/careersmarketplace/JobDetail/Policy-Advisor/3989 | UNOPS | Policy Advisor – GPA Energy | 3.5/5 | PDF (no)
+- [x] #528 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/1371 | UNOPS SAMCO | Project Management Support Senior Officer (South Asia) | 2.5/5 | PDF (no)
+- [x] #529 | https://unjobs.org/vacancies/1723157860206 | South Pole | Managing Consultant – Agricultural Value Chains | 1.5/5 | PDF (no)
+- [x] #530 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/2940 | UNOPS | Project Management Support Senior Officer (Togo) | 2.0/5 | PDF (no)
+- [x] #531 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/2939 | UNOPS | Project Management Support Senior Officer (Niger) | 1.5/5 | PDF (no)
+- [x] #532 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3549 | UNOPS | Project Management Support Senior Officer (#3549) | 2.0/5 | PDF (no)
+- [x] #533 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3817 | UNOPS NYPO | Project Management Support Officer – New York | 3.5/5 | PDF (no)
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1202 | UNOPS | Project Management Support Officer
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/2167 | UNOPS | Project Management Support Officer
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Advisor/2979 | UNOPS | Programme Management Advisor
