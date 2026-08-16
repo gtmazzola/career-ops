@@ -13,9 +13,9 @@
 - [x] #531 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/2939 | UNOPS | Project Management Support Senior Officer (Niger) | 1.5/5 | PDF (no)
 - [x] #532 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3549 | UNOPS | Project Management Support Senior Officer (#3549) | 2.0/5 | PDF (no)
 - [x] #533 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/3817 | UNOPS NYPO | Project Management Support Officer – New York | 3.5/5 | PDF (no)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1202 | UNOPS | Project Management Support Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/2167 | UNOPS | Project Management Support Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Advisor/2979 | UNOPS | Programme Management Advisor
+- [x] #546 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1202 | UNOPS | Project Management Support Officer (1202) | 3.0/5 | PDF (no)
+- [x] #547 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/2167 | UNOPS | Project Management Support Officer (2167) – Brazil | 2.0/5 | PDF (no)
+- [x] #548 | https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Advisor/2979 | UNOPS | Programme Management Advisor (2979) | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-08-12 — Multi-portal scheduled scan -->
 - [!] https://careers.unops.org/careersmarketplace/JobDetail/Knowledge-Management-Analyst/3808 | UNOPS | Knowledge Management Analyst — Error: LICA-8 home-based role supporting UNICEF Digital Guardrails digital ecosystems agenda; requires French or Spanish proficiency (hard language blocker for Gavin); domain mismatch (digital/knowledge management for child online safety, not climate/sustainability); skip.
@@ -1126,19 +1126,19 @@
 - [x] #543 | https://careers.unido.org/job/Vienna-Investment-and-Finance-Specialist/1340458755/ | UNIDO | Investment and Finance Specialist (Vienna) ⚠️ 5yr exp | 2.8/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — Impactpool (new) -->
-- [ ] https://www.impactpool.org/jobs/1191413 | UNEP Vietnam | Renewable Energy & Access to Finance Coaching Expert ⚠️ 7yr exp
-- [ ] https://www.impactpool.org/jobs/1143681 | GCF | Climate Infrastructure Specialist – Asia and the Pacific ⚠️ 9yr exp
-- [ ] https://www.impactpool.org/jobs/1136686 | GGGI | Climate Change Adaptation Consultant and Team Leader (Fiji)
+- [x] #549 | https://www.impactpool.org/jobs/1191413 | UNEP Vietnam | Renewable Energy & Access to Finance Coaching Expert ⚠️ 7yr exp | 1.5/5 | PDF (no)
+- [x] #550 | https://www.impactpool.org/jobs/1143681 | GCF | Climate Infrastructure Specialist – Asia and the Pacific ⚠️ 9yr exp | 1.5/5 | PDF (no)
+- [x] #551 | https://www.impactpool.org/jobs/1136686 | GGGI | Climate Change Adaptation Consultant and Team Leader (Fiji) | 1.0/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — SEI new roles -->
-- [ ] https://www.sei.org/people/jobs/researcher-land-governance-indigenous-rights/ | SEI Stockholm | Researcher – Land Governance and Indigenous Rights ⚠️ thematic mismatch
-- [ ] https://www.sei.org/people/jobs/organizational-results-learning-impact/ | SEI | Organizational Results, Learning and Impact
+- [x] #552 | https://www.sei.org/people/jobs/researcher-land-governance-indigenous-rights/ | SEI Stockholm | Researcher – Land Governance and Indigenous Rights ⚠️ thematic mismatch | 1.5/5 | PDF (no)
+- [x] #553 | https://www.sei.org/people/jobs/organizational-results-learning-impact/ | SEI | Organizational Results, Learning and Impact | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — NewClimate (new) -->
-- [ ] https://newclimate.org/about-us/working-with-us/senior-climate-policy-expert-r-2503 | NewClimate Institute | Senior Climate Policy Analyst (R-2503) ⚠️ 10yr exp
+- [x] #554 | https://newclimate.org/about-us/working-with-us/senior-climate-policy-expert-r-2503 | NewClimate Institute | Senior Climate Policy Analyst (R-2503) ⚠️ 10yr exp | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — Global Consulting (new) -->
-- [ ] https://www.climatechangecareers.com/job/intertek-sai-global/sydney-australia/senior-sustainability-consultant/ | Intertek SAI Global | Senior Sustainability Consultant (Sydney, Australia)
+- [x] #555 | https://www.climatechangecareers.com/job/intertek-sai-global/sydney-australia/senior-sustainability-consultant/ | Intertek SAI Global | Senior Sustainability Consultant (Sydney, Australia) | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — Terra.do (new) -->
 - [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG (San Francisco)

@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 548 | 2026-08-16 | UNOPS | Programme Management Advisor (2979) | 1.5/5 | Evaluada | ❌ | [548](reports/548-unops-programme-management-advisor-2026-08-16.md) | Senior role; 7yr exp required vs 1.5yr — too senior |
+| 549 | 2026-08-16 | UNEP Vietnam | Renewable Energy & Access to Finance Coaching Expert | 1.5/5 | Evaluada | ❌ | [549](reports/549-unep-vietnam-re-finance-coaching-expert-2026-08-16.md) | Vietnamese language required + 7yr exp — dual blocker |
+| 552 | 2026-08-16 | SEI Stockholm | Researcher – Land Governance and Indigenous Rights | 1.5/5 | Descartado | ❌ | [552](reports/552-sei-researcher-land-governance-indigenous-rights-2026-08-16.md) | Deadline passed May 2026, PhD required, thematic mismatch (Sámi rights) |
+| 553 | 2026-08-16 | SEI | Organizational Results, Learning and Impact | 2.0/5 | Descartado | ❌ | [553](reports/553-sei-organizational-results-learning-impact-2026-08-16.md) | Internship only (requires enrollment + external funding); not a staff position |
+| 555 | 2026-08-16 | Intertek SAI Global | Senior Sustainability Consultant (Sydney) | 2.5/5 | Evaluada | ❌ | [555](reports/555-intertek-sai-global-senior-sustainability-consultant-sydney-2026-08-16.md) | Senior level + Australian work rights required; thematic fit but not viable yet |
 | 544 | 2026-08-13 | SEforALL | Sustainable Cooling Analyst (Vienna) | 3.6/5 | Evaluada | ❌ | [528](reports/528-seforall-sustainable-cooling-analyst-2026-08-13.md) | Strong IO match; EU citizen for Vienna; cooling domain adjacent not direct |
 | 545 | 2026-08-13 | WSP | Project Consultant – Sustainability, Energy and Climate Change | 2.5/5 | Evaluada | ❌ | [530](reports/530-wsp-project-consultant-sustainability-2026-08-13.md) | 5+ yrs exp required; US-based; overleveled for now; revisit in 2-3 years |
 | 543 | 2026-08-11 | NewClimate Institute | Experienced Climate Policy Analyst – Climate Responsibility (R-2406) | 2.8/5 | Evaluada | ❌ | [543](reports/543-newclimate-climate-responsibility-analyst-2026-08-11.md) | Weaker fit than R-2405; Article 6/BVCM focus is a gap; apply only alongside R-2405 |
