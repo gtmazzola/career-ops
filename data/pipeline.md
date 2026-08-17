@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-08-17 — Multi-portal scheduled scan -->
-- [ ] https://untalent.org/jobs/junior-programme-analyst-1 | UNDP | Junior Programme Analyst
-- [ ] https://www.impactpool.org/jobs/1168009 | UNDP | Programme Analyst
-- [ ] https://www.impactpool.org/jobs/1187127 | UNOPS | PMO Analyst
-- [ ] https://www.impactpool.org/jobs/1224980 | UNOPS | PMO Senior Analyst
-- [ ] https://www.impactpool.org/jobs/844759 | FAO | Young Professional Officer – Climate Data and Information Management
-- [ ] https://careers.un.org/jobSearchDescription/267132?language=en | UNEP | International Sustainability Consultant
-- [ ] https://jobs.sea.deloitte.com/job/Bangkok-A&A-Analyst-%28Sustainability-&-Emerging-Assurance%29/1213218766 | Deloitte Bangkok | A&A Analyst – Sustainability & Emerging Assurance
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert-Roster/1361843055/ | UNIDO | Industrial Development Expert (Roster)
-- [ ] https://www.impactpool.org/jobs/1139139 | UNDP | Green Energy Analyst
-- [ ] https://www.impactpool.org/jobs/944544 | UNDP | Policy and Strategy Analyst – Energy and Climate Change
+- [x] #534 | https://untalent.org/jobs/junior-programme-analyst-1 | UNDP | Junior Programme Analyst | 3.5/5 | PDF (no)
+- [x] #535 | https://www.impactpool.org/jobs/1168009 | UNDP | Programme Analyst (Governance) | 2.5/5 | PDF (no)
+- [x] #536 | https://www.impactpool.org/jobs/1187127 | UNOPS | PMO Analyst | 2.0/5 | PDF (no)
+- [x] #537 | https://www.impactpool.org/jobs/1224980 | UNOPS | PMO Senior Analyst (Bangkok) | 3.0/5 | PDF (no)
+- [x] #538 | https://www.impactpool.org/jobs/844759 | FAO | Young Professional Officer – Climate Data and Information Management | 2.5/5 | PDF (no)
+- [x] #539 | https://careers.un.org/jobSearchDescription/267132?language=en | UNEP | International Sustainability Consultant | 3.0/5 | PDF (no)
+- [x] #540 | https://jobs.sea.deloitte.com/job/Bangkok-A&A-Analyst-%28Sustainability-&-Emerging-Assurance%29/1213218766 | Deloitte Bangkok | A&A Analyst – Sustainability & Emerging Assurance | 3.8/5 | PDF (no)
+- [x] #541 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert-Roster/1361843055/ | UNIDO | Industrial Development Expert (Roster) | 2.0/5 | PDF (no)
+- [x] #542 | https://www.impactpool.org/jobs/1139139 | UNDP | Green Energy Analyst | 3.0/5 | PDF (no)
+- [x] #543 | https://www.impactpool.org/jobs/944544 | UNDP | Policy and Strategy Analyst – Energy and Climate Change | 3.5/5 | PDF (no)
 - [ ] https://www.developmentaid.org/jobs/view/1779037/programme-specialist-climate-r | Unknown | Programme Specialist – Climate
 - [ ] https://untalent.org/jobs/special-consultant-for-the-escap-sustainable-business-network | ESCAP | Special Consultant – Sustainable Business Network
 - [ ] https://untalent.org/jobs/national-ghg-mitigation-and-inventory-expert-energy-sector | UNDP | National GHG Mitigation and Inventory Expert (Energy Sector)
