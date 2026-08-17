@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-17 — Multi-portal scheduled scan -->
+- [ ] https://untalent.org/jobs/junior-programme-analyst-1 | UNDP | Junior Programme Analyst
+- [ ] https://www.impactpool.org/jobs/1168009 | UNDP | Programme Analyst
+- [ ] https://www.impactpool.org/jobs/1187127 | UNOPS | PMO Analyst
+- [ ] https://www.impactpool.org/jobs/1224980 | UNOPS | PMO Senior Analyst
+- [ ] https://www.impactpool.org/jobs/844759 | FAO | Young Professional Officer – Climate Data and Information Management
+- [ ] https://careers.un.org/jobSearchDescription/267132?language=en | UNEP | International Sustainability Consultant
+- [ ] https://jobs.sea.deloitte.com/job/Bangkok-A&A-Analyst-%28Sustainability-&-Emerging-Assurance%29/1213218766 | Deloitte Bangkok | A&A Analyst – Sustainability & Emerging Assurance
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert-Roster/1361843055/ | UNIDO | Industrial Development Expert (Roster)
+- [ ] https://www.impactpool.org/jobs/1139139 | UNDP | Green Energy Analyst
+- [ ] https://www.impactpool.org/jobs/944544 | UNDP | Policy and Strategy Analyst – Energy and Climate Change
+- [ ] https://www.developmentaid.org/jobs/view/1779037/programme-specialist-climate-r | Unknown | Programme Specialist – Climate
+- [ ] https://untalent.org/jobs/special-consultant-for-the-escap-sustainable-business-network | ESCAP | Special Consultant – Sustainable Business Network
+- [ ] https://untalent.org/jobs/national-ghg-mitigation-and-inventory-expert-energy-sector | UNDP | National GHG Mitigation and Inventory Expert (Energy Sector)
+- [ ] https://careers.unido.org/job/Mexico-City-Consultant-for-the-Regulatory-Diagnosis-and-Analysis-of-HFC-23-Policies/1362243555/ | UNIDO | Consultant – Regulatory Diagnosis and Analysis of HFC-23 Policies
+- [ ] https://www.devex.com/jobs/renewable-energy-policy-expert-454700 | Devex | Renewable Energy Policy Expert
 <!-- Scan 2026-08-15 — Multi-portal scheduled scan -->
 - [x] #524 | https://careers.unops.org/careersmarketplace/JobDetail/Operations-Associate-Project-Support/3552 | UNOPS | Operations Associate (Project Support) – Bangkok | 2.5/5 | PDF (no)
 - [x] #525 | https://jobs.smartrecruiters.com/ecovadis/743999778103611-senior-sustainability-analyst | EcoVadis | Senior Sustainability Analyst – Singapore | 3.2/5 | PDF (no)
