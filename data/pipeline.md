@@ -13,11 +13,11 @@
 - [x] #541 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert-Roster/1361843055/ | UNIDO | Industrial Development Expert (Roster) | 2.0/5 | PDF (no)
 - [x] #542 | https://www.impactpool.org/jobs/1139139 | UNDP | Green Energy Analyst | 3.0/5 | PDF (no)
 - [x] #543 | https://www.impactpool.org/jobs/944544 | UNDP | Policy and Strategy Analyst – Energy and Climate Change | 3.5/5 | PDF (no)
-- [ ] https://www.developmentaid.org/jobs/view/1779037/programme-specialist-climate-r | Unknown | Programme Specialist – Climate
-- [ ] https://untalent.org/jobs/special-consultant-for-the-escap-sustainable-business-network | ESCAP | Special Consultant – Sustainable Business Network
-- [ ] https://untalent.org/jobs/national-ghg-mitigation-and-inventory-expert-energy-sector | UNDP | National GHG Mitigation and Inventory Expert (Energy Sector)
-- [ ] https://careers.unido.org/job/Mexico-City-Consultant-for-the-Regulatory-Diagnosis-and-Analysis-of-HFC-23-Policies/1362243555/ | UNIDO | Consultant – Regulatory Diagnosis and Analysis of HFC-23 Policies
-- [ ] https://www.devex.com/jobs/renewable-energy-policy-expert-454700 | Devex | Renewable Energy Policy Expert
+- [x] #534 | https://www.developmentaid.org/jobs/view/1779037/programme-specialist-climate-r | Unknown | Programme Specialist – Climate | 1.5/5 | PDF (no)
+- [x] #535 | https://untalent.org/jobs/special-consultant-for-the-escap-sustainable-business-network | ESCAP | Special Consultant – Sustainable Business Network | 4.0/5 | PDF (no)
+- [x] #536 | https://untalent.org/jobs/national-ghg-mitigation-and-inventory-expert-energy-sector | UNDP | National GHG Mitigation and Inventory Expert (Energy Sector) | 3.6/5 | PDF (no)
+- [x] #537 | https://careers.unido.org/job/Mexico-City-Consultant-for-the-Regulatory-Diagnosis-and-Analysis-of-HFC-23-Policies/1362243555/ | UNIDO | Consultant – Regulatory Diagnosis and Analysis of HFC-23 Policies | 2.4/5 | PDF (no)
+- [x] #538 | https://www.devex.com/jobs/renewable-energy-policy-expert-454700 | Devex | Renewable Energy Policy Expert | 4.2/5 | PDF (no)
 <!-- Scan 2026-08-15 — Multi-portal scheduled scan -->
 - [x] #524 | https://careers.unops.org/careersmarketplace/JobDetail/Operations-Associate-Project-Support/3552 | UNOPS | Operations Associate (Project Support) – Bangkok | 2.5/5 | PDF (no)
 - [x] #525 | https://jobs.smartrecruiters.com/ecovadis/743999778103611-senior-sustainability-analyst | EcoVadis | Senior Sustainability Analyst – Singapore | 3.2/5 | PDF (no)
@@ -1157,11 +1157,11 @@
 - [x] #555 | https://www.climatechangecareers.com/job/intertek-sai-global/sydney-australia/senior-sustainability-consultant/ | Intertek SAI Global | Senior Sustainability Consultant (Sydney, Australia) | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-05-26 — Terra.do (new) -->
-- [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG (San Francisco)
-- [ ] https://www.terra.do/climate-jobs/job-board/Deloitte-Consulting-LLP---Government---Public-Services---Analyst---Sustainability--Climate-and-Equity-Deloitte-8375508/ | Deloitte | Analyst – Sustainability, Climate and Equity (US)
-- [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8169161/ | Oaktree | Analyst/Associate, ESG (Los Angeles)
-- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Climate-and-Decarbonization-Staff-Analyst-Qualcomm-8282401/ | Qualcomm | ESG Climate and Decarbonization Staff Analyst (US)
-- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability-Advisory--Entry-Level--Environmental-Resources-Management--Erm--8323764/ | ERM | Consulting Associate, Sustainability Advisory – Entry Level
+- [x] #539 | https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG (San Francisco) | 3.5/5 | PDF (no)
+- [x] #540 | https://www.terra.do/climate-jobs/job-board/Deloitte-Consulting-LLP---Government---Public-Services---Analyst---Sustainability--Climate-and-Equity-Deloitte-8375508/ | Deloitte | Analyst – Sustainability, Climate and Equity (US) | 3.8/5 | PDF (no)
+- [x] #541 | https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8169161/ | Oaktree | Analyst/Associate, ESG (Los Angeles) | 3.2/5 | PDF (no)
+- [x] #542 | https://www.terra.do/climate-jobs/job-board/ESG-Climate-and-Decarbonization-Staff-Analyst-Qualcomm-8282401/ | Qualcomm | ESG Climate and Decarbonization Staff Analyst (US) | 3.4/5 | PDF (no)
+- [x] #543 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability-Advisory--Entry-Level--Environmental-Resources-Management--Erm--8323764/ | ERM | Consulting Associate, Sustainability Advisory – Entry Level | 4.0/5 | PDF (no)
 - [ ] https://www.terra.do/climate-jobs/job-board/ESG-Consultant-Timely-Recruit-Limited-8233549/ | Timely Recruit | ESG Consultant (Sutton, UK)
 - [ ] https://www.terra.do/climate-jobs/job-board/Clean-Energy-Financial-Analyst-Public-Sector-Consultants-8390021/ | Public Sector Consultants | Clean Energy Financial Analyst (US)
 - [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level-Environmental-Resources-Management--Erm--8233009/ | ERM | Consulting Associate, Sustainability – Entry Level (US/Canada)
