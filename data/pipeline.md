@@ -1162,27 +1162,27 @@
 - [x] #541 | https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8169161/ | Oaktree | Analyst/Associate, ESG (Los Angeles) | 3.2/5 | PDF (no)
 - [x] #542 | https://www.terra.do/climate-jobs/job-board/ESG-Climate-and-Decarbonization-Staff-Analyst-Qualcomm-8282401/ | Qualcomm | ESG Climate and Decarbonization Staff Analyst (US) | 3.4/5 | PDF (no)
 - [x] #543 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability-Advisory--Entry-Level--Environmental-Resources-Management--Erm--8323764/ | ERM | Consulting Associate, Sustainability Advisory – Entry Level | 4.0/5 | PDF (no)
-- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Consultant-Timely-Recruit-Limited-8233549/ | Timely Recruit | ESG Consultant (Sutton, UK)
-- [ ] https://www.terra.do/climate-jobs/job-board/Clean-Energy-Financial-Analyst-Public-Sector-Consultants-8390021/ | Public Sector Consultants | Clean Energy Financial Analyst (US)
-- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level-Environmental-Resources-Management--Erm--8233009/ | ERM | Consulting Associate, Sustainability – Entry Level (US/Canada)
-- [ ] https://www.terra.do/climate-jobs/job-board/sr-analyst-social-impact-sustainability-reportingesg-8354309/ | Alcon | Sr. Analyst, Social Impact & Sustainability Reporting/ESG (Wisconsin)
+- [x] #556 | https://www.terra.do/climate-jobs/job-board/ESG-Consultant-Timely-Recruit-Limited-8233549/ | Timely Recruit | ESG Consultant (Sutton, UK) | 3.2/5 | PDF (no)
+- [x] #557 | https://www.terra.do/climate-jobs/job-board/Clean-Energy-Financial-Analyst-Public-Sector-Consultants-8390021/ | Public Sector Consultants | Clean Energy Financial Analyst (US) | 3.6/5 | PDF (no)
+- [x] #558 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Sustainability--Entry-Level-Environmental-Resources-Management--Erm--8233009/ | ERM | Consulting Associate, Sustainability – Entry Level (US/Canada) | 3.8/5 | PDF (no)
+- [x] #559 | https://www.terra.do/climate-jobs/job-board/sr-analyst-social-impact-sustainability-reportingesg-8354309/ | Alcon | Sr. Analyst, Social Impact & Sustainability Reporting/ESG (Wisconsin) | 2.8/5 | PDF (no)
 
 <!-- Scan 2026-05-27 — Bangkok / Thailand ⭐ -->
 - [x] #527 | https://www.climatechangecareers.com/job/nestle/bangkok-thailand/sustainability-manager/ | Nestlé Thailand | Sustainability Manager | 2.0/5 | PDF (no)
 - [!] https://www.impactpool.org/jobs/1126880 | UNICEF Thailand | National Climate Consultant (Bangkok) — Error: Old Impactpool posting (ID 1126880; current active range 1190000+); cross-posted on unjobnet as #75624102 (current active range 84-87M); GCF/NDA coordination consultancy; posting likely from 2024 and long expired; skip.
 
 <!-- Scan 2026-05-27 — GGGI (new) -->
-- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate ⚠️ 4-5yr exp
-- [ ] https://www.impactpool.org/jobs/880398 | GGGI | Associate, Sustainable Energy Program
+- [x] #560 | https://careers.gggi.org/vacancy/carbon-pricing-senior-associate-578693.html | GGGI | Carbon Pricing Senior Associate ⚠️ 4-5yr exp | 2.5/5 | PDF (no)
+- [x] #561 | https://www.impactpool.org/jobs/880398 | GGGI | Associate, Sustainable Energy Program | 3.8/5 | PDF (no)
 - [!] https://www.impactpool.org/jobs/1107112 | GGGI | Green Finance Network Consultant (International) / IKI-ALCBT (Bangkok/Cambodia/Vietnam) ⭐ — Error: Duplicate of #330 (same Impactpool posting; evaluated 1.5/5); skip.
 
 <!-- Scan 2026-05-27 — UNOPS (new) -->
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29867 | UNOPS | Technical Senior Analyst – Environmental (Clean Energy), Retainer
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29254 | UNOPS | Agriculture and Energy Data Analyst
+- [x] #562 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29867 | UNOPS | Technical Senior Analyst – Environmental (Clean Energy), Retainer | 1.5/5 | PDF (no)
+- [x] #563 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29254 | UNOPS | Agriculture and Energy Data Analyst | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-05-27 — CPI (new) -->
-- [ ] https://www.climatepolicyinitiative.org/career/junior-analyst-climate-energy-and-islamic-finance/ | CPI | Junior Analyst – Climate/Energy and Islamic Finance
-- [ ] https://www.climatepolicyinitiative.org/career/consultant-climate-and-nature-impact-assessment/ | CPI | Consultancy – Climate and Nature Impact Assessment
+- [x] #564 | https://www.climatepolicyinitiative.org/career/junior-analyst-climate-energy-and-islamic-finance/ | CPI | Junior Analyst – Climate/Energy and Islamic Finance | 4.0/5 | PDF (no)
+- [x] #565 | https://www.climatepolicyinitiative.org/career/consultant-climate-and-nature-impact-assessment/ | CPI | Consultancy – Climate and Nature Impact Assessment | 3.7/5 | PDF (no)
 - [ ] https://climatepolicyinitiative.org/career/analystsf/ | CPI | Analyst – Climate Finance (San Francisco)
 
 <!-- Scan 2026-05-27 — FAO / ILO (new) -->
