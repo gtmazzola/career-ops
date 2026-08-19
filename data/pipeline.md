@@ -1740,3 +1740,20 @@
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Regional-Policy-and-Technical-Sustainability-Advisor-Retainer/1627 | UNOPS | Regional Policy and Technical Sustainability Advisor (Retainer)
 - [ ] https://untalent.org/jobs/subnational-climate-finance-and-sustainable-buildings-consultant | UNEP | Subnational Climate Finance and Sustainable Buildings Consultant
 - [ ] https://unjobs.org/vacancies/1786446738209 | GGGI | Associate, Norwegian Article 6 Climate Action (NACA) Fund
+
+<!-- Scan 2026-08-19 — Multi-portal scheduled scan -->
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/Investment-Associate.html | AIIB | Investment Associate
+- [ ] https://careers.un.org/jobSearchDescription/265377?language=en | UN | Associate Programme Officer, DECI/IE (Temporary), P2
+- [ ] https://jobs.ilo.org/job/Geneva-Project-Technical-Officer-(80)-1200/1204952201/ | ILO | Project Technical Officer (80%)
+- [ ] https://jobs.ilo.org/job/Project-Manager-P4/13717-en_GB | ILO | Project Manager P4
+- [ ] https://jobs.ilo.org/job/National-Project-Officer-Grant-Officer-NOA-(DC)/13745-en_GB | ILO | National Project Officer - Grant Officer NOA (DC)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2201011 | FAO | Climate Change Effects on Agricultural Value Chains (National Consultant)
+- [ ] https://builtin.com/job/esg-research-associate-sdgs/7105584 | ISS ESG | ESG Research Associate (SDGs)
+- [ ] https://www.idealist.org/en/consultant-job/c3170c6f20a64943818c4a970fefd6d6-senior-associate-climate-solutions-cea-consulting-san-francisco | CEA Consulting | Senior Associate, Climate Solutions
+- [ ] https://www.developmentaid.org/tenders/view/1607507/ | ADB / GCF / FCDO / EC | Policy and Regulations Expert – Accelerating Climate Transitions through Green Finance in Southeast Asia
+- [ ] https://devjobsindo.org/ngo-jobs/advisor-renewable-energy-expansion-procurement-strategy-re2grid-project-energy-transition-cluster/ | GIZ | Advisor, Renewable Energy Expansion & Procurement Strategy (RE2GRID)
+- [ ] https://opportunitiesforeveryone.net/giz-is-hiring-for-an-infrastructure-and-energy-consultant-apply-now/ | GIZ | Infrastructure and Energy Consultant
+- [ ] https://www.impactpool.org/jobs/1112922 | GGGI | Sustainable Finance & ESG Officer
+- [ ] https://appliedeconjobs.substack.com/p/gender-environment-and-justice-team | Stockholm Environment Institute Asia (SEI Bangkok) | Gender, Environment, and Justice Team Lead and Researcher
+- [ ] https://unjoblink.org/job/climate-finance-analyst/ | UN | Climate Finance Analyst
+- [ ] https://unjobs.org/vacancies/1785174883347 | Dalberg | Analyst – Mumbai / New Delhi
