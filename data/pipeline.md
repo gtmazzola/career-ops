@@ -3,9 +3,9 @@
 ## Pendientes
 
 <!-- Scan 2026-08-20 — Multi-portal scheduled scan -->
-- [ ] https://www.impactpool.org/jobs/1163051 | GGGI | Climate Action Program Officer
-- [ ] https://newclimate.org/about-us/working-with-us/senior-content-lead-european-climate-policy-and-transition-strategies-r | NewClimate Institute | Senior content lead – European Climate Policy and Transition Strategies
-- [ ] https://www.impactpool.org/jobs/897220 | UNOPS | Climate Programme Officer
+- [x] #566 | https://www.impactpool.org/jobs/1163051 | GGGI | Climate Action Program Officer | 3.9/5 | PDF (no)
+- [x] #567 | https://newclimate.org/about-us/working-with-us/senior-content-lead-european-climate-policy-and-transition-strategies-r | NewClimate Institute | Senior content lead – European Climate Policy and Transition Strategies | 2.5/5 | PDF (no)
+- [x] #568 | https://www.impactpool.org/jobs/897220 | UNOPS | Climate Programme Officer | 3.8/5 | PDF (no)
 
 <!-- Scan 2026-08-17 — Multi-portal scheduled scan -->
 - [x] #534 | https://untalent.org/jobs/junior-programme-analyst-1 | UNDP | Junior Programme Analyst | 3.5/5 | PDF (no)
@@ -1188,19 +1188,19 @@
 <!-- Scan 2026-05-27 — CPI (new) -->
 - [x] #564 | https://www.climatepolicyinitiative.org/career/junior-analyst-climate-energy-and-islamic-finance/ | CPI | Junior Analyst – Climate/Energy and Islamic Finance | 4.0/5 | PDF (no)
 - [x] #565 | https://www.climatepolicyinitiative.org/career/consultant-climate-and-nature-impact-assessment/ | CPI | Consultancy – Climate and Nature Impact Assessment | 3.7/5 | PDF (no)
-- [ ] https://climatepolicyinitiative.org/career/analystsf/ | CPI | Analyst – Climate Finance (San Francisco)
+- [x] #569 | https://climatepolicyinitiative.org/career/analystsf/ | CPI | Analyst – Climate Finance (San Francisco) | 3.4/5 | PDF (no)
 
 <!-- Scan 2026-05-27 — FAO / ILO (new) -->
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist
-- [ ] https://jobs.ilo.org/job/Manila-National-Project-Coordinator/13496-en_GB/ | ILO | National Project Coordinator (Manila)
+- [x] #570 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist | 2.8/5 | PDF (no)
+- [x] #571 | https://jobs.ilo.org/job/Manila-National-Project-Coordinator/13496-en_GB/ | ILO | National Project Coordinator (Manila) | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-05-27 — Terra.do / Global Consulting (new) -->
-- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Analyst-Inspired-PLC-8380260/ | Inspired PLC | ESG Analyst (UK)
-- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate---Sustainability-Strategy---Disclosure--Entry-level--Environmental-Resources-Management--Erm--8276927/ | ERM | Consulting Associate – Sustainability Strategy & Disclosure (Entry Level)
-- [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8349898/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability
+- [x] #572 | https://www.terra.do/climate-jobs/job-board/ESG-Analyst-Inspired-PLC-8380260/ | Inspired PLC | ESG Analyst (UK) | 3.3/5 | PDF (no)
+- [x] #573 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate---Sustainability-Strategy---Disclosure--Entry-level--Environmental-Resources-Management--Erm--8276927/ | ERM | Consulting Associate – Sustainability Strategy & Disclosure (Entry Level) | 4.1/5 | PDF (no)
+- [x] #574 | https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8349898/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability | 3.0/5 | PDF (no)
 
 <!-- Scan 2026-05-27 — Global / Development orgs -->
-- [ ] https://unjobs.org/vacancies/1774037969427 | Winrock International | Junior/Sr. Technical Consultant – Sustainability Services (Arlington, US)
+- [x] #575 | https://unjobs.org/vacancies/1774037969427 | Winrock International | Junior/Sr. Technical Consultant – Sustainability Services (Arlington, US) | 3.7/5 | PDF (no)
 - [ ] https://careers.southpole.com/jobs/1526673-senior-climate-impact-specialist-digital-climate-solutions | South Pole | Senior Climate Impact Specialist – Digital Climate Solutions
 
 <!-- Scan 2026-05-28 — Bangkok / Thailand ⭐ -->
