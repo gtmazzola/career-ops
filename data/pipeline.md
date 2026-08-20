@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-20 — Multi-portal scheduled scan -->
+- [ ] https://www.impactpool.org/jobs/1163051 | GGGI | Climate Action Program Officer
+- [ ] https://newclimate.org/about-us/working-with-us/senior-content-lead-european-climate-policy-and-transition-strategies-r | NewClimate Institute | Senior content lead – European Climate Policy and Transition Strategies
+- [ ] https://www.impactpool.org/jobs/897220 | UNOPS | Climate Programme Officer
+
 <!-- Scan 2026-08-17 — Multi-portal scheduled scan -->
 - [x] #534 | https://untalent.org/jobs/junior-programme-analyst-1 | UNDP | Junior Programme Analyst | 3.5/5 | PDF (no)
 - [x] #535 | https://www.impactpool.org/jobs/1168009 | UNDP | Programme Analyst (Governance) | 2.5/5 | PDF (no)
