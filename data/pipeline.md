@@ -1201,23 +1201,23 @@
 
 <!-- Scan 2026-05-27 — Global / Development orgs -->
 - [x] #575 | https://unjobs.org/vacancies/1774037969427 | Winrock International | Junior/Sr. Technical Consultant – Sustainability Services (Arlington, US) | 3.7/5 | PDF (no)
-- [ ] https://careers.southpole.com/jobs/1526673-senior-climate-impact-specialist-digital-climate-solutions | South Pole | Senior Climate Impact Specialist – Digital Climate Solutions
+- [x] #576 | https://careers.southpole.com/jobs/1526673-senior-climate-impact-specialist-digital-climate-solutions | South Pole | Senior Climate Impact Specialist – Digital Climate Solutions | 3.2/5 | PDF (no)
 
 <!-- Scan 2026-05-28 — Bangkok / Thailand ⭐ -->
 - [!] https://www.unjobnet.org/jobs/detail/85823466 | UNICEF EAPRO | Programme Specialist (Climate Finance) Re-Advertisement (Bangkok) — Error: Application deadline May 8, 2026 — expired approximately 12 weeks ago; P-level Bangkok role supporting GCF pipeline development; position closed.
-- [ ] https://www.thaingo.org/jobs/detail/19070/2 | GIZ / ThaiNGO | Consultant – ESG Performance Indicators for SME Suppliers Decarbonization (Bangkok) ⭐
-- [ ] https://reliefweb.int/job/3900508/climate-change-cc-adviser | P4I | Climate Change (CC) Adviser (Bangkok) ⭐
+- [x] #577 | https://www.thaingo.org/jobs/detail/19070/2 | GIZ / ThaiNGO | Consultant – ESG Performance Indicators for SME Suppliers Decarbonization (Bangkok) ⭐ | 3.8/5 | PDF (no)
+- [x] #578 | https://reliefweb.int/job/3900508/climate-change-cc-adviser | P4I | Climate Change (CC) Adviser (Bangkok) ⭐ | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-05-28 — IEA / OECD (new) -->
-- [ ] https://www.impactpool.org/jobs/1159461 | IEA/OECD | Energy Analyst – Desk Officer (Paris)
-- [ ] https://oecd.impactpool.org/vacancies/1183747 | IEA | Young Associate 2026–28 (Paris)
-- [ ] https://oecd.impactpool.org/vacancies/1187475 | OECD | Energy and Environment Analyst (Paris)
+- [x] #579 | https://www.impactpool.org/jobs/1159461 | IEA/OECD | Energy Analyst – Desk Officer (Paris) | 3.8/5 | PDF (no)
+- [x] #580 | https://oecd.impactpool.org/vacancies/1183747 | IEA | Young Associate 2026–28 (Paris) | 4.0/5 | PDF (no)
+- [x] #581 | https://oecd.impactpool.org/vacancies/1187475 | OECD | Energy and Environment Analyst (Paris) | 3.7/5 | PDF (no)
 
 <!-- Scan 2026-05-28 — ERM Asia (new) -->
-- [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Senior Associate – Corporate Sustainability & Climate Change (Seoul)
-- [ ] https://www.climatechangecareers.com/job/erm/tokyo-japan/graduate-consultant-entry-level/ | ERM Japan | Graduate Consultant (Entry Level) (Tokyo)
-- [ ] https://www.climatechangecareers.com/job/erm/osaka-japan/junior-mid-career-consultant-entry-level/ | ERM Japan | Junior Mid-career Consultant (Entry Level) (Osaka)
-- [ ] https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Climate-Change--Entry-Level--Environmental-Resources-Management--Erm--70350006/ | ERM | Consulting Associate – Climate Change (Entry Level)
+- [x] #582 | https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Senior Associate – Corporate Sustainability & Climate Change (Seoul) | 3.7/5 | PDF (no)
+- [x] #583 | https://www.climatechangecareers.com/job/erm/tokyo-japan/graduate-consultant-entry-level/ | ERM Japan | Graduate Consultant (Entry Level) (Tokyo) | 2.0/5 | PDF (no)
+- [x] #584 | https://www.climatechangecareers.com/job/erm/osaka-japan/junior-mid-career-consultant-entry-level/ | ERM Japan | Junior Mid-career Consultant (Entry Level) (Osaka) | 2.0/5 | PDF (no)
+- [x] #585 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Climate-Change--Entry-Level--Environmental-Resources-Management--Erm--70350006/ | ERM | Consulting Associate – Climate Change (Entry Level) | 4.0/5 | PDF (no)
 
 <!-- Scan 2026-05-28 — Singapore / Asia (new) -->
 - [ ] https://www.terra.do/climate-jobs/job-board/Sustainability-ESG-Consultant-Delta-Electronics-Southeast-Asia---Oceania-8317938/ | Delta Electronics SEA | Sustainability/ESG Consultant (Singapore)
