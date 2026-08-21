@@ -1762,3 +1762,11 @@
 - [ ] https://appliedeconjobs.substack.com/p/gender-environment-and-justice-team | Stockholm Environment Institute Asia (SEI Bangkok) | Gender, Environment, and Justice Team Lead and Researcher
 - [ ] https://unjoblink.org/job/climate-finance-analyst/ | UN | Climate Finance Analyst
 - [ ] https://unjobs.org/vacancies/1785174883347 | Dalberg | Analyst – Mumbai / New Delhi
+
+<!-- Scan 2026-08-21 — Multi-portal scheduled scan -->
+- [ ] https://www.impactpool.org/jobs/734456 | UNICEF Bangkok | Technical Consultant – Climate and Disaster Resilience
+- [ ] https://untalent.org/jobs/programme-analyst-carbon-market | UNDP | Programme Analyst (Carbon Market)
+- [ ] https://untalent.org/jobs/carbon-markets-specialist | UNEP | Carbon Markets Specialist
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior Advisor – Demand-Side Subsidies (Energising Development)
+- [ ] https://www.climatechangecareers.com/job/un-environment-programme/bangkok-thailand/programme-management-officer/ | UNEP | Programme Management Officer (Bangkok)
+- [ ] https://builtin.com/job/program-associate-thailand/3023382 | Unknown | Program Associate – Thailand
