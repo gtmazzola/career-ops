@@ -1770,3 +1770,17 @@
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior Advisor – Demand-Side Subsidies (Energising Development)
 - [ ] https://www.climatechangecareers.com/job/un-environment-programme/bangkok-thailand/programme-management-officer/ | UNEP | Programme Management Officer (Bangkok)
 - [ ] https://builtin.com/job/program-associate-thailand/3023382 | Unknown | Program Associate – Thailand
+
+<!-- Scan 2026-08-22 — Multi-portal scheduled scan -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109093 | UNDP | Research Analyst (Bangkok NPSA-9 — deadline Sep-2-26)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=105732 | UNDP | Research Analyst
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104216 | UNDP | Research Analyst
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=94924 | UNDP | Climate Finance Expert
+- [ ] https://www.impactpool.org/jobs/1122470 | UNDP | Research Analyst (2 openings)
+- [ ] https://www.impactpool.org/jobs/550826 | UNICEF EAPRO | Consultancy – Accelerating Climate Actions for Children (Bangkok)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Health-Safety-Social-and-Environmental-Senior-Analyst-Analysis-and-Reporting/1845 | UNOPS | Health Safety Social Environmental Senior Analyst
+- [ ] https://www.unescap.org/node/43149 | UN ESCAP | Project Coordinator (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1147706 | ADB | Environment Specialist
+- [ ] https://www.devex.com/jobs/2026-research-analyst-1416856 | Devex | Research Analyst 2026
+- [ ] https://www.devex.com/jobs/investment-analyst-energy-transition-1364497 | Devex | Investment Analyst – Energy Transition
+- [ ] https://reliefweb.int/job/4088991/monitoring-and-reporting-mr-specialist | ReliefWeb | Monitoring and Reporting Specialist (Thailand)
