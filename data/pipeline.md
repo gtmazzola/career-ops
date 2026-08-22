@@ -1220,20 +1220,20 @@
 - [x] #585 | https://www.terra.do/climate-jobs/job-board/Consulting-Associate--Climate-Change--Entry-Level--Environmental-Resources-Management--Erm--70350006/ | ERM | Consulting Associate – Climate Change (Entry Level) | 4.0/5 | PDF (no)
 
 <!-- Scan 2026-05-28 — Singapore / Asia (new) -->
-- [ ] https://www.terra.do/climate-jobs/job-board/Sustainability-ESG-Consultant-Delta-Electronics-Southeast-Asia---Oceania-8317938/ | Delta Electronics SEA | Sustainability/ESG Consultant (Singapore)
-- [ ] https://www.unjobnet.org/jobs/detail/85344694 | IDB Invest | Sustainability Disclosures Consultant
-- [ ] https://careers.gggi.org/vacancy/indonesia-investment-officer-climate-innovation-and-entrepreneurship-600967.html | GGGI Indonesia | Investment Officer – Climate Innovation and Entrepreneurship (Jakarta)
+- [x] #566 | https://www.terra.do/climate-jobs/job-board/Sustainability-ESG-Consultant-Delta-Electronics-Southeast-Asia---Oceania-8317938/ | Delta Electronics SEA | Sustainability/ESG Consultant (Singapore) | 2.5/5 | PDF (no)
+- [x] #567 | https://www.unjobnet.org/jobs/detail/85344694 | IDB Invest | Sustainability Disclosures Consultant | 3.5/5 | PDF (no)
+- [x] #568 | https://careers.gggi.org/vacancy/indonesia-investment-officer-climate-innovation-and-entrepreneurship-600967.html | GGGI Indonesia | Investment Officer – Climate Innovation and Entrepreneurship (Jakarta) | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-05-28 — UN / IOs (new) -->
-- [ ] https://www.unjobnet.org/jobs/detail/7209148 | UNDP | Junior Analyst Consultant – Energy and Climate Change (New York)
-- [ ] https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert (India/Bangladesh)
+- [x] #569 | https://www.unjobnet.org/jobs/detail/7209148 | UNDP | Junior Analyst Consultant – Energy and Climate Change (New York) | 3.5/5 | PDF (no)
+- [x] #570 | https://www.unjobnet.org/jobs/detail/86392899 | UNEP | Low-carbon Housing Expert (India/Bangladesh) | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-06-23 — Multi-portal: GGGI / Impactpool / OECD / EBRD / UNICEF / AIIB / FAO / GIZ / ILO / UNESCAP / Terra.do / ReliefWeb -->
-- [ ] https://careers.gggi.org/vacancy/climate-finance-access-network-cfan-senior-associate-nuku%E2%80%99alofa-tonga-568428.html | GGGI | Climate Finance Access Network (CFAN) Senior Associate – Tonga
-- [ ] https://www.impactpool.org/jobs/1203696 | World Bank | Operations Officer – Sustainable Infrastructure Advisory
-- [ ] https://oecd.impactpool.org/vacancies/1165826 | OECD | Energy Analysts (PAL5/PAL6)
-- [ ] https://reliefweb.int/job/3984131/usaidecuador-energyenvironment-analyst | USAID | Energy/Environment Analyst – Ecuador
-- [ ] https://www.unjobnet.org/jobs/detail/84348270 | EBRD | Analyst, Impact Assessment and Foresight
+- [x] #571 | https://careers.gggi.org/vacancy/climate-finance-access-network-cfan-senior-associate-nuku%E2%80%99alofa-tonga-568428.html | GGGI | Climate Finance Access Network (CFAN) Senior Associate – Tonga | 2.0/5 | PDF (no)
+- [x] #572 | https://www.impactpool.org/jobs/1203696 | World Bank | Operations Officer – Sustainable Infrastructure Advisory | 2.5/5 | PDF (no)
+- [x] #573 | https://oecd.impactpool.org/vacancies/1165826 | OECD | Energy Analysts (PAL5/PAL6) | 3.5/5 | PDF (no)
+- [x] #574 | https://reliefweb.int/job/3984131/usaidecuador-energyenvironment-analyst | USAID | Energy/Environment Analyst – Ecuador | 3.0/5 | PDF (no)
+- [x] #575 | https://www.unjobnet.org/jobs/detail/84348270 | EBRD | Analyst, Impact Assessment and Foresight | 3.5/5 | PDF (no)
 - [ ] https://www.unjobnet.org/jobs/detail/85743841 | OECD | Junior Power Sector Modeller – Temporary
 - [ ] https://www.unjobnet.org/jobs/detail/84604103 | OECD | Renewable Energy Analyst
 - [ ] https://www.terra.do/climate-jobs/job-board/Remote-Energy-Transition-Analyst-WhatJobs-Direct-8375093/ | WhatJobs Direct | Remote Energy Transition Analyst
