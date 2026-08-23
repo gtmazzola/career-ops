@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 588 | 2026-08-23 | ThinkBAC Consulting | Sr. Renewables Asset Management Analyst | 2.2/5 | Evaluada | ❌ | [569](reports/569-thinkbac-sr-renewables-asset-management-analyst-2026-08-23.md) | Remote US; utility-scale AM + ISO/RTO knowledge hard gap; do not apply |
 | 587 | 2026-08-22 | IDB Invest | Sustainability Disclosures Consultant | 3.5/5 | Evaluada | ❌ | [567](reports/567-idb-invest-2026-08-22.md) | ESG disclosures support (ISSB/TNFD/GRI) in MDB — good framework match, US citizen advantage for DC |
 | 577 | 2026-08-21 | GIZ / ThaiNGO | Consultant – ESG Performance Indicators for SME Suppliers Decarbonization | 3.8/5 | Evaluada | ❌ | [577](reports/577-giz-esg-sme-decarbonization-consultant-2026-08-21.md) | Bangkok; strong ESG+Mekong fit; likely expired (contract ends Aug 31 2026) |
 | 583 | 2026-08-21 | ERM Japan | Graduate Consultant (Entry Level) | 2.0/5 | Evaluada | ❌ | [583](reports/583-erm-japan-graduate-consultant-tokyo-2026-08-21.md) | Tokyo; Japanese N1 hard blocker; do not apply |
@@ -10,7 +11,7 @@
 | 586 | 2026-08-21 | IEA | Young Associate 2026–28 (Energy Data Centre) | 4.0/5 | Evaluada | ❌ | [580](reports/580-iea-young-associate-2026-28-2026-08-21.md) | Paris; level match; strong quant+data fit; competitive but worth applying |
 | 568 | 2026-08-20 | UNOPS | Climate Programme Officer | 3.8/5 | Evaluada | ❌ | [568](reports/568-unops-climate-programme-officer-2026-08-20.md) | Strong IO fit, NDC/climate work, verify if still open (older posting) |
 | 570 | 2026-08-20 | FAO | Project Analyst and Reporting Specialist | 2.8/5 | Evaluada | ❌ | [570](reports/570-fao-project-analyst-reporting-specialist-2026-08-20.md) | CLOSED (Mar 3), multilingual requirement gap |
-| 571 | 2026-08-22 | GGGI | CFAN Senior Associate – Tonga | 2.0/5 | Evaluada | ❌ | [571](reports/571-gggi-cfan-tonga-2026-08-22.md) | Re-eval 2026-08-22 (1.5→2). Contract expired June 2026, local staff preference, Pacific SIDS context — not applicable |
+| 571 | 2026-08-23 | GSI Environmental | Senior Climate Risk Analyst | 3.0/5 | Evaluada | ❌ | [571](reports/571-gsi-environmental-senior-climate-risk-analyst-2026-08-23.md) | Re-eval 2026-08-23 (2→3). US; strong ESG framework match (TCFD/IFRS S2); experience gap manageable if applying as Analyst |
 | 572 | 2026-08-20 | Inspired PLC | ESG Analyst (UK) | 3.3/5 | Evaluada | ❌ | [572](reports/572-inspired-plc-esg-analyst-2026-08-20.md) | Good ESG framework fit, UK work auth challenge post-Brexit |
 | 574 | 2026-08-20 | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability | 3.0/5 | Evaluada | ❌ | [574](reports/574-bcg-vantage-senior-analyst-climate-sustainability-2026-08-20.md) | Seniority gap (2+ yrs consulting required), revisit after ERM-type role |
 | 556 | 2026-08-19 | Timely Recruit | ESG Consultant | 3.2/5 | Evaluada | ❌ | [556](reports/556-timely-recruit-esg-consultant-2026-08-19.md) | ESG consulting advisory Sutton UK hybrid; £35-45k; UK visa required; frameworks match but no corporate ESG consulting experience |
