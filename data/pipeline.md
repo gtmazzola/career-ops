@@ -1784,3 +1784,12 @@
 - [ ] https://www.devex.com/jobs/2026-research-analyst-1416856 | Devex | Research Analyst 2026
 - [ ] https://www.devex.com/jobs/investment-analyst-energy-transition-1364497 | Devex | Investment Analyst – Energy Transition
 - [ ] https://reliefweb.int/job/4088991/monitoring-and-reporting-mr-specialist | ReliefWeb | Monitoring and Reporting Specialist (Thailand)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=89116 | UNDP | Communications Consultant - Energy and Climate Change
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=100493 | UNDP | Individual Consultant – Energy Efficiency Consultant
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101425 | UNDP | Programme Officer
+- [ ] https://th.linkedin.com/jobs/view/managing-consultant-corporate-sustainability-and-climate-change-at-erm-3596186487 | ERM | Managing Consultant - Corporate Sustainability and Climate Change
+- [ ] https://careers.unido.org/job/Mexico-City-National-Ozone-Office-Coordinator/1364426255/ | UNIDO | National Ozone Office Coordinator
+- [ ] https://www.climatebase.org/job/64337306/ehs-consulting-associatesenior-associate | ERM | EHS Consulting Associate/Senior Associate
+- [ ] https://climatebase.org/job/59752657/expression-of-interest---corporate-sustainability--climate-change-consultant | ERM | Expression of Interest - Corporate Sustainability & Climate Change Consultant
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88524 | UNDP | Programme and Policy Consultant for UNDP-GEF
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42441 | UNDP | Programme Analyst - Climate Change
