@@ -2,6 +2,25 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-24 — Multi-portal scheduled scan -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103482 | UNDP | Junior Programme Analyst
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104518 | UNDP | Junior Programme Analyst IPSA 8
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=105333 | UNDP | Programme Analyst
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Climate-Change-Adaptation-Officer-Home-based-Retainer-Pretoria-South-Africa/4260 | UNOPS | Climate Change Adaptation Officer
+- [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand
+- [ ] https://www.impactpool.org/jobs/1212777 | GGGI | Article 6 - Restoration Permanence Analysis Consultant
+- [ ] https://climatebase.org/job/62220049/consultant-environmental-data--analytics | Climatebase | Consultant, Environmental Data & Analytics
+- [ ] https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant (Thailand)
+- [ ] https://www.linkedin.com/jobs/view/esg-consultant-cgs-at-scg-4280557635 | SCG | ESG Consultant - CGS
+- [ ] https://unjobs.org/vacancies/1763405251453 | GGGI | Consultant for Green Finance Network (GFN), Bangkok
+- [ ] https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant, Bangkok
+- [ ] https://unjobs.org/vacancies/1775198057786 | ESCAP | Consultant - Sinking Cities Project, Bangkok
+- [ ] https://unjobs.org/vacancies/1761903085873 | ESCAP | National Climate Analysis Expert, Bangkok
+- [ ] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert, Bangkok
+- [ ] https://unjobs.org/vacancies/1674676047784 | ESCAP | Cities and Climate Change Technical Advisor, Thailand
+- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID Thailand | ESG Specialist, USAID/Thailand PAGI
+- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Various | Individual Consultant - Fund ESG and Sustainability
+
 <!-- Scan 2026-08-20 — Multi-portal scheduled scan -->
 - [x] #566 | https://www.impactpool.org/jobs/1163051 | GGGI | Climate Action Program Officer | 3.9/5 | PDF (no)
 - [x] #567 | https://newclimate.org/about-us/working-with-us/senior-content-lead-european-climate-policy-and-transition-strategies-r | NewClimate Institute | Senior content lead – European Climate Policy and Transition Strategies | 2.5/5 | PDF (no)
