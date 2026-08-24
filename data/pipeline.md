@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-08-24 — Multi-portal scheduled scan -->
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103482 | UNDP | Junior Programme Analyst
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104518 | UNDP | Junior Programme Analyst IPSA 8
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=105333 | UNDP | Programme Analyst
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Climate-Change-Adaptation-Officer-Home-based-Retainer-Pretoria-South-Africa/4260 | UNOPS | Climate Change Adaptation Officer
-- [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand
-- [ ] https://www.impactpool.org/jobs/1212777 | GGGI | Article 6 - Restoration Permanence Analysis Consultant
-- [ ] https://climatebase.org/job/62220049/consultant-environmental-data--analytics | Climatebase | Consultant, Environmental Data & Analytics
-- [ ] https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant (Thailand)
-- [ ] https://www.linkedin.com/jobs/view/esg-consultant-cgs-at-scg-4280557635 | SCG | ESG Consultant - CGS
-- [ ] https://unjobs.org/vacancies/1763405251453 | GGGI | Consultant for Green Finance Network (GFN), Bangkok
+- [x] #589 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103482 | UNDP | Junior Programme Analyst | 3.6/5 | PDF (no)
+- [x] #590 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104518 | UNDP | Junior Programme Analyst IPSA 8 | 3.7/5 | PDF (no)
+- [x] #591 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=105333 | UNDP | Programme Analyst | 4.3/5 | PDF (no)
+- [x] #592 | https://careers.unops.org/careersmarketplace/JobDetail/Climate-Change-Adaptation-Officer-Home-based-Retainer-Pretoria-South-Africa/4260 | UNOPS | Climate Change Adaptation Officer | 3.0/5 | PDF (no)
+- [x] #593 | https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand | 4.4/5 | PDF (no)
+- [x] #594 | https://www.impactpool.org/jobs/1212777 | GGGI | Article 6 - Restoration Permanence Analysis Consultant | 2.6/5 | PDF (no)
+- [x] #595 | https://climatebase.org/job/62220049/consultant-environmental-data--analytics | Climatebase | Consultant, Environmental Data & Analytics | 3.2/5 | PDF (no)
+- [x] #596 | https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant (Thailand) | 2.8/5 | PDF (no)
+- [x] #597 | https://www.linkedin.com/jobs/view/esg-consultant-cgs-at-scg-4280557635 | SCG | ESG Consultant - CGS | 4.2/5 | PDF (no)
+- [x] #598 | https://unjobs.org/vacancies/1763405251453 | GGGI | Consultant for Green Finance Network (GFN), Bangkok | 4.5/5 | PDF (no)
 - [ ] https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant, Bangkok
 - [ ] https://unjobs.org/vacancies/1775198057786 | ESCAP | Consultant - Sinking Cities Project, Bangkok
 - [ ] https://unjobs.org/vacancies/1761903085873 | ESCAP | National Climate Analysis Expert, Bangkok
