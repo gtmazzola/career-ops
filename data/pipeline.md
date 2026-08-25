@@ -1365,6 +1365,26 @@
 - [ ] https://jobs.greenclimate.fund/job/NA-Compliance-Consultant/924586701/ | GCF | Compliance Consultant (Remote)
 - [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Reporting-and-Accounting-Consultant/1147206801/ | GCF | Financial Reporting and Accounting Consultant
 
+<!-- Scan 2026-08-25 — Multi-portal scheduled scan -->
+- [ ] https://builtin.com/job/sustainability-performance-analyst-mea-apac/6699535 | Accor | Sustainability Performance Analyst MEA APAC
+- [ ] https://careers.accor.com/fr/fr/job/sustainability-change-officer-mea-apac-in-bangkok-thailand-jid-61809 | Accor | Sustainability Change Officer MEA APAC
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Associate/2447 | UNOPS | Project Management Support - Associate (Bangkok ETP)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Social-and-Environmental-Senior-Analyst/3969 | UNOPS | Social and Environmental Senior Analyst
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Monitoring-and-Evaluation-Senior-Officer/1170 | UNOPS | Monitoring and Evaluation Senior Officer
+- [ ] https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management - Senior Officer (ETP Bangkok)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Senior-Analyst/3797 | UNOPS | Project Management Office (PMO) - Senior Analyst
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor - Energy Transition
+- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant, Corporate Climate Targets
+- [ ] https://careers.southpole.com/jobs/5526878-junior-associate-associate-specialist | South Pole | Junior Associate / Associate Specialist
+- [ ] https://www.impactpool.org/jobs/1229319 | UNEP FI | Climate and Investment Consultant
+- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI/JLL | Climate and Decarbonization Strategy Associate
+- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate / Senior Associate - Corporate Sustainability & Climate Change
+- [ ] https://startup.jobs/sustainability-specialist-bangkok-based-agoda-7398570 | Agoda | Sustainability Specialist (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1220480 | Sequoia Climate Foundation | Consultant Program Manager, Southeast Asia
+- [ ] https://careers.unido.org/job/Bangkok-Programme-Assistant/1346027055/ | UNIDO | Programme Assistant (Bangkok)
+- [ ] https://careers.unido.org/job/Bangkok-National-Project-Coordinator-(NPC)/1155406055/ | UNIDO | National Project Coordinator (NPC) (Bangkok) ⚠️ national consultant - check eligibility
+- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda)
+
 ## Procesadas
 
 - [x] #524 | https://careers.unido.org/job/Vienna-Project-Coordinator/1352014555/ | UNIDO | Project Coordinator (Vienna) | SKIP (expired Jun 2026) | PDF ❌
