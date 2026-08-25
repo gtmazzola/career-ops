@@ -13,13 +13,13 @@
 - [x] #596 | https://www.impactpool.org/jobs/862052 | FHI 360 | Sustainability and Impact Consultant (Thailand) | 2.8/5 | PDF (no)
 - [x] #597 | https://www.linkedin.com/jobs/view/esg-consultant-cgs-at-scg-4280557635 | SCG | ESG Consultant - CGS | 4.2/5 | PDF (no)
 - [x] #598 | https://unjobs.org/vacancies/1763405251453 | GGGI | Consultant for Green Finance Network (GFN), Bangkok | 4.5/5 | PDF (no)
-- [ ] https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant, Bangkok
-- [ ] https://unjobs.org/vacancies/1775198057786 | ESCAP | Consultant - Sinking Cities Project, Bangkok
-- [ ] https://unjobs.org/vacancies/1761903085873 | ESCAP | National Climate Analysis Expert, Bangkok
-- [ ] https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert, Bangkok
-- [ ] https://unjobs.org/vacancies/1674676047784 | ESCAP | Cities and Climate Change Technical Advisor, Thailand
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID Thailand | ESG Specialist, USAID/Thailand PAGI
-- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | Various | Individual Consultant - Fund ESG and Sustainability
+- [x] #599 | https://unjobs.org/vacancies/1765247460856 | ESCAP | Sustainable Finance Consultant | 3.6/5 | PDF (no)
+- [x] #600 | https://unjobs.org/vacancies/1775198057786 | ESCAP | Consultant – Sinking Cities Project | 2.5/5 | PDF (no)
+- [x] #601 | https://unjobs.org/vacancies/1761903085873 | ESCAP | National Climate Analysis Expert | 3.0/5 | PDF (no)
+- [x] #602 | https://unjobs.org/vacancies/1770190363610 | UNEP | Renewable Energy & Access to Finance Coaching Expert | 2.5/5 | PDF (no)
+- [x] #603 | https://unjobs.org/vacancies/1674676047784 | ESCAP | Cities and Climate Change Technical Advisor | 3.8/5 | PDF (no)
+- [x] #604 | https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-usaid-thailand-pagi-1260041 | USAID Thailand (DAI) | ESG Specialist, USAID/Thailand PAGI | 3.5/5 | PDF (no)
+- [x] #605 | https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | UNICEF Office of Innovation | Individual Consultant – Fund ESG and Sustainability | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-08-20 — Multi-portal scheduled scan -->
 - [x] #566 | https://www.impactpool.org/jobs/1163051 | GGGI | Climate Action Program Officer | 3.9/5 | PDF (no)
@@ -1263,9 +1263,9 @@
 - [x] #573 | https://www.thaingo.org/jobs/detail/14630 | GIZ Thailand | Senior Advisor – Just Transition in Coal Regions | 3.5/5 | PDF (no)
 - [x] #574 | https://www.unescap.org/node/43309 | UNESCAP | Disaster Risk Reduction Consultant (Bangkok) | 3.0/5 | PDF (no)
 - [x] #575 | https://jobs.ilo.org/job/National-Project-Coordinator-NOB/13692-en_GB/ | ILO | National Project Coordinator – NOB (Jakarta) | 1.5/5 | PDF (no)
-- [ ] https://jobs.unicef.org/en-us/job/568498/consultant-climate-environment-energy-and-disaster-risk-reduction-design-req-568498 | UNICEF | Consultant – Climate, Environment, Energy and DRR Design
-- [ ] https://jobs.unicef.org/en-us/job/581647/consultancy-sustainable-energy-consultant-req581647 | UNICEF | Sustainable Energy Consultant
-- [ ] https://jobs.unicef.org/en-us/job/591382/sustainable-and-blended-finance-specialist-consultant-office-of-innovation-copenhagen-denmark-6-months-remote | UNICEF | Sustainable and Blended Finance Specialist Consultant (Copenhagen/Remote)
+- [x] #606 | https://jobs.unicef.org/en-us/job/568498/consultant-climate-environment-energy-and-disaster-risk-reduction-design-req-568498 | UNICEF | Consultant – Climate, Environment, Energy and DRR Design | 1.0/5 | PDF (no)
+- [x] #607 | https://jobs.unicef.org/en-us/job/581647/consultancy-sustainable-energy-consultant-req581647 | UNICEF | Sustainable Energy Consultant | 3.2/5 | PDF (no)
+- [x] #608 | https://jobs.unicef.org/en-us/job/591382/sustainable-and-blended-finance-specialist-consultant-office-of-innovation-copenhagen-denmark-6-months-remote | UNICEF | Sustainable and Blended Finance Specialist Consultant (Copenhagen/Remote) | 2.5/5 | PDF (no)
 - [ ] https://jobs.unicef.org/en-us/job/581662/national-consultant-to-support-climate-risk-and-vulnerability-analysis-remote-70-days | UNICEF | National Consultant – Climate Risk and Vulnerability Analysis
 - [ ] https://jobs.unicef.org/en-us/job/590650/impact-evaluation-consultant-data-analyst-evaluation-office-nyhq-remote-req-590650 | UNICEF | Impact Evaluation Consultant – Data Analyst
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – City Climate Finance Gap Fund
