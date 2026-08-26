@@ -1832,3 +1832,10 @@
 - [ ] https://climatebase.org/job/59752657/expression-of-interest---corporate-sustainability--climate-change-consultant | ERM | Expression of Interest - Corporate Sustainability & Climate Change Consultant
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88524 | UNDP | Programme and Policy Consultant for UNDP-GEF
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42441 | UNDP | Programme Analyst - Climate Change
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Specialist/4039 | UNOPS | Project Management Office (PMO) - Specialist (Bangkok)
+- [ ] https://sg.linkedin.com/jobs/view/consulting-associate-sustainable-operation-at-erm-3770277802 | ERM | Consulting Associate - Sustainable Operation (Singapore)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Specialist-Environmental/1477 | UNOPS | Technical Specialist - Environmental (Timor-Leste/Asia Pacific)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3124 | UNOPS | Project Management Support Senior Officer (Bangkok)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3014 | UNOPS | Project Management Support Senior Officer
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1238 | UNOPS | Project Management Support Officer
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Senior-Officer/2313 | UNOPS | Programme Management Senior Officer
