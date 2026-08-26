@@ -1266,21 +1266,21 @@
 - [x] #606 | https://jobs.unicef.org/en-us/job/568498/consultant-climate-environment-energy-and-disaster-risk-reduction-design-req-568498 | UNICEF | Consultant – Climate, Environment, Energy and DRR Design | 1.0/5 | PDF (no)
 - [x] #607 | https://jobs.unicef.org/en-us/job/581647/consultancy-sustainable-energy-consultant-req581647 | UNICEF | Sustainable Energy Consultant | 3.2/5 | PDF (no)
 - [x] #608 | https://jobs.unicef.org/en-us/job/591382/sustainable-and-blended-finance-specialist-consultant-office-of-innovation-copenhagen-denmark-6-months-remote | UNICEF | Sustainable and Blended Finance Specialist Consultant (Copenhagen/Remote) | 2.5/5 | PDF (no)
-- [ ] https://jobs.unicef.org/en-us/job/581662/national-consultant-to-support-climate-risk-and-vulnerability-analysis-remote-70-days | UNICEF | National Consultant – Climate Risk and Vulnerability Analysis
-- [ ] https://jobs.unicef.org/en-us/job/590650/impact-evaluation-consultant-data-analyst-evaluation-office-nyhq-remote-req-590650 | UNICEF | Impact Evaluation Consultant – Data Analyst
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – City Climate Finance Gap Fund
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/environment-and-social-analyst.html | AIIB | Environment and Social Analyst (Graduate Program)
+- [x] #566 | https://jobs.unicef.org/en-us/job/581662/national-consultant-to-support-climate-risk-and-vulnerability-analysis-remote-70-days | UNICEF | National Consultant – Climate Risk and Vulnerability Analysis | 1.5/5 | PDF (no)
+- [x] #567 | https://jobs.unicef.org/en-us/job/590650/impact-evaluation-consultant-data-analyst-evaluation-office-nyhq-remote-req-590650 | UNICEF | Impact Evaluation Consultant – Data Analyst | 2.0/5 | PDF (no)
+- [!] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – City Climate Finance Gap Fund | JD not retrievable (domain blocked)
+- [x] #568 | https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/environment-and-social-analyst.html | AIIB | Environment and Social Analyst (Graduate Program) | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-06-25 — Multi-portal: MyCareersFuture / WRI / GIZ / GGGI / South Pole / KPMG / Deloitte / ERM / Nestlé / UNEP / ESCAP / UNICEF / UNDP / Terra.do / Climatebase / ClimateChangeCareers / ThaiNGO / Impactpool / UNjobs / GCF / AIIB / BCG / IFC / Ramboll / IRC / Sustainalytics / IEEFA / Conservation International -->
-- [ ] https://www.impactpool.org/jobs/1201478 | JADE Dialogues | Strategic Initiatives Manager – Policy & Institutions (Remote APAC) ⭐ ⚠️ 5-7yr exp; contractor role
+- [x] #569 | https://www.impactpool.org/jobs/1201478 | JADE Dialogues | Strategic Initiatives Manager – Policy & Institutions (Remote APAC) | 2.0/5 | PDF (no)
 
 
 <!-- Scan 2026-06-28 — Multi-portal: GGGI / UNOPS / UNIDO / FAO / GCF / OECD/IEA / UNICEF / ILO / South Pole / ClimateChangeCareers / Terra.do / Climatebase / ThaiNGO / UNjobs / ReliefWeb / UN Careers / UNDP / ADB / IOM / Devex / UNtalent / UNjobnet / GIZ -->
-- [ ] https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan)
-- [ ] https://careers.gggi.org/vacancy/climate-change-officer-599913.html | GGGI | Climate Change Officer (Guyana)
-- [ ] https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) ⚠️ 8yr exp
-- [ ] https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC FX Risk Management Strategy for Climate and Eco Finance at FDB
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer)
+- [x] #570 | https://careers.gggi.org/vacancy/project-officer-green-growth-and-climate-change-567856.html | GGGI | Project Officer – Green Growth and Climate Change (Jordan) | 2.0/5 | PDF (no)
+- [x] #571 | https://careers.gggi.org/vacancy/climate-change-officer-599913.html | GGGI | Climate Change Officer (Guyana) | 1.0/5 | PDF (no)
+- [x] #572 | https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) | 1.5/5 | PDF (no)
+- [x] #573 | https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC FX Risk Management Strategy for Climate and Eco Finance at FDB | 1.0/5 | PDF (no)
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer) | Vacancy closed (application period ended March 2024)
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29918 | UNOPS | Project Management Support Specialist – Climate and Energy
 - [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20149 | UNOPS | Technical Specialist – Environmental (Climate Change)
 - [ ] https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management Senior Officer (Bangkok) ⭐
