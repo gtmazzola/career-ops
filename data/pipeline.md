@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-27 — Multi-portal scheduled scan -->
+- [ ] https://www.devex.com/jobs/individual-consultant-senior-clean-energy-expert-815347 | ADB | Individual Consultant: Senior Clean Energy Expert
+- [ ] https://www.devex.com/jobs/consultant-extended-producer-responsibility-epr-the-circle-alliance-1250679 | CIRCLE Alliance | Consultant, Extended Producer Responsibility – CIRCLE Alliance
+- [ ] https://www.impactpool.org/jobs/1008925 | UNICEF EAPRO | Consultancy – Climate and Environment Consultant (Bangkok)
+- [ ] https://careers.unido.org/job/Vienna-Associate-Industrial-Development-Expert,-L2-(For-Roster)/1166025755/ | UNIDO | Associate Industrial Development Expert, L2 (For Roster)
+
 <!-- Scan 2026-08-24 — Multi-portal scheduled scan -->
 - [x] #589 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103482 | UNDP | Junior Programme Analyst | 3.6/5 | PDF (no)
 - [x] #590 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104518 | UNDP | Junior Programme Analyst IPSA 8 | 3.7/5 | PDF (no)
