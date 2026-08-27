@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-08-27 — Multi-portal scheduled scan -->
-- [ ] https://www.devex.com/jobs/individual-consultant-senior-clean-energy-expert-815347 | ADB | Individual Consultant: Senior Clean Energy Expert
-- [ ] https://www.devex.com/jobs/consultant-extended-producer-responsibility-epr-the-circle-alliance-1250679 | CIRCLE Alliance | Consultant, Extended Producer Responsibility – CIRCLE Alliance
-- [ ] https://www.impactpool.org/jobs/1008925 | UNICEF EAPRO | Consultancy – Climate and Environment Consultant (Bangkok)
-- [ ] https://careers.unido.org/job/Vienna-Associate-Industrial-Development-Expert,-L2-(For-Roster)/1166025755/ | UNIDO | Associate Industrial Development Expert, L2 (For Roster)
+- [x] #566 | https://www.devex.com/jobs/individual-consultant-senior-clean-energy-expert-815347 | ADB | Individual Consultant: Senior Clean Energy Expert | 1.5/5 | PDF (no)
+- [x] #567 | https://www.devex.com/jobs/consultant-extended-producer-responsibility-epr-the-circle-alliance-1250679 | CIRCLE Alliance | Consultant, Extended Producer Responsibility – CIRCLE Alliance | 2.0/5 | PDF (no)
+- [x] #568 | https://www.impactpool.org/jobs/1008925 | UNICEF EAPRO | Consultancy – Climate and Environment Consultant (Bangkok) | 3.2/5 | PDF (no)
+- [x] #569 | https://careers.unido.org/job/Vienna-Associate-Industrial-Development-Expert,-L2-(For-Roster)/1166025755/ | UNIDO | Associate Industrial Development Expert, L2 (For Roster) | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-08-24 — Multi-portal scheduled scan -->
 - [x] #589 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103482 | UNDP | Junior Programme Analyst | 3.6/5 | PDF (no)
@@ -1287,12 +1287,12 @@
 - [x] #572 | https://careers.gggi.org/vacancy/carbon-pricing-senior-officer-578695.html | GGGI | Carbon Pricing Senior Officer (Jordan) | 1.5/5 | PDF (no)
 - [x] #573 | https://careers.gggi.org/vacancy/ic-fx-risk-management-strategy-for-climate-and-eco-finance-at-fdb-596196.html | GGGI | IC FX Risk Management Strategy for Climate and Eco Finance at FDB | 1.0/5 | PDF (no)
 - [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27497 | UNOPS | Climate Mitigation Senior Analyst (Retainer) | Vacancy closed (application period ended March 2024)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29918 | UNOPS | Project Management Support Specialist – Climate and Energy
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20149 | UNOPS | Technical Specialist – Environmental (Climate Change)
-- [ ] https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management Senior Officer (Bangkok) ⭐
-- [ ] https://careers.unido.org/job/Vienna-External-Relations-Officer/1353173555/ | UNIDO | External Relations Officer (Vienna)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501417 | FAO | National Climate Change Expert
-- [ ] https://jobs.greenclimate.fund/job/Remote-(Remote)-GCF-Roster-Pool-of-Experts-Financial-Management-Senior-Consultant/1174738101/ | GCF | GCF Roster – Financial Management Senior Consultant (Remote)
+- [x] #570 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29918 | UNOPS | Project Management Support Specialist – Climate and Energy | 2.0/5 | PDF (no)
+- [x] #571 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=20149 | UNOPS | Technical Specialist – Environmental (Climate Change) | 2.5/5 | PDF (no)
+- [x] #572 | https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management Senior Officer (Bangkok) ⭐ | 3.0/5 | PDF (no)
+- [x] #573 | https://careers.unido.org/job/Vienna-External-Relations-Officer/1353173555/ | UNIDO | External Relations Officer (Vienna) | 1.5/5 | PDF (no)
+- [x] #574 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501417 | FAO | National Climate Change Expert | 2.0/5 | PDF (no)
+- [x] #575 | https://jobs.greenclimate.fund/job/Remote-(Remote)-GCF-Roster-Pool-of-Experts-Financial-Management-Senior-Consultant/1174738101/ | GCF | GCF Roster – Financial Management Senior Consultant (Remote) | 1.5/5 | PDF (no)
 - [ ] https://jobs.greenclimate.fund/job/Impact-Evaluation-Specialist/938313301/ | GCF | Impact Evaluation Specialist
 - [ ] https://jobs.greenclimate.fund/job/Remote-(Remote)-Strategic-Investment-Partnerships-and-Co-Investments-Consultant/1173215001/ | GCF | Strategic Investment Partnerships and Co-Investments Consultant (Remote)
 - [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Performance-and-Flows-portfolio-Specialist/846807101/ | GCF | Financial Performance and Flows Portfolio Specialist (Incheon)
