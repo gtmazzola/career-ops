@@ -1293,16 +1293,16 @@
 - [x] #573 | https://careers.unido.org/job/Vienna-External-Relations-Officer/1353173555/ | UNIDO | External Relations Officer (Vienna) | 1.5/5 | PDF (no)
 - [x] #574 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501417 | FAO | National Climate Change Expert | 2.0/5 | PDF (no)
 - [x] #575 | https://jobs.greenclimate.fund/job/Remote-(Remote)-GCF-Roster-Pool-of-Experts-Financial-Management-Senior-Consultant/1174738101/ | GCF | GCF Roster – Financial Management Senior Consultant (Remote) | 1.5/5 | PDF (no)
-- [ ] https://jobs.greenclimate.fund/job/Impact-Evaluation-Specialist/938313301/ | GCF | Impact Evaluation Specialist
-- [ ] https://jobs.greenclimate.fund/job/Remote-(Remote)-Strategic-Investment-Partnerships-and-Co-Investments-Consultant/1173215001/ | GCF | Strategic Investment Partnerships and Co-Investments Consultant (Remote)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Performance-and-Flows-portfolio-Specialist/846807101/ | GCF | Financial Performance and Flows Portfolio Specialist (Incheon)
-- [ ] https://oecd.impactpool.org/vacancies/1183742 | OECD | Young Associate 2026-28 – Environment Directorate
-- [ ] https://oecd.impactpool.org/vacancies/1161486 | OECD | Environmental Data Scientist
-- [ ] https://oecd.impactpool.org/vacancies/1202046 | OECD/IEA | Critical Minerals Analyst
-- [ ] https://oecd.impactpool.org/vacancies/1189031 | OECD | Junior Policy Analyst
-- [ ] https://oecd.impactpool.org/vacancies/1194527 | OECD/IEA | Programme Manager – Energy Efficiency Hub
-- [ ] https://oecd.impactpool.org/vacancies/1172752 | OECD | Data Ecosystem Policy Analyst – Development Data (PAL6)
-- [ ] https://oecd.impactpool.org/vacancies/1209701 | OECD | Junior Policy Analyst – Development Impact and Digital
+- [x] #566 | https://jobs.greenclimate.fund/job/Impact-Evaluation-Specialist/938313301/ | GCF | Impact Evaluation Specialist | 2.5/5 | PDF (no)
+- [x] #567 | https://jobs.greenclimate.fund/job/Remote-(Remote)-Strategic-Investment-Partnerships-and-Co-Investments-Consultant/1173215001/ | GCF | Strategic Investment Partnerships and Co-Investments Consultant (Remote) | 2.5/5 | PDF (no)
+- [x] #568 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Performance-and-Flows-portfolio-Specialist/846807101/ | GCF | Financial Performance and Flows Portfolio Specialist (Incheon) | 1.5/5 | PDF (no)
+- [x] #569 | https://oecd.impactpool.org/vacancies/1183742 | OECD | Young Associate 2026-28 – Environment Directorate | 3.5/5 | PDF (no)
+- [x] #570 | https://oecd.impactpool.org/vacancies/1161486 | OECD | Environmental Data Scientist | 2.0/5 | PDF (no)
+- [x] #571 | https://oecd.impactpool.org/vacancies/1202046 | OECD/IEA | Critical Minerals Analyst | 3.5/5 | PDF (no)
+- [x] #572 | https://oecd.impactpool.org/vacancies/1189031 | OECD | Junior Policy Analyst | 3.0/5 | PDF (no)
+- [x] #573 | https://oecd.impactpool.org/vacancies/1194527 | OECD/IEA | Programme Manager – Energy Efficiency Hub | 2.5/5 | PDF (no)
+- [x] #574 | https://oecd.impactpool.org/vacancies/1172752 | OECD | Data Ecosystem Policy Analyst – Development Data (PAL6) | 2.0/5 | PDF (no)
+- [x] #575 | https://oecd.impactpool.org/vacancies/1209701 | OECD | Junior Policy Analyst – Development Impact and Digital | 3.0/5 | PDF (no)
 - [ ] https://www.unjobnet.org/jobs/detail/82783260 | OECD/IEA | Young Associate – Energy Modelling Office
 - [ ] https://www.unjobnet.org/jobs/detail/77321578 | OECD | Junior Policy Analyst – Green Finance and Investment (Temporary)
 - [ ] https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead
