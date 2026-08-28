@@ -1845,3 +1845,8 @@
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3014 | UNOPS | Project Management Support Senior Officer
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1238 | UNOPS | Project Management Support Officer
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Senior-Officer/2313 | UNOPS | Programme Management Senior Officer
+
+<!-- Scan 2026-08-28 — Multi-portal scheduled scan -->
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1365510555/ | UNIDO | Industrial Development Officer
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29281 | UNOPS | Senior Officer, ASEAN Energy Transition
+- [ ] https://unjobs.org/vacancies/1771874315803 | GCF | Climate Investment Associate (Talent Pool)
