@@ -1850,3 +1850,12 @@
 - [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1365510555/ | UNIDO | Industrial Development Officer
 - [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29281 | UNOPS | Senior Officer, ASEAN Energy Transition
 - [ ] https://unjobs.org/vacancies/1771874315803 | GCF | Climate Investment Associate (Talent Pool)
+
+<!-- Scan 2026-08-29 — Multi-portal scheduled scan -->
+- [ ] https://careers.bcg.com/job/20641BR/Senior-Research-Analyst-Climate-Sustainability | BCG | Senior Research Analyst – Climate & Sustainability (Bengaluru)
+- [ ] https://careers.chathamhouse.org/jobs/8250264-research-associate-energy-and-climate | Chatham House | Research Associate – Energy and Climate ⭐ (deadline Sep 7)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101565 | UNDP | Monitoring and Evaluation Associate ⭐ (Bangkok)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=100641 | UNDP | Thailand Project Coordinator ⭐ (Bangkok)
+- [ ] https://www.unjobnet.org/jobs/detail/80390302 | UNDP | Policy Analyst – Thailand Policy Lab ⭐ (Bangkok)
+- [ ] https://carnegieendowment.applicantpro.com/jobs/4159251 | Carnegie Endowment | Research Fellow, Clean Energy and Geopolitics (Washington DC)
+- [ ] https://carnegieendowment.applicantpro.com/jobs/3994486 | Carnegie Endowment | Research Assistant, Sustainability Climate and Geopolitics – Climate Mobility (Washington DC)
