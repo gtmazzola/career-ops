@@ -1303,16 +1303,16 @@
 - [x] #573 | https://oecd.impactpool.org/vacancies/1194527 | OECD/IEA | Programme Manager – Energy Efficiency Hub | 2.5/5 | PDF (no)
 - [x] #574 | https://oecd.impactpool.org/vacancies/1172752 | OECD | Data Ecosystem Policy Analyst – Development Data (PAL6) | 2.0/5 | PDF (no)
 - [x] #575 | https://oecd.impactpool.org/vacancies/1209701 | OECD | Junior Policy Analyst – Development Impact and Digital | 3.0/5 | PDF (no)
-- [ ] https://www.unjobnet.org/jobs/detail/82783260 | OECD/IEA | Young Associate – Energy Modelling Office
-- [ ] https://www.unjobnet.org/jobs/detail/77321578 | OECD | Junior Policy Analyst – Green Finance and Investment (Temporary)
-- [ ] https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead
-- [ ] https://www.unjobnet.org/jobs/detail/78080681 | ADB | ESG Transformation Expert – Individual Consultant
-- [ ] https://www.unjobnet.org/jobs/detail/68072333 | EBRD | Climate Policy and Carbon Market Associate
-- [ ] https://untalent.org/jobs/consultancy-environment-social-and-governance-esg-consultant-office-of-innovation-7-months-remote | UNICEF | ESG Consultant – Office of Innovation, 7 months (Remote)
-- [ ] https://jobs.unicef.org/en-us/job/592440 | UNICEF | COP31 Climate Action Consultant (Turkey)
-- [ ] https://jobs.unicef.org/cw/en-us/job/592504 | UNICEF | Climate Resilient WASH Data Analyst (Uganda)
-- [ ] https://jobs.unicef.org/en-us/job/581907 | UNICEF | Consultancy – Climate Change Negotiations in Latin America and Caribbean
-- [ ] https://jobs.ilo.org/job/Programme-Assistant-G5-(DC)/13655-en_GB/ | ILO | Programme Assistant G5 (Washington DC)
+- [x] #566 | https://www.unjobnet.org/jobs/detail/82783260 | OECD/IEA | Young Associate – Energy Modelling Office | 1.5/5 | PDF (no)
+- [x] #567 | https://www.unjobnet.org/jobs/detail/77321578 | OECD | Junior Policy Analyst – Green Finance and Investment (Temporary) | 2.0/5 | PDF (no)
+- [x] #568 | https://www.unjobnet.org/jobs/detail/84639712 | ESA | Sustainability Lead | 1.5/5 | PDF (no)
+- [x] #569 | https://www.unjobnet.org/jobs/detail/78080681 | ADB | ESG Transformation Expert – Individual Consultant | 2.0/5 | PDF (no)
+- [x] #570 | https://www.unjobnet.org/jobs/detail/68072333 | EBRD | Climate Policy and Carbon Market Associate | 3.5/5 | PDF (no)
+- [x] #571 | https://untalent.org/jobs/consultancy-environment-social-and-governance-esg-consultant-office-of-innovation-7-months-remote | UNICEF | ESG Consultant – Office of Innovation, 7 months (Remote) | 3.5/5 | PDF (no)
+- [x] #572 | https://jobs.unicef.org/en-us/job/592440 | UNICEF | COP31 Climate Action Consultant (Turkey) | 1.0/5 | PDF (no)
+- [x] #573 | https://jobs.unicef.org/cw/en-us/job/592504 | UNICEF | Climate Resilient WASH Data Analyst (Uganda) | 2.0/5 | PDF (no)
+- [x] #576 | https://jobs.unicef.org/en-us/job/581907 | UNICEF | Consultancy – Climate Change Negotiations in Latin America and Caribbean | 3.0/5 | PDF (no)
+- [x] #577 | https://jobs.ilo.org/job/Programme-Assistant-G5-(DC)/13655-en_GB/ | ILO | Programme Assistant G5 (Washington DC) | 2.5/5 | PDF (no)
 - [ ] https://jobs.ilo.org/job/Tokyo-Programme-Officer-NOA/13595-en_GB/ | ILO | Programme Officer – NOA (Tokyo)
 - [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
 - [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
