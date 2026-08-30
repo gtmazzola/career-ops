@@ -1313,16 +1313,16 @@
 - [x] #573 | https://jobs.unicef.org/cw/en-us/job/592504 | UNICEF | Climate Resilient WASH Data Analyst (Uganda) | 2.0/5 | PDF (no)
 - [x] #576 | https://jobs.unicef.org/en-us/job/581907 | UNICEF | Consultancy – Climate Change Negotiations in Latin America and Caribbean | 3.0/5 | PDF (no)
 - [x] #577 | https://jobs.ilo.org/job/Programme-Assistant-G5-(DC)/13655-en_GB/ | ILO | Programme Assistant G5 (Washington DC) | 2.5/5 | PDF (no)
-- [ ] https://jobs.ilo.org/job/Tokyo-Programme-Officer-NOA/13595-en_GB/ | ILO | Programme Officer – NOA (Tokyo)
-- [ ] https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
-- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
-- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate (Bangalore)
-- [ ] https://www.climatechangecareers.com/job/kuehne-climate-center/hamburg-germany/senior-data-analyst-climate-sustainability-carbon-analytics/ | Kuehne Climate Center | Senior Data Analyst – Climate, Sustainability & Carbon Analytics (Hamburg)
-- [ ] https://www.terra.do/climate-jobs/job-board/Renewable-Energy-Policy-Advocate--Analyst-to-Associate-level----REMOTE-Thinkbac-Consulting-8259194/ | ThinkBAC Consulting | Renewable Energy Policy Advocate – Analyst to Associate level (Remote)
-- [ ] https://climatebase.org/job/66389066/analystassociate-consultant | Climatebase | Analyst/Associate Consultant
-- [ ] https://climatebase.org/job/71120474/senior-energy-data-analyst-dfm | Climatebase | (Senior) Energy Data Analyst
-- [ ] https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator ⭐
-- [ ] https://thaingo.org/jobs/detail/21355 | ThaiNGO | Final Evaluation Consultant – Trees4All Project ⭐
+- [x] #566 | https://jobs.ilo.org/job/Tokyo-Programme-Officer-NOA/13595-en_GB/ | ILO | Programme Officer – NOA (Tokyo) | 1.5/5 | PDF (no)
+- [x] #567 | https://careers.southpole.com/jobs/2662973-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting | 3.5/5 | PDF (no)
+- [x] #568 | https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies | 2.5/5 | PDF (no)
+- [x] #569 | https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate (Bangalore) | 2.5/5 | PDF (no)
+- [x] #570 | https://www.climatechangecareers.com/job/kuehne-climate-center/hamburg-germany/senior-data-analyst-climate-sustainability-carbon-analytics/ | Kuehne Climate Center | Senior Data Analyst – Climate, Sustainability & Carbon Analytics (Hamburg) | 3.8/5 | PDF (no)
+- [x] #571 | https://www.terra.do/climate-jobs/job-board/Renewable-Energy-Policy-Advocate--Analyst-to-Associate-level----REMOTE-Thinkbac-Consulting-8259194/ | ThinkBAC Consulting | Renewable Energy Policy Advocate – Analyst to Associate level (Remote) | 2.0/5 | PDF (no)
+- [x] #572 | https://climatebase.org/job/66389066/analystassociate-consultant | Climatebase/CEA Consulting | Analyst/Associate Consultant | 3.5/5 | PDF (no)
+- [x] #573 | https://climatebase.org/job/71120474/senior-energy-data-analyst-dfm | Climatebase | (Senior) Energy Data Analyst d/f/m | 3.2/5 | PDF (no)
+- [x] #574 | https://thaingo.org/jobs/detail/21402 | REACH for Equity (ThaiNGO) | Program Coordinator – ATM (Chiang Mai) | 1.8/5 | PDF (no)
+- [x] #575 | https://thaingo.org/jobs/detail/21355 | RECOFTC/Wyss Academy (ThaiNGO) | Final Evaluation Consultant – Trees4All | 2.5/5 | PDF (no)
 - [ ] https://www.thaingo.org/jobs/detail/14119/145 | GIZ Thailand | Senior Advisor – Energy System/Policy (TGC-EMC) ⚠️ 7yr exp
 - [ ] https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P4 – Climate Change (Bangkok) ⚠️ P4 senior
 - [ ] https://careers.un.org/jobSearchDescription/278136 | UN | Programme Officer P4
