@@ -1859,3 +1859,11 @@
 - [ ] https://www.unjobnet.org/jobs/detail/80390302 | UNDP | Policy Analyst – Thailand Policy Lab ⭐ (Bangkok)
 - [ ] https://carnegieendowment.applicantpro.com/jobs/4159251 | Carnegie Endowment | Research Fellow, Clean Energy and Geopolitics (Washington DC)
 - [ ] https://carnegieendowment.applicantpro.com/jobs/3994486 | Carnegie Endowment | Research Assistant, Sustainability Climate and Geopolitics – Climate Mobility (Washington DC)
+
+<!-- Scan 2026-08-30 — Multi-portal scheduled scan -->
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Analyst/1875 | UNOPS | Project Management Support Senior Analyst (Bangkok)
+- [ ] https://jobs.unicef.org/fr/job/592584/programme-officer-climate-and-environment-no1-temporary-position-suva-fiji-pacific-islands-mcp-364-days-00136931 | UNICEF | Programme Officer – Climate and Environment NO-1 (Fiji/Pacific)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501333 | FAO | Climate Change and Sustainable Agriculture Specialist
+- [ ] https://southasiacareers.deloitte.com/job/Delhi-Analyst-Consultant-Social-DelhiMumbaiBengaluruHyderabad-Sustainability/56739844 | Deloitte South Asia | Analyst / Consultant – Social (Sustainability, India)
+- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Manager-ESG-BengaluruDelhiHyderabadMumbai-Sustainability/55807444 | Deloitte South Asia | Manager – ESG (India)
+- [ ] https://jobs.sea.deloitte.com/job/Jakarta-A&A-Manager-Sustainability-&-Emerging-Assurance/1361430366 | Deloitte SEA | A&A Manager – Sustainability & Emerging Assurance (Jakarta)
