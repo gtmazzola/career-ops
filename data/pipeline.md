@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- Scan 2026-08-31 — Multi-portal scheduled scan -->
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Portfolio-Specialist/4056 | UNOPS | Portfolio Specialist
+- [ ] https://careers.msci.com/job/data-and-operations/mumbai/climate-data-analyst/2026-5455 | MSCI | Climate Data Analyst (Mumbai)
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601710&lang=en | FAO | Young Professional Officer – Climate Change and Natural Resources Management
+- [ ] https://jobs.ilo.org/job/Monitoring-and-Evaluation-Officer,-TRIANGLE-Partnerships/13782-en_GB/ | ILO | Monitoring and Evaluation Officer, TRIANGLE Partnerships (Bangkok)
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Consulting-Senior-Associate--Climate-_R00026725/apply | ERM | Consulting Senior Associate – Climate (Bangkok)
+- [ ] https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Bangkok-Thailand/Environmental-Consultant--Entry-Level-_R00011800 | ERM | Environmental Consultant – Entry Level (Bangkok)
+- [ ] https://jobs.undp.org/cj_view_jobs.cfm/cj_view_job.cfm?cur_lang=en&cur_job_id=105732 | UNDP | Research Analyst (Bangkok)
+- [ ] https://jobs.ilo.org/job/Monitoring-Knowledge-Management-Officer-P3/13718-en_GB | ILO | Monitoring & Knowledge-Management Officer P3
+- [ ] https://jobs.ilo.org/job/National-Project-Officer-Skills-Development/13760-en_GB/ | ILO | National Project Officer – Skills Development (Khartoum)
+
 <!-- Scan 2026-08-27 — Multi-portal scheduled scan -->
 - [x] #566 | https://www.devex.com/jobs/individual-consultant-senior-clean-energy-expert-815347 | ADB | Individual Consultant: Senior Clean Energy Expert | 1.5/5 | PDF (no)
 - [x] #567 | https://www.devex.com/jobs/consultant-extended-producer-responsibility-epr-the-circle-alliance-1250679 | CIRCLE Alliance | Consultant, Extended Producer Responsibility – CIRCLE Alliance | 2.0/5 | PDF (no)
