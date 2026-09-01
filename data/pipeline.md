@@ -1335,16 +1335,16 @@
 - [x] #574 | https://thaingo.org/jobs/detail/21402 | REACH for Equity (ThaiNGO) | Program Coordinator – ATM (Chiang Mai) | 1.8/5 | PDF (no)
 - [x] #575 | https://thaingo.org/jobs/detail/21355 | RECOFTC/Wyss Academy (ThaiNGO) | Final Evaluation Consultant – Trees4All | 2.5/5 | PDF (no)
 - [x] #575 | https://www.thaingo.org/jobs/detail/14119/145 | GIZ Thailand | Senior Advisor – Energy System/Policy (TGC-EMC) | 2.5/5 | PDF (no)
-- [ ] https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P4 – Climate Change (Bangkok) ⚠️ P4 senior
-- [ ] https://careers.un.org/jobSearchDescription/278136 | UN | Programme Officer P4
-- [ ] https://careers.un.org/jobSearchDescription/230057 | UN | Programme Management Officer
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=89118 | UNDP GEF | Junior Analyst Consultant – Energy and Climate Change
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_lang=en&cur_job_id=98324 | UNDP | Project Analyst – Energy/Climate Aggregation Platform
-- [ ] https://www.adb.org/careers/240182 | ADB | Climate Change Specialist
-- [ ] https://www.adb.org/careers/260158 | ADB | Adaptation Solutions Specialist (Human and Social Development)
-- [ ] https://www.impactpool.org/jobs/1206154 | IOM | Consultant – Mapping of Community and/or Locally Led Initiatives Relevant to Climate Mobility
-- [ ] https://www.devex.com/jobs/esg-risk-consultant-738312 | Devex | ESG Risk Consultant
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Devex | ESG Research Analyst
+- [x] #576 | https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P4 – Climate Change (Bangkok) | 2.5/5 | PDF (no)
+- [x] #577 | https://careers.un.org/jobSearchDescription/278136 | ESCAP | Programme Officer P4 (Energy Transition, Bangkok) | 2.5/5 | PDF (no)
+- [x] #578 | https://careers.un.org/jobSearchDescription/230057 | ESCAP | Programme Management Officer (230057) | 3.0/5 | PDF (no)
+- [x] #579 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=89118 | UNDP GEF | Junior Analyst Consultant – Energy and Climate Change | 4.0/5 | PDF (no)
+- [x] #580 | https://jobs.undp.org/cj_view_job.cfm?cur_lang=en&cur_job_id=98324 | UNDP | Project Analyst – Energy/Climate Aggregation Platform | 3.5/5 | PDF (no)
+- [x] #581 | https://www.adb.org/careers/240182 | ADB | Climate Change Specialist (240182) | 2.5/5 | PDF (no)
+- [x] #582 | https://www.adb.org/careers/260158 | ADB | Adaptation Solutions Specialist – Human & Social Development | 2.0/5 | PDF (no)
+- [x] #583 | https://www.impactpool.org/jobs/1206154 | IOM Thailand | Consultant – Mapping Community/Locally Led Climate Mobility | 3.0/5 | PDF (no)
+- [x] #584 | https://www.devex.com/jobs/esg-risk-consultant-738312 | The Asia Foundation | ESG Risk Consultant | 1.5/5 | PDF (no)
+- [x] #585 | https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Devex | ESG Research Analyst (744245) | 3.5/5 | PDF (no)
 - [ ] https://www.devex.com/jobs/international-consultant-sustainable-development-strategy-for-the-seas-of-east-asia-786393 | COBSEA/UNEP | International Consultant – Sustainable Development Strategy for the Seas of East Asia
 - [ ] https://reliefweb.int/job/3872314 | FHI 360 | Senior Consultant for Climate Change Policy Analysis
 - [ ] https://reliefweb.int/job/4010181 | ReliefWeb | Project Manager – Thailand ⭐
@@ -1536,7 +1536,7 @@
 - [ ] https://in.linkedin.com/jobs/view/programme-management-officer-at-un-environment-programme-3738082618 | UNEP | Programme Management Officer – Cooling Programs, Asia Pacific (New Delhi)
 - [ ] https://careers.un.org/jobSearchDescription/239662 | UNEP | Environment Officer (LTAG Monitoring and Reporting)
 - [ ] https://careers.un.org/jobSearchDescription/235339 | UNEP | Associate Programme Management Officer (Paris)
-- [ ] https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P-4 (Bangkok)
+- [x] #576 | https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P4 – Climate Change (Bangkok) | 2.5/5 | PDF (no)
 - [ ] https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI | ESG Program Manager (Bangkok)
 - [ ] https://www.thaingo.org/jobs/detail/19070/2 | ThaiNGO | Consultancy – ESG Performance Indicators for SME Suppliers / Decarbonization
 - [ ] https://thaingo.org/jobs/detail/20933 | ThaiNGO | Senior Technical Consultant
