@@ -1878,3 +1878,20 @@
 - [ ] https://southasiacareers.deloitte.com/job/Delhi-Analyst-Consultant-Social-DelhiMumbaiBengaluruHyderabad-Sustainability/56739844 | Deloitte South Asia | Analyst / Consultant – Social (Sustainability, India)
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Manager-ESG-BengaluruDelhiHyderabadMumbai-Sustainability/55807444 | Deloitte South Asia | Manager – ESG (India)
 - [ ] https://jobs.sea.deloitte.com/job/Jakarta-A&A-Manager-Sustainability-&-Emerging-Assurance/1361430366 | Deloitte SEA | A&A Manager – Sustainability & Emerging Assurance (Jakarta)
+
+<!-- Scan 2026-09-01 — Multi-portal scheduled scan -->
+- [ ] https://careers.unido.org/job/Vienna-Monitoring-and-Evaluation-Specialist/1349795655/ | UNIDO | Monitoring and Evaluation Specialist (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert (Vienna)
+- [ ] https://careers.unido.org/job/Mexico-City-National-Ozone-Office-Coordinator/1364426255/ | UNIDO | National Ozone Office Coordinator (Mexico City)
+- [ ] https://careers.unido.org/job/Mexico-City-Consultant-for-the-Regulatory-Diagnosis-and-Analysis-of-HFC-23-Policies/1362243555/ | UNIDO | Consultant – Regulatory Diagnosis and Analysis of HFC-23 Policies (Mexico City)
+- [ ] https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer, Carbon Project Development
+- [ ] https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | Palau CBIT MRV – Individual Consultant, NDC Tracking and Reporting (deadline Aug 31 – verify)
+- [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg remote)
+- [ ] https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Nilai Ekonomi Karbon (Jakarta)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=22005 | UNOPS | Programme Management – Analyst [Stakeholder Engagement Analyst]
+- [ ] https://jobs.ilo.org/job/Abidjan-Programme-Analyst,-P2/1088596901/ | ILO | Programme Analyst, P2 (Abidjan)
+- [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions-1-year-contract | South Pole | Managing Consultant – Renewable Energy Solutions (1-yr contract)
+- [ ] https://careers.southpole.com/jobs/949847-managing-consultant-climate-strategies | South Pole | Managing Consultant – Climate Strategies
+- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
+- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
+- [ ] https://careers.southpole.com/jobs/1695888-senior-managing-consultant-climate-risks-opportunities | South Pole | Senior Managing Consultant – Climate Risks & Opportunities
