@@ -1345,18 +1345,18 @@
 - [x] #583 | https://www.impactpool.org/jobs/1206154 | IOM Thailand | Consultant – Mapping Community/Locally Led Climate Mobility | 3.0/5 | PDF (no)
 - [x] #584 | https://www.devex.com/jobs/esg-risk-consultant-738312 | The Asia Foundation | ESG Risk Consultant | 1.5/5 | PDF (no)
 - [x] #585 | https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Devex | ESG Research Analyst (744245) | 3.5/5 | PDF (no)
-- [ ] https://www.devex.com/jobs/international-consultant-sustainable-development-strategy-for-the-seas-of-east-asia-786393 | COBSEA/UNEP | International Consultant – Sustainable Development Strategy for the Seas of East Asia
-- [ ] https://reliefweb.int/job/3872314 | FHI 360 | Senior Consultant for Climate Change Policy Analysis
-- [ ] https://reliefweb.int/job/4010181 | ReliefWeb | Project Manager – Thailand ⭐
-- [ ] https://reliefweb.int/job/3937595 | ReliefWeb | Spark Fund – Thailand Specialist ⭐
-- [ ] https://reliefweb.int/job/4204508 | ReliefWeb | Monitoring and Evaluation (M&E) Specialist (Consultant) ⭐
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=73964 | GIZ | Advisor – Technical Support Unit, Mitigation Action Facility
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects
+- [x] #609 | https://www.devex.com/jobs/international-consultant-sustainable-development-strategy-for-the-seas-of-east-asia-786393 | COBSEA/UNEP | International Consultant – Sustainable Development Strategy for the Seas of East Asia | 3.8/5 | PDF (no)
+- [x] #610 | https://reliefweb.int/job/3872314 | FHI 360 | Senior Consultant for Climate Change Policy Analysis | 3.0/5 | PDF (no)
+- [x] #611 | https://reliefweb.int/job/4010181 | ADPC | Project Manager – Thailand | 2.5/5 | PDF (no)
+- [x] #612 | https://reliefweb.int/job/3937595 | Global Fund for Children | Spark Fund Thailand Specialist | 2.5/5 | PDF (no)
+- [!] #613 | https://reliefweb.int/job/4204508 | [Unknown] | M&E Specialist (Consultant) | JD not retrieved (proxy blocked) | PDF (no)
+- [x] #614 | https://jobs.giz.de/index.php?ac=jobad&id=73964 | GIZ | Advisor – Technical Support Unit, Mitigation Action Facility | 3.5/5 | PDF (no)
+- [x] #615 | https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects | 3.0/5 | PDF (no)
 
 <!-- Scan 2026-06-29 — Multi-portal: UN Careers / UNDP / UNOPS / ADB / FAO / GCF / GIZ / GGGI / UNICEF / Climatebase / Terra.do / ThaiNGO / UNjobnet / UNtalent -->
-- [ ] https://careers.un.org/jobSearchDescription/277456 | UN/UNEP | Climate Services Financing Framework and Business Model Consultant
-- [ ] https://careers.un.org/jobSearchDescription/275973 | UN/UNEP | Consultant Specialist in Climate Finance
-- [ ] https://careers.un.org/jobSearchDescription/257545 | UN | Climate Change Specialist Consultant
+- [x] #616 | https://careers.un.org/jobSearchDescription/277456 | UN/UNEP | Climate Services Financing Framework and Business Model Consultant | 3.3/5 | PDF (no)
+- [x] #617 | https://careers.un.org/jobSearchDescription/275973 | UN/UNEP | Consultant Specialist in Climate Finance | 3.2/5 | PDF (no)
+- [!] #618 | https://careers.un.org/jobSearchDescription/257545 | UN | Climate Change Specialist Consultant | JD not retrieved (proxy blocked) | PDF (no)
 - [ ] https://careers.un.org/jobSearchDescription/252728 | UN | Consultant – Environmental Sustainability Specialist
 - [ ] https://careers.un.org/jobSearchDescription/267189 | UN | Environmental Sustainability Consultant
 - [ ] https://careers.un.org/jobSearchDescription/232297 | UN | Climate Change Mitigation Consultant
