@@ -1895,3 +1895,14 @@
 - [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
 - [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
 - [ ] https://careers.southpole.com/jobs/1695888-senior-managing-consultant-climate-risks-opportunities | South Pole | Senior Managing Consultant – Climate Risks & Opportunities
+
+<!-- Scan 2026-09-02 — Multi-portal scheduled scan -->
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601520 | FAO | Programme Officer (Biodiversity Mainstreaming)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28563 | UNOPS | Environment and Climate Change Advisor (Roster)
+- [ ] https://jobs.ilo.org/job/Enterprise-Technical-Officer/13789-en_GB/ | ILO | Enterprise Technical Officer
+- [ ] https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants | ESG & Sustainability Consultant (Singapore)
+- [ ] https://careers.unido.org/job/Banjul-National-Project-Coordinator/1365909555/ | UNIDO | National Project Coordinator (Gambia)
+- [ ] https://jobs.ebrd.com/job/London-Associate,-Sustainability-Reporting,-FC/1417296933/ | EBRD | Associate, Sustainability Reporting (London)
+- [ ] https://jobs.ebrd.com/job/London-Assistant-Analyst/1425638333/ | EBRD | Assistant Analyst (London)
+- [ ] https://www.devex.com/jobs/urban-climate-resilience-analyst-466238 | Abt Associates | Urban Climate Resilience Analyst (Asia)
+- [ ] https://www.devex.com/jobs/climate-change-consultant-536689 | Devex | Climate Change Consultant
