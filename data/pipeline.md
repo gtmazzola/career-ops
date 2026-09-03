@@ -1357,17 +1357,17 @@
 - [x] #616 | https://careers.un.org/jobSearchDescription/277456 | UN/UNEP | Climate Services Financing Framework and Business Model Consultant | 3.3/5 | PDF (no)
 - [x] #617 | https://careers.un.org/jobSearchDescription/275973 | UN/UNEP | Consultant Specialist in Climate Finance | 3.2/5 | PDF (no)
 - [!] #618 | https://careers.un.org/jobSearchDescription/257545 | UN | Climate Change Specialist Consultant | JD not retrieved (proxy blocked) | PDF (no)
-- [ ] https://careers.un.org/jobSearchDescription/252728 | UN | Consultant – Environmental Sustainability Specialist
-- [ ] https://careers.un.org/jobSearchDescription/267189 | UN | Environmental Sustainability Consultant
-- [ ] https://careers.un.org/jobSearchDescription/232297 | UN | Climate Change Mitigation Consultant
-- [ ] https://careers.un.org/jobSearchDescription/270128 | UN | Strategic Foresight and Evaluation Expert on Climate Resilience
-- [ ] https://www.adb.org/careers/240250 | ADB | Senior Climate Change Specialist
-- [ ] https://www.adb.org/careers/260137 | ADB | Senior Project Officer (Energy)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS
+- [x] #576 | https://careers.un.org/jobSearchDescription/252728 | UNISFA | Consultant – Environmental Sustainability Specialist | 2.0/5 | PDF (no)
+- [x] #577 | https://careers.un.org/jobSearchDescription/267189 | UN | Environmental Sustainability Consultant | 2.5/5 | PDF (no)
+- [x] #578 | https://careers.un.org/jobSearchDescription/232297 | UN | Climate Change Mitigation Consultant | 3.5/5 | PDF (no)
+- [x] #579 | https://careers.un.org/jobSearchDescription/270128 | UNESCWA | Strategic Foresight and Evaluation Expert on Climate Resilience | 2.5/5 | PDF (no)
+- [x] #580 | https://www.adb.org/careers/240250 | ADB | Senior Climate Change Specialist | 2.5/5 | PDF (no)
+- [x] #581 | https://www.adb.org/careers/260137 | ADB | Senior Project Officer (Energy) | 2.5/5 | PDF (no)
+- [x] #582 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2502977 | FAO | National Specialist – Climate Change, GIS | 1.5/5 | PDF (no)
 - [!] https://climatebase.org/job/71676500/data-analyst---esg | ERM (via Climatebase) | Data Analyst – ESG — Error: Duplicate of #478 (same URL already evaluated 2.5/5 in this run); skip.
-- [ ] https://climatebase.org/job/66085067/senior-analyst | Climatebase | Senior Analyst (Climate/Sustainability)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28867 | UNOPS | Senior Energy Analyst – Renewable Energy
-- [ ] https://www.terra.do/climate-jobs/job-board/sustainability-analytics-consultant-energy-esg-8393707/ | Guidehouse | Sustainability Analytics Consultant – Energy & ESG
+- [x] #583 | https://climatebase.org/job/66085067/senior-analyst | Climatebase | Senior Analyst (Climate/Sustainability) | 3.0/5 | PDF (no)
+- [x] #584 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=28867 | UNOPS | Senior Energy Analyst – Renewable Energy | 2.0/5 | PDF (no)
+- [x] #585 | https://www.terra.do/climate-jobs/job-board/sustainability-analytics-consultant-energy-esg-8393707/ | Guidehouse | Sustainability Analytics Consultant – Energy & ESG | 4.0/5 | PDF (no)
 - [ ] https://www.terra.do/climate-jobs/job-board/E-S-Analyst---Greenhouse-Gas-Energy---Sustainability-Cbre-8389314/ | CBRE | E&S Analyst – Greenhouse Gas/Energy & Sustainability
 - [ ] https://www.thaingo.org/jobs/detail/14936 | GIZ Thailand | Climate Change and Green Jobs Technical Advisor ⭐
 - [ ] https://jobs.unicef.org/en-us/job/591480/international-consultant-programme-specialist-climate-change | UNICEF | International Consultant – Programme Specialist, Climate Change
