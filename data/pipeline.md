@@ -1906,3 +1906,10 @@
 - [ ] https://jobs.ebrd.com/job/London-Assistant-Analyst/1425638333/ | EBRD | Assistant Analyst (London)
 - [ ] https://www.devex.com/jobs/urban-climate-resilience-analyst-466238 | Abt Associates | Urban Climate Resilience Analyst (Asia)
 - [ ] https://www.devex.com/jobs/climate-change-consultant-536689 | Devex | Climate Change Consultant
+
+<!-- Scan 2026-09-03 — Multi-portal scheduled scan -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=117549 | UNDP | Research Analyst (SDG Financing, Private Sector Development)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=117214 | UNDP | Research Analyst – Home Based (ICPSD, SDG Financing)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116828 | UNDP | Research and Programme Analyst (Islamic Finance Portfolio)
+- [ ] https://careers.unido.org/job/Home-Based-Strategic-Partnerships-Research-Specialist/1364633055 | UNIDO | Strategic Partnerships Research Specialist (Home Based, deadline 04-Sep-2026 ⚠️)
+- [ ] https://www.sei.org/people/jobs/energy-environment-analyst/ | SEI | Energy and Environment Analyst
