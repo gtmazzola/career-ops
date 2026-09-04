@@ -1913,3 +1913,34 @@
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116828 | UNDP | Research and Programme Analyst (Islamic Finance Portfolio)
 - [ ] https://careers.unido.org/job/Home-Based-Strategic-Partnerships-Research-Specialist/1364633055 | UNIDO | Strategic Partnerships Research Specialist (Home Based, deadline 04-Sep-2026 ⚠️)
 - [ ] https://www.sei.org/people/jobs/energy-environment-analyst/ | SEI | Energy and Environment Analyst
+
+<!-- Scan 2026-09-04 — Scheduled portal scan -->
+- [ ] https://careers.gggi.org/vacancy/thailand-consultant-for-green-finance-network-gfn-setup-100014324-599010.html | GGGI | Thailand: Consultant for Green Finance Network (GFN) Setup ⭐ (Bangkok)
+- [ ] https://reliefweb.int/job/4074119/climate-change-and-partnership-project-officer | Save the Children | Climate Change and Partnership Project Officer (Thailand)
+- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I / Abt Associates | Disaster Risk Reduction and Climate Change Analyst (Bangkok)
+- [ ] https://reliefweb.int/job/4067724/climate-change-and-green-jobs-technical-expert | ILO | Climate Change and Green Jobs Technical Expert (Thailand)
+- [ ] https://reliefweb.int/job/4023360/specially-appointed-researcher | IGES / AP-PLAT | Specially Appointed Researcher – Climate Change Adaptation (Thailand)
+- [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM | Consulting Senior Associate – Climate (Thailand / SE Asia) ⭐
+- [ ] https://jobs.unicef.org/mob/cw/en-us/job/593852/senior-data-scientist-climate-change-and-emergency-consultant-593852 | UNICEF EAPRO | Senior Data Scientist, Climate Change and Emergency Consultant (Bangkok)
+- [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF / USAID LEAD | Junior Climate Change Consultant – LEAD Program (Bangkok)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30381 | UNOPS | Green Climate Fund Programme Advisory Consultant
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25645 | UNOPS | Climate Mitigation Senior Analyst (Retainer, Multiple Positions)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28293 | UNOPS / NDC Partnership | NDC Partnership Climate Change Analyst (Kazakhstan, Retainer Home-Based)
+- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | MEL Consultant (Monitoring, Evaluation and Learning)
+- [ ] https://careers.gggi.org/vacancy/climate-change-officer-599913.html | GGGI | Climate Change Officer (Guyana)
+- [ ] https://careers.gggi.org/vacancy/mexico-energy-and-climate-individual-consultant-598612.html | GGGI | Individual Consultant – Energy and Climate (Mexico)
+- [ ] https://www.wri.org/careers/jobs/energy-research-analyst-2026-jr100186 | WRI Indonesia | Energy Research Analyst
+- [ ] https://www.wri.org/careers/jobs/research-analyst-power-sector-transition-2026-jr100383 | WRI | Research Analyst – Power Sector Transition (US)
+- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Devex | ESG Research Analyst
+- [ ] https://www.devex.com/jobs/esg-reporting-and-disclosures-analyst-associate-environmental-and-social-governance-1245124 | Devex | ESG Reporting and Disclosures Analyst / Associate
+- [ ] https://www.devex.com/jobs/consultant-climate-finance-blended-finance-1290346 | Devex | Consultant – Climate Finance & Blended Finance
+- [ ] https://www.devex.com/jobs/consultant-iss-esg-climate-solutions-891026 | ISS ESG | Consultant – ISS ESG Climate Solutions
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Assurance, Climate Change and Sustainability Services (2026 Graduates)
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change and Sustainability Services, Assurance
+- [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change
+- [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services, Sustainability and Climate Change Advisory – Senior Associate
+- [ ] https://climatebase.org/job/71676500/data-analyst---esg | Climatebase | Data Analyst – ESG
+- [ ] https://climatebase.org/job/72381758/energy-analyst | Trio Advisory (via Climatebase) | Energy Analyst
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=57518 | GIZ | Advisor – Sustainable Energy (Southeast Asia)
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior Advisor – Demand-Side Subsidies, Energising Development
