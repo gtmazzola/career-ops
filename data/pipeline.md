@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-05 — Multi-portal scheduled scan -->
+- [ ] https://careers.unido.org/job/Vienna-Associate-Industrial-Development-Officer/1167201855/ | UNIDO | Associate Industrial Development Officer
+- [ ] https://www.thai-german-cooperation.info/en_US/a-thai-expert-consultant-to-provide-consultancy-for-training-localisation-impact-assessment-advisory-and-climate-mitigation-target-recommendations-tgc-emc-biomass/ | GIZ Thailand | Consultant – Training Localisation, Impact Assessment & Climate Mitigation (TGC-EMC Biomass)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Senior-Associate/3065 | UNOPS | Programme Management – Senior Associate
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Senior-Analyst/3962 | UNOPS | Programme Management – Senior Analyst
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Portfolio-Associate/1765 | UNOPS | Portfolio Associate
+- [ ] https://www.climatechangecareers.com/job/arup/singapore-singapore/sustainability-consultant-esd-singapore/ | Arup | Sustainability Consultant (Singapore)
+- [ ] https://www.unjobnet.org/jobs/detail/undp-sustainable-energy-associate-88211370 | UNDP | Sustainable Energy Associate
+- [ ] https://www.unjobnet.org/jobs/detail/world-bank-operations-analystclimate-and-sustainable-finance-analyst-87851265 | World Bank | Operations Analyst – Climate and Sustainable Finance
+
 <!-- Scan 2026-08-31 — Multi-portal scheduled scan -->
 - [x] #566 | https://careers.unops.org/careersmarketplace/JobDetail/Portfolio-Specialist/4056 | UNOPS | Portfolio Specialist | 3.0/5 | PDF (no)
 - [x] #567 | https://careers.msci.com/job/data-and-operations/mumbai/climate-data-analyst/2026-5455 | MSCI | Climate Data Analyst (Mumbai) | 2.8/5 | PDF (no)
