@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-09-06 — Scheduled portal scan -->
-- [ ] https://jobs.ebrd.com/job/London-Analyst,-Green-Mobilization/1427930933/ | EBRD | Analyst, Green Mobilization
-- [ ] https://jobs.ebrd.com/job/Belgrade-Analyst,-Environment-and-Sustainability-Department/1428654233 | EBRD | Analyst, Environment and Sustainability Department
-- [ ] https://jobs.ebrd.com/job/London-Analyst,-ESD/1411305733/ | EBRD | Analyst, ESD
-- [ ] https://jobs.ebrd.com/job/London-Associate,-Climate-Risk/1419309733/ | EBRD | Associate, Climate Risk
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601783 | FAO | Climate Change Research Specialist
-- [ ] https://www.unjobnet.org/jobs/detail/64374704 | UNICEF | Consultant – Sustainability and Climate Change Action Plan
-- [ ] https://www.unjobnet.org/jobs/detail/winrock-international-sr-specialist-sustainability-services-86057268 | Winrock International | Sr. Analyst – Sustainability Services
-- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=24939 | UNOPS | Technical Senior Analyst – Environmental and Social Safeguards
-- [ ] https://climatebase.org/job/72329664/sustainability-and-resilience-consultant | Climatebase | Sustainability and Resilience Consultant
-- [ ] https://climatebase.org/job/72976971/managing-consultant---esia-and-esdd | ERM | Managing Consultant – ESIA and ESDD
+- [x] #621 | https://jobs.ebrd.com/job/London-Analyst,-Green-Mobilization/1427930933/ | EBRD | Analyst, Green Mobilization | 3.5/5 | PDF (no)
+- [x] #622 | https://jobs.ebrd.com/job/Belgrade-Analyst,-Environment-and-Sustainability-Department/1428654233 | EBRD | Analyst, ESD Belgrade | 2.5/5 | PDF (no)
+- [x] #623 | https://jobs.ebrd.com/job/London-Analyst,-ESD/1411305733/ | EBRD | Analyst, ESD London | 3.2/5 | PDF (no)
+- [x] #624 | https://jobs.ebrd.com/job/London-Associate,-Climate-Risk/1419309733/ | EBRD | Associate, Climate Risk | 3.0/5 | PDF (no)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601783 | FAO | Climate Change Research Specialist — Error: Site blocked by egress proxy; JD not retrievable via WebFetch or WebSearch; manual review needed.
+- [x] #625 | https://www.unjobnet.org/jobs/detail/64374704 | UNICEF | Consultant – Sustainability and Climate Change Action Plan | 3.2/5 | PDF (no)
+- [x] #626 | https://www.unjobnet.org/jobs/detail/winrock-international-sr-specialist-sustainability-services-86057268 | Winrock International | Sr. Analyst – Sustainability Services | 1.5/5 | PDF (no)
+- [x] #627 | https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=24939 | UNOPS | Technical Senior Analyst – Environmental and Social Safeguards | 3.0/5 | PDF (no)
+- [x] #628 | https://climatebase.org/job/72329664/sustainability-and-resilience-consultant | AECOM | Sustainability and Resilience Consultant | 3.2/5 | PDF (no)
+- [x] #629 | https://climatebase.org/job/72976971/managing-consultant---esia-and-esdd | ERM | Managing Consultant – ESIA and ESDD | 1.5/5 | PDF (no)
 - [ ] https://www.climatebase.org/job/72506675/consultant | ERM | Consultant
 - [ ] https://climatebase.org/job/58364942/graduate-consultant-entry-level | ERM | Graduate Consultant (Entry Level)
 - [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consulting-Senior-Associate---Consultant---Environmental-Impact-Assessment--Capital-Project-Delivery-_R00028893-1 | ERM | Consulting Senior Associate / Consultant – Environmental Impact Assessment
