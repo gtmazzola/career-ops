@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-06 — Scheduled portal scan -->
+- [ ] https://jobs.ebrd.com/job/London-Analyst,-Green-Mobilization/1427930933/ | EBRD | Analyst, Green Mobilization
+- [ ] https://jobs.ebrd.com/job/Belgrade-Analyst,-Environment-and-Sustainability-Department/1428654233 | EBRD | Analyst, Environment and Sustainability Department
+- [ ] https://jobs.ebrd.com/job/London-Analyst,-ESD/1411305733/ | EBRD | Analyst, ESD
+- [ ] https://jobs.ebrd.com/job/London-Associate,-Climate-Risk/1419309733/ | EBRD | Associate, Climate Risk
+- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601783 | FAO | Climate Change Research Specialist
+- [ ] https://www.unjobnet.org/jobs/detail/64374704 | UNICEF | Consultant – Sustainability and Climate Change Action Plan
+- [ ] https://www.unjobnet.org/jobs/detail/winrock-international-sr-specialist-sustainability-services-86057268 | Winrock International | Sr. Analyst – Sustainability Services
+- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=24939 | UNOPS | Technical Senior Analyst – Environmental and Social Safeguards
+- [ ] https://climatebase.org/job/72329664/sustainability-and-resilience-consultant | Climatebase | Sustainability and Resilience Consultant
+- [ ] https://climatebase.org/job/72976971/managing-consultant---esia-and-esdd | ERM | Managing Consultant – ESIA and ESDD
+- [ ] https://www.climatebase.org/job/72506675/consultant | ERM | Consultant
+- [ ] https://climatebase.org/job/58364942/graduate-consultant-entry-level | ERM | Graduate Consultant (Entry Level)
+- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consulting-Senior-Associate---Consultant---Environmental-Impact-Assessment--Capital-Project-Delivery-_R00028893-1 | ERM | Consulting Senior Associate / Consultant – Environmental Impact Assessment
+- [ ] https://www.developmentaid.org/jobs/view/1793300/project-associate | DevelopmentAid | Project Associate
+
 <!-- Scan 2026-09-05 — Multi-portal scheduled scan -->
 - [!] https://careers.unido.org/job/Vienna-Associate-Industrial-Development-Officer/1167201855/ | UNIDO | Associate Industrial Development Officer — Error: Application deadline August 19, 2025 — expired over 1 year ago; P2 Vienna fixed-term; position closed; skip.
 - [x] #576 | https://www.thai-german-cooperation.info/en_US/a-thai-expert-consultant-to-provide-consultancy-for-training-localisation-impact-assessment-advisory-and-climate-mitigation-target-recommendations-tgc-emc-biomass/ | GIZ Thailand | Consultant – Training Localisation, Impact Assessment & Climate Mitigation (TGC-EMC Biomass) | 3.5/5 | PDF (no)
