@@ -2,6 +2,32 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-07 — Scheduled portal scan -->
+- [ ] https://www.impactpool.org/jobs/759255 | AIIB | Environment Analyst (Graduate Program)
+- [ ] https://www.impactpool.org/jobs/770799 | UNDP | Individual Consultant – Climate Change
+- [ ] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia
+- [ ] https://www.impactpool.org/jobs/997565 | FAO | International Consultant – Environmental Sustainability and Natural Resources
+- [ ] https://www.impactpool.org/jobs/1200589 | UNEP | Senior Regional Expert – Climate and Biodiversity
+- [ ] https://reliefweb.int/job/4010286/technical-experts-rdma-partnerships-asia-green-investment-activity | Chemonics/USAID | Technical Experts – Asia Green Investment Activity (Bangkok)
+- [ ] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | Unknown | Climate Action Specialist and Coordinator (Bangkok)
+- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
+- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate / Senior Associate – Corporate Sustainability (Shanghai)
+- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate (India)
+- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
+- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
+- [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Unknown | Individual Consultant – Expert Engagement Framework on Climate Finance
+- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Unknown | ESG Research Analyst
+- [ ] https://www.devex.com/jobs/consultant-iss-esg-climate-solutions-891026 | ISS ESG | Consultant – ESG Climate Solutions
+- [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | Unknown | ESG Expert
+- [ ] https://www.devex.com/jobs/environmental-social-and-corporate-governance-esg-corporate-ratings-analyst-794849 | Unknown | ESG Corporate Ratings Analyst
+- [ ] https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | CBIT MRV Individual Consultant – NDC Tracking (Palau)
+- [ ] https://careers.gggi.org/vacancy/vietnam-senior-program-associate-595620.html | GGGI | Senior Program Associate – Vietnam
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=71205 | GIZ | Advisor – Green Hydrogen Project Development
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=71259 | GIZ | Advisor – Renewable Energy Grid Integration (GET.transform)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98752 | UNDP | International Consultant – Social and Environmental (CCLF Project)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42700 | UNDP | Consultant – Climate Change Research Analyst
+
 <!-- Scan 2026-09-06 — Scheduled portal scan -->
 - [x] #621 | https://jobs.ebrd.com/job/London-Analyst,-Green-Mobilization/1427930933/ | EBRD | Analyst, Green Mobilization | 3.5/5 | PDF (no)
 - [x] #622 | https://jobs.ebrd.com/job/Belgrade-Analyst,-Environment-and-Sustainability-Department/1428654233 | EBRD | Analyst, ESD Belgrade | 2.5/5 | PDF (no)
