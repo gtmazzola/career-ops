@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-09-07 — Scheduled portal scan -->
-- [ ] https://www.impactpool.org/jobs/759255 | AIIB | Environment Analyst (Graduate Program)
-- [ ] https://www.impactpool.org/jobs/770799 | UNDP | Individual Consultant – Climate Change
-- [ ] https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia
-- [ ] https://www.impactpool.org/jobs/997565 | FAO | International Consultant – Environmental Sustainability and Natural Resources
-- [ ] https://www.impactpool.org/jobs/1200589 | UNEP | Senior Regional Expert – Climate and Biodiversity
-- [ ] https://reliefweb.int/job/4010286/technical-experts-rdma-partnerships-asia-green-investment-activity | Chemonics/USAID | Technical Experts – Asia Green Investment Activity (Bangkok)
-- [ ] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | Unknown | Climate Action Specialist and Coordinator (Bangkok)
-- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
-- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate / Senior Associate – Corporate Sustainability (Shanghai)
-- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate (India)
+- [x] #576 | https://www.impactpool.org/jobs/759255 | AIIB | Environment Analyst (Graduate Program) | 3.8/5 | PDF (no)
+- [x] #577 | https://www.impactpool.org/jobs/770799 | UNDP | Individual Consultant – Climate Change | 2.5/5 | PDF (no)
+- [x] #578 | https://www.impactpool.org/jobs/1013192 | IRC | Climate Change Specialist – Asia | 2.3/5 | PDF (no)
+- [x] #579 | https://www.impactpool.org/jobs/997565 | FAO | International Consultant – Environmental Sustainability and Natural Resources | 3.2/5 | PDF (no)
+- [x] #580 | https://www.impactpool.org/jobs/1200589 | UNEP | Senior Regional Expert – Climate and Biodiversity | 2.8/5 | PDF (no)
+- [x] #581 | https://reliefweb.int/job/4010286/technical-experts-rdma-partnerships-asia-green-investment-activity | Chemonics/USAID | Technical Experts – Asia Green Investment Activity (Bangkok) | 3.3/5 | PDF (no)
+- [x] #582 | https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | IGES/UNFCCC RCC | Climate Action Specialist and Coordinator (Bangkok) | 3.9/5 | PDF (no)
+- [x] #583 | https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote) | 2.2/5 | PDF (no)
+- [x] #584 | https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate / Senior Associate – Corporate Sustainability (Shanghai) | 3.6/5 | PDF (no)
+- [x] #585 | https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate (India) | 2.9/5 | PDF (no)
 - [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
 - [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
 - [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Unknown | Individual Consultant – Expert Engagement Framework on Climate Finance
