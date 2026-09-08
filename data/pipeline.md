@@ -13,16 +13,16 @@
 - [x] #583 | https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote) | 2.2/5 | PDF (no)
 - [x] #584 | https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate / Senior Associate – Corporate Sustainability (Shanghai) | 3.6/5 | PDF (no)
 - [x] #585 | https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact | Associate Consultant, Climate (India) | 2.9/5 | PDF (no)
-- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
-- [ ] https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies
-- [ ] https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Unknown | Individual Consultant – Expert Engagement Framework on Climate Finance
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | Unknown | ESG Research Analyst
-- [ ] https://www.devex.com/jobs/consultant-iss-esg-climate-solutions-891026 | ISS ESG | Consultant – ESG Climate Solutions
-- [ ] https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | Unknown | ESG Expert
-- [ ] https://www.devex.com/jobs/environmental-social-and-corporate-governance-esg-corporate-ratings-analyst-794849 | Unknown | ESG Corporate Ratings Analyst
-- [ ] https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | CBIT MRV Individual Consultant – NDC Tracking (Palau)
-- [ ] https://careers.gggi.org/vacancy/vietnam-senior-program-associate-595620.html | GGGI | Senior Program Associate – Vietnam
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects
+- [x] #576 | https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets | 3.6/5 | PDF (no)
+- [x] #577 | https://careers.southpole.com/jobs/950499-consultant-climate-strategies | South Pole | Consultant – Climate Strategies | 2.0/5 | PDF (no)
+- [x] #578 | https://www.devex.com/jobs/individual-consultant-expert-engagement-framework-on-climate-finance-1413867 | Development Bank of Nigeria | Individual Consultant – Expert Engagement Framework on Climate Finance | 2.2/5 | PDF (no)
+- [x] #579 | https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-744245 | ISS ESG | ESG Research Analyst | 2.8/5 | PDF (no)
+- [x] #580 | https://www.devex.com/jobs/consultant-iss-esg-climate-solutions-891026 | ISS ESG | Consultant – ESG Climate Solutions | 3.0/5 | PDF (no)
+- [x] #581 | https://www.devex.com/jobs/environmental-and-social-governance-esg-expert-1337173 | SoCha | ESG Expert | 1.8/5 | PDF (no)
+- [x] #582 | https://www.devex.com/jobs/environmental-social-and-corporate-governance-esg-corporate-ratings-analyst-794849 | ISS ESG | ESG Corporate Ratings Analyst | 2.8/5 | PDF (no)
+- [x] #583 | https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | CBIT MRV Individual Consultant – NDC Tracking (Palau) | 1.8/5 | PDF (no)
+- [x] #584 | https://careers.gggi.org/vacancy/vietnam-senior-program-associate-595620.html | GGGI | Senior Program Associate – Vietnam | 3.8/5 | PDF (no)
+- [x] #585 | https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects | 2.5/5 | PDF (no)
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=71205 | GIZ | Advisor – Green Hydrogen Project Development
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=71259 | GIZ | Advisor – Renewable Energy Grid Integration (GET.transform)
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98752 | UNDP | International Consultant – Social and Environmental (CCLF Project)
