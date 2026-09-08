@@ -28,6 +28,9 @@
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98752 | UNDP | International Consultant – Social and Environmental (CCLF Project)
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42700 | UNDP | Consultant – Climate Change Research Analyst
 
+<!-- Scan 2026-09-08 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1365594555/ | UNIDO | Project Assistant (Vienna) ⭐ DEADLINE Sep 10
+
 <!-- Scan 2026-09-06 — Scheduled portal scan -->
 - [x] #621 | https://jobs.ebrd.com/job/London-Analyst,-Green-Mobilization/1427930933/ | EBRD | Analyst, Green Mobilization | 3.5/5 | PDF (no)
 - [x] #622 | https://jobs.ebrd.com/job/Belgrade-Analyst,-Environment-and-Sustainability-Department/1428654233 | EBRD | Analyst, ESD Belgrade | 2.5/5 | PDF (no)
