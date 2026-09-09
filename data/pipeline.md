@@ -1999,3 +1999,10 @@
 - [ ] https://climatebase.org/job/72381758/energy-analyst | Trio Advisory (via Climatebase) | Energy Analyst
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=57518 | GIZ | Advisor – Sustainable Energy (Southeast Asia)
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior Advisor – Demand-Side Subsidies, Energising Development
+<!-- Scan 2026-09-09 — Scheduled portal scan -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=77863 | UNDP | Governance and Climate Finance Consultant (Bangkok) ⭐
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=83853 | UNDP | Junior Consultant – Ecosystems and Biodiversity (Bangkok)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=93536 | UNDP | Waste Management Consultant (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1093591 | UNOPS | Environment and Climate Change Advisor (Copenhagen)
+- [ ] https://www.impactpool.org/jobs/954030 | UNDP | Climate, Environment and Sustainability Officer (Accra)
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=63132 | GIZ | Advisor – Powering Climate Protection
