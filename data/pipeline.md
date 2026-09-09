@@ -23,13 +23,13 @@
 - [x] #583 | https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | CBIT MRV Individual Consultant – NDC Tracking (Palau) | 1.8/5 | PDF (no)
 - [x] #584 | https://careers.gggi.org/vacancy/vietnam-senior-program-associate-595620.html | GGGI | Senior Program Associate – Vietnam | 3.8/5 | PDF (no)
 - [x] #585 | https://jobs.giz.de/index.php?ac=jobad&id=62762 | GIZ | Advisor – Financing of Renewable Energy Projects | 2.5/5 | PDF (no)
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=71205 | GIZ | Advisor – Green Hydrogen Project Development
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=71259 | GIZ | Advisor – Renewable Energy Grid Integration (GET.transform)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98752 | UNDP | International Consultant – Social and Environmental (CCLF Project)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42700 | UNDP | Consultant – Climate Change Research Analyst
+- [!] https://jobs.giz.de/index.php?ac=jobad&id=71205 | GIZ | Advisor – Green Hydrogen Project Development — Error: Assignment period ended Dec 2025; application deadline was March 2024; posting expired over 1 year ago.
+- [x] #576 | https://jobs.giz.de/index.php?ac=jobad&id=71259 | GIZ | Advisor – Renewable Energy Grid Integration (GET.transform) | 1.5/5 | PDF (no)
+- [x] #577 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98752 | UNDP | International Consultant – Social and Environmental (CCLF Project) | 2.0/5 | PDF (no)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42700 | UNDP | Consultant – Climate Change Research Analyst — Error: Posting from 2014; expired over 12 years ago; skip.
 
 <!-- Scan 2026-09-08 — Scheduled portal scan -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1365594555/ | UNIDO | Project Assistant (Vienna) ⭐ DEADLINE Sep 10
+- [!] https://careers.unido.org/job/Vienna-Project-Assistant/1365594555/ | UNIDO | Project Assistant (Vienna) — Error: G-4 local support position restricted to Austrian nationals or permanent residents only; Gavin ineligible.
 
 <!-- Scan 2026-09-06 — Scheduled portal scan -->
 - [x] #621 | https://jobs.ebrd.com/job/London-Analyst,-Green-Mobilization/1427930933/ | EBRD | Analyst, Green Mobilization | 3.5/5 | PDF (no)
@@ -42,10 +42,10 @@
 - [x] #627 | https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=24939 | UNOPS | Technical Senior Analyst – Environmental and Social Safeguards | 3.0/5 | PDF (no)
 - [x] #628 | https://climatebase.org/job/72329664/sustainability-and-resilience-consultant | AECOM | Sustainability and Resilience Consultant | 3.2/5 | PDF (no)
 - [x] #629 | https://climatebase.org/job/72976971/managing-consultant---esia-and-esdd | ERM | Managing Consultant – ESIA and ESDD | 1.5/5 | PDF (no)
-- [ ] https://www.climatebase.org/job/72506675/consultant | ERM | Consultant
-- [ ] https://climatebase.org/job/58364942/graduate-consultant-entry-level | ERM | Graduate Consultant (Entry Level)
-- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consulting-Senior-Associate---Consultant---Environmental-Impact-Assessment--Capital-Project-Delivery-_R00028893-1 | ERM | Consulting Senior Associate / Consultant – Environmental Impact Assessment
-- [ ] https://www.developmentaid.org/jobs/view/1793300/project-associate | DevelopmentAid | Project Associate
+- [x] #578 | https://www.climatebase.org/job/72506675/consultant | ERM | Consultant – Energy Transition Advisory | 3.5/5 | PDF (no)
+- [x] #579 | https://climatebase.org/job/58364942/graduate-consultant-entry-level | ERM | Graduate Consultant (Entry Level) | 3.0/5 | PDF (no)
+- [x] #580 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Consulting-Senior-Associate---Consultant---Environmental-Impact-Assessment--Capital-Project-Delivery-_R00028893-1 | ERM | Consulting Senior Associate / Consultant – Environmental Impact Assessment | 2.5/5 | PDF (no)
+- [!] https://www.developmentaid.org/jobs/view/1793300/project-associate | DevelopmentAid | Project Associate — Error: Application deadline was 30 August 2026; expired. Minimum 22 years experience listed; skip.
 
 <!-- Scan 2026-09-05 — Multi-portal scheduled scan -->
 - [!] https://careers.unido.org/job/Vienna-Associate-Industrial-Development-Officer/1167201855/ | UNIDO | Associate Industrial Development Officer — Error: Application deadline August 19, 2025 — expired over 1 year ago; P2 Vienna fixed-term; position closed; skip.
@@ -1433,7 +1433,7 @@
 - [x] #593 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=60650 | UNDP | Sustainable Energy Consultant | 2.4/5 | PDF (no)
 - [x] #594 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101462 | UNDP | National Consultant – Climate Change Expert | 1.0/5 | PDF (no)
 - [x] #595 | https://jobs.giz.de/index.php?ac=jobad&id=63157 | GIZ | Advisor – Energy Efficiency in Buildings (Morocco) | 2.3/5 | PDF (no)
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=76945 | GIZ | Team Leader – Energy Transition Specialist ⚠️ senior level
+- [!] https://jobs.giz.de/index.php?ac=jobad&id=76945 | GIZ | Team Leader – Energy Transition Specialist — Error: Application deadline November 2025; expired. Requires 12+ years experience and 5+ years team leadership; senior level mismatch; skip.
 - [ ] https://jobs.greenclimate.fund/job/NA-Compliance-Consultant/924586701/ | GCF | Compliance Consultant (Remote)
 - [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Reporting-and-Accounting-Consultant/1147206801/ | GCF | Financial Reporting and Accounting Consultant
 
