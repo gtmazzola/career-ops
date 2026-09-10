@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-09-10 — Scheduled portal scan -->
-- [ ] https://careers.gggi.org/vacancy/senior-associate-green-investmentmonitoring-evaluation-and-learning-mel-592994.html | GGGI | Senior Associate, Green Investment-Monitoring, Evaluation and Learning (MEL)
-- [ ] https://careers.un.org/jobSearchDescription/277228 | UN / UNEP | Associate Programme Management Officer P2
-- [ ] https://careers.southpole.com/jobs/8266167-senior-specialist-carbon-projects-risk | South Pole | (Senior) Specialist, Carbon Projects Risk
-- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Social-and-Human-Right-Consulting-Associate_R00029927-1 | ERM | Social and Human Right Consulting Associate
+- [x] #630 | https://careers.gggi.org/vacancy/senior-associate-green-investmentmonitoring-evaluation-and-learning-mel-592994.html | GGGI | Senior Associate, Green Investment-MEL (Indonesia) | 3.3/5 | PDF (no)
+- [x] #631 | https://careers.un.org/jobSearchDescription/277228 | UNEP | Associate Programme Management Officer P2 (Nairobi) | 3.0/5 | PDF (no)
+- [x] #632 | https://careers.southpole.com/jobs/8266167-senior-specialist-carbon-projects-risk | South Pole | (Senior) Specialist, Carbon Projects Risk (Jakarta) | 2.5/5 | PDF (no)
+- [x] #633 | https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Social-and-Human-Right-Consulting-Associate_R00029927-1 | ERM | Social and Human Right Consulting Associate (APAC) | 3.2/5 | PDF (no)
 
 <!-- Scan 2026-09-07 — Scheduled portal scan -->
 - [x] #576 | https://www.impactpool.org/jobs/759255 | AIIB | Environment Analyst (Graduate Program) | 3.8/5 | PDF (no)
@@ -1440,14 +1440,14 @@
 - [x] #594 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101462 | UNDP | National Consultant – Climate Change Expert | 1.0/5 | PDF (no)
 - [x] #595 | https://jobs.giz.de/index.php?ac=jobad&id=63157 | GIZ | Advisor – Energy Efficiency in Buildings (Morocco) | 2.3/5 | PDF (no)
 - [!] https://jobs.giz.de/index.php?ac=jobad&id=76945 | GIZ | Team Leader – Energy Transition Specialist — Error: Application deadline November 2025; expired. Requires 12+ years experience and 5+ years team leadership; senior level mismatch; skip.
-- [ ] https://jobs.greenclimate.fund/job/NA-Compliance-Consultant/924586701/ | GCF | Compliance Consultant (Remote)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Reporting-and-Accounting-Consultant/1147206801/ | GCF | Financial Reporting and Accounting Consultant
+- [x] #634 | https://jobs.greenclimate.fund/job/NA-Compliance-Consultant/924586701/ | GCF | Compliance Consultant (Remote) | 1.8/5 | PDF (no)
+- [x] #635 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Financial-Reporting-and-Accounting-Consultant/1147206801/ | GCF | Financial Reporting and Accounting Consultant (Incheon) | 1.2/5 | PDF (no)
 
 <!-- Scan 2026-08-25 — Multi-portal scheduled scan -->
-- [ ] https://builtin.com/job/sustainability-performance-analyst-mea-apac/6699535 | Accor | Sustainability Performance Analyst MEA APAC
-- [ ] https://careers.accor.com/fr/fr/job/sustainability-change-officer-mea-apac-in-bangkok-thailand-jid-61809 | Accor | Sustainability Change Officer MEA APAC
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Associate/2447 | UNOPS | Project Management Support - Associate (Bangkok ETP)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Social-and-Environmental-Senior-Analyst/3969 | UNOPS | Social and Environmental Senior Analyst
+- [x] #636 | https://builtin.com/job/sustainability-performance-analyst-mea-apac/6699535 | Accor | Sustainability Performance Analyst MEA APAC (Bangkok) | 4.0/5 | PDF (no)
+- [x] #637 | https://careers.accor.com/fr/fr/job/sustainability-change-officer-mea-apac-in-bangkok-thailand-jid-61809 | Accor | Sustainability Change Officer MEA APAC (Bangkok) | 3.0/5 | PDF (no)
+- [x] #638 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Associate/2447 | UNOPS | Project Management Support Associate (Bangkok ETP) | 4.2/5 | PDF (no)
+- [!] https://careers.unops.org/careersmarketplace/JobDetail/Social-and-Environmental-Senior-Analyst/3969 | UNOPS | Social and Environmental Senior Analyst — Error: Deadline expired August 12, 2026; duty station Kabul, Afghanistan — outside preferred regions and security risk; skip.
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Monitoring-and-Evaluation-Senior-Officer/1170 | UNOPS | Monitoring and Evaluation Senior Officer
 - [ ] https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management - Senior Officer (ETP Bangkok)
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Senior-Analyst/3797 | UNOPS | Project Management Office (PMO) - Senior Analyst
