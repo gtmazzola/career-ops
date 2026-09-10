@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-10 — Scheduled portal scan -->
+- [ ] https://careers.gggi.org/vacancy/senior-associate-green-investmentmonitoring-evaluation-and-learning-mel-592994.html | GGGI | Senior Associate, Green Investment-Monitoring, Evaluation and Learning (MEL)
+- [ ] https://careers.un.org/jobSearchDescription/277228 | UN / UNEP | Associate Programme Management Officer P2
+- [ ] https://careers.southpole.com/jobs/8266167-senior-specialist-carbon-projects-risk | South Pole | (Senior) Specialist, Carbon Projects Risk
+- [ ] https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/Social-and-Human-Right-Consulting-Associate_R00029927-1 | ERM | Social and Human Right Consulting Associate
+
 <!-- Scan 2026-09-07 — Scheduled portal scan -->
 - [x] #576 | https://www.impactpool.org/jobs/759255 | AIIB | Environment Analyst (Graduate Program) | 3.8/5 | PDF (no)
 - [x] #577 | https://www.impactpool.org/jobs/770799 | UNDP | Individual Consultant – Climate Change | 2.5/5 | PDF (no)
