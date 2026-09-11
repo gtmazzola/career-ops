@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-11 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Programme-Expert/1331085355/ | UNIDO | Programme Expert (Vienna)
+- [ ] https://careers.unido.org/job/Brasilia-National-Project-Coordinator/1363438655/ | UNIDO | National Project Coordinator (Brasilia)
+- [ ] https://www.wri.org/careers/jobs/monitoring-and-evaluation-analyst-2026-jr100357 | WRI | Monitoring and Evaluation Analyst
+- [ ] https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst (Indonesia)
+- [ ] https://www.sei.org/people/jobs/energy-environment-analyst/ | SEI | Energy and Environment Analyst
+- [ ] https://www.climatechangecareers.com/job/erm/singapore-singapore/consulting-senior-associate-liability-portfolio-management/ | ERM Singapore | Consulting Senior Associate – Liability Portfolio Management
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change and Sustainability Services, Assurance
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/senior-associate-manager-climate-change-and-sustainability-services-assurance/ | EY Singapore | Senior Associate / Manager – Climate Change and Sustainability Services, Assurance
+- [ ] https://reliefweb.int/job/3822979/senior-research-officer-climate-and-sustainability | ReliefWeb | Senior Research Officer – Climate and Sustainability
+
 <!-- Scan 2026-09-10 — Scheduled portal scan -->
 - [x] #630 | https://careers.gggi.org/vacancy/senior-associate-green-investmentmonitoring-evaluation-and-learning-mel-592994.html | GGGI | Senior Associate, Green Investment-MEL (Indonesia) | 3.3/5 | PDF (no)
 - [x] #631 | https://careers.un.org/jobSearchDescription/277228 | UNEP | Associate Programme Management Officer P2 (Nairobi) | 3.0/5 | PDF (no)
