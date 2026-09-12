@@ -1459,16 +1459,16 @@
 - [x] #637 | https://careers.accor.com/fr/fr/job/sustainability-change-officer-mea-apac-in-bangkok-thailand-jid-61809 | Accor | Sustainability Change Officer MEA APAC (Bangkok) | 3.0/5 | PDF (no)
 - [x] #638 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Associate/2447 | UNOPS | Project Management Support Associate (Bangkok ETP) | 4.2/5 | PDF (no)
 - [!] https://careers.unops.org/careersmarketplace/JobDetail/Social-and-Environmental-Senior-Analyst/3969 | UNOPS | Social and Environmental Senior Analyst — Error: Deadline expired August 12, 2026; duty station Kabul, Afghanistan — outside preferred regions and security risk; skip.
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Monitoring-and-Evaluation-Senior-Officer/1170 | UNOPS | Monitoring and Evaluation Senior Officer
-- [ ] https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management - Senior Officer (ETP Bangkok)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Senior-Analyst/3797 | UNOPS | Project Management Office (PMO) - Senior Analyst
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor - Energy Transition
-- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant, Corporate Climate Targets
-- [ ] https://careers.southpole.com/jobs/5526878-junior-associate-associate-specialist | South Pole | Junior Associate / Associate Specialist
-- [ ] https://www.impactpool.org/jobs/1229319 | UNEP FI | Climate and Investment Consultant
-- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI/JLL | Climate and Decarbonization Strategy Associate
-- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate / Senior Associate - Corporate Sustainability & Climate Change
-- [ ] https://startup.jobs/sustainability-specialist-bangkok-based-agoda-7398570 | Agoda | Sustainability Specialist (Bangkok)
+- [x] #639 | https://careers.unops.org/careersmarketplace/JobDetail/Monitoring-and-Evaluation-Senior-Officer/1170 | UNOPS | Monitoring and Evaluation Senior Officer | 3.1/5 | PDF (no)
+- [x] #640 | https://unjobs.org/vacancies/1775252021936 | UNOPS | Programme Management Senior Officer (ETP Bangkok) | 3.8/5 | PDF (no)
+- [x] #641 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Senior-Analyst/3797 | UNOPS | PMO Senior Analyst (Bangkok) | 3.3/5 | PDF (no)
+- [x] #642 | https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor – Energy Transition | 3.2/5 | PDF (no)
+- [x] #643 | https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets | 3.5/5 | PDF (no)
+- [x] #644 | https://careers.southpole.com/jobs/5526878-junior-associate-associate-specialist | South Pole | Junior Associate / Associate Specialist | 3.4/5 | PDF (no)
+- [x] #645 | https://www.impactpool.org/jobs/1229319 | UNEP FI | Climate and Investment Consultant | 1.5/5 | PDF (no)
+- [!] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI/JLL | Climate and Decarbonization Strategy Associate — Duplicate of #077 (same URL already evaluated 2.0/5); skip.
+- [x] #646 | https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate/Senior Associate – Corporate Sustainability (Shanghai) | 3.1/5 | PDF (no)
+- [x] #647 | https://startup.jobs/sustainability-specialist-bangkok-based-agoda-7398570 | Agoda | Sustainability Specialist (Bangkok) | 2.5/5 | PDF (no)
 - [ ] https://www.impactpool.org/jobs/1220480 | Sequoia Climate Foundation | Consultant Program Manager, Southeast Asia
 - [ ] https://careers.unido.org/job/Bangkok-Programme-Assistant/1346027055/ | UNIDO | Programme Assistant (Bangkok)
 - [ ] https://careers.unido.org/job/Bangkok-National-Project-Coordinator-(NPC)/1155406055/ | UNIDO | National Project Coordinator (NPC) (Bangkok) ⚠️ national consultant - check eligibility
