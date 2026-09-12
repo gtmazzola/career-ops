@@ -2023,3 +2023,10 @@
 - [ ] https://www.impactpool.org/jobs/1093591 | UNOPS | Environment and Climate Change Advisor (Copenhagen)
 - [ ] https://www.impactpool.org/jobs/954030 | UNDP | Climate, Environment and Sustainability Officer (Accra)
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=63132 | GIZ | Advisor – Powering Climate Protection
+<!-- Scan 2026-09-12 — Scheduled portal scan -->
+- [ ] https://www.adb.org/careers/260856 | ADB | Climate Change Officer – Climate Change Adaptation (deadline Sep 21 2026)
+- [ ] https://www.adb.org/careers/260870 | ADB | Young Professional Program 2026
+- [ ] https://www.impactpool.org/jobs/1163402 | UNDP | Policy Analyst – Thailand Policy Lab (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1197490 | UNOPS | Programme Management Advisor – Energy Connectivity (Home-Based)
+- [ ] https://www.impactpool.org/jobs/1206461 | UNEP | Programme Management Officer
+- [ ] https://careers.southpole.com/jobs/8157340 | South Pole | Lead, Voluntary Market Governance (Multiple Locations incl. Bangkok)
