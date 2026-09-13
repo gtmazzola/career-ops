@@ -1469,10 +1469,10 @@
 - [!] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI/JLL | Climate and Decarbonization Strategy Associate — Duplicate of #077 (same URL already evaluated 2.0/5); skip.
 - [x] #646 | https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM | Consulting Associate/Senior Associate – Corporate Sustainability (Shanghai) | 3.1/5 | PDF (no)
 - [x] #647 | https://startup.jobs/sustainability-specialist-bangkok-based-agoda-7398570 | Agoda | Sustainability Specialist (Bangkok) | 2.5/5 | PDF (no)
-- [ ] https://www.impactpool.org/jobs/1220480 | Sequoia Climate Foundation | Consultant Program Manager, Southeast Asia
-- [ ] https://careers.unido.org/job/Bangkok-Programme-Assistant/1346027055/ | UNIDO | Programme Assistant (Bangkok)
-- [ ] https://careers.unido.org/job/Bangkok-National-Project-Coordinator-(NPC)/1155406055/ | UNIDO | National Project Coordinator (NPC) (Bangkok) ⚠️ national consultant - check eligibility
-- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda)
+- [x] #639 | https://www.impactpool.org/jobs/1220480 | Sequoia Climate Foundation | Consultant Program Manager, Southeast Asia | 2.5/5 | PDF (no)
+- [x] #640 | https://careers.unido.org/job/Bangkok-Programme-Assistant/1346027055/ | UNIDO | Programme Assistant (Bangkok) | 1.5/5 | PDF (no)
+- [x] #641 | https://careers.unido.org/job/Bangkok-National-Project-Coordinator-(NPC)/1155406055/ | UNIDO | National Project Coordinator (NPC) (Bangkok) | 1.0/5 | PDF (no)
+- [x] #642 | https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda) | 3.0/5 | PDF (no)
 
 ## Procesadas
 
@@ -1578,12 +1578,12 @@
 - [x] #307 | https://www.impactpool.org/jobs/1139565 | UNV/UNEP | APAN Network Coordinator (Bangkok) | 2.0/5 | PDF (no)
 - [x] #308 | https://www.impactpool.org/jobs/923967 | UNV/UNEP | Programme Officer – Intergovernmental Affairs (Bangkok) | 2.0/5 | PDF (no)
 - [!] https://jobs.unicef.org/cw/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF | Climate-Resilient Education Consultant — Error: Application deadline 19 May 2026 — expired; position closed.
-- [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | LEAD Program AIT | Junior Climate Change Consultant (Bangkok)
-- [ ] https://careers.gggi.org/vacancy/policy-analyst-consultant-methane-mitigation-policy-analyst-malaysia-577154.html | GGGI | Policy Analyst Consultant – Methane Mitigation (Malaysia)
-- [ ] https://careers.gggi.org/vacancy/indonesia-financial-analyst-for-assessing-local-currency-financing-571063.html | GGGI | Financial Analyst – Local Currency Financing (Indonesia)
-- [ ] https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT)
-- [ ] https://www.impactpool.org/jobs/1066670 | IEA | Energy Analysts – Regional Cooperation Centre (Singapore)
-- [ ] https://www.devex.com/jobs/senior-associate-climate-action-1406803 | AVPN | Senior Associate – Climate Action (Asia)
+- [x] #643 | https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | LEAD Program AIT | Junior Climate Change Consultant (Bangkok) | 3.5/5 | PDF (no)
+- [x] #644 | https://careers.gggi.org/vacancy/policy-analyst-consultant-methane-mitigation-policy-analyst-malaysia-577154.html | GGGI | Policy Analyst Consultant – Methane Mitigation (Malaysia) | 2.5/5 | PDF (no)
+- [x] #645 | https://careers.gggi.org/vacancy/indonesia-financial-analyst-for-assessing-local-currency-financing-571063.html | GGGI | Financial Analyst – Local Currency Financing (Indonesia) | 2.5/5 | PDF (no)
+- [x] #646 | https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT) | 3.5/5 | PDF (no)
+- [x] #647 | https://www.impactpool.org/jobs/1066670 | IEA | Energy Analysts – Regional Cooperation Centre (Singapore) | 3.8/5 | PDF (no)
+- [x] #648 | https://www.devex.com/jobs/senior-associate-climate-action-1406803 | AVPN | Senior Associate – Climate Action (Asia) | 3.0/5 | PDF (no)
 - [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/investment-analyst41.html | AIIB | Investment Analyst (Beijing)
 - [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator (Vienna)
 - [ ] https://careers.unido.org/job/Bogota-National-Project-and-Delivery-Associate/1344646455/ | UNIDO | National Project and Delivery Associate (Bogota)
