@@ -2030,3 +2030,13 @@
 - [ ] https://www.impactpool.org/jobs/1197490 | UNOPS | Programme Management Advisor – Energy Connectivity (Home-Based)
 - [ ] https://www.impactpool.org/jobs/1206461 | UNEP | Programme Management Officer
 - [ ] https://careers.southpole.com/jobs/8157340 | South Pole | Lead, Voluntary Market Governance (Multiple Locations incl. Bangkok)
+<!-- Scan 2026-09-13 — Scheduled portal scan -->
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/Economics-Analyst.html | AIIB | Economics Analyst (Graduate Program)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/finance-analyst-associate-loan-management55.html | AIIB | Finance Analyst/Associate, Loan Management
+- [ ] https://www.climatechangecareers.com/job/renewable-careers/remote/renewable-energy-analyst-remote-working/ | Renewable Careers | Renewable Energy Analyst (Remote)
+- [ ] https://jobs.unicef.org/en-us/job/583974/climate-resilience-for-children-knowledge-communication-consultant-pg-ceed-nyhq-remote-req-583974 | UNICEF | Climate Resilience – Knowledge & Communication Consultant (Remote)
+- [ ] https://jobs.unicef.org/en-us/job/581016/individual-consultancy-national-consultant-to-scale-up-the-climate-guardians-initiative | UNICEF | National Consultant – Climate Guardians Initiative
+- [ ] https://jobs.unicef.org/en-us/job/595545/ | UNICEF Bangkok | Gender, Inclusion, and Climate Resilience Consultant ⭐
+- [ ] https://jobs.unicef.org/en-us/job/595405/ | UNICEF Bangkok | Climate Adaptation Economics Consultant ⭐
+- [ ] https://careers.unesco.org/job/Bangkok-Individual-Consultant-Culture-%28Regional-Survey-on-World-Heritage-Cities-and-Climate-Action%29/821335702 | UNESCO Bangkok | Consultant – World Heritage Cities and Climate Action
+- [ ] https://careers.unesco.org/job/Bangkok-Consultant-Climate-Smart-Education-Systems-Initiative-(CSESI)/1331765657 | UNESCO Bangkok | Consultant – Climate Smart Education Systems Initiative
