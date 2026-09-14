@@ -2040,3 +2040,16 @@
 - [ ] https://jobs.unicef.org/en-us/job/595405/ | UNICEF Bangkok | Climate Adaptation Economics Consultant ⭐
 - [ ] https://careers.unesco.org/job/Bangkok-Individual-Consultant-Culture-%28Regional-Survey-on-World-Heritage-Cities-and-Climate-Action%29/821335702 | UNESCO Bangkok | Consultant – World Heritage Cities and Climate Action
 - [ ] https://careers.unesco.org/job/Bangkok-Consultant-Climate-Smart-Education-Systems-Initiative-(CSESI)/1331765657 | UNESCO Bangkok | Consultant – Climate Smart Education Systems Initiative
+<!-- Scan 2026-09-14 — Scheduled portal scan -->
+- [ ] https://aseanenergy.org/vacancies/senior-officer-of-power-fossil-fuel-alternative-energy-and-storage/ | ASEAN Centre for Energy | Senior Officer – Power, Fossil Fuel, Alternative Energy and Storage
+- [ ] https://reliefweb.int/job/4059454/energy-and-environment-analyst-usaid-bureau-latin-america-and-caribbean | USAID | Energy and Environment Analyst (Latin America and Caribbean)
+- [ ] https://jobs.niri.org/job/4326/isg-finance-esg-reporting-analytics-associate/ | ISG Finance | ESG Reporting & Analytics Associate
+- [ ] https://www.climatechangecareers.com/job/renewable-careers/toronto-canada/entry-level-analyst-sustainability/ | Renewable Careers | Entry-Level Analyst (Sustainability) [Toronto]
+- [ ] https://www.impactpool.org/jobs/1229512 | OECD | Electricity Grids and Security Analyst
+- [ ] https://reliefweb.int/job/4091424/consultancy-climate-and-water-research-lead-syria-remote | ReliefWeb | Climate and Water Research Lead – Syria (Remote)
+- [ ] https://oecd.impactpool.org/vacancies/1208454 | OECD | Partnership Manager – Clean Energy Ministerial
+- [ ] https://reliefweb.int/job/3882846/consultancy-senior-consultant-climate-and-environmental-impacts | Consultancy | (Senior) Consultant – Climate and Environmental Impacts
+- [ ] https://www.climatechangecareers.com/job/palladium-make-it-possible/sydney-australia/eoi-mel-gedsi-operations-communications-climate-development-finance-economics/ | Palladium | EOI: MEL / Climate / Development Finance & Economics
+- [ ] https://workopia.io/jobs/a71ad93264f1103dcafe5aeca51ec933 | EY Taiwan | ESG Services Consultant
+- [ ] https://jobs.unicef.org/en-us/job/595554/genu-green-rising-consultant-global-programme-division-generation-unlimited-12-months-new-york-remote-595554 | UNICEF | GenU Green Rising Consultant (NY / Remote)
+- [ ] https://workopia.io/jobs/0f27e3e4adbac95149eff7eb2f980e91 | EY Taiwan | Climate Change & Sustainability Services Consultant
