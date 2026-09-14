@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 649 | 2026-09-13 | UNIDO | Programme Assistant (Bangkok) | 1.5/5 | NO APLICAR | ❌ | [640](reports/640-unido-programme-assistant-2026-09-13.md) | Expired (Apr 2026); G5 admin role below current level |
+| 649 | 2026-09-14 | UNIDO | Project Coordinator (Vienna) | 3.5/5 | NO APLICAR | ❌ | [640](reports/640-unido-project-coordinator-vienna-2026-09-14.md) | Re-eval 2026-09-14 (1.5→3.5). Strong IO/UNIDO match; ISA-P3 seniority gap; verify if still open |
 | 650 | 2026-09-13 | GGGI | Project Associate (IKI-ALCBT) | 3.5/5 | Evaluada | ❌ | [646](reports/646-gggi-project-associate-iki-alcbt-2026-09-13.md) | Strong IKI project match; India relocation; buildings sector gap |
 | 648 | 2026-09-12 | UNOPS | Technical Advisor – Energy Transition | 3.2/5 | Evaluada | ❌ | [642](reports/642-unops-technical-advisor-energy-transition-2026-09-12.md) | Remote energy transition advisory; IICA-3 seniority is a hard gap (7+ years needed); strong topic match but likely screened out |
 | 639 | 2026-09-12 | UNOPS | Monitoring and Evaluation Senior Officer | 3.1/5 | Evaluada | ❌ | [639](reports/639-unops-monitoring-evaluation-senior-officer-2026-09-12.md) | Re-eval 2026-09-12 (2.5→3.1). Colombo-based M&E role; UN system match but location not Bangkok and seniority gap; posting may be closed (Dec 2025 deadline) |
