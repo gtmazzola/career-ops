@@ -2053,3 +2053,15 @@
 - [ ] https://workopia.io/jobs/a71ad93264f1103dcafe5aeca51ec933 | EY Taiwan | ESG Services Consultant
 - [ ] https://jobs.unicef.org/en-us/job/595554/genu-green-rising-consultant-global-programme-division-generation-unlimited-12-months-new-york-remote-595554 | UNICEF | GenU Green Rising Consultant (NY / Remote)
 - [ ] https://workopia.io/jobs/0f27e3e4adbac95149eff7eb2f980e91 | EY Taiwan | Climate Change & Sustainability Services Consultant
+<!-- Scan 2026-09-15 — Scheduled portal scan -->
+- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Assurance, Climate Change and Sustainability Services (2026 Graduates)
+- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate / Senior Associate – Corporate Sustainability & Climate Change
+- [ ] https://www.climatechangecareers.com/job/deloitte/hong-kong-hong-kong/analyst-consultant-senior-consultant-esg-enterprise-risk-hong-kong-315112/ | Deloitte Hong Kong | Analyst / Consultant / Senior Consultant (ESG) – Enterprise Risk
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30888 | UNOPS | Project Management Office (PMO) – Senior Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29829 | UNOPS | Project Management Support – Senior Analyst (Planning and Operations)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28735 | UNOPS | Project Development Analyst
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27983 | UNOPS | NDC Partnership Climate Change Analyst (Kyrgyz Republic) – Retainer
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=71259 | GIZ | Advisor – Renewable Energy Grid Integration (GET.transform)
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior-Advisor – Demand-Side Subsidies (Energising Development)
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=71205 | GIZ | Advisor – Green Hydrogen Project Development
+- [ ] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – Infrastructure Investment, City Climate Finance Gap Fund
