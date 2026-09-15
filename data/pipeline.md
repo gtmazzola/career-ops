@@ -1594,18 +1594,18 @@
 - [x] #646 | https://www.devex.com/jobs/consultant-to-senior-consultant-sustainable-asset-advisory-green-building-building-energy-sustainability-1402475 | Various | Consultant – Sustainable Asset Advisory (Green Buildings) | 2.5/5 | PDF (no)
 - [x] #647 | https://www.devex.com/jobs/individual-consultant-international-climate-change-and-ghg-emissions-expert-1373873 | Various | Individual Consultant – Climate Change and GHG Emissions Expert | 1.5/5 | PDF (no)
 - [x] #648 | https://www.devex.com/jobs/individual-consultant-climate-research-analyst-jakarta-based-1348107 | WRI | Individual Consultant – Climate Research Analyst (Jakarta) | 1.0/5 | PDF (no)
-- [ ] https://jobs.unicef.org/cw/fr/job/588697/individual-consultant-climate-and-environment-consultant-unicef-regional-office-for-south-asia-remote-working | UNICEF | Individual Consultant – Climate and Environment (South Asia, Remote)
-- [ ] https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based)
+- [x] #649 | https://jobs.unicef.org/cw/fr/job/588697/individual-consultant-climate-and-environment-consultant-unicef-regional-office-for-south-asia-remote-working | UNICEF | Individual Consultant – Climate and Environment (South Asia, Remote) | 3.5/5 | PDF (no)
+- [x] #650 | https://jobs.unicef.org/mob/es/job/592113/climate-change-consultant-officebased-592113 | UNICEF | Climate Change Consultant (Office-based, Dar es Salaam) | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-07-01 — Multi-portal: AIIB / ThaiNGO / MyCareersFuture / EBRD / UNEP / UNOPS / WRI / ClimateChangeCareers / Terra.do / Climatebase / LinkedIn -->
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Associate-for-pooling-only.html | AIIB | Environment Associate (for pooling only)
-- [ ] https://tw.linkedin.com/jobs/view/sustainability-consultant-esg-consulting-office-taipei-at-delta-electronics-4202799125 | Delta Electronics | Sustainability Consultant – ESG Consulting Office (Taipei)
-- [ ] https://www.impactpool.org/jobs/1203696 | World Bank Group | Operations Officer – Sustainable Infrastructure Advisory (SIA)
-- [ ] https://www.impactpool.org/jobs/1197103 | EBRD | Analyst, Impact Assessment and Foresight
-- [ ] https://www.climatechangecareers.com/job/world-resources-institute/washington-dc-united-states/research-analyst-ii-natural-climate-solutions/ | WRI | Research Analyst II, Natural Climate Solutions
-- [ ] https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant, Payment Watershed Services Policy (Indonesia)
-- [ ] https://ch.linkedin.com/jobs/view/project-management-support-officer-at-unops-4378171878 | UNOPS | Project Management Support Officer (Geneva)
-- [ ] https://in.linkedin.com/jobs/view/programme-management-officer-at-un-environment-programme-3738082618 | UNEP | Programme Management Officer – Cooling Programs, Asia Pacific (New Delhi)
+- [x] #651 | https://www.aiib.org/en/opportunities/career/job-vacancies/staff/future-job-details/Environment-Associate-for-pooling-only.html | AIIB | Environment Associate (for pooling only) | 3.0/5 | PDF (no)
+- [x] #652 | https://tw.linkedin.com/jobs/view/sustainability-consultant-esg-consulting-office-taipei-at-delta-electronics-4202799125 | Delta Electronics | Sustainability Consultant – ESG Consulting Office (Taipei) | 2.5/5 | PDF (no)
+- [x] #653 | https://www.impactpool.org/jobs/1203696 | World Bank Group | Operations Officer – Sustainable Infrastructure Advisory (SIA) | 2.5/5 | PDF (no)
+- [x] #654 | https://www.impactpool.org/jobs/1197103 | EBRD | Analyst, Impact Assessment and Foresight | 3.5/5 | PDF (no)
+- [x] #655 | https://www.climatechangecareers.com/job/world-resources-institute/washington-dc-united-states/research-analyst-ii-natural-climate-solutions/ | WRI | Research Analyst II, Natural Climate Solutions | 2.8/5 | PDF (no)
+- [x] #656 | https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant, Payment Watershed Services Policy (Indonesia) | 1.5/5 | PDF (no)
+- [x] #657 | https://ch.linkedin.com/jobs/view/project-management-support-officer-at-unops-4378171878 | UNOPS | Project Management Support Officer (Geneva) | 3.2/5 | PDF (no)
+- [x] #658 | https://in.linkedin.com/jobs/view/programme-management-officer-at-un-environment-programme-3738082618 | UNEP | Programme Management Officer – Cooling Programs, Asia Pacific (New Delhi) | 2.5/5 | PDF (no)
 - [ ] https://careers.un.org/jobSearchDescription/239662 | UNEP | Environment Officer (LTAG Monitoring and Reporting)
 - [ ] https://careers.un.org/jobSearchDescription/235339 | UNEP | Associate Programme Management Officer (Paris)
 - [x] #576 | https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P4 – Climate Change (Bangkok) | 2.5/5 | PDF (no)
