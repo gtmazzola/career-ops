@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-09-16 — Scheduled portal scan -->
-- [ ] https://www.impactpool.org/jobs/1189695 | UNDP | Climate Action Portfolio Manager (Bangkok)
-- [ ] https://jobs.ilo.org/job/Bangkok-Technical-Programme-Officer%2C-ILOKorea-Partnership-Programme/1201110401 | ILO | Technical Programme Officer – ILO/Korea Partnership Programme (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1136924 | GCF | Environmental and Social Safeguards Consultant
-- [ ] https://www.impactpool.org/jobs/876833 | OECD | Policy Analyst
-- [ ] https://untalent.org/jobs/e-t-consultant-170 | IFC | E T Consultant (Extended Term)
-- [ ] https://untalent.org/jobs/environmental-and-social-development-specialist-5 | World Bank | Environmental and Social Development Specialist
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600649 | FAO | National Environmental Specialist
-- [ ] https://www.climatechangecareers.com/job/renewable-careers/remote/renewable-energy-analyst-remote-hybrid-working/ | Renewable Careers | Renewable Energy Analyst (Remote/Hybrid Working)
-- [ ] https://reliefweb.int/job/4019819/climate-resilient-irrigation-infrastructure-expert | ReliefWeb | Climate Resilient Irrigation Infrastructure Expert
-- [ ] https://www.impactpool.org/jobs/893629 | GGGI | ESG and Compliance Senior Associate (Mexico)
+- [x] #654 | https://www.impactpool.org/jobs/1189695 | UNDP | Climate Action Portfolio Manager (Bangkok) | 4.0/5 | PDF (no)
+- [x] #655 | https://jobs.ilo.org/job/Bangkok-Technical-Programme-Officer%2C-ILOKorea-Partnership-Programme/1201110401 | ILO | Technical Programme Officer – ILO/Korea Partnership Programme (Bangkok) | 2.5/5 | PDF (no)
+- [x] #656 | https://www.impactpool.org/jobs/1136924 | GCF | Environmental and Social Safeguards Consultant | 3.2/5 | PDF (no)
+- [x] #657 | https://www.impactpool.org/jobs/876833 | OECD | Policy Analyst | 3.5/5 | PDF (no)
+- [x] #658 | https://untalent.org/jobs/e-t-consultant-170 | IFC | E T Consultant (Extended Term) | 3.0/5 | PDF (no)
+- [x] #659 | https://untalent.org/jobs/environmental-and-social-development-specialist-5 | World Bank | Environmental and Social Development Specialist | 2.5/5 | PDF (no)
+- [x] #660 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600649 | FAO | National Environmental Specialist | 1.5/5 | PDF (no)
+- [x] #661 | https://www.climatechangecareers.com/job/renewable-careers/remote/renewable-energy-analyst-remote-hybrid-working/ | Renewable Careers | Renewable Energy Analyst (Remote/Hybrid Working) | 3.2/5 | PDF (no)
+- [x] #662 | https://reliefweb.int/job/4019819/climate-resilient-irrigation-infrastructure-expert | ReliefWeb | Climate Resilient Irrigation Infrastructure Expert | 1.5/5 | PDF (no)
+- [x] #663 | https://www.impactpool.org/jobs/893629 | GGGI | ESG and Compliance Senior Associate (Mexico) | 2.5/5 | PDF (no)
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Analyst/2739 | UNOPS | PMO Analyst (Port Sudan)
 
 <!-- Scan 2026-09-11 — Scheduled portal scan -->
