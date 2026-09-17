@@ -3,8 +3,8 @@
 ## Pendientes
 
 <!-- Scan 2026-09-17 — Scheduled portal scan -->
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109281 | UNDP | Regional Technical Specialist – Climate Change Adaptation
-- [ ] https://www.eeas.europa.eu/delegations/thailand/vacancy-programme-officer-environment-group-i-echo-regional-office-bangkok_en | EU ECHO Bangkok | Programme Officer Environment (Group I)
+- [x] #664 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109281 | UNDP | Regional Technical Specialist – Climate Change Adaptation | 2.5/5 | PDF (no)
+- [x] #665 | https://www.eeas.europa.eu/delegations/thailand/vacancy-programme-officer-environment-group-i-echo-regional-office-bangkok_en | EU ECHO Bangkok | Programme Officer Environment (Group I) | 3.2/5 | PDF (no)
 
 <!-- Scan 2026-09-16 — Scheduled portal scan -->
 - [x] #654 | https://www.impactpool.org/jobs/1189695 | UNDP | Climate Action Portfolio Manager (Bangkok) | 4.0/5 | PDF (no)
@@ -17,7 +17,7 @@
 - [x] #661 | https://www.climatechangecareers.com/job/renewable-careers/remote/renewable-energy-analyst-remote-hybrid-working/ | Renewable Careers | Renewable Energy Analyst (Remote/Hybrid Working) | 3.2/5 | PDF (no)
 - [x] #662 | https://reliefweb.int/job/4019819/climate-resilient-irrigation-infrastructure-expert | ReliefWeb | Climate Resilient Irrigation Infrastructure Expert | 1.5/5 | PDF (no)
 - [x] #663 | https://www.impactpool.org/jobs/893629 | GGGI | ESG and Compliance Senior Associate (Mexico) | 2.5/5 | PDF (no)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Analyst/2739 | UNOPS | PMO Analyst (Port Sudan)
+- [x] #666 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Analyst/2739 | UNOPS | PMO Analyst (Port Sudan) | 1.8/5 | PDF (no)
 
 <!-- Scan 2026-09-11 — Scheduled portal scan -->
 - [x] #639 | https://careers.unido.org/job/Vienna-Programme-Expert/1331085355/ | UNIDO | Programme Expert (Vienna) | 2.5/5 | PDF (no)
@@ -1623,14 +1623,14 @@
 - [x] #656 | https://www.climatechangecareers.com/job/world-resources-institute/remote/consultant-as-research-assistant-for-payment-watershed-services-policy-merangin-based/ | WRI | Consultant – Research Assistant, Payment Watershed Services Policy (Indonesia) | 1.5/5 | PDF (no)
 - [x] #657 | https://ch.linkedin.com/jobs/view/project-management-support-officer-at-unops-4378171878 | UNOPS | Project Management Support Officer (Geneva) | 3.2/5 | PDF (no)
 - [x] #658 | https://in.linkedin.com/jobs/view/programme-management-officer-at-un-environment-programme-3738082618 | UNEP | Programme Management Officer – Cooling Programs, Asia Pacific (New Delhi) | 2.5/5 | PDF (no)
-- [ ] https://careers.un.org/jobSearchDescription/239662 | UNEP | Environment Officer (LTAG Monitoring and Reporting)
-- [ ] https://careers.un.org/jobSearchDescription/235339 | UNEP | Associate Programme Management Officer (Paris)
+- [x] #667 | https://careers.un.org/jobSearchDescription/239662 | ICAO | Environment Officer (LTAG Monitoring and Reporting) | 1.8/5 | PDF (no)
+- [x] #668 | https://careers.un.org/jobSearchDescription/235339 | UNEP | Associate Programme Management Officer (Paris) | 3.0/5 | PDF (no)
 - [x] #576 | https://careers.un.org/jobSearchDescription/277307 | UNEP | Programme Management Officer P4 – Climate Change (Bangkok) | 2.5/5 | PDF (no)
-- [ ] https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI | ESG Program Manager (Bangkok)
-- [ ] https://www.thaingo.org/jobs/detail/19070/2 | ThaiNGO | Consultancy – ESG Performance Indicators for SME Suppliers / Decarbonization
-- [ ] https://thaingo.org/jobs/detail/20933 | ThaiNGO | Senior Technical Consultant
-- [ ] https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator
-- [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance (Singapore)
+- [x] #669 | https://www.thaingo.org/jobs/detail/18999/16 | USAID PAGI | ESG Program Manager (Bangkok) | 3.8/5 | PDF (no)
+- [x] #670 | https://www.thaingo.org/jobs/detail/19070/2 | ThaiNGO | Consultancy – ESG Performance Indicators for SME Suppliers / Decarbonization | 3.0/5 | PDF (no)
+- [!] https://thaingo.org/jobs/detail/20933 | ThaiNGO | Senior Technical Consultant | proxy blocked, JD not retrievable
+- [x] #671 | https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator (REACH for Equity) | 1.5/5 | PDF (no)
+- [x] #672 | https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance (Singapore) | 3.5/5 | PDF (no)
 - [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore)
 - [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore)
 - [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Risk Services | Sustainability and Climate Change – Associate (Singapore)
