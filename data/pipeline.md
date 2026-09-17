@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-17 — Scheduled portal scan -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109281 | UNDP | Regional Technical Specialist – Climate Change Adaptation
+- [ ] https://www.eeas.europa.eu/delegations/thailand/vacancy-programme-officer-environment-group-i-echo-regional-office-bangkok_en | EU ECHO Bangkok | Programme Officer Environment (Group I)
+
 <!-- Scan 2026-09-16 — Scheduled portal scan -->
 - [x] #654 | https://www.impactpool.org/jobs/1189695 | UNDP | Climate Action Portfolio Manager (Bangkok) | 4.0/5 | PDF (no)
 - [x] #655 | https://jobs.ilo.org/job/Bangkok-Technical-Programme-Officer%2C-ILOKorea-Partnership-Programme/1201110401 | ILO | Technical Programme Officer – ILO/Korea Partnership Programme (Bangkok) | 2.5/5 | PDF (no)
