@@ -2082,3 +2082,5 @@
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior-Advisor – Demand-Side Subsidies (Energising Development)
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=71205 | GIZ | Advisor – Green Hydrogen Project Development
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – Infrastructure Investment, City Climate Finance Gap Fund
+- [ ] https://careers.un.org/jobSearchDescription/277701?language=en | UN Careers | Energy Transition Specialist Consultant
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27840 | UNOPS | Project Officer – Climate Transparency
