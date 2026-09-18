@@ -1631,18 +1631,18 @@
 - [!] https://thaingo.org/jobs/detail/20933 | ThaiNGO | Senior Technical Consultant | proxy blocked, JD not retrievable
 - [x] #671 | https://thaingo.org/jobs/detail/21402 | ThaiNGO | Program Coordinator (REACH for Equity) | 1.5/5 | PDF (no)
 - [x] #672 | https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | Tangspac Consulting | Senior Researcher – ESG / Carbon Capture / Sustainable Finance (Singapore) | 3.5/5 | PDF (no)
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Risk Services | Sustainability and Climate Change – Associate (Singapore)
-- [ ] https://jobs.ebrd.com/job/London-Analyst,-Nature-and-Climate-Finance/1401312933/ | EBRD | Analyst, Nature and Climate Finance (London)
-- [ ] https://jobs.ebrd.com/job/London-Associate,-Green-Partnerships/1386558333/ | EBRD | Associate, Green Partnerships (London)
-- [ ] https://www.terra.do/climate-jobs/job-board/sustainabilityesg-consultant-8317938/ | Delta Electronics Southeast Asia | Sustainability/ESG Consultant
-- [ ] https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG
-- [ ] https://climatebase.org/job/66389066/analystassociate-consultant | Energy and Environmental Economics (E3) | Analyst/Associate Consultant
-- [ ] https://climatebase.org/job/72381758/energy-analyst | Trio | Energy Analyst
+- [x] #639 | https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon | Sustainability Consultant (Singapore) | 3.2/5 | PDF (no)
+- [x] #640 | https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International | Sustainability Analyst (Singapore) | 3.5/5 | PDF (no)
+- [x] #641 | https://www.mycareersfuture.gov.sg/job/sustainability-climate-change-associate-pricewaterhousecoopers-risk-services-0fa698c91d8cc4a2a294a936823f1b03 | PwC Risk Services | Sustainability and Climate Change – Associate (Singapore) | 4.2/5 | PDF (no)
+- [x] #642 | https://jobs.ebrd.com/job/London-Analyst,-Nature-and-Climate-Finance/1401312933/ | EBRD | Analyst, Nature and Climate Finance (London) | 2.8/5 | PDF (no)
+- [x] #643 | https://jobs.ebrd.com/job/London-Associate,-Green-Partnerships/1386558333/ | EBRD | Associate, Green Partnerships (London) | 3.8/5 | PDF (no)
+- [x] #644 | https://www.terra.do/climate-jobs/job-board/sustainabilityesg-consultant-8317938/ | Delta Electronics Southeast Asia | Sustainability/ESG Consultant | 3.0/5 | PDF (no)
+- [x] #645 | https://www.terra.do/climate-jobs/job-board/analystassociate-esg-8355401/ | Generate Capital | Analyst/Associate, ESG | 3.8/5 | PDF (no)
+- [x] #646 | https://climatebase.org/job/66389066/analystassociate-consultant | Energy and Environmental Economics (E3) | Analyst/Associate Consultant | 4.0/5 | PDF (no)
+- [x] #647 | https://climatebase.org/job/72381758/energy-analyst | Trio | Energy Analyst | 3.0/5 | PDF (no)
 
 <!-- Scan 2026-07-05 — Multi-portal scheduled scan: GGGI / SEI / UNtalent / GIZ Philippines / UNjobs Bangkok -->
-- [ ] https://careers.gggi.org/vacancy/forestry-consultant-614368.html | GGGI | Forestry Consultant (Paraguay)
+- [x] #648 | https://careers.gggi.org/vacancy/forestry-consultant-614368.html | GGGI | Forestry Consultant (Paraguay) | 2.5/5 | PDF (no)
 - [ ] https://www.sei.org/people/jobs/data-systems-digital-governance-researcher/ | SEI | Mid-senior researcher – Data Systems and Digital Governance
 - [ ] https://untalent.org/jobs/assistant-investment-officer-responsible-investment-analyst | UNJSPF | Assistant Investment Officer – Responsible Investment Analyst
 - [ ] https://www.giz.de/en/regions/asia/philippines/jobs/junior-advisor-energy-research-and-capacity-development-accelerating | GIZ Philippines | Junior Advisor – Energy Research and Capacity Development
