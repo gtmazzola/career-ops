@@ -2084,3 +2084,17 @@
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=69110 | GIZ | Project Manager – Infrastructure Investment, City Climate Finance Gap Fund
 - [ ] https://careers.un.org/jobSearchDescription/277701?language=en | UN Careers | Energy Transition Specialist Consultant
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=27840 | UNOPS | Project Officer – Climate Transparency
+<!-- Scan 2026-09-19 — Scheduled portal scan -->
+- [ ] https://reliefweb.int/job/4030965/partnerships-senior-analyst-iica-1-bangkok | UNOPS | Partnerships Senior Analyst, IICA-1 (Bangkok)
+- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | Disaster Risk Reduction and Climate Change Analyst (Bangkok)
+- [ ] https://reliefweb.int/job/4074119/climate-change-and-partnership-project-officer | ReliefWeb | Climate Change and Partnership Project Officer (Thailand)
+- [ ] https://reliefweb.int/job/4099088/programme-officer-disaster-risk-reduction | ReliefWeb | Programme Officer – Disaster Risk Reduction (Thailand)
+- [ ] https://reliefweb.int/job/4040716/climate-action-specialist-and-coordinator | ReliefWeb | Climate Action Specialist and Coordinator (Thailand)
+- [ ] https://reliefweb.int/job/4020935/project-officer-regional-model-forest-network-asia-main-office | RECOFTC | Project Officer – Regional Model Forest Network (Thailand)
+- [ ] https://www.thaingo.org/jobs/detail/15108 | GIZ Thailand | Junior Advisor – Thai Climate Initiative (Bangkok)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29739 | UNOPS | Technical Specialist – Environmental (Biodiversity and Climate Data Specialist) [home-based]
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30095 | UNOPS | Technical Specialist – Environmental [home-based retainer]
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30279 | UNOPS | Technical Specialist – Environmental (Stakeholder Engagement and Knowledge Specialist) [home-based retainer]
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30374 | UNOPS | NDCP Climate Finance Specialist (Fiji – home-based retainer)
+- [ ] https://careers.un.org/jobSearchDescription/278136?language=en | UN | Programme Officer, P4
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst (Copenhagen)
