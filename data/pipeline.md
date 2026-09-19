@@ -1643,18 +1643,18 @@
 
 <!-- Scan 2026-07-05 — Multi-portal scheduled scan: GGGI / SEI / UNtalent / GIZ Philippines / UNjobs Bangkok -->
 - [x] #648 | https://careers.gggi.org/vacancy/forestry-consultant-614368.html | GGGI | Forestry Consultant (Paraguay) | 2.5/5 | PDF (no)
-- [ ] https://www.sei.org/people/jobs/data-systems-digital-governance-researcher/ | SEI | Mid-senior researcher – Data Systems and Digital Governance
-- [ ] https://untalent.org/jobs/assistant-investment-officer-responsible-investment-analyst | UNJSPF | Assistant Investment Officer – Responsible Investment Analyst
-- [ ] https://www.giz.de/en/regions/asia/philippines/jobs/junior-advisor-energy-research-and-capacity-development-accelerating | GIZ Philippines | Junior Advisor – Energy Research and Capacity Development
-- [ ] https://unjobs.org/vacancies/1752097917220 | UNDP/UNCDF Bangkok | Programme Analyst – LoCAL Facility ⭐
+- [x] #649 | https://www.sei.org/people/jobs/data-systems-digital-governance-researcher/ | SEI | Mid-senior researcher – Data Systems and Digital Governance | 2.5/5 | PDF (no)
+- [x] #650 | https://untalent.org/jobs/assistant-investment-officer-responsible-investment-analyst | UNJSPF | Assistant Investment Officer – Responsible Investment Analyst | 3.0/5 | PDF (no)
+- [x] #651 | https://www.giz.de/en/regions/asia/philippines/jobs/junior-advisor-energy-research-and-capacity-development-accelerating | GIZ Philippines | Junior Advisor – Energy Research and Capacity Development | 2.0/5 | PDF (no)
+- [x] #652 | https://unjobs.org/vacancies/1752097917220 | UNDP/UNCDF Bangkok | Programme Analyst – LoCAL Facility ⭐ | 4.5/5 | PDF (no)
 
 <!-- Scan 2026-07-06 — Multi-portal scheduled scan -->
-- [ ] https://www.terra.do/climate-jobs/job-board/Climate-Resilience-Associate---Senior-Analyst-Trc-Companies--Inc--8229495/ | TRC Companies | Climate Resilience Associate / Senior Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/associate-climate-sustainability-italy-8318728/ | BCG | Associate, Climate & Sustainability (Italy)
-- [ ] https://www.terra.do/climate-jobs/job-board/senior-sustainability-analyst-8362475/ | HDR Inc. | Senior Sustainability Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/Research-Analyst---Industrial-Sustainability-CEEW-8179038/ | CEEW | Research Analyst – Industrial Sustainability
-- [ ] https://www.terra.do/climate-jobs/job-board/ma-analyst-3-to-associate-3-energy-transition-renewables-ma-8397703/ | Piper Sandler | M&A Analyst – Energy Transition & Renewables
-- [ ] https://www.terra.do/climate-jobs/job-board/Energy-Analyst-ATTB---The-Big-Jobsite-8279112/ | ATTB | Energy Analyst
+- [x] #653 | https://www.terra.do/climate-jobs/job-board/Climate-Resilience-Associate---Senior-Analyst-Trc-Companies--Inc--8229495/ | TRC Companies | Climate Resilience Associate / Senior Analyst | 2.8/5 | PDF (no)
+- [x] #654 | https://www.terra.do/climate-jobs/job-board/associate-climate-sustainability-italy-8318728/ | BCG | Associate, Climate & Sustainability (Italy) | 3.2/5 | PDF (no)
+- [x] #655 | https://www.terra.do/climate-jobs/job-board/senior-sustainability-analyst-8362475/ | HDR Inc. | Senior Sustainability Analyst | 2.2/5 | PDF (no)
+- [x] #656 | https://www.terra.do/climate-jobs/job-board/Research-Analyst---Industrial-Sustainability-CEEW-8179038/ | CEEW | Research Analyst – Industrial Sustainability | 3.2/5 | PDF (no)
+- [x] #657 | https://www.terra.do/climate-jobs/job-board/ma-analyst-3-to-associate-3-energy-transition-renewables-ma-8397703/ | Piper Sandler | M&A Analyst – Energy Transition & Renewables | 1.5/5 | PDF (no)
+- [x] #658 | https://www.terra.do/climate-jobs/job-board/Energy-Analyst-ATTB---The-Big-Jobsite-8279112/ | ATTB | Energy Analyst | 2.0/5 | PDF (no)
 - [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8350338/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability
 - [ ] https://climatebase.org/job/74060375/consulting-senior-associate--low-carbon-solutions--electricity-networks--energy-systems | ERM | Consulting Senior Associate – Low Carbon Solutions (Electricity Networks & Energy Systems)
 - [ ] https://climatebase.org/job/45426506/analyst--associate---carbon-markets-cutting-edge-research-and-forecasting | cKinetics | Analyst / Associate – Carbon Markets
