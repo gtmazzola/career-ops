@@ -1655,16 +1655,16 @@
 - [x] #656 | https://www.terra.do/climate-jobs/job-board/Research-Analyst---Industrial-Sustainability-CEEW-8179038/ | CEEW | Research Analyst – Industrial Sustainability | 3.2/5 | PDF (no)
 - [x] #657 | https://www.terra.do/climate-jobs/job-board/ma-analyst-3-to-associate-3-energy-transition-renewables-ma-8397703/ | Piper Sandler | M&A Analyst – Energy Transition & Renewables | 1.5/5 | PDF (no)
 - [x] #658 | https://www.terra.do/climate-jobs/job-board/Energy-Analyst-ATTB---The-Big-Jobsite-8279112/ | ATTB | Energy Analyst | 2.0/5 | PDF (no)
-- [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8350338/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability
-- [ ] https://climatebase.org/job/74060375/consulting-senior-associate--low-carbon-solutions--electricity-networks--energy-systems | ERM | Consulting Senior Associate – Low Carbon Solutions (Electricity Networks & Energy Systems)
-- [ ] https://climatebase.org/job/45426506/analyst--associate---carbon-markets-cutting-edge-research-and-forecasting | cKinetics | Analyst / Associate – Carbon Markets
-- [ ] https://climatebase.org/job/50856841/junior-consultant-climate-risk-and-opportunity-advisory-mwd-associate-level | ERM | Junior Consultant – Climate Risk and Opportunity Advisory
-- [ ] https://climatebase.org/job/61710407/sustainability-consultant | AECOM | Sustainability Consultant
-- [ ] https://climatebase.org/job/62226156/analyst-or-associate-investor-partnerships | Various | Analyst or Associate, Investor Partnerships
-- [ ] https://jobs.greenclimate.fund/en/sites/CX_1001/job/3305/ | GCF | Special Policy and Strategy Initiatives Senior Specialist
-- [ ] https://jobs.greenclimate.fund/job/Korea-(KOR)-Call-for-International-Experts-to-serve-in-the-Independent-Technical-Advisory-Panel-of-the-GCF/866792701/ | GCF | Call for International Experts – Independent Technical Advisory Panel
-- [ ] https://careers.gggi.org/vacancy/individual-consultant-feasibility-study-for-organic-waste-valorization-607916.html | GGGI | Individual Consultant – Feasibility Study for Organic Waste Valorization
-- [ ] https://www.adb.org/careers/250757 | ADB | Senior Environment Specialist
+- [x] #639 | https://www.terra.do/climate-jobs/job-board/senior-analyst-bcg-vantage-climate-and-sustainability-8350338/ | BCG | Senior Analyst – BCG Vantage, Climate and Sustainability | 3.2/5 | PDF (no)
+- [x] #640 | https://climatebase.org/job/74060375/consulting-senior-associate--low-carbon-solutions--electricity-networks--energy-systems | ERM | Consulting Senior Associate – Low Carbon Solutions (Electricity Networks & Energy Systems) | 3.0/5 | PDF (no)
+- [x] #641 | https://climatebase.org/job/45426506/analyst--associate---carbon-markets-cutting-edge-research-and-forecasting | cKinetics | Analyst / Associate – Carbon Markets | 2.5/5 | PDF (no)
+- [x] #642 | https://climatebase.org/job/50856841/junior-consultant-climate-risk-and-opportunity-advisory-mwd-associate-level | ERM | Junior Consultant – Climate Risk and Opportunity Advisory | 3.2/5 | PDF (no)
+- [x] #643 | https://climatebase.org/job/61710407/sustainability-consultant | AECOM | Sustainability Consultant | 3.3/5 | PDF (no)
+- [x] #644 | https://climatebase.org/job/62226156/analyst-or-associate-investor-partnerships | Galvanize | Analyst/Associate – Investor Partnerships | 2.0/5 | PDF (no)
+- [x] #645 | https://jobs.greenclimate.fund/en/sites/CX_1001/job/3305/ | GCF | Special Policy and Strategy Initiatives Senior Specialist | 2.8/5 | PDF (no)
+- [x] #646 | https://jobs.greenclimate.fund/job/Korea-(KOR)-Call-for-International-Experts-to-serve-in-the-Independent-Technical-Advisory-Panel-of-the-GCF/866792701/ | GCF | Call for International Experts – Independent Technical Advisory Panel | 1.0/5 | PDF (no)
+- [x] #647 | https://careers.gggi.org/vacancy/individual-consultant-feasibility-study-for-organic-waste-valorization-607916.html | GGGI | Individual Consultant – Feasibility Study for Organic Waste Valorization | 1.5/5 | PDF (no)
+- [x] #648 | https://www.adb.org/careers/250757 | ADB | Senior Environment Specialist | 1.5/5 | PDF (no)
 - [ ] https://www.adb.org/careers/260636 | ADB | Economics Analyst
 - [ ] https://jobs.giz.de/index.php?ac=jobad&id=73766 | GIZ | Advisor – Compliance and Due Diligence in Supply Chains
 - [ ] https://thaingo.org/jobs/detail/14117 | GIZ Thailand / CCMB | Advisor (Climate Mitigation) – Climate, Coastal and Marine Biodiversity ⭐
