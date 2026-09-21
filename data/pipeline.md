@@ -2098,3 +2098,11 @@
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30374 | UNOPS | NDCP Climate Finance Specialist (Fiji – home-based retainer)
 - [ ] https://careers.un.org/jobSearchDescription/278136?language=en | UN | Programme Officer, P4
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst (Copenhagen)
+<!-- Scan 2026-09-21 — Scheduled portal scan -->
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=78521 | UNDP | Climate Change Adaptation Consultant
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=66096 | UNDP | Junior Climate Change and Public Expenditures Analyst
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=93281 | UNDP | Local Project Officer – ASEAN Sustainable Urbanisation
+- [ ] https://careers.gggi.org/vacancy/indonesia-senior-officer-energy-transition-597805.html | GGGI | Senior Officer, Energy Transition (Indonesia)
+- [ ] https://www.adb.org/careers/260705 | ADB | Energy Specialist
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109508 | UNDP | Data Analyst
+- [ ] https://www.impactpool.org/jobs/331684 | WFP | Special Assistant (International Consultant – Entry Level), Bangkok
