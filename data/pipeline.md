@@ -1665,16 +1665,16 @@
 - [x] #646 | https://jobs.greenclimate.fund/job/Korea-(KOR)-Call-for-International-Experts-to-serve-in-the-Independent-Technical-Advisory-Panel-of-the-GCF/866792701/ | GCF | Call for International Experts – Independent Technical Advisory Panel | 1.0/5 | PDF (no)
 - [x] #647 | https://careers.gggi.org/vacancy/individual-consultant-feasibility-study-for-organic-waste-valorization-607916.html | GGGI | Individual Consultant – Feasibility Study for Organic Waste Valorization | 1.5/5 | PDF (no)
 - [x] #648 | https://www.adb.org/careers/250757 | ADB | Senior Environment Specialist | 1.5/5 | PDF (no)
-- [ ] https://www.adb.org/careers/260636 | ADB | Economics Analyst
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=73766 | GIZ | Advisor – Compliance and Due Diligence in Supply Chains
-- [ ] https://thaingo.org/jobs/detail/14117 | GIZ Thailand / CCMB | Advisor (Climate Mitigation) – Climate, Coastal and Marine Biodiversity ⭐
-- [ ] https://www.sei.org/people/jobs/postdoc-fellow-climate-modelling-impact/ | SEI Africa | Postdoctoral Fellow – Climate Modelling and Impact Assessment
-- [ ] https://www.sei.org/people/jobs/york-research-associate/ | SEI York | Research Associate
-- [ ] https://www.sei.org/people/jobs/research-fellow-water-resource-management/ | SEI Africa | Research Fellow – Water Resource Management
-- [ ] https://oecd.impactpool.org/vacancies/1212890 | OECD | OECD New Posting – vacancy 1212890
-- [ ] https://www.climatepolicyinitiative.org/career/analyst-junior-analyst-climate-energy-finance/ | CPI | Analyst / Junior Analyst – Climate & Energy Finance (Jakarta)
-- [ ] https://www.climatepolicyinitiative.org/career/junior-analyst-south-africa/ | CPI | Junior Analyst (South Africa)
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-1200071 | Devex | Environmental, Social, and Governance (ESG) Specialist
+- [!] https://www.adb.org/careers/260636 | ADB | Economics Analyst — Error: Application deadline July 3, 2026 — expired 2.5 months ago; TL3 grade Macroeconomics Research Division, Manila; position closed; skip.
+- [!] https://jobs.giz.de/index.php?ac=jobad&id=73766 | GIZ | Advisor – Compliance and Due Diligence in Supply Chains — Error: Requires existing minimum 1-year contract as development worker under EhfG (German Development Worker Act) — hard eligibility blocker; Gavin does not hold this status; skip.
+- [x] #639 | https://thaingo.org/jobs/detail/14117 | GIZ Thailand / CCMB | Advisor (Climate Mitigation) – Climate, Coastal and Marine Biodiversity ⭐ | 3.7/5 | PDF (no)
+- [!] https://www.sei.org/people/jobs/postdoc-fellow-climate-modelling-impact/ | SEI Africa | Postdoctoral Fellow – Climate Modelling and Impact Assessment — Error: PhD required; application deadline January 18, 2026 — expired 8 months ago; Nairobi duty station; position closed; skip.
+- [!] https://www.sei.org/people/jobs/york-research-associate/ | SEI York | Research Associate — Error: PhD or equivalent required; posting focused on UK built-environment retrofit (ROSSY project) — domain mismatch with Gavin's profile; York, UK duty station; skip.
+- [!] https://www.sei.org/people/jobs/research-fellow-water-resource-management/ | SEI Africa | Research Fellow – Water Resource Management — Error: Senior role with programme leadership and fundraising responsibilities; Nairobi, Kenya duty station — hard geographic blocker (Gavin is Bangkok-based); skip.
+- [!] https://oecd.impactpool.org/vacancies/1212890 | OECD | Junior Advisor — Error: Application deadline June 1, 2026 — expired 3.5 months ago; Paris duty station; position closed; skip.
+- [!] https://www.climatepolicyinitiative.org/career/analyst-junior-analyst-climate-energy-finance/ | CPI | Analyst / Junior Analyst – Climate & Energy Finance (Jakarta) — Error: Application deadline July 3, 2026 — expired 2.5 months ago; Jakarta duty station; position closed; skip.
+- [!] https://www.climatepolicyinitiative.org/career/junior-analyst-south-africa/ | CPI | Junior Analyst (South Africa) — Error: Application deadline July 3, 2026 — expired 2.5 months ago; Cape Town duty station; position closed; skip.
+- [!] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-1200071 | Devex | Environmental, Social, and Governance (ESG) Specialist — Error: Chemonics/USAID Power Africa ESA; minimum 8 years experience required — hard experience blocker (Gavin has ~18 months); Pretoria, South Africa duty station; skip.
 - [ ] https://www.unjobnet.org/jobs/detail/42416076 | WRI via UNjobnet | Consultant – Energy Program Research Analyst
 - [ ] https://reliefweb.int/job/4118020/call-consultant-roster | ReliefWeb | Call for Consultant Roster (Bangladesh) – Climate/Environment
 - [ ] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator – NOA (Washington DC)
