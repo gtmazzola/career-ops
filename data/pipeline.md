@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-22 — Scheduled portal scan -->
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=23135 | UNOPS | Programme Management Support – Analyst
+- [ ] https://untalent.org/jobs/consultant-as-power-sector-analyst | WRI | Consultant as Power Sector Analyst
+- [ ] https://careers.un.org/jobSearchDescription/274590 | UNEP | Programme Management Officer (P3)
+- [ ] https://reliefweb.int/job/3873294/environment-and-climate-change-ecc-senior-technical-advisor | ReliefWeb | Environment and Climate Change Senior Technical Advisor
+
 <!-- Scan 2026-09-17 — Scheduled portal scan -->
 - [x] #664 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109281 | UNDP | Regional Technical Specialist – Climate Change Adaptation | 2.5/5 | PDF (no)
 - [x] #665 | https://www.eeas.europa.eu/delegations/thailand/vacancy-programme-officer-environment-group-i-echo-regional-office-bangkok_en | EU ECHO Bangkok | Programme Officer Environment (Group I) | 3.2/5 | PDF (no)
