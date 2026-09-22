@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 674 | 2026-09-22 | ECC/ReliefWeb | Environment and Climate Change Senior Technical Advisor | 1.5/5 | Evaluada | ❌ | [674](reports/674-reliefweb-ecc-senior-technical-advisor-2026-09-22.md) | Extreme seniority mismatch: 10+ years required, doctoral preferred |
+| 675 | 2026-09-22 | WRI Philippines | Consultant – Energy Program Research Analyst | 3.0/5 | Evaluada | ❌ | [675](reports/675-wri-energy-program-research-analyst-manila-2026-09-22.md) | Good skills match for energy research and writing; Manila relocation, below-target comp |
+| 676 | 2026-09-22 | Bangladesh Roster | Call for Consultant Roster – Climate/Environment | 2.5/5 | Evaluada | ❌ | [676](reports/676-bangladesh-consultant-roster-climate-2026-09-22.md) | Unknown org, roster format, Bangladesh relocation; apply only for Climate/M&E profiles |
+| 677 | 2026-09-22 | UNDP | Energy Data Analyst | 3.0/5 | Evaluada | ❌ | [677](reports/677-undp-energy-data-analyst-2026-09-22.md) | Remote UNDP consultant; good energy domain fit, data governance dimension is a stretch |
 | 664 | 2026-09-17 | EU ECHO Bangkok | Programme Officer Environment (Group I) | 3.2/5 | Evaluada | ❌ | [665](reports/665-eu-echo-programme-officer-environment-bangkok-2026-09-17.md) | Bangkok Group I; greening humanitarian aid; likely expired Feb 2025; verify before pursuing |
 | 665 | 2026-09-17 | UNOPS | PMO Analyst (Port Sudan) | 1.8/5 | Evaluada | ❌ | [666](reports/666-unops-pmo-analyst-port-sudan-2026-09-17.md) | Port Sudan conflict/hardship posting; administrative role mismatch; do not apply |
 | 666 | 2026-09-17 | ICAO | Environment Officer (LTAG Monitoring and Reporting) | 1.8/5 | Evaluada | ❌ | [667](reports/667-icao-environment-officer-ltag-monitoring-2026-09-17.md) | ICAO aviation emissions specialty (mislabeled as UNEP in pipeline); hard aviation domain gap |

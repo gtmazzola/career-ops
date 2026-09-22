@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-09-22 — Scheduled portal scan -->
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=23135 | UNOPS | Programme Management Support – Analyst
-- [ ] https://untalent.org/jobs/consultant-as-power-sector-analyst | WRI | Consultant as Power Sector Analyst
-- [ ] https://careers.un.org/jobSearchDescription/274590 | UNEP | Programme Management Officer (P3)
-- [ ] https://reliefweb.int/job/3873294/environment-and-climate-change-ecc-senior-technical-advisor | ReliefWeb | Environment and Climate Change Senior Technical Advisor
+- [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=23135 | UNOPS | Programme Management Support – Analyst — Error: Vacancy from 2021 (deadline January 2022) — closed over 4 years ago; skip.
+- [x] #673 | https://untalent.org/jobs/consultant-as-power-sector-analyst | WRI Indonesia | Consultant as Power Sector Analyst | 2.0/5 | PDF (no)
+- [!] https://careers.un.org/jobSearchDescription/274590 | UNEP | Programme Management Officer (P3) — Error: Application deadline May 13, 2026 — expired 4+ months ago; Paris duty station; position closed; skip.
+- [x] #674 | https://reliefweb.int/job/3873294/environment-and-climate-change-ecc-senior-technical-advisor | ReliefWeb | Environment and Climate Change Senior Technical Advisor | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-09-17 — Scheduled portal scan -->
 - [x] #664 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109281 | UNDP | Regional Technical Specialist – Climate Change Adaptation | 2.5/5 | PDF (no)
@@ -1681,15 +1681,15 @@
 - [!] https://www.climatepolicyinitiative.org/career/analyst-junior-analyst-climate-energy-finance/ | CPI | Analyst / Junior Analyst – Climate & Energy Finance (Jakarta) — Error: Application deadline July 3, 2026 — expired 2.5 months ago; Jakarta duty station; position closed; skip.
 - [!] https://www.climatepolicyinitiative.org/career/junior-analyst-south-africa/ | CPI | Junior Analyst (South Africa) — Error: Application deadline July 3, 2026 — expired 2.5 months ago; Cape Town duty station; position closed; skip.
 - [!] https://www.devex.com/jobs/environmental-social-and-governance-esg-specialist-1200071 | Devex | Environmental, Social, and Governance (ESG) Specialist — Error: Chemonics/USAID Power Africa ESA; minimum 8 years experience required — hard experience blocker (Gavin has ~18 months); Pretoria, South Africa duty station; skip.
-- [ ] https://www.unjobnet.org/jobs/detail/42416076 | WRI via UNjobnet | Consultant – Energy Program Research Analyst
-- [ ] https://reliefweb.int/job/4118020/call-consultant-roster | ReliefWeb | Call for Consultant Roster (Bangladesh) – Climate/Environment
-- [ ] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator – NOA (Washington DC)
+- [x] #675 | https://www.unjobnet.org/jobs/detail/42416076 | WRI Philippines | Consultant – Energy Program Research Analyst | 3.0/5 | PDF (no)
+- [x] #676 | https://reliefweb.int/job/4118020/call-consultant-roster | Bangladesh Roster | Call for Consultant Roster – Climate/Environment | 2.5/5 | PDF (no)
+- [!] https://jobs.ilo.org/job/National-Project-Coordinator-NOA-(DC)/13688-en_GB | ILO | National Project Coordinator – NOA (Washington DC) — Error: DC/HARARE/NO/2026/01 — Harare, Zimbabwe; NOA contract reserved for Zimbabwean nationals; application deadline June 15, 2026 — expired; skip.
 
 
 <!-- Scan 2026-07-07 -->
-- [ ] https://careers.unido.org/job/Vienna-Partnerships-Coordinator/1359254155/ | UNIDO | Partnerships Coordinator (Vienna, ISA-P3)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103565 | UNDP | Energy Data Analyst
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25248 | UNOPS | Climate Transparency Officer
+- [!] https://careers.unido.org/job/Vienna-Partnerships-Coordinator/1359254155/ | UNIDO | Partnerships Coordinator (Vienna, ISA-P3) — Error: Application deadline July 23, 2026 — expired 2 months ago; 6-month contract closed; skip.
+- [x] #677 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103565 | UNDP | Energy Data Analyst | 3.0/5 | PDF (no)
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25248 | UNOPS | Climate Transparency Officer — Error: VA/2023/B5007/25248 — vacancy from January 2023, deadline February 1, 2023 — expired over 3 years ago; skip.
 - [ ] https://www.impactpool.org/jobs/1213319 | GCF | Climate Investment Management Consultant – Asia Pacific
 - [ ] https://www.impactpool.org/jobs/1002795 | UNEP FI | Consultant – V20 Sustainable Insurance Facility Asia Pacific
 - [ ] https://www.devex.com/jobs/environmental-and-social-governance-specialist-financial-intermediaries-1031444 | IFC/Dev Finance | ESG Specialist (Financial Intermediaries)
