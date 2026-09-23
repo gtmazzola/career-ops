@@ -2112,3 +2112,6 @@
 - [ ] https://www.adb.org/careers/260705 | ADB | Energy Specialist
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109508 | UNDP | Data Analyst
 - [ ] https://www.impactpool.org/jobs/331684 | WFP | Special Assistant (International Consultant – Entry Level), Bangkok
+
+- [ ] https://www.impactpool.org/jobs/1235322 | ADB | Climate Change Officer (Climate Change Adaptation)
+- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30578 | UNOPS/SEforALL | Sustainable Cooling Analyst
