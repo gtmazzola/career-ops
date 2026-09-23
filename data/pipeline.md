@@ -1690,16 +1690,16 @@
 - [!] https://careers.unido.org/job/Vienna-Partnerships-Coordinator/1359254155/ | UNIDO | Partnerships Coordinator (Vienna, ISA-P3) — Error: Application deadline July 23, 2026 — expired 2 months ago; 6-month contract closed; skip.
 - [x] #677 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=103565 | UNDP | Energy Data Analyst | 3.0/5 | PDF (no)
 - [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=25248 | UNOPS | Climate Transparency Officer — Error: VA/2023/B5007/25248 — vacancy from January 2023, deadline February 1, 2023 — expired over 3 years ago; skip.
-- [ ] https://www.impactpool.org/jobs/1213319 | GCF | Climate Investment Management Consultant – Asia Pacific
-- [ ] https://www.impactpool.org/jobs/1002795 | UNEP FI | Consultant – V20 Sustainable Insurance Facility Asia Pacific
-- [ ] https://www.devex.com/jobs/environmental-and-social-governance-specialist-financial-intermediaries-1031444 | IFC/Dev Finance | ESG Specialist (Financial Intermediaries)
-- [ ] https://untalent.org/jobs/nature-climate-and-energy-associate | UNDP | Nature, Climate and Energy Associate
-- [ ] https://untalent.org/jobs/climate-change-specialist-31 | World Bank | Climate Change Specialist
-- [ ] https://reliefweb.int/job/3919384/program-officer-asia | P4I/DFAT | Program Officer, Asia (Climate/DRR)
-- [ ] https://employment.irena.org/careersection/1/jobdetail.ftl?job=AP0041&lang=en&portal=8205020217 | IRENA | Associate Professional – Project Navigator
-- [ ] https://community.iisd.org/jobs/researcher-or-senior-researcher-associate-research-scholar/ | Climate Analytics | Researcher / Senior Researcher
-- [ ] https://community.iisd.org/jobs/renewable-energy-analyst/ | IISD Community | Renewable Energy Analyst
-- [ ] https://community.iisd.org/jobs/research-analyst-climate-change-impacts-and-policy-climate-analytics/ | Climate Analytics | Research Analyst – Climate Change Impacts and Policy
+- [x] #678 | https://www.impactpool.org/jobs/1213319 | GCF | Climate Investment Management Consultant – Asia Pacific | 3.0/5 | PDF (no)
+- [x] #679 | https://www.impactpool.org/jobs/1002795 | UNEP FI | Consultant – V20 Sustainable Insurance Facility Asia Pacific | 2.8/5 | PDF (no)
+- [x] #680 | https://www.devex.com/jobs/environmental-and-social-governance-specialist-financial-intermediaries-1031444 | IFC | ESG Specialist (Financial Intermediaries) | 2.8/5 | PDF (no)
+- [x] #681 | https://untalent.org/jobs/nature-climate-and-energy-associate | UNDP | Nature, Climate and Energy Associate | 3.8/5 | PDF (no)
+- [x] #682 | https://untalent.org/jobs/climate-change-specialist-31 | World Bank | Climate Change Specialist | 3.0/5 | PDF (no)
+- [x] #683 | https://reliefweb.int/job/3919384/program-officer-asia | P4I/DFAT | Program Officer, Asia (Climate/DRR) | 4.2/5 | PDF (no)
+- [x] #684 | https://employment.irena.org/careersection/1/jobdetail.ftl?job=AP0041&lang=en&portal=8205020217 | IRENA | Associate Professional – Project Navigator | 3.5/5 | PDF (no)
+- [x] #685 | https://community.iisd.org/jobs/researcher-or-senior-researcher-associate-research-scholar/ | Climate Analytics / CCSI | Researcher / Senior Researcher | 3.3/5 | PDF (no)
+- [x] #686 | https://community.iisd.org/jobs/renewable-energy-analyst/ | IISD Community | Renewable Energy Analyst | 3.3/5 | PDF (no)
+- [x] #687 | https://community.iisd.org/jobs/research-analyst-climate-change-impacts-and-policy-climate-analytics/ | Climate Analytics | Research Analyst – Climate Change Impacts and Policy | 3.5/5 | PDF (no)
 - [ ] https://ramboll.com/career-details?vacancy_id=21297 | Ramboll | ESG/Sustainability Consultant
 - [ ] https://ramboll.com/en-us/careers/98893a38-85f4-4cf0-10c7-08de37875cb1 | Ramboll | Environmental Consultant
 - [ ] https://ramboll.com/en-us/careers/9aa2f088-e96f-4ac7-10c8-08de37875cb1 | Ramboll | Senior Environmental Consultant
