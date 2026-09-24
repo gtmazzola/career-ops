@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-24 — Scheduled portal scan -->
+- [ ] https://www.thaingo.org/jobs/detail/16950 | Climate Finance Network Thailand | Researcher
+- [ ] https://www.impactpool.org/jobs/998913 | UNICEF EAPRO | Consultant – Technical support on Climate Resilient WASH proposals
+
 <!-- Scan 2026-09-22 — Scheduled portal scan -->
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=23135 | UNOPS | Programme Management Support – Analyst — Error: Vacancy from 2021 (deadline January 2022) — closed over 4 years ago; skip.
 - [x] #673 | https://untalent.org/jobs/consultant-as-power-sector-analyst | WRI Indonesia | Consultant as Power Sector Analyst | 2.0/5 | PDF (no)
