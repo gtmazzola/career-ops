@@ -3,8 +3,8 @@
 ## Pendientes
 
 <!-- Scan 2026-09-24 — Scheduled portal scan -->
-- [ ] https://www.thaingo.org/jobs/detail/16950 | Climate Finance Network Thailand | Researcher
-- [ ] https://www.impactpool.org/jobs/998913 | UNICEF EAPRO | Consultant – Technical support on Climate Resilient WASH proposals
+- [x] #690 | https://www.thaingo.org/jobs/detail/16950 | Climate Finance Network Thailand | Researcher | 4.0/5 | PDF (no)
+- [x] #691 | https://www.impactpool.org/jobs/998913 | UNICEF EAPRO | Consultant – Technical support on Climate Resilient WASH proposals | 2.8/5 | PDF (no)
 
 <!-- Scan 2026-09-22 — Scheduled portal scan -->
 - [!] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=23135 | UNOPS | Programme Management Support – Analyst — Error: Vacancy from 2021 (deadline January 2022) — closed over 4 years ago; skip.
@@ -1704,14 +1704,14 @@
 - [x] #685 | https://community.iisd.org/jobs/researcher-or-senior-researcher-associate-research-scholar/ | Climate Analytics / CCSI | Researcher / Senior Researcher | 3.3/5 | PDF (no)
 - [x] #686 | https://community.iisd.org/jobs/renewable-energy-analyst/ | IISD Community | Renewable Energy Analyst | 3.3/5 | PDF (no)
 - [x] #687 | https://community.iisd.org/jobs/research-analyst-climate-change-impacts-and-policy-climate-analytics/ | Climate Analytics | Research Analyst – Climate Change Impacts and Policy | 3.5/5 | PDF (no)
-- [ ] https://ramboll.com/career-details?vacancy_id=21297 | Ramboll | ESG/Sustainability Consultant
-- [ ] https://ramboll.com/en-us/careers/98893a38-85f4-4cf0-10c7-08de37875cb1 | Ramboll | Environmental Consultant
-- [ ] https://ramboll.com/en-us/careers/9aa2f088-e96f-4ac7-10c8-08de37875cb1 | Ramboll | Senior Environmental Consultant
-- [ ] https://www.unjobnet.org/jobs/detail/86621620 | EBRD | Analyst, Human Capital & Skills – Energy
-- [ ] https://impactalpha.com/job/climate-and-energy-analyst/ | ImpactAlpha | Climate and Energy Analyst
-- [ ] https://www.idealist.org/en/nonprofit-job/5e2dec74856844c09182e2b8aa350743-southeast-asia-campaign-consultant-mighty-earth-washington | Mighty Earth | Southeast Asia Campaign Consultant
-- [ ] https://careers.un.org/jobSearchDescription/254689?language=en | UN/UNEP | Climate Change Analyst
-- [ ] https://careers.un.org/jobSearchDescription/234204?language=en | UNFCCC | Specialist – Carbon Markets and Environmental Integrity
+- [x] #692 | https://ramboll.com/career-details?vacancy_id=21297 | Ramboll | ESG/Sustainability Consultant | 3.8/5 | PDF (no)
+- [x] #693 | https://ramboll.com/en-us/careers/98893a38-85f4-4cf0-10c7-08de37875cb1 | Ramboll | Environmental Consultant | 2.3/5 | PDF (no)
+- [x] #694 | https://ramboll.com/en-us/careers/9aa2f088-e96f-4ac7-10c8-08de37875cb1 | Ramboll | Senior Environmental Consultant | 1.8/5 | PDF (no)
+- [x] #695 | https://www.unjobnet.org/jobs/detail/86621620 | EBRD | Analyst, Human Capital & Skills – Energy | 3.2/5 | PDF (no)
+- [x] #696 | https://impactalpha.com/job/climate-and-energy-analyst/ | ImpactAlpha | Climate and Energy Analyst | 1.5/5 | PDF (no)
+- [x] #697 | https://www.idealist.org/en/nonprofit-job/5e2dec74856844c09182e2b8aa350743-southeast-asia-campaign-consultant-mighty-earth-washington | Mighty Earth | Southeast Asia Campaign Consultant | 2.5/5 | PDF (no)
+- [x] #698 | https://careers.un.org/jobSearchDescription/254689?language=en | UN/UNEP | Climate Change Analyst | 4.3/5 | PDF (no)
+- [x] #699 | https://careers.un.org/jobSearchDescription/234204?language=en | UNFCCC | Specialist – Carbon Markets and Environmental Integrity | 2.8/5 | PDF (no)
 - [ ] https://careers.un.org/jobSearchDescription/261340?language=en | UNEP | Climate Policy and Energy Transition Advisor
 - [ ] https://careers.un.org/jobSearchDescription/239662?language=en | UNEP | Environment Officer (LTAG Monitoring and Reporting)
 - [ ] https://careers.un.org/jobSearchDescription/236680?language=en | UN/UNCTAD | Sustainable Development Officer (Climate Change)
