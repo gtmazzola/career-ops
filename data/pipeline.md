@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-26 — Scheduled portal scan -->
+- [ ] https://untalent.org/jobs/cities-and-climate-change-technical-advisor | UNESCAP | Cities and Climate Change Technical Advisor
+- [ ] https://untalent.org/jobs/climate-change-policy-advisor-m-f-d-technical-assistance-to-policy-implementation-in-the-areas-of-agriculture-and-climate-action-in-the-framework-of-the-sector-reform-contract-transformati | GIZ | Climate Change Policy Advisor
+
 <!-- Scan 2026-09-24 — Scheduled portal scan -->
 - [x] #690 | https://www.thaingo.org/jobs/detail/16950 | Climate Finance Network Thailand | Researcher | 4.0/5 | PDF (no)
 - [x] #691 | https://www.impactpool.org/jobs/998913 | UNICEF EAPRO | Consultant – Technical support on Climate Resilient WASH proposals | 2.8/5 | PDF (no)
