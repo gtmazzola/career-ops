@@ -3,15 +3,15 @@
 ## Pendientes
 
 <!-- Scan 2026-09-27 — Scheduled portal scan -->
-- [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand
-- [ ] https://reliefweb.int/job/4114164 | RWI | Programme Officer – Climate Change and Human Mobility (Thailand)
-- [ ] https://reliefweb.int/job/3998840 | ReliefWeb | Climate Resilience Training and Capacity Development Officer (Thailand)
-- [ ] https://reliefweb.int/job/4023360 | IGES | Specially Appointed Researcher (Bangkok)
-- [ ] https://reliefweb.int/job/3951704 | UNOPS | PMO Analyst IICA-1 (Bangkok, Thailand)
+- [!] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand — Duplicate of #593 (same posting, evaluated 4.4/5); skip.
+- [x] #700 | https://reliefweb.int/job/4114164 | RWI | Programme Officer – Climate Change and Human Mobility (Thailand) | 2.8/5 | PDF (no)
+- [!] https://reliefweb.int/job/3998840 | ReliefWeb | Climate Resilience Training and Capacity Development Officer (Thailand) — Duplicate of #401 (ADPC, evaluated 2.5/5); skip.
+- [!] https://reliefweb.int/job/4023360 | IGES | Specially Appointed Researcher (Bangkok) — Duplicate of #402 (AP-PLAT, evaluated 3.0/5); skip.
+- [x] #706 | https://reliefweb.int/job/3951704 | UNOPS | PMO Analyst IICA-1 (Bangkok, Thailand) | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-09-26 — Scheduled portal scan -->
-- [ ] https://untalent.org/jobs/cities-and-climate-change-technical-advisor | UNESCAP | Cities and Climate Change Technical Advisor
-- [ ] https://untalent.org/jobs/climate-change-policy-advisor-m-f-d-technical-assistance-to-policy-implementation-in-the-areas-of-agriculture-and-climate-action-in-the-framework-of-the-sector-reform-contract-transformati | GIZ | Climate Change Policy Advisor
+- [x] #702 | https://untalent.org/jobs/cities-and-climate-change-technical-advisor | UNESCAP | Cities and Climate Change Technical Advisor | 4.2/5 | PDF (no)
+- [x] #614 (updated) | https://untalent.org/jobs/climate-change-policy-advisor-m-f-d-technical-assistance-to-policy-implementation-in-the-areas-of-agriculture-and-climate-action-in-the-framework-of-the-sector-reform-contract-transformati | GIZ | Climate Change Policy Advisor | 3.8/5 | PDF (no)
 
 <!-- Scan 2026-09-24 — Scheduled portal scan -->
 - [x] #690 | https://www.thaingo.org/jobs/detail/16950 | Climate Finance Network Thailand | Researcher | 4.0/5 | PDF (no)
@@ -1733,9 +1733,9 @@
 - [x] #646 | https://careers.odi.org/postings/58be210c-ca33-4b7f-96f9-4cdb9bec4d8e | ODI | Senior Research Fellow | 2.0/5 | PDF (no)
 - [x] #647 | https://careers.who.int/careersection/ex/jobdetail.ftl?job=2501589 | WHO | Consultant – Climate-Resilient Health Infrastructure | 1.8/5 | PDF (no)
 - [x] #648 | https://careers.who.int/careersection/ex/jobdetail.ftl?job=2310880 | WHO | Technical Officer (Climate Change Adaptation and Health) | 1.5/5 | PDF (no)
-- [ ] https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602165 | WHO | National Consultant – Climate Change and Health Assessment
-- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change & Sustainability Services
-- [ ] https://www.devex.com/jobs/senior-knowledge-analyst-social-impact-1262900 | Social Impact Inc. | Senior Knowledge Analyst – Social Impact
+- [x] #704 | https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602165 | WHO | National Consultant – Climate Change and Health Assessment | 2.8/5 | PDF (no)
+- [!] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change & Sustainability Services — Duplicate of #645 (evaluated 4.0/5); skip.
+- [x] #705 | https://www.devex.com/jobs/senior-knowledge-analyst-social-impact-1262900 | Social Impact Inc. | Senior Knowledge Analyst – Social Impact | 3.4/5 | PDF (no)
 - [ ] https://www.devex.com/jobs/senior-consultant-clean-energy-climate-finance-inclusive-finance-practice-team-361346 | Enclude | Senior Consultant – Clean Energy & Climate Finance
 <!-- Scan 2026-07-10 — Multi-portal scheduled scan -->
 - [ ] https://untalent.org/jobs/sustainability-consultant | WRI/UNTalent | Sustainability Consultant
@@ -1757,7 +1757,7 @@
 - [ ] https://climatebase.org/job/60738810/junior-energy-analyst-asia-pacific | Mainstream Projects | Junior Energy Analyst – Asia Pacific
 - [ ] https://www.terra.do/climate-jobs/job-board/junior-environmental-policy-financial-analyst-8405417/ | The Cadmus Group | Junior Environmental Policy & Financial Analyst
 - [ ] https://www.terra.do/climate-jobs/job-board/Climate-finance-investment-analyst--emerging-markets--Responsability-Investments-Ag-8398885/ | Responsability Investments | Climate Finance Investment Analyst (Emerging Markets)
-- [ ] https://reliefweb.int/job/3951704/project-management-office-pmo-analyst-iica-1-bkk-thailand | IO / Bangkok | PMO Analyst (IICA-1, Bangkok, Thailand)
+- [!] https://reliefweb.int/job/3951704/project-management-office-pmo-analyst-iica-1-bkk-thailand | IO / Bangkok | PMO Analyst (IICA-1, Bangkok, Thailand) — Duplicate of #701 (same posting); skip.
 - [ ] https://reliefweb.int/job/3987988/program-officer-asia-pacific | NGO / Asia-Pacific | Program Officer, Asia-Pacific
 
 <!-- Scan 2026-07-15 — Multi-portal scheduled scan -->
@@ -2029,7 +2029,7 @@
 - [ ] https://reliefweb.int/job/4074119/climate-change-and-partnership-project-officer | Save the Children | Climate Change and Partnership Project Officer (Thailand)
 - [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I / Abt Associates | Disaster Risk Reduction and Climate Change Analyst (Bangkok)
 - [ ] https://reliefweb.int/job/4067724/climate-change-and-green-jobs-technical-expert | ILO | Climate Change and Green Jobs Technical Expert (Thailand)
-- [ ] https://reliefweb.int/job/4023360/specially-appointed-researcher | IGES / AP-PLAT | Specially Appointed Researcher – Climate Change Adaptation (Thailand)
+- [!] https://reliefweb.int/job/4023360/specially-appointed-researcher | IGES / AP-PLAT | Specially Appointed Researcher – Climate Change Adaptation (Thailand) — Duplicate of #402 (evaluated 3.0/5); skip.
 - [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM | Consulting Senior Associate – Climate (Thailand / SE Asia) ⭐
 - [ ] https://jobs.unicef.org/mob/cw/en-us/job/593852/senior-data-scientist-climate-change-and-emergency-consultant-593852 | UNICEF EAPRO | Senior Data Scientist, Climate Change and Emergency Consultant (Bangkok)
 - [ ] https://www.devex.com/jobs/junior-climate-change-consultant-low-emissions-asian-development-lead-program-bangkok-thailand-332565 | ICF / USAID LEAD | Junior Climate Change Consultant – LEAD Program (Bangkok)
@@ -2047,7 +2047,7 @@
 - [ ] https://www.devex.com/jobs/consultant-climate-finance-blended-finance-1290346 | Devex | Consultant – Climate Finance & Blended Finance
 - [ ] https://www.devex.com/jobs/consultant-iss-esg-climate-solutions-891026 | ISS ESG | Consultant – ISS ESG Climate Solutions
 - [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-assurance-climate-change-and-sustainability-services-2026-graduates/ | EY Singapore | Associate – Assurance, Climate Change and Sustainability Services (2026 Graduates)
-- [ ] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change and Sustainability Services, Assurance
+- [!] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change and Sustainability Services, Assurance — Duplicate of #645 (evaluated 4.0/5); skip.
 - [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change
 - [ ] https://www.climatechangecareers.com/job/pwc-singapore/singapore-singapore/risk-services-sustainability-and-climate-change-advisory-senior-associate/ | PwC Singapore | Risk Services, Sustainability and Climate Change Advisory – Senior Associate
 - [ ] https://climatebase.org/job/71676500/data-analyst---esg | Climatebase | Data Analyst – ESG
