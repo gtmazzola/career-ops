@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-27 — Scheduled portal scan -->
+- [ ] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand
+- [ ] https://reliefweb.int/job/4114164 | RWI | Programme Officer – Climate Change and Human Mobility (Thailand)
+- [ ] https://reliefweb.int/job/3998840 | ReliefWeb | Climate Resilience Training and Capacity Development Officer (Thailand)
+- [ ] https://reliefweb.int/job/4023360 | IGES | Specially Appointed Researcher (Bangkok)
+- [ ] https://reliefweb.int/job/3951704 | UNOPS | PMO Analyst IICA-1 (Bangkok, Thailand)
+
 <!-- Scan 2026-09-26 — Scheduled portal scan -->
 - [ ] https://untalent.org/jobs/cities-and-climate-change-technical-advisor | UNESCAP | Cities and Climate Change Technical Advisor
 - [ ] https://untalent.org/jobs/climate-change-policy-advisor-m-f-d-technical-assistance-to-policy-implementation-in-the-areas-of-agriculture-and-climate-action-in-the-framework-of-the-sector-reform-contract-transformati | GIZ | Climate Change Policy Advisor
