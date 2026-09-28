@@ -2,6 +2,28 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-28 — Scheduled portal scan -->
+- [ ] https://www.terra.do/climate-jobs/job-board/circular-economy-analyst-waste-reduction-consultant-resource-efficiency-specialist-8399645/ | Dashboard Insights | Circular Economy Analyst / Resource Efficiency Specialist
+- [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-climate-finance-climate-change-and-sustainability-8197107/ | Ipe Global Limited | Senior Analyst – Climate Finance
+- [ ] https://www.developmentaid.org/jobs/view/1779037/programme-specialist-climate-r | Via DevelopmentAid | Programme Specialist – Climate
+- [ ] https://careers.un.org/jobSearchDescription/272737 | UN | Nature-based Solutions Consultant
+- [ ] https://www.linkedin.com/jobs/view/4344323880/ | UNDP | Project Analyst (Bangkok)
+- [ ] https://www.unjobnet.org/jobs/detail/86005593 | IDB | Concessional Climate Finance Consultant
+- [ ] https://workingreen.jobs/offers/environmental-social-governance-esg-analyst-at-beyond-meat-el-segundo-ca | Beyond Meat | ESG Analyst
+- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/02/Job-Announcement_Advisor_IMPROVE-260223.pdf | GIZ Thailand | Advisor (IMPROVE Program)
+- [ ] https://jobs.smartrecruiters.com/WesternDigital/744000134389259-responsible-sourcing-analyst-supply-chain- | Western Digital | Responsible Sourcing Analyst, Supply Chain
+- [ ] https://www.unjobnet.org/jobs/detail/79363945 | UNDP | Global Policy Energy Analyst
+- [ ] https://www.comeet.com/jobs/dalbergadvisors/2A.001/associate-consultant--consultant-us-2026/59.265-76.50A | Dalberg | Associate Consultant / Consultant
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=3858 | UNDP | Programme Analyst (Climate Change)
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110689 | UNDP | Digital Economy Specialist
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82152 | UNDP | Consultant – Innovative Financing for the SDGs
+- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=102766 | UNDP | International Consultant – Employment Growth
+- [ ] https://jobs.ilo.org/job/Monitoring-&-Knowledge-Management-Officer-P3/13718-en_GB/ | ILO | Monitoring & Knowledge-Management Officer P3
+- [ ] https://untalent.org/jobs/operations-officer-sustainable-infrastructure-advisory-sia | World Bank | Operations Officer – Sustainable Infrastructure Advisory
+- [ ] https://climatebase.org/job/73574372/consultant-associateconsultantmanaging-consultant-corporate-sustainability-and-climate-change-esgghg | ERM | Consultant Associate – Corporate Sustainability & Climate Change (ESG/GHG)
+- [ ] https://www.idealist.org/en/consultant-job/3a72227cf8ed443dad0bfe7616cb2223-program-associate-environment-cea-consulting-menlo-park | CEA Consulting | Program Associate, Environment
+- [ ] https://www.idealist.org/en/consultant-job/761312e6b01c49abbf0461d5816f7ac1-ghg-analyst-cascadia-consulting-group-seattle | Cascadia Consulting Group | GHG Analyst
+
 <!-- Scan 2026-09-27 — Scheduled portal scan -->
 - [!] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand — Duplicate of #593 (same posting, evaluated 4.4/5); skip.
 - [x] #700 | https://reliefweb.int/job/4114164 | RWI | Programme Officer – Climate Change and Human Mobility (Thailand) | 2.8/5 | PDF (no)
