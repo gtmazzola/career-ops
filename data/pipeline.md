@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-09-28 — Scheduled portal scan -->
-- [ ] https://www.terra.do/climate-jobs/job-board/circular-economy-analyst-waste-reduction-consultant-resource-efficiency-specialist-8399645/ | Dashboard Insights | Circular Economy Analyst / Resource Efficiency Specialist
-- [ ] https://www.terra.do/climate-jobs/job-board/senior-analyst-climate-finance-climate-change-and-sustainability-8197107/ | Ipe Global Limited | Senior Analyst – Climate Finance
-- [ ] https://www.developmentaid.org/jobs/view/1779037/programme-specialist-climate-r | Via DevelopmentAid | Programme Specialist – Climate
-- [ ] https://careers.un.org/jobSearchDescription/272737 | UN | Nature-based Solutions Consultant
-- [ ] https://www.linkedin.com/jobs/view/4344323880/ | UNDP | Project Analyst (Bangkok)
-- [ ] https://www.unjobnet.org/jobs/detail/86005593 | IDB | Concessional Climate Finance Consultant
-- [ ] https://workingreen.jobs/offers/environmental-social-governance-esg-analyst-at-beyond-meat-el-segundo-ca | Beyond Meat | ESG Analyst
-- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/02/Job-Announcement_Advisor_IMPROVE-260223.pdf | GIZ Thailand | Advisor (IMPROVE Program)
-- [ ] https://jobs.smartrecruiters.com/WesternDigital/744000134389259-responsible-sourcing-analyst-supply-chain- | Western Digital | Responsible Sourcing Analyst, Supply Chain
-- [ ] https://www.unjobnet.org/jobs/detail/79363945 | UNDP | Global Policy Energy Analyst
+- [x] #639 | https://www.terra.do/climate-jobs/job-board/circular-economy-analyst-waste-reduction-consultant-resource-efficiency-specialist-8399645/ | Dashboard Insights | Circular Economy Analyst / Resource Efficiency Specialist | 3.0/5 | PDF (no)
+- [x] #640 | https://www.terra.do/climate-jobs/job-board/senior-analyst-climate-finance-climate-change-and-sustainability-8197107/ | Ipe Global Limited | Senior Analyst – Climate Finance | 3.5/5 | PDF (no)
+- [x] #641 | https://www.developmentaid.org/jobs/view/1779037/programme-specialist-climate-r | Via DevelopmentAid | Programme Specialist – Climate | 2.0/5 | PDF (no)
+- [x] #642 | https://careers.un.org/jobSearchDescription/272737 | UN (UNEP) | Nature-based Solutions Consultant | 2.0/5 | PDF (no)
+- [x] #643 | https://www.linkedin.com/jobs/view/4344323880/ | UNDP | Project Analyst (Bangkok) | 4.2/5 | PDF (no)
+- [x] #644 | https://www.unjobnet.org/jobs/detail/86005593 | IDB | Concessional Climate Finance Consultant | 2.5/5 | PDF (no)
+- [x] #645 | https://workingreen.jobs/offers/environmental-social-governance-esg-analyst-at-beyond-meat-el-segundo-ca | Beyond Meat | ESG Analyst | 3.5/5 | PDF (no)
+- [x] #646 | https://www.thai-german-cooperation.info/wp-content/uploads/2026/02/Job-Announcement_Advisor_IMPROVE-260223.pdf | GIZ Thailand | Advisor (IMPROVE Program) | 4.5/5 | PDF (no)
+- [x] #647 | https://jobs.smartrecruiters.com/WesternDigital/744000134389259-responsible-sourcing-analyst-supply-chain- | Western Digital | Responsible Sourcing Analyst, Supply Chain | 2.5/5 | PDF (no)
+- [x] #648 | https://www.unjobnet.org/jobs/detail/79363945 | UNDP | Global Policy Energy Analyst | 4.0/5 | PDF (no)
 - [ ] https://www.comeet.com/jobs/dalbergadvisors/2A.001/associate-consultant--consultant-us-2026/59.265-76.50A | Dalberg | Associate Consultant / Consultant
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=3858 | UNDP | Programme Analyst (Climate Change)
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110689 | UNDP | Digital Economy Specialist
