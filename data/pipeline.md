@@ -13,16 +13,16 @@
 - [x] #646 | https://www.thai-german-cooperation.info/wp-content/uploads/2026/02/Job-Announcement_Advisor_IMPROVE-260223.pdf | GIZ Thailand | Advisor (IMPROVE Program) | 4.5/5 | PDF (no)
 - [x] #647 | https://jobs.smartrecruiters.com/WesternDigital/744000134389259-responsible-sourcing-analyst-supply-chain- | Western Digital | Responsible Sourcing Analyst, Supply Chain | 2.5/5 | PDF (no)
 - [x] #648 | https://www.unjobnet.org/jobs/detail/79363945 | UNDP | Global Policy Energy Analyst | 4.0/5 | PDF (no)
-- [ ] https://www.comeet.com/jobs/dalbergadvisors/2A.001/associate-consultant--consultant-us-2026/59.265-76.50A | Dalberg | Associate Consultant / Consultant
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=3858 | UNDP | Programme Analyst (Climate Change)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110689 | UNDP | Digital Economy Specialist
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82152 | UNDP | Consultant – Innovative Financing for the SDGs
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=102766 | UNDP | International Consultant – Employment Growth
-- [ ] https://jobs.ilo.org/job/Monitoring-&-Knowledge-Management-Officer-P3/13718-en_GB/ | ILO | Monitoring & Knowledge-Management Officer P3
-- [ ] https://untalent.org/jobs/operations-officer-sustainable-infrastructure-advisory-sia | World Bank | Operations Officer – Sustainable Infrastructure Advisory
-- [ ] https://climatebase.org/job/73574372/consultant-associateconsultantmanaging-consultant-corporate-sustainability-and-climate-change-esgghg | ERM | Consultant Associate – Corporate Sustainability & Climate Change (ESG/GHG)
-- [ ] https://www.idealist.org/en/consultant-job/3a72227cf8ed443dad0bfe7616cb2223-program-associate-environment-cea-consulting-menlo-park | CEA Consulting | Program Associate, Environment
-- [ ] https://www.idealist.org/en/consultant-job/761312e6b01c49abbf0461d5816f7ac1-ghg-analyst-cascadia-consulting-group-seattle | Cascadia Consulting Group | GHG Analyst
+- [x] #707 | https://www.comeet.com/jobs/dalbergadvisors/2A.001/associate-consultant--consultant-us-2026/59.265-76.50A | Dalberg | Associate Consultant / Consultant | 3.5/5 | PDF (no)
+- [x] #708 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=3858 | UNDP | Programme Analyst (Climate Change) | 3.5/5 | PDF (no)
+- [x] #709 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110689 | UNDP | Digital Economy Specialist | 2.5/5 | PDF (no)
+- [x] #710 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82152 | UNDP | Consultant – Innovative Financing for the SDGs | 3.5/5 | PDF (no)
+- [x] #711 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=102766 | UNDP | International Consultant – Employment Growth | 3.0/5 | PDF (no)
+- [x] #712 | https://jobs.ilo.org/job/Monitoring-&-Knowledge-Management-Officer-P3/13718-en_GB/ | ILO | Monitoring & Knowledge-Management Officer P3 | 3.0/5 | PDF (no)
+- [x] #713 | https://untalent.org/jobs/operations-officer-sustainable-infrastructure-advisory-sia | World Bank | Operations Officer – Sustainable Infrastructure Advisory | 2.0/5 | PDF (no)
+- [x] #714 | https://climatebase.org/job/73574372/consultant-associateconsultantmanaging-consultant-corporate-sustainability-and-climate-change-esgghg | ERM | Consultant Associate – Corporate Sustainability & Climate Change (ESG/GHG) | 4.0/5 | PDF (no)
+- [x] #715 | https://www.idealist.org/en/consultant-job/3a72227cf8ed443dad0bfe7616cb2223-program-associate-environment-cea-consulting-menlo-park | CEA Consulting | Program Associate, Environment | 3.0/5 | PDF (no)
+- [x] #716 | https://www.idealist.org/en/consultant-job/761312e6b01c49abbf0461d5816f7ac1-ghg-analyst-cascadia-consulting-group-seattle | Cascadia Consulting Group | GHG Analyst | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-09-27 — Scheduled portal scan -->
 - [!] https://www.impactpool.org/jobs/1199629 | UNEP | CCAC National Coordinator for Thailand — Duplicate of #593 (same posting, evaluated 4.4/5); skip.
