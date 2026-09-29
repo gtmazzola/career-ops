@@ -2153,3 +2153,39 @@
 - [ ] https://www.impactpool.org/jobs/1235322 | ADB | Climate Change Officer (Climate Change Adaptation)
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=30578 | UNOPS/SEforALL | Sustainable Cooling Analyst
 - [ ] https://workopia.io/jobs/f85a8be4e38cbb6fdca796f35ef04157 | UNDP | Programme Analyst, Climate and Nature
+
+<!-- Scan 2026-09-29 — Scheduled portal scan -->
+- [ ] https://swooped.co/job-postings/climate-consultant-bangkok-erm-12f08 | ERM | Climate Consultant (Bangkok)
+- [ ] https://unvacancies.org/jobs/national-environmental-finance-analyst-open-to-internal-and-external-applicants-DP-34932 | UNDP | National Environmental Finance Analyst (Bangkok)
+- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-Fresh-grads-welcome-10110/1207201601 | EY | Assurance – Climate Change and Sustainability Services Staff (Bangkok)
+- [ ] https://careers.southpole.com/jobs/5050044-associate-consultant-climate-risks-and-opportunities | South Pole | Associate Consultant, Climate Risks and Opportunities
+- [ ] https://careers.southpole.com/jobs/5121560-associate-consultant-ambition-targets-and-transition | South Pole | Associate Consultant, Ambition, Targets and Transition
+- [ ] https://untalent.org/jobs/energy-and-environment-analyst | IEA/OECD | Energy and Environment Analyst
+- [ ] https://untalent.org/jobs/associate-sustainability-officer | (IO) | Associate Sustainability Officer
+- [ ] https://www.impactpool.org/jobs/1034100 | (UN) | Climate and Environment Analyst
+- [ ] https://impactpool.org/jobs/697421 | UNDP | Programme Analyst – Results Based Management
+- [ ] https://jobs.flourishventures.com/companies/better-than-cash/jobs/78740977-programme-analyst-2-positions-nature-climate-and-energy-disaster-reduction-open-to-tier-0-1-2-applicants | UNDP | Programme Analyst – Nature, Climate and Energy / Disaster Reduction
+- [ ] https://www.developmentaid.org/jobs/view/1583763/climate-analyst | UNDP CIS | Climate Analyst
+- [ ] https://unvacancies.org/jobs/project-associate-DP-34940 | UNDP | Project Associate
+- [ ] https://climatechangejobs.com/jobs/168027530-sustainability-analyst-sustainability-consultancy | Sustainability Consultancy | Sustainability Analyst
+- [ ] https://reliefweb.int/job/4230333/consultancy-strengthen-positioning-nature-based-solutions-climate-adaptation-and-resilience | (IO/NGO) | Consultancy – NbS for Climate Adaptation and Resilience
+- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Analyst---Sustainability-Reporting-Salt-8416456/ | Salt Recruitment | ESG Analyst – Sustainability Reporting
+- [ ] https://www.avaval.com/en/career/open-position/esg-consultant-hong-kong | Avaval | ESG Consultant (Hong Kong)
+- [ ] https://cleancooking.org/sector-jobs/energy-analyst-sustainable-energy-for-all | SEforALL | Energy Analyst
+- [ ] https://climatechangejobs.com/jobs/42496075-consultant-senior-consultant-low-carbon-energy-transition-mid-level | (firm) | Consultant/Senior Consultant – Low Carbon Energy Transition
+- [ ] https://jobs.climatebase.org/job/76614/climate-impact-data-analyst/ | (firm) | Climate Impact Data Analyst
+- [ ] https://climatebase.org/job/53696831/research-and-administrative-analyst-global-energy-transitions | WRI | Research and Administrative Analyst, Global Energy Transitions
+- [ ] https://careers.digitaledgedc.com/job-invite/1264 | Digital Edge | ESG Analyst, Asia
+- [ ] https://careers.conbio.org/job/590631/associate-climate/ | Society for Conservation Biology | Associate, Climate
+- [ ] https://untalent.org/jobs/project-analyst-42 | UNDP | Project Analyst
+- [ ] https://builtin.com/job/analyst-associate-consultant/7508437 | (firm) | Analyst/Associate Consultant
+- [ ] https://careers.ey.com/ey/job/Colombo-Trainee-Analyst-Analyst-Senior-Analyst/1388605833/ | EY Colombo | Trainee Analyst/Analyst/Senior Analyst (CCaSS)
+- [ ] https://www.hirebase.org/company/erm/jobs/climate-consultant-bb560085 | ERM | Climate Consultant
+- [ ] https://jobs.ffwd.org/companies/world-resources-institute-2/jobs/51435127-research-associate-climate | WRI | Research Associate, Climate (Beijing)
+- [ ] https://www.terra.do/climate-jobs/job-board/associate-consultant-esg-8369528 | VMC | Associate Consultant – ESG (India)
+- [ ] https://jb.terra.do/climate-jobs/job-board/Associate-Consultant--Consultant---ESG-SIA-8345884 | SIA | Associate Consultant/Consultant – ESG
+- [ ] https://my.hiredly.com/jobs/jobs-malaysia-axcelasia-group-job-esg-advisory-associate-consultant-consultant-senior-consultant | Axcelasia | ESG Advisory Associate/Consultant (Malaysia)
+- [ ] https://www.adb.org/careers/260573 | ADB | Sustainable Solutions Specialist
+- [ ] https://www.impactpool.org/jobs/603345 | UNDP | Policy Analyst NPSA8 (Bangkok)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2720 | UNOPS | Climate Action Associate (Panama)
+- [ ] https://careers.conbio.org/job/592420/associate-climate/ | SCB | Associate, Climate
