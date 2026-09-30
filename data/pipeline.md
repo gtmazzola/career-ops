@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+<!-- Scan 2026-09-30 — Scheduled portal scan -->
+- [ ] https://adecco.co.th/en/jobs/detail/13838/JN-042025-144110/ESG-consultant | Adecco (client undisclosed) | ESG Consultant (Bangkok)
+- [ ] https://climatebase.org/job/74954280/consulting-associate-entry-level---sustainable-finance-hlac | ERM | Consulting Associate – Sustainable Finance (entry-level)
+- [ ] https://careers-ricardo.icims.com/jobs/2985/sustainability-analyst-consultant/job | Ricardo | Sustainability Analyst Consultant
+- [ ] https://careers-ricardo.icims.com/jobs/3169/sustainability-analyst-consultant/job | Ricardo | Sustainability Analyst Consultant
+- [ ] https://careers.cfainstitute.org/en-gb/job/8998018/associate-sustainable-finance-apac/ | CFA Institute | Associate – Sustainable Finance APAC
+- [ ] https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | ESG Graduate Associate 2026
+- [ ] https://www.terra.do/climate-jobs/job-board/climate-analyst-singapore-8349548 | McKinsey | Climate Analyst Singapore
+
 <!-- Scan 2026-09-28 — Scheduled portal scan -->
 - [x] #639 | https://www.terra.do/climate-jobs/job-board/circular-economy-analyst-waste-reduction-consultant-resource-efficiency-specialist-8399645/ | Dashboard Insights | Circular Economy Analyst / Resource Efficiency Specialist | 3.0/5 | PDF (no)
 - [x] #640 | https://www.terra.do/climate-jobs/job-board/senior-analyst-climate-finance-climate-change-and-sustainability-8197107/ | Ipe Global Limited | Senior Analyst – Climate Finance | 3.5/5 | PDF (no)
