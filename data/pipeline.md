@@ -3,13 +3,13 @@
 ## Pendientes
 
 <!-- Scan 2026-09-30 — Scheduled portal scan -->
-- [ ] https://adecco.co.th/en/jobs/detail/13838/JN-042025-144110/ESG-consultant | Adecco (client undisclosed) | ESG Consultant (Bangkok)
-- [ ] https://climatebase.org/job/74954280/consulting-associate-entry-level---sustainable-finance-hlac | ERM | Consulting Associate – Sustainable Finance (entry-level)
-- [ ] https://careers-ricardo.icims.com/jobs/2985/sustainability-analyst-consultant/job | Ricardo | Sustainability Analyst Consultant
-- [ ] https://careers-ricardo.icims.com/jobs/3169/sustainability-analyst-consultant/job | Ricardo | Sustainability Analyst Consultant
-- [ ] https://careers.cfainstitute.org/en-gb/job/8998018/associate-sustainable-finance-apac/ | CFA Institute | Associate – Sustainable Finance APAC
-- [ ] https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | ESG Graduate Associate 2026
-- [ ] https://www.terra.do/climate-jobs/job-board/climate-analyst-singapore-8349548 | McKinsey | Climate Analyst Singapore
+- [x] #717 | https://adecco.co.th/en/jobs/detail/13838/JN-042025-144110/ESG-consultant | Adecco (client undisclosed) | ESG Consultant (Bangkok) | 3.2/5 | PDF (no)
+- [x] #718 | https://climatebase.org/job/74954280/consulting-associate-entry-level---sustainable-finance-hlac | ERM | Consulting Associate – Sustainable Finance (entry-level) | 2.5/5 | PDF (no)
+- [x] #719 | https://careers-ricardo.icims.com/jobs/2985/sustainability-analyst-consultant/job | Ricardo | Sustainability Analyst Consultant | 3.8/5 | PDF (no)
+- [x] #720 | https://careers-ricardo.icims.com/jobs/3169/sustainability-analyst-consultant/job | Ricardo | Sustainability Analyst Consultant | 3.8/5 | PDF (no)
+- [x] #721 | https://careers.cfainstitute.org/en-gb/job/8998018/associate-sustainable-finance-apac/ | CFA Institute | Associate – Sustainable Finance APAC | 3.5/5 | PDF (no)
+- [x] #722 | https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | ESG Graduate Associate 2026 | 4.2/5 | PDF (no)
+- [x] #723 | https://www.terra.do/climate-jobs/job-board/climate-analyst-singapore-8349548 | McKinsey | Climate Analyst Singapore | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-09-28 — Scheduled portal scan -->
 - [x] #639 | https://www.terra.do/climate-jobs/job-board/circular-economy-analyst-waste-reduction-consultant-resource-efficiency-specialist-8399645/ | Dashboard Insights | Circular Economy Analyst / Resource Efficiency Specialist | 3.0/5 | PDF (no)
@@ -1767,10 +1767,10 @@
 - [x] #704 | https://careers.who.int/careersection/ex/jobdetail.ftl?job=2602165 | WHO | National Consultant – Climate Change and Health Assessment | 2.8/5 | PDF (no)
 - [!] https://www.climatechangecareers.com/job/ey/singapore-singapore/associate-senior-associate-climate-change-and-sustainability-services-assurance/ | EY Singapore | Associate / Senior Associate – Climate Change & Sustainability Services — Duplicate of #645 (evaluated 4.0/5); skip.
 - [x] #705 | https://www.devex.com/jobs/senior-knowledge-analyst-social-impact-1262900 | Social Impact Inc. | Senior Knowledge Analyst – Social Impact | 3.4/5 | PDF (no)
-- [ ] https://www.devex.com/jobs/senior-consultant-clean-energy-climate-finance-inclusive-finance-practice-team-361346 | Enclude | Senior Consultant – Clean Energy & Climate Finance
+- [x] #724 | https://www.devex.com/jobs/senior-consultant-clean-energy-climate-finance-inclusive-finance-practice-team-361346 | Enclude | Senior Consultant – Clean Energy & Climate Finance | 1.5/5 | PDF (no)
 <!-- Scan 2026-07-10 — Multi-portal scheduled scan -->
-- [ ] https://untalent.org/jobs/sustainability-consultant | WRI/UNTalent | Sustainability Consultant
-- [ ] https://www.impactpool.org/jobs/1209929 | ADB | Investment Officer (Climate Change)
+- [x] #725 | https://untalent.org/jobs/sustainability-consultant | WRI/UNTalent | Sustainability Consultant | 2.5/5 | PDF (no)
+- [x] #726 | https://www.impactpool.org/jobs/1209929 | ADB | Investment Officer (Climate Change) | 1.5/5 | PDF (no)
 - [ ] https://www.impactpool.org/jobs/1174869 | UNDP | JPO - Climate Change Analyst
 - [ ] https://www.impactpool.org/jobs/1072467 | OECD/IEA | Energy Analysts - IEA Regional Cooperation Centre Singapore
 - [ ] https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer
