@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-01 — Scheduled portal scan -->
+- [ ] https://climatebase.org/job/54107746/sustainability--climate-change-consultant-entry-level | ERM | Sustainability & Climate Change Consultant (Entry Level)
+- [ ] https://climatebase.org/job/52353640/consultant---social-and-sustainability-support-entry-level | ERM | Consulting Associate – Social Sustainability & Human Rights
+- [ ] https://climatebase.org/job/52921623/corporate-sustainability-and-climate-change-consulting-senior-associate | ERM | Corporate Sustainability & Climate Change Consulting Senior Associate
+- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability, Senior to Manager
+- [ ] https://careers.southpole.com/jobs/5619922-managing-consultant-policy-strategy | South Pole | Managing Consultant – Policy & Strategy
+- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-and-nature-open-to-internal-and-external-applican-88947887 | UNDP | Programme Analyst, Climate and Nature
+- [ ] https://careers.frasersproperty.com/job/Bangkok-Assistant-Manager%2C-Sustainability-Bang/1397127933/ | Frasers Property Thailand | Assistant Manager, Sustainability
+- [ ] https://climatebase.org/job/53696831/research-and-administrative-analyst-global-energy-transitions | WRI | Research and Administrative Analyst, Global Energy Transitions
+- [ ] https://www.terra.do/climate-jobs/job-board/climate-change-and-esg-consultant-8414332/ | Women's Engineering Society | Climate Change and ESG Consultant
+
 <!-- Scan 2026-09-30 — Scheduled portal scan -->
 - [x] #717 | https://adecco.co.th/en/jobs/detail/13838/JN-042025-144110/ESG-consultant | Adecco (client undisclosed) | ESG Consultant (Bangkok) | 3.2/5 | PDF (no)
 - [x] #718 | https://climatebase.org/job/74954280/consulting-associate-entry-level---sustainable-finance-hlac | ERM | Consulting Associate – Sustainable Finance (entry-level) | 2.5/5 | PDF (no)
