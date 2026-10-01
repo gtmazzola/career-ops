@@ -3,15 +3,15 @@
 ## Pendientes
 
 <!-- Scan 2026-10-01 — Scheduled portal scan -->
-- [ ] https://climatebase.org/job/54107746/sustainability--climate-change-consultant-entry-level | ERM | Sustainability & Climate Change Consultant (Entry Level)
-- [ ] https://climatebase.org/job/52353640/consultant---social-and-sustainability-support-entry-level | ERM | Consulting Associate – Social Sustainability & Human Rights
-- [ ] https://climatebase.org/job/52921623/corporate-sustainability-and-climate-change-consulting-senior-associate | ERM | Corporate Sustainability & Climate Change Consulting Senior Associate
-- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability, Senior to Manager
-- [ ] https://careers.southpole.com/jobs/5619922-managing-consultant-policy-strategy | South Pole | Managing Consultant – Policy & Strategy
-- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-and-nature-open-to-internal-and-external-applican-88947887 | UNDP | Programme Analyst, Climate and Nature
-- [ ] https://careers.frasersproperty.com/job/Bangkok-Assistant-Manager%2C-Sustainability-Bang/1397127933/ | Frasers Property Thailand | Assistant Manager, Sustainability
-- [ ] https://climatebase.org/job/53696831/research-and-administrative-analyst-global-energy-transitions | WRI | Research and Administrative Analyst, Global Energy Transitions
-- [ ] https://www.terra.do/climate-jobs/job-board/climate-change-and-esg-consultant-8414332/ | Women's Engineering Society | Climate Change and ESG Consultant
+- [x] #639 | https://climatebase.org/job/54107746/sustainability--climate-change-consultant-entry-level | ERM | Sustainability & Climate Change Consultant (Entry Level) | 4.0/5 | PDF (no)
+- [x] #640 | https://climatebase.org/job/52353640/consultant---social-and-sustainability-support-entry-level | ERM | Consulting Associate – Social Sustainability & Human Rights | 3.5/5 | PDF (no)
+- [x] #641 | https://climatebase.org/job/52921623/corporate-sustainability-and-climate-change-consulting-senior-associate | ERM | Corporate Sustainability & Climate Change Consulting Senior Associate | 3.3/5 | PDF (no)
+- [x] #642 | https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Senior-to-Manager-Bang-10330/1207201901/ | EY Bangkok | Assurance – Climate Change and Sustainability, Senior to Manager | 2.0/5 | PDF (no)
+- [x] #643 | https://careers.southpole.com/jobs/5619922-managing-consultant-policy-strategy | South Pole | Managing Consultant – Policy & Strategy | 2.5/5 | PDF (no)
+- [x] #644 | https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-and-nature-open-to-internal-and-external-applican-88947887 | UNDP | Programme Analyst, Climate and Nature | 4.2/5 | PDF (no)
+- [x] #645 | https://careers.frasersproperty.com/job/Bangkok-Assistant-Manager%2C-Sustainability-Bang/1397127933/ | Frasers Property Thailand | Assistant Manager, Sustainability | 2.7/5 | PDF (no)
+- [x] #646 | https://climatebase.org/job/53696831/research-and-administrative-analyst-global-energy-transitions | WRI | Research and Administrative Analyst, Global Energy Transitions | 3.8/5 | PDF (no)
+- [x] #647 | https://www.terra.do/climate-jobs/job-board/climate-change-and-esg-consultant-8414332/ | Women's Engineering Society | Climate Change and ESG Consultant | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-09-30 — Scheduled portal scan -->
 - [x] #717 | https://adecco.co.th/en/jobs/detail/13838/JN-042025-144110/ESG-consultant | Adecco (client undisclosed) | ESG Consultant (Bangkok) | 3.2/5 | PDF (no)
@@ -1782,7 +1782,7 @@
 <!-- Scan 2026-07-10 — Multi-portal scheduled scan -->
 - [x] #725 | https://untalent.org/jobs/sustainability-consultant | WRI/UNTalent | Sustainability Consultant | 2.5/5 | PDF (no)
 - [x] #726 | https://www.impactpool.org/jobs/1209929 | ADB | Investment Officer (Climate Change) | 1.5/5 | PDF (no)
-- [ ] https://www.impactpool.org/jobs/1174869 | UNDP | JPO - Climate Change Analyst
+- [x] #648 | https://www.impactpool.org/jobs/1174869 | UNDP | JPO - Climate Change Analyst | 4.0/5 | PDF (no)
 - [ ] https://www.impactpool.org/jobs/1072467 | OECD/IEA | Energy Analysts - IEA Regional Cooperation Centre Singapore
 - [ ] https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer
 - [ ] https://unjobs.org/vacancies/1783465328142 | IDB | Financial Analyst Consultant - Infrastructure & Energy
