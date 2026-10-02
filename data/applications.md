@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 730 | 2026-10-02 | UNIDO | National Programme Officer (Beijing) | 1.0/5 | Evaluada | ❌ | [730](reports/730-unido-national-programme-officer-beijing-2026-10-02.md) | SKIP: NOC grade (Chinese nationals only) + expired Nov 2024 |
+| 732 | 2026-10-02 | Global Professional Services Bangkok | Senior Sustainability Consultant | 3.0/5 | Evaluada | ❌ | [732](reports/732-global-prof-services-senior-sustainability-consultant-bangkok-2026-10-02.md) | Borderline: great comp (THB 150-200K) + Bangkok; overleveled ~3-5 yrs; ask about junior entry |
+| 736 | 2026-10-02 | UNFCCC | Programme Budget Analyst Consultancy (Bonn) | 2.0/5 | Evaluada | ❌ | [736](reports/736-unfccc-programme-consultancy-bonn-2026-10-02.md) | SKIP: Likely expired Apr 2026; domain mismatch (budget/finance focus) |
+| 737 | 2026-10-02 | Global Professional Services Bangkok | Senior Sustainability Consultant (re-post) | 3.0/5 | Evaluada | ❌ | [733](reports/733-global-prof-services-senior-sustainability-consultant-bangkok-2-2026-10-02.md) | Re-post of #732; use this more recent URL (ID 501245800) |
+| 738 | 2026-10-02 | UNFCCC | Programme Assistant G-5 (Bonn) | 1.5/5 | Evaluada | ❌ | [735](reports/735-unfccc-programme-assistant-g5-bonn-2026-10-02.md) | SKIP: G-series local recruitment (Bonn) + expired Apr 2026 |
 | 717 | 2026-09-30 | Adecco (undisclosed) | ESG Consultant | 3.2/5 | Evaluada | ❌ | [717](reports/717-adecco-esg-consultant-bangkok-2026-09-30.md) | Bangkok hybrid; THB 30-50K below target; 2-3yr exp gap; apply only if client revealed and comp negotiable to THB 45K+ |
 | 721 | 2026-09-30 | CFA Institute | Associate – Sustainable Finance APAC | 3.5/5 | Evaluada | ❌ | [721](reports/721-cfa-institute-associate-sustainable-finance-apac-2026-09-30.md) | SG or HK; good ESG/APAC fit; no CFA designation; express enrollment intent in cover letter |
 | 723 | 2026-09-30 | McKinsey | Climate Analyst Singapore | 2.5/5 | Evaluada | ❌ | [723](reports/723-mckinsey-climate-analyst-singapore-2026-09-30.md) | Requires 5+ years; significant seniority gap; do not apply; revisit 2029-2031 |

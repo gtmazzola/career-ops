@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-10-02 — Scheduled portal scan -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1153035255 | UNIDO | Project Assistant (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1167544255 | UNIDO | Project Assistant (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Associate-Programme-Officer/1167164055 | UNIDO | Associate Programme Officer (Vienna)
-- [ ] https://careers.unido.org/job/Beijing-Natonal-Programme-Officer/993972755 | UNIDO | National Programme Officer (Beijing)
-- [ ] https://www.impactpool.org/jobs/533893 | UNDP | Programme Analyst
-- [ ] https://climatechangejobs.com/jobs/416025031-senior-sustainability-consultant | Global Professional Services Bangkok | Senior Sustainability Consultant
-- [ ] https://climatechangejobs.com/jobs/501245800-senior-sustainability-consultant | Global Professional Services Bangkok | Senior Sustainability Consultant
-- [ ] https://climatechangejobs.com/jobs/53715438-managing-consultant-corporate-sustainability-climate-change | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change
-- [ ] https://www.impactpool.org/jobs/1202924 | UNFCCC | Programme/Consultancy (title TBC)
-- [ ] https://www.impactpool.org/jobs/1204796 | UNFCCC | Programme/Consultancy (title TBC)
+- [x] #727 | https://careers.unido.org/job/Vienna-Project-Assistant/1153035255 | UNIDO | Project Assistant (Vienna) | 1.0/5 | PDF (no)
+- [x] #728 | https://careers.unido.org/job/Vienna-Project-Assistant/1167544255 | UNIDO | Project Assistant (Vienna) | 1.0/5 | PDF (no)
+- [x] #729 | https://careers.unido.org/job/Vienna-Associate-Programme-Officer/1167164055 | UNIDO | Associate Programme Officer (Vienna) | 2.5/5 | PDF (no)
+- [x] #730 | https://careers.unido.org/job/Beijing-Natonal-Programme-Officer/993972755 | UNIDO | National Programme Officer (Beijing) | 1.0/5 | PDF (no)
+- [x] #731 | https://www.impactpool.org/jobs/533893 | UNDP | Programme Analyst (Asmara) | 1.0/5 | PDF (no)
+- [x] #732 | https://climatechangejobs.com/jobs/416025031-senior-sustainability-consultant | Global Professional Services Bangkok | Senior Sustainability Consultant | 3.0/5 | PDF (no)
+- [x] #733 | https://climatechangejobs.com/jobs/501245800-senior-sustainability-consultant | Global Professional Services Bangkok | Senior Sustainability Consultant (re-post) | 3.0/5 | PDF (no)
+- [x] #734 | https://climatechangejobs.com/jobs/53715438-managing-consultant-corporate-sustainability-climate-change | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change | 2.5/5 | PDF (no)
+- [x] #735 | https://www.impactpool.org/jobs/1202924 | UNFCCC | Programme/Consultancy (title TBC) | 1.5/5 | PDF (no)
+- [x] #736 | https://www.impactpool.org/jobs/1204796 | UNFCCC | Programme/Consultancy (title TBC) | 2.0/5 | PDF (no)
 - [ ] https://perspectives.factorialhr.com/job_posting/analyst-climate-finance-unfccc-negotiations-292515 | UNFCCC Negotiations | Analyst – Climate Finance
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2912 | UNOPS | Climate Senior Analyst (Buildings)
 - [ ] https://www.impactpool.org/jobs/894126 | UN/UNDP | International Consultant
