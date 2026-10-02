@@ -2,6 +2,41 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-02 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1153035255 | UNIDO | Project Assistant (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1167544255 | UNIDO | Project Assistant (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Associate-Programme-Officer/1167164055 | UNIDO | Associate Programme Officer (Vienna)
+- [ ] https://careers.unido.org/job/Beijing-Natonal-Programme-Officer/993972755 | UNIDO | National Programme Officer (Beijing)
+- [ ] https://www.impactpool.org/jobs/533893 | UNDP | Programme Analyst
+- [ ] https://climatechangejobs.com/jobs/416025031-senior-sustainability-consultant | Global Professional Services Bangkok | Senior Sustainability Consultant
+- [ ] https://climatechangejobs.com/jobs/501245800-senior-sustainability-consultant | Global Professional Services Bangkok | Senior Sustainability Consultant
+- [ ] https://climatechangejobs.com/jobs/53715438-managing-consultant-corporate-sustainability-climate-change | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change
+- [ ] https://www.impactpool.org/jobs/1202924 | UNFCCC | Programme/Consultancy (title TBC)
+- [ ] https://www.impactpool.org/jobs/1204796 | UNFCCC | Programme/Consultancy (title TBC)
+- [ ] https://perspectives.factorialhr.com/job_posting/analyst-climate-finance-unfccc-negotiations-292515 | UNFCCC Negotiations | Analyst – Climate Finance
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2912 | UNOPS | Climate Senior Analyst (Buildings)
+- [ ] https://www.impactpool.org/jobs/894126 | UN/UNDP | International Consultant
+- [ ] https://untalent.org/jobs/programme-management-assistant-745 | UN | Programme Management Assistant
+- [ ] https://careers.unido.org/job/Abidjan-Sustainable-Energy-and-Transport-Expert/1169620755 | UNIDO | Sustainable Energy and Transport Expert (Abidjan)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2590 | UNOPS | Technical Senior Analyst – Environmental (Manila)
+- [ ] https://climatebase.org/job/73462305/sustainable-operation-consulting-associatesenior-associate | ERM Bangkok | Sustainable Operation Consulting Associate
+- [ ] https://climatechangejobs.com/jobs/477690416-corporate-sustainability-climate-change-consultant | ERM Bangkok | Corporate Sustainability & Climate Change Consultant
+- [ ] https://climatechangejobs.com/jobs/397015325-corporate-sustainability-climate-change-managing-consultant | ERM Bangkok | Managing Consultant – Corporate Sustainability
+- [ ] https://untalent.org/jobs/operations-analyst-14 | ADB | Operations Analyst
+- [ ] https://untalent.org/jobs/associate-operations-analyst-5 | ADB | Associate Operations Analyst
+- [ ] https://untalent.org/jobs/associate-operations-analyst-4 | ADB | Associate Operations Analyst
+- [ ] https://careers.un.org/jobSearchDescription/252314 | UN Secretariat | [UN P-level post – title TBC]
+- [ ] https://uncareer.net/vacancy/analyst-sustainability-services-826795 | UN | Analyst – Sustainability Services
+- [ ] https://untalent.org/jobs/associate-programme-management-officer-95 | UN | Associate Programme Management Officer
+- [ ] https://untalent.org/jobs/associate-programme-officer-partnerships | UN | Associate Programme Officer (Partnerships)
+- [ ] https://untalent.org/jobs/coordination-officer-28 | UN | Coordination Officer
+- [ ] https://careers.un.org/jobSearchDescription/246135 | UN Secretariat | [UN P-level post – title TBC]
+- [ ] https://untalent.org/jobs/associate-programme-management-officer-3 | UN | Associate Programme Management Officer
+- [ ] https://climatechangejobs.com/jobs/54965704/apply | Unknown Bangkok | Sustainability Manager
+- [ ] https://jobs.climatebase.org/job/58773587/expression-of-interested--consultant | ERM | Expression of Interest – Consultant Roster
+- [ ] https://untalent.org/jobs/local-consultant-bangkok-thailand | UNESCAP | Local Consultant (Bangkok)
+- [ ] https://impactpool.org/jobs/1111959 | UN/IO | [Post – title TBC]
+
 <!-- Scan 2026-10-01 — Scheduled portal scan -->
 - [x] #639 | https://climatebase.org/job/54107746/sustainability--climate-change-consultant-entry-level | ERM | Sustainability & Climate Change Consultant (Entry Level) | 4.0/5 | PDF (no)
 - [x] #640 | https://climatebase.org/job/52353640/consultant---social-and-sustainability-support-entry-level | ERM | Consulting Associate – Social Sustainability & Human Rights | 3.5/5 | PDF (no)
