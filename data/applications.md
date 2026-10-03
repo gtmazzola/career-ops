@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 739 | 2026-10-03 | UNIDO | Sustainable Energy and Transport Expert (Abidjan) | 1.0/5 | Evaluada | ❌ | [642](reports/642-unido-sustainable-energy-transport-expert-abidjan-2026-10-03.md) | National consultant – Côte d'Ivoire nationals only; hard blocker |
 | 730 | 2026-10-02 | UNIDO | National Programme Officer (Beijing) | 1.0/5 | Evaluada | ❌ | [730](reports/730-unido-national-programme-officer-beijing-2026-10-02.md) | SKIP: NOC grade (Chinese nationals only) + expired Nov 2024 |
 | 732 | 2026-10-02 | Global Professional Services Bangkok | Senior Sustainability Consultant | 3.0/5 | Evaluada | ❌ | [732](reports/732-global-prof-services-senior-sustainability-consultant-bangkok-2026-10-02.md) | Borderline: great comp (THB 150-200K) + Bangkok; overleveled ~3-5 yrs; ask about junior entry |
 | 736 | 2026-10-02 | UNFCCC | Programme Budget Analyst Consultancy (Bonn) | 2.0/5 | Evaluada | ❌ | [736](reports/736-unfccc-programme-consultancy-bonn-2026-10-02.md) | SKIP: Likely expired Apr 2026; domain mismatch (budget/finance focus) |

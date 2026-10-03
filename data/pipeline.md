@@ -13,16 +13,16 @@
 - [x] #734 | https://climatechangejobs.com/jobs/53715438-managing-consultant-corporate-sustainability-climate-change | ERM Bangkok | Managing Consultant – Corporate Sustainability & Climate Change | 2.5/5 | PDF (no)
 - [x] #735 | https://www.impactpool.org/jobs/1202924 | UNFCCC | Programme/Consultancy (title TBC) | 1.5/5 | PDF (no)
 - [x] #736 | https://www.impactpool.org/jobs/1204796 | UNFCCC | Programme/Consultancy (title TBC) | 2.0/5 | PDF (no)
-- [ ] https://perspectives.factorialhr.com/job_posting/analyst-climate-finance-unfccc-negotiations-292515 | UNFCCC Negotiations | Analyst – Climate Finance
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2912 | UNOPS | Climate Senior Analyst (Buildings)
-- [ ] https://www.impactpool.org/jobs/894126 | UN/UNDP | International Consultant
-- [ ] https://untalent.org/jobs/programme-management-assistant-745 | UN | Programme Management Assistant
-- [ ] https://careers.unido.org/job/Abidjan-Sustainable-Energy-and-Transport-Expert/1169620755 | UNIDO | Sustainable Energy and Transport Expert (Abidjan)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2590 | UNOPS | Technical Senior Analyst – Environmental (Manila)
-- [ ] https://climatebase.org/job/73462305/sustainable-operation-consulting-associatesenior-associate | ERM Bangkok | Sustainable Operation Consulting Associate
-- [ ] https://climatechangejobs.com/jobs/477690416-corporate-sustainability-climate-change-consultant | ERM Bangkok | Corporate Sustainability & Climate Change Consultant
-- [ ] https://climatechangejobs.com/jobs/397015325-corporate-sustainability-climate-change-managing-consultant | ERM Bangkok | Managing Consultant – Corporate Sustainability
-- [ ] https://untalent.org/jobs/operations-analyst-14 | ADB | Operations Analyst
+- [x] #639 | https://perspectives.factorialhr.com/job_posting/analyst-climate-finance-unfccc-negotiations-292515 | UNFCCC/Perspectives | Analyst – Climate Finance | 4.0/5 | PDF (no)
+- [x] #640 | https://careers.unops.org/careersmarketplace/JobDetail?jobId=2912 | UNOPS | Climate Senior Analyst (Buildings) | 3.0/5 | PDF (no)
+- [!] https://www.impactpool.org/jobs/894126 | UN/UNDP | International Consultant | JD not accessible (domain blocked by egress proxy; search returned no matching listing)
+- [x] #641 | https://untalent.org/jobs/programme-management-assistant-745 | UN Secretariat | Programme Management Assistant | 1.5/5 | PDF (no)
+- [x] #642 | https://careers.unido.org/job/Abidjan-Sustainable-Energy-and-Transport-Expert/1169620755 | UNIDO | Sustainable Energy and Transport Expert (Abidjan) | 1.0/5 | PDF (no)
+- [x] #643 | https://careers.unops.org/careersmarketplace/JobDetail?jobId=2590 | UNOPS | Technical Senior Analyst – Environmental (Manila) | 1.5/5 | PDF (no)
+- [x] #644 | https://climatebase.org/job/73462305/sustainable-operation-consulting-associatesenior-associate | ERM Bangkok | Sustainable Operation Consulting Associate | 3.5/5 | PDF (no)
+- [x] #645 | https://climatechangejobs.com/jobs/477690416-corporate-sustainability-climate-change-consultant | ERM Bangkok | Corporate Sustainability & Climate Change Consultant | 3.8/5 | PDF (no)
+- [x] #646 | https://climatechangejobs.com/jobs/397015325-corporate-sustainability-climate-change-managing-consultant | ERM Bangkok | Managing Consultant – Corporate Sustainability | 2.0/5 | PDF (no)
+- [x] #647 | https://untalent.org/jobs/operations-analyst-14 | ADB | Operations Analyst (Manila) | 2.5/5 | PDF (no)
 - [ ] https://untalent.org/jobs/associate-operations-analyst-5 | ADB | Associate Operations Analyst
 - [ ] https://untalent.org/jobs/associate-operations-analyst-4 | ADB | Associate Operations Analyst
 - [ ] https://careers.un.org/jobSearchDescription/252314 | UN Secretariat | [UN P-level post – title TBC]
