@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-04 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate
+- [ ] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate-Industrial-Futures-Talent-Initiative-%28IFTI%29/1347386955 | UNIDO | Project Associate – Industrial Futures Talent Initiative (IFTI)
+- [ ] https://careers.unido.org/job/vienna-industrial-development-officer/1365510555/ | UNIDO | Industrial Development Officer
+- [ ] https://careers.unido.org/job/Vienna-Associate-Technical-Expert/1349233655/ | UNIDO | Associate Technical Expert
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management)
+- [ ] https://unjobs.org/vacancies/1782407112906 | UNESCAP | Call for Carbon Finance Specialists Roster (Bangkok)
+- [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate
+- [ ] https://careers.southpole.com/jobs/5050044-associate-consultant-climate-risks-and-opportunities | South Pole | Associate Consultant – Climate Risks and Opportunities
+- [ ] https://careers.southpole.com/jobs/5121560-associate-consultant-ambition-targets-and-transition | South Pole | Associate Consultant – Ambition, Targets and Transition
+- [ ] https://careers.southpole.com/jobs/5160991-junior-associate-consultant-environmental-impact-accounting | South Pole | Junior Associate Consultant – Environmental Impact Accounting
+- [ ] https://careers.southpole.com/jobs/4685255-consultant-policy-strategy | South Pole | Consultant – Policy & Strategy
+
 <!-- Scan 2026-10-02 — Scheduled portal scan -->
 - [x] #727 | https://careers.unido.org/job/Vienna-Project-Assistant/1153035255 | UNIDO | Project Assistant (Vienna) | 1.0/5 | PDF (no)
 - [x] #728 | https://careers.unido.org/job/Vienna-Project-Assistant/1167544255 | UNIDO | Project Assistant (Vienna) | 1.0/5 | PDF (no)
