@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-10-04 — Scheduled portal scan -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate
-- [ ] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate-Industrial-Futures-Talent-Initiative-%28IFTI%29/1347386955 | UNIDO | Project Associate – Industrial Futures Talent Initiative (IFTI)
-- [ ] https://careers.unido.org/job/vienna-industrial-development-officer/1365510555/ | UNIDO | Industrial Development Officer
-- [ ] https://careers.unido.org/job/Vienna-Associate-Technical-Expert/1349233655/ | UNIDO | Associate Technical Expert
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management)
-- [ ] https://unjobs.org/vacancies/1782407112906 | UNESCAP | Call for Carbon Finance Specialists Roster (Bangkok)
-- [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate
-- [ ] https://careers.southpole.com/jobs/5050044-associate-consultant-climate-risks-and-opportunities | South Pole | Associate Consultant – Climate Risks and Opportunities
+- [x] #639 | https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna) | 3.0/5 | PDF (no)
+- [x] #640 | https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer (Vienna) | 2.0/5 | PDF (no)
+- [x] #641 | https://careers.unido.org/job/Vienna-Project-Associate-Industrial-Futures-Talent-Initiative-%28IFTI%29/1347386955 | UNIDO | Project Associate – IFTI (Vienna) | 3.2/5 | PDF (no)
+- [x] #642 | https://careers.unido.org/job/vienna-industrial-development-officer/1365510555/ | UNIDO | Industrial Development Officer (Vienna) | 2.0/5 | PDF (no)
+- [x] #643 | https://careers.unido.org/job/Vienna-Associate-Technical-Expert/1349233655/ | UNIDO | Associate Technical Expert (Vienna) | 2.0/5 | PDF (no)
+- [x] #644 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Manila) | 3.2/5 | PDF (no)
+- [x] #645 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst – Fund Management (Bangkok) | 3.8/5 | PDF (no)
+- [x] #646 | https://unjobs.org/vacancies/1782407112906 | UNESCAP | Carbon Finance Specialists Roster (Bangkok) | 2.5/5 | PDF (no)
+- [x] #647 | https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg) | 2.8/5 | PDF (no)
+- [x] #648 | https://careers.southpole.com/jobs/5050044-associate-consultant-climate-risks-and-opportunities | South Pole | Associate Consultant – Climate Risks & Opportunities | 3.7/5 | PDF (no)
 - [ ] https://careers.southpole.com/jobs/5121560-associate-consultant-ambition-targets-and-transition | South Pole | Associate Consultant – Ambition, Targets and Transition
 - [ ] https://careers.southpole.com/jobs/5160991-junior-associate-consultant-environmental-impact-accounting | South Pole | Junior Associate Consultant – Environmental Impact Accounting
 - [ ] https://careers.southpole.com/jobs/4685255-consultant-policy-strategy | South Pole | Consultant – Policy & Strategy
