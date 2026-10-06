@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 739 | 2026-10-04 | UNIDO | Industrial Development Officer (Vienna) | 2.0/5 | Evaluada | ❌ | [642](reports/642-unido-industrial-development-officer-vienna-2026-10-04.md) | Re-eval 2026-10-04 (1→2). SKIP – P3 seniority gap; deadline 15-Sep-2026 expired |
+| 739 | 2026-10-06 | ADB | Associate Operations Analyst (1) | 3.8/5 | Evaluada | ❌ | [642](reports/642-adb-associate-operations-analyst-1-2026-10-06.md) | Re-eval 2026-10-06 (2→3.8). Strong IO development match; Manila-based MDB role; UNIDO experience directly translates; comp depends on IS vs AO track |
 | 730 | 2026-10-02 | UNIDO | National Programme Officer (Beijing) | 1.0/5 | Evaluada | ❌ | [730](reports/730-unido-national-programme-officer-beijing-2026-10-02.md) | SKIP: NOC grade (Chinese nationals only) + expired Nov 2024 |
 | 732 | 2026-10-02 | Global Professional Services Bangkok | Senior Sustainability Consultant | 3.0/5 | Evaluada | ❌ | [732](reports/732-global-prof-services-senior-sustainability-consultant-bangkok-2026-10-02.md) | Borderline: great comp (THB 150-200K) + Bangkok; overleveled ~3-5 yrs; ask about junior entry |
 | 736 | 2026-10-02 | UNFCCC | Programme Budget Analyst Consultancy (Bonn) | 2.0/5 | Evaluada | ❌ | [736](reports/736-unfccc-programme-consultancy-bonn-2026-10-02.md) | SKIP: Likely expired Apr 2026; domain mismatch (budget/finance focus) |

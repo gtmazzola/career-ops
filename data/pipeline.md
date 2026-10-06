@@ -13,9 +13,9 @@
 - [x] #646 | https://unjobs.org/vacancies/1782407112906 | UNESCAP | Carbon Finance Specialists Roster (Bangkok) | 2.5/5 | PDF (no)
 - [x] #647 | https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg) | 2.8/5 | PDF (no)
 - [x] #648 | https://careers.southpole.com/jobs/5050044-associate-consultant-climate-risks-and-opportunities | South Pole | Associate Consultant – Climate Risks & Opportunities | 3.7/5 | PDF (no)
-- [ ] https://careers.southpole.com/jobs/5121560-associate-consultant-ambition-targets-and-transition | South Pole | Associate Consultant – Ambition, Targets and Transition
-- [ ] https://careers.southpole.com/jobs/5160991-junior-associate-consultant-environmental-impact-accounting | South Pole | Junior Associate Consultant – Environmental Impact Accounting
-- [ ] https://careers.southpole.com/jobs/4685255-consultant-policy-strategy | South Pole | Consultant – Policy & Strategy
+- [x] #639 | https://careers.southpole.com/jobs/5121560-associate-consultant-ambition-targets-and-transition | South Pole | Associate Consultant – Ambition, Targets and Transition | 3.5/5 | PDF (no)
+- [x] #640 | https://careers.southpole.com/jobs/5160991-junior-associate-consultant-environmental-impact-accounting | South Pole | Junior Associate Consultant – Environmental Impact Accounting | 3.5/5 | PDF (no)
+- [x] #641 | https://careers.southpole.com/jobs/4685255-consultant-policy-strategy | South Pole | Consultant – Policy & Strategy | 3.2/5 | PDF (no)
 
 <!-- Scan 2026-10-02 — Scheduled portal scan -->
 - [x] #727 | https://careers.unido.org/job/Vienna-Project-Assistant/1153035255 | UNIDO | Project Assistant (Vienna) | 1.0/5 | PDF (no)
@@ -38,13 +38,13 @@
 - [x] #645 | https://climatechangejobs.com/jobs/477690416-corporate-sustainability-climate-change-consultant | ERM Bangkok | Corporate Sustainability & Climate Change Consultant | 3.8/5 | PDF (no)
 - [x] #646 | https://climatechangejobs.com/jobs/397015325-corporate-sustainability-climate-change-managing-consultant | ERM Bangkok | Managing Consultant – Corporate Sustainability | 2.0/5 | PDF (no)
 - [x] #647 | https://untalent.org/jobs/operations-analyst-14 | ADB | Operations Analyst (Manila) | 2.5/5 | PDF (no)
-- [ ] https://untalent.org/jobs/associate-operations-analyst-5 | ADB | Associate Operations Analyst
-- [ ] https://untalent.org/jobs/associate-operations-analyst-4 | ADB | Associate Operations Analyst
-- [ ] https://careers.un.org/jobSearchDescription/252314 | UN Secretariat | [UN P-level post – title TBC]
-- [ ] https://uncareer.net/vacancy/analyst-sustainability-services-826795 | UN | Analyst – Sustainability Services
-- [ ] https://untalent.org/jobs/associate-programme-management-officer-95 | UN | Associate Programme Management Officer
-- [ ] https://untalent.org/jobs/associate-programme-officer-partnerships | UN | Associate Programme Officer (Partnerships)
-- [ ] https://untalent.org/jobs/coordination-officer-28 | UN | Coordination Officer
+- [x] #642 | https://untalent.org/jobs/associate-operations-analyst-5 | ADB | Associate Operations Analyst | 3.8/5 | PDF (no)
+- [x] #643 | https://untalent.org/jobs/associate-operations-analyst-4 | ADB | Associate Operations Analyst | 3.8/5 | PDF (no)
+- [!] https://careers.un.org/jobSearchDescription/252314 | UN Secretariat | [UN P-level post – title TBC] | JD not accessible (careers.un.org blocked by egress proxy; report #644 created; verify manually)
+- [x] #645 | https://uncareer.net/vacancy/analyst-sustainability-services-826795 | Winrock International | Analyst – Sustainability Services | 3.0/5 | PDF (no)
+- [x] #646 | https://untalent.org/jobs/associate-programme-management-officer-95 | UN | Associate Programme Management Officer | 4.0/5 | PDF (no)
+- [x] #647 | https://untalent.org/jobs/associate-programme-officer-partnerships | UN | Associate Programme Officer (Partnerships) | 3.8/5 | PDF (no)
+- [x] #648 | https://untalent.org/jobs/coordination-officer-28 | UN | Coordination Officer | 2.8/5 | PDF (no)
 - [ ] https://careers.un.org/jobSearchDescription/246135 | UN Secretariat | [UN P-level post – title TBC]
 - [ ] https://untalent.org/jobs/associate-programme-management-officer-3 | UN | Associate Programme Management Officer
 - [ ] https://climatechangejobs.com/jobs/54965704/apply | Unknown Bangkok | Sustainability Manager
