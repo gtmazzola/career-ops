@@ -2259,3 +2259,20 @@
 - [ ] https://www.impactpool.org/jobs/603345 | UNDP | Policy Analyst NPSA8 (Bangkok)
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2720 | UNOPS | Climate Action Associate (Panama)
 - [ ] https://careers.conbio.org/job/592420/associate-climate/ | SCB | Associate, Climate
+
+<!-- Scan 2026-10-07 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Colombo-Industrial-Development-Expert/1352422555 | UNIDO | Industrial Development Expert (Colombo)
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert%2C-L4/1355625755/ | UNIDO | Industrial Development Expert L4 (Vienna)
+- [ ] https://uncareer.net/vacancy/carbon-markets-analyst-865726 | UN | Carbon Markets Analyst
+- [ ] https://uncareer.net/vacancy/project-analyst-open-to-internal-and-external-applicants-858144 | UNDP | Project Analyst
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30663 | UNOPS | Programme Management Analyst
+- [ ] https://community.iisd.org/jobs/associate-environmental-affairs-officer-p2 | ESCAP | Associate Environmental Affairs Officer P2 (Incheon)
+- [ ] https://untalent.org/jobs/economic-affairs-officer-423 | ESCAP | Economic Affairs Officer (Bangkok)
+- [ ] https://untalent.org/jobs/junior-sustainable-development-officer | ESCAP | Junior Sustainable Development Officer
+- [ ] https://www.impactpool.org/jobs/1239804 | ESCAP | Local Consultant – Climate Finance (Bangkok)
+- [ ] https://www.adb.org/careers/260861 | ADB | Sustainable Solutions Officer
+- [ ] https://www.adb.org/careers/260717 | ADB | Energy Specialist
+- [ ] https://www.adb.org/careers/260683 | ADB | Associate Operations Officer (Climate)
+- [ ] https://singapore.careers.cfainstitute.org/job/9154454/consultant-energy-transition-consulting/ | CFA Institute | Consultant, Energy Transition Consulting (Singapore)
+- [ ] https://www.terra.do/climate-jobs/job-board/Senior-Data---Impact-Officer-Ledgen-Singapore-Pte--Ltd--8417151/ | TaraClimate Foundation | Senior Data & Impact Officer (Singapore)
+- [ ] https://www.terra.do/climate-jobs/job-board/energy-and-climate-data-analyst-8352093 | Climate Analytics | Energy and Climate Data Analyst
