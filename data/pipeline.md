@@ -45,12 +45,12 @@
 - [x] #646 | https://untalent.org/jobs/associate-programme-management-officer-95 | UN | Associate Programme Management Officer | 4.0/5 | PDF (no)
 - [x] #647 | https://untalent.org/jobs/associate-programme-officer-partnerships | UN | Associate Programme Officer (Partnerships) | 3.8/5 | PDF (no)
 - [x] #648 | https://untalent.org/jobs/coordination-officer-28 | UN | Coordination Officer | 2.8/5 | PDF (no)
-- [ ] https://careers.un.org/jobSearchDescription/246135 | UN Secretariat | [UN P-level post – title TBC]
-- [ ] https://untalent.org/jobs/associate-programme-management-officer-3 | UN | Associate Programme Management Officer
-- [ ] https://climatechangejobs.com/jobs/54965704/apply | Unknown Bangkok | Sustainability Manager
-- [ ] https://jobs.climatebase.org/job/58773587/expression-of-interested--consultant | ERM | Expression of Interest – Consultant Roster
-- [ ] https://untalent.org/jobs/local-consultant-bangkok-thailand | UNESCAP | Local Consultant (Bangkok)
-- [ ] https://impactpool.org/jobs/1111959 | UN/IO | [Post – title TBC]
+- [!] https://careers.un.org/jobSearchDescription/246135 | UN Secretariat | JD unresolvable — careers.un.org blocked by proxy; manual check required | #737
+- [x] #738 | https://untalent.org/jobs/associate-programme-management-officer-3 | UN | Associate Programme Management Officer | 4.1/5 | PDF (no)
+- [x] #739 | https://climatechangejobs.com/jobs/54965704/apply | Unknown Bangkok | Assistant Manager/Manager – Sustainability | 3.6/5 | PDF (no)
+- [x] #740 | https://jobs.climatebase.org/job/58773587/expression-of-interested--consultant | ERM | Consultant Roster – Corporate Sustainability & Climate Change | 3.3/5 | PDF (no)
+- [x] #741 | https://untalent.org/jobs/local-consultant-bangkok-thailand | UNESCAP | Local Consultant (Bangkok) | 2.0/5 | PDF (no)
+- [!] https://impactpool.org/jobs/1111959 | UN/IO | JD unresolvable — impactpool.org blocked by proxy; manual check required | #742
 
 <!-- Scan 2026-10-01 — Scheduled portal scan -->
 - [x] #639 | https://climatebase.org/job/54107746/sustainability--climate-change-consultant-entry-level | ERM | Sustainability & Climate Change Consultant (Entry Level) | 4.0/5 | PDF (no)
@@ -1833,10 +1833,10 @@
 - [x] #725 | https://untalent.org/jobs/sustainability-consultant | WRI/UNTalent | Sustainability Consultant | 2.5/5 | PDF (no)
 - [x] #726 | https://www.impactpool.org/jobs/1209929 | ADB | Investment Officer (Climate Change) | 1.5/5 | PDF (no)
 - [x] #648 | https://www.impactpool.org/jobs/1174869 | UNDP | JPO - Climate Change Analyst | 4.0/5 | PDF (no)
-- [ ] https://www.impactpool.org/jobs/1072467 | OECD/IEA | Energy Analysts - IEA Regional Cooperation Centre Singapore
-- [ ] https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer
-- [ ] https://unjobs.org/vacancies/1783465328142 | IDB | Financial Analyst Consultant - Infrastructure & Energy
-- [ ] https://careers.uobgroup.com/job/Singapore-(City-Area)-Senior-Officer,-ESG-Investment-Analyst,-UOB-Asset-Management-048624/1056726366/ | UOB | Senior Officer, ESG Investment Analyst
+- [x] #743 | https://www.impactpool.org/jobs/1072467 | OECD/IEA | Energy Analysts – IEA Regional Cooperation Centre Singapore | 4.2/5 | PDF (no)
+- [x] #744 | https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer | 3.2/5 | PDF (no)
+- [x] #745 | https://unjobs.org/vacancies/1783465328142 | IDB Invest | Financial Analyst Consultant – Infrastructure & Energy | 2.8/5 | PDF (no)
+- [x] #746 | https://careers.uobgroup.com/job/Singapore-(City-Area)-Senior-Officer,-ESG-Investment-Analyst,-UOB-Asset-Management-048624/1056726366/ | UOB | Senior Officer – ESG Investment Analyst | 3.2/5 | PDF (no)
 - [ ] https://climatebase.org/job/48916321/allied-climate-partners---operations-associateanalyst | Allied Climate Partners | Operations Associate/Analyst
 - [ ] https://climatebase.org/job/55116918/consulting-senior-associate---corporate-sustainability--climate-change | ERM | Consulting Senior Associate - Corporate Sustainability & Climate Change
 - [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM | Consulting Senior Associate (Climate)
