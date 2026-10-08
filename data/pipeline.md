@@ -3,12 +3,12 @@
 ## Pendientes
 
 <!-- Scan 2026-10-08 — Scheduled portal scan -->
-- [ ] https://careers.pttgcgroup.com/job/Analyst/14382-en_GB/ | PTT Global Chemical | Analyst – Corporate Strategy & Business Development
-- [ ] https://careers-ricardo.icims.com/jobs/3106/analyst-consultant---sustainable-transport/job | Ricardo | Analyst Consultant – Sustainable Transport
-- [ ] https://careers-ricardo.icims.com/jobs/2735/analyst-strategic-consultant---waste-and-resource-management/job | Ricardo | Analyst Strategic Consultant – Waste and Resource Management
-- [ ] https://careers-ricardo.icims.com/jobs/3024/analyst-consultant----energy-and-carbon-policy/job | Ricardo | Analyst Consultant – Energy and Carbon Policy
-- [ ] https://unvacancies.org/jobs/climate-and-energy-analyst-open-to-tier-1-applicants-DP-36578 | UNDP | Climate and Energy Analyst (Rome Centre)
-- [ ] https://www.adb.org/careers/260567 | ADB | Sustainable Solutions Officer (Manila, Pacific Dept)
+- [x] #748 | https://careers.pttgcgroup.com/job/Analyst/14382-en_GB/ | PTT Global Chemical | Analyst – Corporate Strategy & Business Development | 2.8/5 | PDF (no)
+- [x] #749 | https://careers-ricardo.icims.com/jobs/3106/analyst-consultant---sustainable-transport/job | Ricardo | Analyst Consultant – Sustainable Transport | 3.5/5 | PDF (no)
+- [x] #750 | https://careers-ricardo.icims.com/jobs/2735/analyst-strategic-consultant---waste-and-resource-management/job | Ricardo | Analyst Strategic Consultant – Waste and Resource Management | 2.5/5 | PDF (no)
+- [x] #751 | https://careers-ricardo.icims.com/jobs/3024/analyst-consultant----energy-and-carbon-policy/job | Ricardo | Analyst Consultant – Energy and Carbon Policy | 3.8/5 | PDF (no)
+- [x] #752 | https://unvacancies.org/jobs/climate-and-energy-analyst-open-to-tier-1-applicants-DP-36578 | UNDP | Climate and Energy Analyst (Rome Centre) | 4.2/5 | PDF (no)
+- [x] #753 | https://www.adb.org/careers/260567 | ADB | Sustainable Solutions Officer (Manila, Pacific Dept) | 2.8/5 | PDF (no)
 
 <!-- Scan 2026-10-04 — Scheduled portal scan -->
 - [x] #639 | https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna) | 3.0/5 | PDF (no)
@@ -1845,10 +1845,10 @@
 - [x] #744 | https://www.unjobnet.org/jobs/detail/cern-sustainability-reporting-communications-project-officer-osiics2026125grap-87133231 | CERN | Sustainability Reporting & Communications Project Officer | 3.2/5 | PDF (no)
 - [x] #745 | https://unjobs.org/vacancies/1783465328142 | IDB Invest | Financial Analyst Consultant – Infrastructure & Energy | 2.8/5 | PDF (no)
 - [x] #746 | https://careers.uobgroup.com/job/Singapore-(City-Area)-Senior-Officer,-ESG-Investment-Analyst,-UOB-Asset-Management-048624/1056726366/ | UOB | Senior Officer – ESG Investment Analyst | 3.2/5 | PDF (no)
-- [ ] https://climatebase.org/job/48916321/allied-climate-partners---operations-associateanalyst | Allied Climate Partners | Operations Associate/Analyst
-- [ ] https://climatebase.org/job/55116918/consulting-senior-associate---corporate-sustainability--climate-change | ERM | Consulting Senior Associate - Corporate Sustainability & Climate Change
-- [ ] https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM | Consulting Senior Associate (Climate)
-- [ ] https://www.wri.org/careers/jobs/senior-project-associate-communication-2026-jr100300 | WRI | Senior Project Associate - Communication
+- [x] #754 | https://climatebase.org/job/48916321/allied-climate-partners---operations-associateanalyst | Allied Climate Partners | Operations Associate/Analyst | 2.5/5 | PDF (no)
+- [x] #755 | https://climatebase.org/job/55116918/consulting-senior-associate---corporate-sustainability--climate-change | ERM | Consulting Senior Associate - Corporate Sustainability & Climate Change | 3.8/5 | PDF (no)
+- [x] #756 | https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM | Consulting Senior Associate (Climate) | 3.7/5 | PDF (no)
+- [x] #757 | https://www.wri.org/careers/jobs/senior-project-associate-communication-2026-jr100300 | WRI | Senior Project Associate - Communication | 2.0/5 | PDF (no)
 - [ ] https://www.wri.org/careers/jobs/communications-and-outreach-associate-2026-jr100161 | WRI | Communications and Outreach Associate
 - [ ] https://jobs.lever.co/ethree/3515aaa0-c54c-483a-9eee-97b5dfeb0818 | E3 | Energy and Environmental Economics - Analyst/Associate Consultant
 - [ ] https://www.impactpool.org/jobs/1039915 | OECD | Senior Energy Analyst - Technology Supply Chains
