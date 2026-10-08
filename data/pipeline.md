@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-08 — Scheduled portal scan -->
+- [ ] https://careers.pttgcgroup.com/job/Analyst/14382-en_GB/ | PTT Global Chemical | Analyst – Corporate Strategy & Business Development
+- [ ] https://careers-ricardo.icims.com/jobs/3106/analyst-consultant---sustainable-transport/job | Ricardo | Analyst Consultant – Sustainable Transport
+- [ ] https://careers-ricardo.icims.com/jobs/2735/analyst-strategic-consultant---waste-and-resource-management/job | Ricardo | Analyst Strategic Consultant – Waste and Resource Management
+- [ ] https://careers-ricardo.icims.com/jobs/3024/analyst-consultant----energy-and-carbon-policy/job | Ricardo | Analyst Consultant – Energy and Carbon Policy
+- [ ] https://unvacancies.org/jobs/climate-and-energy-analyst-open-to-tier-1-applicants-DP-36578 | UNDP | Climate and Energy Analyst (Rome Centre)
+- [ ] https://www.adb.org/careers/260567 | ADB | Sustainable Solutions Officer (Manila, Pacific Dept)
+
 <!-- Scan 2026-10-04 — Scheduled portal scan -->
 - [x] #639 | https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna) | 3.0/5 | PDF (no)
 - [x] #640 | https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer (Vienna) | 2.0/5 | PDF (no)
