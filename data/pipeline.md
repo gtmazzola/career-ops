@@ -2284,3 +2284,6 @@
 - [ ] https://singapore.careers.cfainstitute.org/job/9154454/consultant-energy-transition-consulting/ | CFA Institute | Consultant, Energy Transition Consulting (Singapore)
 - [ ] https://www.terra.do/climate-jobs/job-board/Senior-Data---Impact-Officer-Ledgen-Singapore-Pte--Ltd--8417151/ | TaraClimate Foundation | Senior Data & Impact Officer (Singapore)
 - [ ] https://www.terra.do/climate-jobs/job-board/energy-and-climate-data-analyst-8352093 | Climate Analytics | Energy and Climate Data Analyst
+
+<!-- Scan 2026-10-09 — Scheduled portal scan -->
+- [ ] https://builtinsingapore.com/job/esg-sustainability-associate/10653189 | IIX Global | ESG/Sustainability Associate (Singapore)
