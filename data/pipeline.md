@@ -1849,20 +1849,20 @@
 - [x] #755 | https://climatebase.org/job/55116918/consulting-senior-associate---corporate-sustainability--climate-change | ERM | Consulting Senior Associate - Corporate Sustainability & Climate Change | 3.8/5 | PDF (no)
 - [x] #756 | https://www.climatebase.org/job/59805753/consulting-senior-associate-climate | ERM | Consulting Senior Associate (Climate) | 3.7/5 | PDF (no)
 - [x] #757 | https://www.wri.org/careers/jobs/senior-project-associate-communication-2026-jr100300 | WRI | Senior Project Associate - Communication | 2.0/5 | PDF (no)
-- [ ] https://www.wri.org/careers/jobs/communications-and-outreach-associate-2026-jr100161 | WRI | Communications and Outreach Associate
-- [ ] https://jobs.lever.co/ethree/3515aaa0-c54c-483a-9eee-97b5dfeb0818 | E3 | Energy and Environmental Economics - Analyst/Associate Consultant
-- [ ] https://www.impactpool.org/jobs/1039915 | OECD | Senior Energy Analyst - Technology Supply Chains
+- [x] #639 | https://www.wri.org/careers/jobs/communications-and-outreach-associate-2026-jr100161 | WRI | Communications and Outreach Associate | 2.5/5 | PDF (no)
+- [x] #640 | https://jobs.lever.co/ethree/3515aaa0-c54c-483a-9eee-97b5dfeb0818 | E3 | Energy and Environmental Economics - Analyst/Associate Consultant | 4.0/5 | PDF (no)
+- [x] #641 | https://www.impactpool.org/jobs/1039915 | OECD | Senior Energy Analyst - Technology Supply Chains | 1.5/5 | PDF (no)
 <!-- Scan 2026-07-14 — Multi-portal scheduled scan -->
-- [ ] https://www.terra.do/climate-jobs/job-board/Entry-Level-Net-Zero-Finance-Analyst--Hybrid-Beijing-Climate-Policy-Initiative-8397337/ | Climate Policy Initiative | Entry-Level Net Zero Finance Analyst (Hybrid, Beijing)
-- [ ] https://climatebase.org/job/60738810/junior-energy-analyst-asia-pacific | Mainstream Projects | Junior Energy Analyst – Asia Pacific
-- [ ] https://www.terra.do/climate-jobs/job-board/junior-environmental-policy-financial-analyst-8405417/ | The Cadmus Group | Junior Environmental Policy & Financial Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/Climate-finance-investment-analyst--emerging-markets--Responsability-Investments-Ag-8398885/ | Responsability Investments | Climate Finance Investment Analyst (Emerging Markets)
+- [x] #642 | https://www.terra.do/climate-jobs/job-board/Entry-Level-Net-Zero-Finance-Analyst--Hybrid-Beijing-Climate-Policy-Initiative-8397337/ | Climate Policy Initiative | Entry-Level Net Zero Finance Analyst (Hybrid, Beijing) | 3.5/5 | PDF (no)
+- [x] #643 | https://climatebase.org/job/60738810/junior-energy-analyst-asia-pacific | Mainstream Projects | Junior Energy Analyst – Asia Pacific | 3.0/5 | PDF (no)
+- [x] #644 | https://www.terra.do/climate-jobs/job-board/junior-environmental-policy-financial-analyst-8405417/ | The Cadmus Group | Junior Environmental Policy & Financial Analyst | 3.8/5 | PDF (no)
+- [x] #645 | https://www.terra.do/climate-jobs/job-board/Climate-finance-investment-analyst--emerging-markets--Responsability-Investments-Ag-8398885/ | Responsability Investments | Climate Finance Investment Analyst (Emerging Markets) | 2.5/5 | PDF (no)
 - [!] https://reliefweb.int/job/3951704/project-management-office-pmo-analyst-iica-1-bkk-thailand | IO / Bangkok | PMO Analyst (IICA-1, Bangkok, Thailand) — Duplicate of #701 (same posting); skip.
-- [ ] https://reliefweb.int/job/3987988/program-officer-asia-pacific | NGO / Asia-Pacific | Program Officer, Asia-Pacific
+- [x] #646 | https://reliefweb.int/job/3987988/program-officer-asia-pacific | NGO / Asia-Pacific | Program Officer, Asia-Pacific | 3.2/5 | PDF (no)
 
 <!-- Scan 2026-07-15 — Multi-portal scheduled scan -->
-- [ ] https://www.unjobnet.org/jobs/detail/undp-undpic2026011individual-consultant-climate-change-policy-and-documentation-86196950 | UNDP | Individual Consultant – Climate Change Policy and Documentation
-- [ ] https://www.unjobnet.org/jobs/detail/unescap-international-consultant-urban-resilience-strategy-and-action-programme-86108643 | UNESCAP | International Consultant – Urban Resilience Strategy and Action Programme (Bangkok)
+- [x] #647 | https://www.unjobnet.org/jobs/detail/undp-undpic2026011individual-consultant-climate-change-policy-and-documentation-86196950 | UNDP | Individual Consultant – Climate Change Policy and Documentation | 3.5/5 | PDF (no)
+- [x] #648 | https://www.unjobnet.org/jobs/detail/unescap-international-consultant-urban-resilience-strategy-and-action-programme-86108643 | UNESCAP | International Consultant – Urban Resilience Strategy and Action Programme (Bangkok) | 3.8/5 | PDF (no)
 - [ ] https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Corporate Sustainability and Climate Change Consultant
 - [ ] https://untalent.org/jobs/climate-finance-specialist-8 | World Bank | Climate Finance Specialist
 - [ ] https://www.mycareersfuture.gov.sg/job/graduate-climate-consultant-rsk-centre-sustainability-excellence-a472e75416e4f8166a5095896c979e58 | RSK Centre Sustainability Excellence | Graduate Climate Consultant (Singapore)
