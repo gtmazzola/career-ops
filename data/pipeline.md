@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-10 — Scheduled portal scan -->
+- [ ] https://climatebase.org/job/66803346/consulting-associate--senior-associate---corporate-sustainability--climate-change | ERM | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change (Bangkok)
+- [ ] https://climatebase.org/job/73184278/climate-consultant | ERM | Climate Consultant (Bangkok)
+- [ ] https://climatebase.org/job/68106779/consulting-senior-associate---corporate-sustainability--climate-change | ERM | Consulting Senior Associate – Corporate Sustainability & Climate Change (Bangkok)
+- [ ] https://climatebase.org/job/68366085/social-and-human-right-consulting-senior-associate | ERM | Social and Human Rights Consulting Senior Associate (Bangkok)
+- [ ] https://kpmg.com/th/en/home/careers/jobs-shared-services/corporate-esg-sr-am.html | KPMG Thailand | Corporate ESG Officer Senior to AM (Bangkok)
+- [ ] https://jobs.consultant.greenclimate.fund/job/Incheon%2C-South-Korea-%28ICN%29-Climate-Investment-Analyst-Consultant/1425001933/ | GCF | Climate Investment Analyst Consultant (Incheon)
+- [ ] https://jobs.consultant.greenclimate.fund/job/Incheon%2C-South-Korea-%28ICN%29-Monitoring-and-Evaluation-Consultant-%28DMEL%29/1408179833/ | GCF | Monitoring and Evaluation Consultant DMEL (Incheon)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst Buildings (Copenhagen)
+- [ ] https://www.impactpool.org/jobs/1240468 | IEA | Energy Analysts PAL5-PAL6 (Paris)
+- [ ] https://jobs.sea.deloitte.com/job/Singapore-A%26A-Consultant-%28Sustainability-%26-Emerging-Assurance%29-Sing/1328862166/ | Deloitte Singapore | Consultant Sustainability and Emerging Assurance (Singapore)
+- [ ] https://untalent.org/jobs/consultant-on-regional-climate-action | ESCAP | Consultant on Regional Climate Action (Bangkok)
+- [ ] https://untalent.org/jobs/international-consultant-26 | ESCAP | International Consultant Energy Transition (Bangkok)
+- [ ] https://jobs.consultant.greenclimate.fund/job/Remote-%28Remote%29-ES-and-Gender-Consultant-%28Remote%29/1429904133/ | GCF | ES and Gender Consultant (Remote)
+
 <!-- Scan 2026-10-08 — Scheduled portal scan -->
 - [x] #748 | https://careers.pttgcgroup.com/job/Analyst/14382-en_GB/ | PTT Global Chemical | Analyst – Corporate Strategy & Business Development | 2.8/5 | PDF (no)
 - [x] #749 | https://careers-ricardo.icims.com/jobs/3106/analyst-consultant---sustainable-transport/job | Ricardo | Analyst Consultant – Sustainable Transport | 3.5/5 | PDF (no)
