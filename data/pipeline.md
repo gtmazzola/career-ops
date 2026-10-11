@@ -1627,6 +1627,10 @@
 - [x] #641 | https://careers.unido.org/job/Bangkok-National-Project-Coordinator-(NPC)/1155406055/ | UNIDO | National Project Coordinator (NPC) (Bangkok) | 1.0/5 | PDF (no)
 - [x] #642 | https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda) | 3.0/5 | PDF (no)
 
+- [ ] https://unvacancies.org/jobs/consultant-to-support-directorate-for-climate-change-and-sustainable-development-IC-50429 | UNDP | Consultant – Climate Change and Sustainable Development (Montenegro) ⚡ deadline Oct 26
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2395 | UNOPS Bangkok | Project Management Support Associate (SEAETP Bangkok)
+- [ ] https://jobs.sea.deloitte.com/job/Bangkok-A%26A-Consultant-Senior-Consultant-%28Accounting-%26-Reporting-Assurance%29/1060032766/ | Deloitte Bangkok | A&A Consultant – Accounting & Reporting Assurance (Bangkok)
+
 ## Procesadas
 
 - [x] #524 | https://careers.unido.org/job/Vienna-Project-Coordinator/1352014555/ | UNIDO | Project Coordinator (Vienna) | SKIP (expired Jun 2026) | PDF ❌
