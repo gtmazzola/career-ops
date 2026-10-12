@@ -2306,3 +2306,11 @@
 
 <!-- Scan 2026-10-09 — Scheduled portal scan -->
 - [ ] https://builtinsingapore.com/job/esg-sustainability-associate/10653189 | IIX Global | ESG/Sustainability Associate (Singapore)
+
+<!-- Scan 2026-10-12 — Scheduled portal scan -->
+- [ ] https://www.adb.org/careers/260970 | ADB | Operations Analyst – Climate Change and Sustainable Development (URGENT: deadline Oct 22)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1370684755/ | UNIDO | Project Associate (Vienna, deadline Oct 27)
+- [ ] https://careers.unido.org/job/Vienna-Programme-Officer/1359908955/ | UNIDO | Programme Officer (Vienna)
+- [ ] https://jobs.consultant.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Analyst-Consultant-(Multiple-Roles)/1443590133/ | GCF | Climate Investment Analyst – Consultant (Multiple Roles)
+- [ ] https://careers.gggi.org/vacancy/mitigation-activity-idea-note-development-and-refinement-consultant-620487.html | GGGI | Mitigation Activity Idea Note Consultant (URGENT: deadline Oct 15)
+- [ ] https://jobs.sea.deloitte.com/job/Singapore-A%26A-Consultant-%28Sustainability-%26-Emerging-Assurance%29-Sing/1328862166/ | Deloitte Singapore | A&A Consultant – Sustainability & Emerging Assurance
