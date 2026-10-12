@@ -13,9 +13,9 @@
 - [x] #765 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29971 | UNOPS | Climate Senior Analyst Buildings | 3.1/5 | PDF (no)
 - [x] #766 | https://www.impactpool.org/jobs/1240468 | IEA | Energy Analysts PAL5-PAL6 | 3.6/5 | PDF (no)
 - [x] #767 | https://jobs.sea.deloitte.com/job/Singapore-A%26A-Consultant-%28Sustainability-%26-Emerging-Assurance%29-Sing/1328862166/ | Deloitte Singapore | Consultant Sustainability and Emerging Assurance | 3.8/5 | PDF (no)
-- [ ] https://untalent.org/jobs/consultant-on-regional-climate-action | ESCAP | Consultant on Regional Climate Action (Bangkok)
-- [ ] https://untalent.org/jobs/international-consultant-26 | ESCAP | International Consultant Energy Transition (Bangkok)
-- [ ] https://jobs.consultant.greenclimate.fund/job/Remote-%28Remote%29-ES-and-Gender-Consultant-%28Remote%29/1429904133/ | GCF | ES and Gender Consultant (Remote)
+- [x] #768 | https://untalent.org/jobs/consultant-on-regional-climate-action | ESCAP | Consultant on Regional Climate Action (Bangkok) | 2.0/5 | PDF (no)
+- [x] #769 | https://untalent.org/jobs/international-consultant-26 | ESCAP | International Consultant Energy Transition (Bangkok) | 3.5/5 | PDF (no)
+- [x] #770 | https://jobs.consultant.greenclimate.fund/job/Remote-%28Remote%29-ES-and-Gender-Consultant-%28Remote%29/1429904133/ | GCF | ES and Gender Consultant (Remote) | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-10-08 — Scheduled portal scan -->
 - [x] #748 | https://careers.pttgcgroup.com/job/Analyst/14382-en_GB/ | PTT Global Chemical | Analyst – Corporate Strategy & Business Development | 2.8/5 | PDF (no)
@@ -1627,9 +1627,9 @@
 - [x] #641 | https://careers.unido.org/job/Bangkok-National-Project-Coordinator-(NPC)/1155406055/ | UNIDO | National Project Coordinator (NPC) (Bangkok) | 1.0/5 | PDF (no)
 - [x] #642 | https://careers.gggi.org/vacancy/climate-finance-senior-associate-611714.html | GGGI | Climate Finance Senior Associate (Rwanda) | 3.0/5 | PDF (no)
 
-- [ ] https://unvacancies.org/jobs/consultant-to-support-directorate-for-climate-change-and-sustainable-development-IC-50429 | UNDP | Consultant – Climate Change and Sustainable Development (Montenegro) ⚡ deadline Oct 26
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2395 | UNOPS Bangkok | Project Management Support Associate (SEAETP Bangkok)
-- [ ] https://jobs.sea.deloitte.com/job/Bangkok-A%26A-Consultant-Senior-Consultant-%28Accounting-%26-Reporting-Assurance%29/1060032766/ | Deloitte Bangkok | A&A Consultant – Accounting & Reporting Assurance (Bangkok)
+- [x] #771 | https://unvacancies.org/jobs/consultant-to-support-directorate-for-climate-change-and-sustainable-development-IC-50429 | UNDP | Consultant – Climate Change and Sustainable Development (Montenegro) | 3.8/5 | PDF (no)
+- [x] #772 | https://careers.unops.org/careersmarketplace/JobDetail?jobId=2395 | UNOPS Bangkok | Project Management Support Associate (SEAETP Bangkok) | 2.5/5 | PDF (no)
+- [x] #773 | https://jobs.sea.deloitte.com/job/Bangkok-A%26A-Consultant-Senior-Consultant-%28Accounting-%26-Reporting-Assurance%29/1060032766/ | Deloitte Bangkok | A&A Consultant – Accounting & Reporting Assurance (Bangkok) | 1.5/5 | PDF (no)
 
 ## Procesadas
 
@@ -1882,10 +1882,10 @@
 <!-- Scan 2026-07-15 — Multi-portal scheduled scan -->
 - [x] #647 | https://www.unjobnet.org/jobs/detail/undp-undpic2026011individual-consultant-climate-change-policy-and-documentation-86196950 | UNDP | Individual Consultant – Climate Change Policy and Documentation | 3.5/5 | PDF (no)
 - [x] #648 | https://www.unjobnet.org/jobs/detail/unescap-international-consultant-urban-resilience-strategy-and-action-programme-86108643 | UNESCAP | International Consultant – Urban Resilience Strategy and Action Programme (Bangkok) | 3.8/5 | PDF (no)
-- [ ] https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Corporate Sustainability and Climate Change Consultant
-- [ ] https://untalent.org/jobs/climate-finance-specialist-8 | World Bank | Climate Finance Specialist
-- [ ] https://www.mycareersfuture.gov.sg/job/graduate-climate-consultant-rsk-centre-sustainability-excellence-a472e75416e4f8166a5095896c979e58 | RSK Centre Sustainability Excellence | Graduate Climate Consultant (Singapore)
-- [ ] https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability Strategy (Singapore)
+- [x] #774 | https://www.climatechangecareers.com/job/erm/bangkok-thailand/corporate-sustainability-and-climate-change-consultant/ | ERM Bangkok | Corporate Sustainability and Climate Change Consultant | 3.5/5 | PDF (no)
+- [x] #775 | https://untalent.org/jobs/climate-finance-specialist-8 | World Bank | Climate Finance Specialist | 2.5/5 | PDF (no)
+- [x] #776 | https://www.mycareersfuture.gov.sg/job/graduate-climate-consultant-rsk-centre-sustainability-excellence-a472e75416e4f8166a5095896c979e58 | RSK Centre Sustainability Excellence | Graduate Climate Consultant (Singapore) | 3.2/5 | PDF (no)
+- [x] #777 | https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability Strategy (Singapore) | 3.0/5 | PDF (no)
 - [ ] https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate
 - [ ] https://www.terra.do/climate-jobs/job-board/investment-analyst-8392316/ | Climate Collective | Investment Analyst
 - [ ] https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI Beijing | Analyst – Center for Sustainable Finance
