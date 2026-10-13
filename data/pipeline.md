@@ -2314,3 +2314,11 @@
 - [ ] https://jobs.consultant.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Analyst-Consultant-(Multiple-Roles)/1443590133/ | GCF | Climate Investment Analyst – Consultant (Multiple Roles)
 - [ ] https://careers.gggi.org/vacancy/mitigation-activity-idea-note-development-and-refinement-consultant-620487.html | GGGI | Mitigation Activity Idea Note Consultant (URGENT: deadline Oct 15)
 - [ ] https://jobs.sea.deloitte.com/job/Singapore-A%26A-Consultant-%28Sustainability-%26-Emerging-Assurance%29-Sing/1328862166/ | Deloitte Singapore | A&A Consultant – Sustainability & Emerging Assurance
+
+<!-- Scan 2026-10-13 — Scheduled portal scan -->
+- [ ] https://www.monster.co.th/job/specialist-sustainability-ttb-bank-thailand-55496195 | TTB Bank | Specialist, Sustainability
+- [ ] https://www.monster.co.th/job/specialist-sustainability-ttb-bank-thailand-50761096 | TTB Bank | Specialist, Sustainability (2nd listing)
+- [ ] https://www.monster.co.th/job/sustainability-specialist-bangkok-cable-bcc-thailand-55349470 | Bangkok Cable (BCC) | Sustainability Specialist
+- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/07/Job-Announcement_GCF-Thai-Rice_Carbon-Markets-Advisor_260722.pdf | GIZ | Carbon Markets Advisor – Thai Rice GCF Project
+- [ ] https://careers.gic.com.sg/job/Singapore-AnalystAssociate%2C-Sustainable-Investment-Strategy-Analyst/1148042101 | GIC | Analyst/Associate Sustainable Investment Strategy Analyst
+- [ ] https://careers.gic.com.sg/job/Singapore-Associate%2C-Sustainability-Operations/1128795701 | GIC | Associate Sustainability Operations
