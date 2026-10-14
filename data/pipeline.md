@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-14 — Scheduled portal scan -->
+- [ ] https://careers.gggi.org/vacancy/mitigation-activity-idea-note-development-and-refinement-consultant-620487.html | GGGI | Mitigation Activity Idea Note Development Consultant (URGENT - deadline Oct 15)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1370684755/ | UNIDO | Project Associate (Vienna, CB-ACES)
+- [ ] https://www.wri.org/careers/jobs/heavy-industry-decarbonization-analyst-2026-jr100507 | WRI Indonesia | Heavy Industry Decarbonization Analyst
+- [ ] https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-96e03131abf39571bf0f08bc1e683344 | EY Singapore | Senior Associate – Climate Change & Sustainability Services
+- [ ] https://www.mycareersfuture.gov.sg/job/engineering/sustainability-analyst-senior-sustainability-analyst-singapore-environment-council-83c1752df216347d190320d1d805f7e6 | Singapore Environment Council | Sustainability Analyst / Senior Analyst
+
 <!-- Scan 2026-10-10 — Scheduled portal scan -->
 - [x] #758 | https://climatebase.org/job/66803346/consulting-associate--senior-associate---corporate-sustainability--climate-change | ERM | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change | 3.9/5 | PDF (no)
 - [x] #759 | https://climatebase.org/job/73184278/climate-consultant | ERM | Climate Consultant | 3.8/5 | PDF (no)
