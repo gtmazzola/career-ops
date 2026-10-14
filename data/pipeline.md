@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-14 — Scheduled portal scan -->
+- [x] #639 | https://careers.gggi.org/vacancy/mitigation-activity-idea-note-development-and-refinement-consultant-620487.html | GGGI | Mitigation Activity Idea Note Development Consultant | 3.2/5 | PDF (no)
+- [x] #640 | https://careers.unido.org/job/Vienna-Project-Associate/1370684755/ | UNIDO | Project Associate (Vienna, CB-ACES) | 3.8/5 | PDF (no)
+- [x] #641 | https://www.wri.org/careers/jobs/heavy-industry-decarbonization-analyst-2026-jr100507 | WRI Indonesia | Heavy Industry Decarbonization Analyst | 2.0/5 | PDF (no)
+- [x] #642 | https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-96e03131abf39571bf0f08bc1e683344 | EY Singapore | Senior Associate – Climate Change & Sustainability Services | 3.8/5 | PDF (no)
+- [x] #643 | https://www.mycareersfuture.gov.sg/job/engineering/sustainability-analyst-senior-sustainability-analyst-singapore-environment-council-83c1752df216347d190320d1d805f7e6 | Singapore Environment Council | Sustainability Analyst / Senior Analyst | 3.5/5 | PDF (no)
+
 <!-- Scan 2026-10-10 — Scheduled portal scan -->
 - [x] #758 | https://climatebase.org/job/66803346/consulting-associate--senior-associate---corporate-sustainability--climate-change | ERM | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change | 3.9/5 | PDF (no)
 - [x] #759 | https://climatebase.org/job/73184278/climate-consultant | ERM | Climate Consultant | 3.8/5 | PDF (no)
@@ -1898,11 +1905,11 @@
 - [ ] https://careers.gggi.org/vacancy/sustainable-finance-senior-associate-578689.html | GGGI | Sustainable Finance Senior Associate
 
 <!-- Scan 2026-07-16 — Multi-portal scheduled scan -->
-- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst Climate Change, Water, Energy & Environment
-- [ ] https://jobs.accaglobal.com/job/13992411/national-environmental-finance-analyst/ | UNDP | National Environmental Finance Analyst (BIOFIN) — deadline July 20
-- [ ] https://unjobs.org/vacancies/1747214532271 | UNDP | Project Management Support Analyst (Environment & Energy, Bangkok)
-- [ ] https://unjobs.org/vacancies/1753137747944 | UNEP | Associate Programme Management Officer (Bangkok)
-- [ ] https://unjobs.org/vacancies/1771353147147 | UNEP | Technical Advisor REDD+ and Forests (Bangkok)
+- [x] #644 | https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst Climate Change, Water, Energy & Environment | 2.8/5 | PDF (no)
+- [x] #645 | https://jobs.accaglobal.com/job/13992411/national-environmental-finance-analyst/ | UNDP | National Environmental Finance Analyst (BIOFIN) | 3.8/5 | PDF (no)
+- [x] #646 | https://unjobs.org/vacancies/1747214532271 | UNDP | Project Management Support Analyst (Environment & Energy, Bangkok) | 3.8/5 | PDF (no)
+- [x] #647 | https://unjobs.org/vacancies/1753137747944 | UNEP | Associate Programme Management Officer (Bangkok) | 3.8/5 | PDF (no)
+- [x] #648 | https://unjobs.org/vacancies/1771353147147 | UNEP | Technical Advisor REDD+ and Forests (Bangkok) | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-07-18 — Multi-portal scheduled scan (backfill) -->
 - [ ] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE
