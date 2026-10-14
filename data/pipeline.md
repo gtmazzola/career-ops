@@ -1893,16 +1893,16 @@
 - [x] #775 | https://untalent.org/jobs/climate-finance-specialist-8 | World Bank | Climate Finance Specialist | 2.5/5 | PDF (no)
 - [x] #776 | https://www.mycareersfuture.gov.sg/job/graduate-climate-consultant-rsk-centre-sustainability-excellence-a472e75416e4f8166a5095896c979e58 | RSK Centre Sustainability Excellence | Graduate Climate Consultant (Singapore) | 3.2/5 | PDF (no)
 - [x] #777 | https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability Strategy (Singapore) | 3.0/5 | PDF (no)
-- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate
-- [ ] https://www.terra.do/climate-jobs/job-board/investment-analyst-8392316/ | Climate Collective | Investment Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI Beijing | Analyst – Center for Sustainable Finance
-- [ ] https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst (Singapore)
-- [ ] https://careers.un.org/jobSearchDescription/272737 | ILO | Nature-based Solutions Consultant
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Specialist/1199984501/ | GCF | Climate Investment Specialist (Incheon)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (Incheon)
-- [ ] https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok)
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-sector-based-screening-664346 | Devex | ESG Research Analyst – Sector-Based Screening
-- [ ] https://careers.gggi.org/vacancy/sustainable-finance-senior-associate-578689.html | GGGI | Sustainable Finance Senior Associate
+- [x] #639 | https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate | 3.2/5 | PDF (no)
+- [x] #640 | https://www.terra.do/climate-jobs/job-board/investment-analyst-8392316/ | Climate Collective | Investment Analyst | 1.8/5 | PDF (no)
+- [x] #641 | https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI Beijing | Analyst – Center for Sustainable Finance | 3.8/5 | PDF (no)
+- [x] #648 | https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst (Singapore) | 3.0/5 | PDF (no)
+- [x] #642 | https://careers.un.org/jobSearchDescription/272737 | ILO | Nature-based Solutions Consultant | 3.3/5 | PDF (no)
+- [x] #643 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Specialist/1199984501/ | GCF | Climate Investment Specialist (Incheon) | 2.2/5 | PDF (no)
+- [x] #644 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (Incheon) | 4.0/5 | PDF (no)
+- [x] #645 | https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok) | 2.8/5 | PDF (no)
+- [x] #646 | https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-sector-based-screening-664346 | Devex/ISS STOXX | ESG Research Analyst – Sector-Based Screening | 3.8/5 | PDF (no)
+- [x] #647 | https://careers.gggi.org/vacancy/sustainable-finance-senior-associate-578689.html | GGGI | Sustainable Finance Senior Associate | 2.3/5 | PDF (no)
 
 <!-- Scan 2026-07-16 — Multi-portal scheduled scan -->
 - [x] #644 | https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst Climate Change, Water, Energy & Environment | 2.8/5 | PDF (no)
