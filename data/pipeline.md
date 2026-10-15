@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-15 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Lusaka-National-Local-Monitoring%2C-Evaluation-and-Learning-Expert/1367465455/ | UNIDO | National Local Monitoring, Evaluation and Learning Expert (Lusaka)
+- [ ] https://careers.gggi.org/vacancy/juniot-professional-office-jpo-data-analyst-582028.html | GGGI | Junior Professional Officer (JPO) – Data Analyst
+- [ ] https://www.terra.do/climate-jobs/job-board/sustainability-bd-projects-coordinator-8399448/ | Tembusu Asia Consulting | Sustainability BD & Projects Coordinator (Singapore)
+- [ ] https://www.monster.co.th/job/esg-analyst-krungsri-thailand-46505613 | Krungsri (Bank of Ayudhya) | ESG Analyst (Bangkok)
+
 <!-- Scan 2026-10-14 — Scheduled portal scan -->
 - [x] #639 | https://careers.gggi.org/vacancy/mitigation-activity-idea-note-development-and-refinement-consultant-620487.html | GGGI | Mitigation Activity Idea Note Development Consultant | 3.2/5 | PDF (no)
 - [x] #640 | https://careers.unido.org/job/Vienna-Project-Associate/1370684755/ | UNIDO | Project Associate (Vienna, CB-ACES) | 3.8/5 | PDF (no)
