@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-10-15 — Scheduled portal scan -->
-- [ ] https://careers.unido.org/job/Lusaka-National-Local-Monitoring%2C-Evaluation-and-Learning-Expert/1367465455/ | UNIDO | National Local Monitoring, Evaluation and Learning Expert (Lusaka)
-- [ ] https://careers.gggi.org/vacancy/juniot-professional-office-jpo-data-analyst-582028.html | GGGI | Junior Professional Officer (JPO) – Data Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/sustainability-bd-projects-coordinator-8399448/ | Tembusu Asia Consulting | Sustainability BD & Projects Coordinator (Singapore)
-- [ ] https://www.monster.co.th/job/esg-analyst-krungsri-thailand-46505613 | Krungsri (Bank of Ayudhya) | ESG Analyst (Bangkok)
+- [x] #778 | https://careers.unido.org/job/Lusaka-National-Local-Monitoring%2C-Evaluation-and-Learning-Expert/1367465455/ | UNIDO | National Local Monitoring, Evaluation and Learning Expert (Lusaka) | 1.0/5 | PDF (no)
+- [x] #779 | https://careers.gggi.org/vacancy/juniot-professional-office-jpo-data-analyst-582028.html | GGGI | Junior Professional Officer (JPO) – Data Analyst | 2.0/5 | PDF (no)
+- [x] #780 | https://www.terra.do/climate-jobs/job-board/sustainability-bd-projects-coordinator-8399448/ | Tembusu Asia Consulting | Sustainability BD & Projects Coordinator (Singapore) | 3.2/5 | PDF (no)
+- [x] #781 | https://www.monster.co.th/job/esg-analyst-krungsri-thailand-46505613 | Krungsri (Bank of Ayudhya) | ESG Analyst (Bangkok) | 1.8/5 | PDF (no)
 
 <!-- Scan 2026-10-14 — Scheduled portal scan -->
 - [x] #639 | https://careers.gggi.org/vacancy/mitigation-activity-idea-note-development-and-refinement-consultant-620487.html | GGGI | Mitigation Activity Idea Note Development Consultant | 3.2/5 | PDF (no)
@@ -1918,12 +1918,12 @@
 - [x] #648 | https://unjobs.org/vacancies/1771353147147 | UNEP | Technical Advisor REDD+ and Forests (Bangkok) | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-07-18 — Multi-portal scheduled scan (backfill) -->
-- [ ] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE
-- [ ] https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer
-- [ ] https://www.adb.org/careers/260160 | ADB | Project Officer (Energy)
-- [ ] https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist
-- [ ] https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico)
+- [x] #782 | https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE | 1.5/5 | PDF (no)
+- [x] #783 | https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer | 2.5/5 | PDF (no)
+- [x] #784 | https://www.adb.org/careers/260160 | ADB | Project Officer (Energy) – Indonesia RM | 1.5/5 | PDF (no)
+- [x] #785 | https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy) – Turkmenistan RM | 1.0/5 | PDF (no)
+- [x] #786 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist | 2.0/5 | PDF (no)
+- [x] #787 | https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico) | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-07-19 — Multi-portal scheduled scan -->
 - [ ] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Bangkok | Research Fellow – Bankable Climate Adaptation Solutions and Finance Mechanisms

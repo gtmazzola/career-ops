@@ -2,6 +2,15 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 778 | 2026-10-15 | UNIDO | National Local MEL Expert (Lusaka) | 1.0/5 | Evaluada | ❌ | [778](reports/778-unido-mel-lusaka-2026-10-15.md) | SKIP – Zambian nationals only; ineligible |
+| 779 | 2026-10-15 | GGGI | JPO – Data Analyst (Abidjan) | 2.0/5 | Evaluada | ❌ | [779](reports/779-gggi-jpo-data-analyst-2026-10-15.md) | SKIP – posting expired March 2025; French required; Power BI gap |
+| 780 | 2026-10-15 | Tembusu Asia Consulting | Sustainability BD & Projects Coordinator (Singapore) | 3.2/5 | Evaluada | ❌ | [780](reports/780-tembusu-asia-bd-coordinator-2026-10-15.md) | Consider if open to Singapore relocation; BD gap manageable |
+| 781 | 2026-10-15 | Krungsri (Bank of Ayudhya) | ESG Analyst (Bangkok) | 1.8/5 | Evaluada | ❌ | [781](reports/781-krungsri-esg-analyst-2026-10-15.md) | SKIP – 8-10 years required; seniority mismatch |
+| 782 | 2026-10-15 | UNICEF Bangkok | Consultant – Clean Air HEHC Programme (15 months) | 1.5/5 | Evaluada | ❌ | [782](reports/782-unicef-clean-air-consultant-2026-10-15.md) | SKIP – closed July 2026; 8 years + air quality expertise required |
+| 783 | 2026-10-15 | ADB | Associate Financing Partnerships Officer (Manila) | 2.5/5 | Evaluada | ❌ | [783](reports/783-adb-associate-financing-partnerships-2026-10-15.md) | Below seniority (5 yrs req); Manila relocation; apply if ADB is priority |
+| 784 | 2026-10-15 | ADB | Project Officer (Energy) – Indonesia RM | 1.5/5 | Evaluada | ❌ | [784](reports/784-adb-project-officer-energy-indonesia-2026-10-15.md) | SKIP – closed Feb 2026; 8 years required |
+| 785 | 2026-10-15 | ADB | Senior Project Officer (Energy) – Turkmenistan RM | 1.0/5 | Evaluada | ❌ | [785](reports/785-adb-senior-project-officer-energy-turkmenistan-2026-10-15.md) | SKIP – closed March 2026; 8 yrs + supervisory; Central Asia |
+| 787 | 2026-10-15 | GGGI | GCF Projects Consultant (Mexico City) | 2.0/5 | Evaluada | ❌ | [787](reports/787-gggi-gcf-projects-consultant-mexico-2026-10-15.md) | SKIP – closed April 2026; contract ends Dec 2026; Mexico; low pay |
 | 771 | 2026-10-12 | UNDP Montenegro | Consultant – Climate Change and Sustainable Development | 3.8/5 | Evaluada | ❌ | [771](reports/771-undp-consultant-climate-change-sustainable-development-montenegro-2026-10-12.md) | ⚡ ACTIVE deadline Oct 26. Junior IC, 1yr. EU citizen eligible. Strong IO fit. |
 | 773 | 2026-10-12 | Deloitte Bangkok | A&A Consultant – Accounting & Reporting Assurance | 1.5/5 | Evaluada | ❌ | [773](reports/773-deloitte-bangkok-aa-consultant-accounting-reporting-assurance-2026-10-12.md) | Accounting/audit role. No accounting background. Hard domain mismatch. SKIP. |
 | 776 | 2026-10-12 | RSK Singapore | Graduate Climate Consultant (Singapore) | 3.2/5 | Evaluada | ❌ | [776](reports/776-rsk-graduate-climate-consultant-singapore-2026-10-12.md) | Graduate level, Singapore. EP sponsorship needed. Status unconfirmed. Verify first. |
