@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-16 — Scheduled portal scan -->
+- [ ] https://careers.southpole.com/jobs/8157045-specialist-corsia-compliance-markets | South Pole | Specialist, CORSIA Compliance Markets
+- [ ] https://careers.southpole.com/jobs/7812955-senior-specialist-standards-and-methodologies-compliance-markets | South Pole | Senior Specialist, Standards and Methodologies - Compliance Markets
+- [ ] https://careers.southpole.com/jobs/7499736-senior-specialist-renewable-energy-certificates | South Pole | Senior/Specialist, Renewable Energy Certificates
+- [ ] https://careers.societegenerale.com/en/sg_careers_offers_entity/94994 | Société Générale | Analyst/Associate, Sustainability and Impact Advisory APAC (Singapore)
+
 <!-- Scan 2026-10-15 — Scheduled portal scan -->
 - [x] #778 | https://careers.unido.org/job/Lusaka-National-Local-Monitoring%2C-Evaluation-and-Learning-Expert/1367465455/ | UNIDO | National Local Monitoring, Evaluation and Learning Expert (Lusaka) | 1.0/5 | PDF (no)
 - [x] #779 | https://careers.gggi.org/vacancy/juniot-professional-office-jpo-data-analyst-582028.html | GGGI | Junior Professional Officer (JPO) – Data Analyst | 2.0/5 | PDF (no)
