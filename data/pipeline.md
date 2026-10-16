@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-10-16 — Scheduled portal scan -->
-- [ ] https://careers.southpole.com/jobs/8157045-specialist-corsia-compliance-markets | South Pole | Specialist, CORSIA Compliance Markets
-- [ ] https://careers.southpole.com/jobs/7812955-senior-specialist-standards-and-methodologies-compliance-markets | South Pole | Senior Specialist, Standards and Methodologies - Compliance Markets
-- [ ] https://careers.southpole.com/jobs/7499736-senior-specialist-renewable-energy-certificates | South Pole | Senior/Specialist, Renewable Energy Certificates
-- [ ] https://careers.societegenerale.com/en/sg_careers_offers_entity/94994 | Société Générale | Analyst/Associate, Sustainability and Impact Advisory APAC (Singapore)
+- [x] #788 | https://careers.southpole.com/jobs/8157045-specialist-corsia-compliance-markets | South Pole | Specialist, CORSIA Compliance Markets | 2.5/5 | PDF (no)
+- [x] #789 | https://careers.southpole.com/jobs/7812955-senior-specialist-standards-and-methodologies-compliance-markets | South Pole | Senior Specialist, Standards and Methodologies - Compliance Markets | 2.7/5 | PDF (no)
+- [x] #790 | https://careers.southpole.com/jobs/7499736-senior-specialist-renewable-energy-certificates | South Pole | Senior/Specialist, Renewable Energy Certificates | 2.2/5 | PDF (no)
+- [x] #791 | https://careers.societegenerale.com/en/sg_careers_offers_entity/94994 | Société Générale | Analyst/Associate, Sustainability and Impact Advisory APAC (Singapore) | 3.3/5 | PDF (no)
 
 <!-- Scan 2026-10-15 — Scheduled portal scan -->
 - [x] #778 | https://careers.unido.org/job/Lusaka-National-Local-Monitoring%2C-Evaluation-and-Learning-Expert/1367465455/ | UNIDO | National Local Monitoring, Evaluation and Learning Expert (Lusaka) | 1.0/5 | PDF (no)
@@ -1932,12 +1932,12 @@
 - [x] #787 | https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico) | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-07-19 — Multi-portal scheduled scan -->
-- [ ] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Bangkok | Research Fellow – Bankable Climate Adaptation Solutions and Finance Mechanisms
-- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Thailand)
-- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG (Sustainability Services) Consultant (Manager)
-- [ ] https://aseanenergy.org/opportunities/vacancy/research-analyst-on-sustainable-and-renewable-energy-sre | ASEAN Centre for Energy | Research Analyst – Sustainable and Renewable Energy
-- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole APAC | Managing Consultant – Climate Risk & Disclosure (Asia Pacific)
-- [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq Philippines | Senior Sustainability and Climate Advisory Analyst
+- [x] #792 | https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Bangkok | Research Fellow – Bankable Climate Adaptation Solutions and Finance Mechanisms | 4.0/5 | PDF (no)
+- [x] #793 | https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Thailand) | 3.7/5 | PDF (no)
+- [x] #794 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG (Sustainability Services) Consultant (Manager) | 2.3/5 | PDF (no)
+- [x] #795 | https://aseanenergy.org/opportunities/vacancy/research-analyst-on-sustainable-and-renewable-energy-sre | ASEAN Centre for Energy | Research Analyst – Sustainable and Renewable Energy | 3.5/5 | PDF (no)
+- [x] #796 | https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole APAC | Managing Consultant – Climate Risk & Disclosure (Asia Pacific) | 2.4/5 | PDF (no)
+- [x] #797 | https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq Philippines | Senior Sustainability and Climate Advisory Analyst | 3.1/5 | PDF (no)
 - [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International Singapore | Sustainability & ESG Consultant
 - [ ] https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change
 - [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate
