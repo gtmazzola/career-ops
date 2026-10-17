@@ -2341,3 +2341,12 @@
 - [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/07/Job-Announcement_GCF-Thai-Rice_Carbon-Markets-Advisor_260722.pdf | GIZ | Carbon Markets Advisor – Thai Rice GCF Project
 - [ ] https://careers.gic.com.sg/job/Singapore-AnalystAssociate%2C-Sustainable-Investment-Strategy-Analyst/1148042101 | GIC | Analyst/Associate Sustainable Investment Strategy Analyst
 - [ ] https://careers.gic.com.sg/job/Singapore-Associate%2C-Sustainability-Operations/1128795701 | GIC | Associate Sustainability Operations
+
+<!-- Scan 2026-10-17 — Scheduled portal scan -->
+- [ ] https://careers.southpole.com/jobs/5050044-associate-consultant-climate-risks-and-opportunities | South Pole | Associate Consultant, Climate Risks and Opportunities
+- [ ] https://careers.southpole.com/jobs/5121560-associate-consultant-ambition-targets-and-transition | South Pole | Associate Consultant, Ambition, Targets and Transition
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate-Industrial-Futures-Talent-Initiative-%28IFTI%29/1347386955 | UNIDO | Project Associate – Industrial Futures Talent Initiative (IFTI) (Vienna, 2026/2027 intake)
+- [ ] https://unvacancies.org/jobs/climate-policy-analyst-open-to-tier-1-tier-2-applicants-DP-37434 | UNDP Thailand | Climate Policy Analyst (Bangkok)
+- [ ] https://climatebase.org/job/73184278/climate-consultant | ERM | Climate Consultant (Bangkok)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30755 | UNOPS | Technical Senior Analyst – Environmental (Energy Transition Planning) (Bangkok retainer)
+- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-%28Fresh-grads-welcome%29-10110/1207201601 | EY | Assurance – Climate Change and Sustainability Staff (Bangkok, fresh grads welcome)
