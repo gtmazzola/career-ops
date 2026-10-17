@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 788 | 2026-10-17 | South Pole | Specialist, CORSIA Compliance Markets | 1.5/5 | Evaluada | ❌ | [788](reports/788-south-pole-specialist-corsia-compliance-markets-2026-10-17.md) | SKIP – Cape Town; hard domain gap (CORSIA/Article 6 specialist expertise); no carbon compliance background |
+| 791 | 2026-10-17 | Société Générale | Analyst/Associate, Sustainability and Impact Advisory APAC (Singapore) | 3.2/5 | Evaluada | ❌ | [791](reports/791-societe-generale-analyst-associate-sustainability-impact-advisory-apac-2026-10-17.md) | Consider – good ESG thematic fit; Singapore EP needed; experience gap (3-5yr req); active posting Aug 2026 |
+| 793 | 2026-10-17 | South Pole APAC | Managing Consultant – Climate Risk & Disclosure | 2.0/5 | Evaluada | ❌ | [793](reports/793-south-pole-managing-consultant-climate-risk-disclosure-apac-2026-10-17.md) | SKIP – Managing Consultant level (6-9yr req); TCFD/ISSB delivery experience required; seniority gap |
 | 778 | 2026-10-15 | UNIDO | National Local MEL Expert (Lusaka) | 1.0/5 | Evaluada | ❌ | [778](reports/778-unido-mel-lusaka-2026-10-15.md) | SKIP – Zambian nationals only; ineligible |
 | 779 | 2026-10-15 | GGGI | JPO – Data Analyst (Abidjan) | 2.0/5 | Evaluada | ❌ | [779](reports/779-gggi-jpo-data-analyst-2026-10-15.md) | SKIP – posting expired March 2025; French required; Power BI gap |
 | 780 | 2026-10-15 | Tembusu Asia Consulting | Sustainability BD & Projects Coordinator (Singapore) | 3.2/5 | Evaluada | ❌ | [780](reports/780-tembusu-asia-bd-coordinator-2026-10-15.md) | Consider if open to Singapore relocation; BD gap manageable |
