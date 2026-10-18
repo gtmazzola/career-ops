@@ -1938,16 +1938,16 @@
 - [!] https://aseanenergy.org/opportunities/vacancy/research-analyst-on-sustainable-and-renewable-energy-sre | ASEAN Centre for Energy | Research Analyst – Sustainable and Renewable Energy | closed May 31 2026 – posting expired
 - [x] #793 | https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole APAC | Managing Consultant – Climate Risk & Disclosure (Asia Pacific) | 2.0/5 | PDF (no)
 - [x] #794 | https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq Philippines | Senior Sustainability and Climate Advisory Analyst | 3.0/5 | PDF (no)
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International Singapore | Sustainability & ESG Consultant
-- [ ] https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate
-- [ ] https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | TangsPac Consulting Singapore | Senior Researcher – ESG / Carbon Capture / Sustainable Finance
-- [ ] https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon Singapore | Sustainability Consultant
-- [ ] https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International Singapore | Sustainability Analyst
-- [ ] https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change
-- [ ] https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate / Senior Associate – Corporate Sustainability & Climate Change
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant
-- [ ] https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst
+- [x] #639 | https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International Singapore | Sustainability & ESG Consultant | 3.4/5 | PDF (no)
+- [x] #640 | https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change | 2.2/5 | PDF (no)
+- [x] #641 | https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate | 3.9/5 | PDF (no)
+- [x] #642 | https://www.mycareersfuture.gov.sg/job/environment/senior-researcher-esg-carbon-capture-sustainable-finance-tangspac-consulting-d9186a6bd21bb9d7c5d31427271362a1 | TangsPac Consulting Singapore | Senior Researcher – ESG / Carbon Capture / Sustainable Finance | 2.8/5 | PDF (no)
+- [x] #643 | https://www.mycareersfuture.gov.sg/job/sustainability-consultant-unravel-carbon-aadcf600f46baee6c897be62db3215d6 | Unravel Carbon Singapore | Sustainability Consultant | 3.1/5 | PDF (no)
+- [x] #644 | https://www.mycareersfuture.gov.sg/job/consulting/sustainability-analyst-csrworks-international-8753e825f8511d73ddd1d467138394be | CSRWorks International Singapore | Sustainability Analyst | 3.9/5 | PDF (no)
+- [x] #645 | https://www.climatechangecareers.com/job/erm/seoul-south-korea/consulting-senior-associate-corporate-sustainability-climate-change/ | ERM Seoul | Consulting Senior Associate – Corporate Sustainability & Climate Change | 2.5/5 | PDF (no)
+- [x] #646 | https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate / Senior Associate – Corporate Sustainability & Climate Change | 3.3/5 | PDF (no)
+- [x] #647 | https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant | 3.6/5 | PDF (no)
+- [x] #648 | https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst | 3.7/5 | PDF (no)
 - [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=56681 | UNDP | Assistant Programme Officer
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=55904 | UNDP | Programme Specialist – Global Environment Facility
