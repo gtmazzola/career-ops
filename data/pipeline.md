@@ -2,6 +2,25 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-16 — Scheduled portal scan -->
+- [x] #788 | https://careers.southpole.com/jobs/8157045-specialist-corsia-compliance-markets | South Pole | Specialist, CORSIA Compliance Markets | 1.5/5 | PDF (no)
+- [x] #789 | https://careers.southpole.com/jobs/7812955-senior-specialist-standards-and-methodologies-compliance-markets | South Pole | Senior Specialist, Standards and Methodologies – Compliance Markets | 2.0/5 | PDF (no)
+- [x] #790 | https://careers.southpole.com/jobs/7499736-senior-specialist-renewable-energy-certificates | South Pole | Senior/Specialist, Renewable Energy Certificates | 2.0/5 | PDF (no)
+- [x] #791 | https://careers.societegenerale.com/en/sg_careers_offers_entity/94994 | Société Générale | Analyst/Associate, Sustainability and Impact Advisory APAC (Singapore) | 3.2/5 | PDF (no)
+
+<!-- Scan 2026-10-15 — Scheduled portal scan -->
+- [x] #778 | https://careers.unido.org/job/Lusaka-National-Local-Monitoring%2C-Evaluation-and-Learning-Expert/1367465455/ | UNIDO | National Local Monitoring, Evaluation and Learning Expert (Lusaka) | 1.0/5 | PDF (no)
+- [x] #779 | https://careers.gggi.org/vacancy/juniot-professional-office-jpo-data-analyst-582028.html | GGGI | Junior Professional Officer (JPO) – Data Analyst | 2.0/5 | PDF (no)
+- [x] #780 | https://www.terra.do/climate-jobs/job-board/sustainability-bd-projects-coordinator-8399448/ | Tembusu Asia Consulting | Sustainability BD & Projects Coordinator (Singapore) | 3.2/5 | PDF (no)
+- [x] #781 | https://www.monster.co.th/job/esg-analyst-krungsri-thailand-46505613 | Krungsri (Bank of Ayudhya) | ESG Analyst (Bangkok) | 1.8/5 | PDF (no)
+
+<!-- Scan 2026-10-14 — Scheduled portal scan -->
+- [x] #639 | https://careers.gggi.org/vacancy/mitigation-activity-idea-note-development-and-refinement-consultant-620487.html | GGGI | Mitigation Activity Idea Note Development Consultant | 3.2/5 | PDF (no)
+- [x] #640 | https://careers.unido.org/job/Vienna-Project-Associate/1370684755/ | UNIDO | Project Associate (Vienna, CB-ACES) | 3.8/5 | PDF (no)
+- [x] #641 | https://www.wri.org/careers/jobs/heavy-industry-decarbonization-analyst-2026-jr100507 | WRI Indonesia | Heavy Industry Decarbonization Analyst | 2.0/5 | PDF (no)
+- [x] #642 | https://www.mycareersfuture.gov.sg/job/others/senior-associate-climate-change-sustainability-services-ernst-young-96e03131abf39571bf0f08bc1e683344 | EY Singapore | Senior Associate – Climate Change & Sustainability Services | 3.8/5 | PDF (no)
+- [x] #643 | https://www.mycareersfuture.gov.sg/job/engineering/sustainability-analyst-senior-sustainability-analyst-singapore-environment-council-83c1752df216347d190320d1d805f7e6 | Singapore Environment Council | Sustainability Analyst / Senior Analyst | 3.5/5 | PDF (no)
+
 <!-- Scan 2026-10-10 — Scheduled portal scan -->
 - [x] #758 | https://climatebase.org/job/66803346/consulting-associate--senior-associate---corporate-sustainability--climate-change | ERM | Consulting Associate/Senior Associate – Corporate Sustainability & Climate Change | 3.9/5 | PDF (no)
 - [x] #759 | https://climatebase.org/job/73184278/climate-consultant | ERM | Climate Consultant | 3.8/5 | PDF (no)
@@ -1886,39 +1905,39 @@
 - [x] #775 | https://untalent.org/jobs/climate-finance-specialist-8 | World Bank | Climate Finance Specialist | 2.5/5 | PDF (no)
 - [x] #776 | https://www.mycareersfuture.gov.sg/job/graduate-climate-consultant-rsk-centre-sustainability-excellence-a472e75416e4f8166a5095896c979e58 | RSK Centre Sustainability Excellence | Graduate Climate Consultant (Singapore) | 3.2/5 | PDF (no)
 - [x] #777 | https://www.mycareersfuture.gov.sg/job/associate-sustainability-trusted-services-e2b9fac9c2337de70ce02ed817c500b1 | Trusted Services | Associate – Sustainability Strategy (Singapore) | 3.0/5 | PDF (no)
-- [ ] https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate
-- [ ] https://www.terra.do/climate-jobs/job-board/investment-analyst-8392316/ | Climate Collective | Investment Analyst
-- [ ] https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI Beijing | Analyst – Center for Sustainable Finance
-- [ ] https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst (Singapore)
-- [ ] https://careers.un.org/jobSearchDescription/272737 | ILO | Nature-based Solutions Consultant
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Specialist/1199984501/ | GCF | Climate Investment Specialist (Incheon)
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (Incheon)
-- [ ] https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok)
-- [ ] https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-sector-based-screening-664346 | Devex | ESG Research Analyst – Sector-Based Screening
-- [ ] https://careers.gggi.org/vacancy/sustainable-finance-senior-associate-578689.html | GGGI | Sustainable Finance Senior Associate
+- [x] #639 | https://www.terra.do/climate-jobs/job-board/ESG-Sustainability-Associate-Iix-Global-8303865/ | IIX Global | ESG/Sustainability Associate | 3.2/5 | PDF (no)
+- [x] #640 | https://www.terra.do/climate-jobs/job-board/investment-analyst-8392316/ | Climate Collective | Investment Analyst | 1.8/5 | PDF (no)
+- [x] #641 | https://www.terra.do/climate-jobs/job-board/Analyst--Center-for-Sustainable-Finance-Beijing-Climate-Policy-Initiative-8196207/ | CPI Beijing | Analyst – Center for Sustainable Finance | 3.8/5 | PDF (no)
+- [x] #648 | https://www.climatechangecareers.com/job/sales-tips/singapore-singapore/carbon-management-specialist-climate-risk-analyst-green-finance-executive/ | Sales Tips | Carbon Management Specialist / Climate Risk Analyst (Singapore) | 3.0/5 | PDF (no)
+- [x] #642 | https://careers.un.org/jobSearchDescription/272737 | ILO | Nature-based Solutions Consultant | 3.3/5 | PDF (no)
+- [x] #643 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Investment-Specialist/1199984501/ | GCF | Climate Investment Specialist (Incheon) | 2.2/5 | PDF (no)
+- [x] #644 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Evaluation-Data-Associate/902608301/ | GCF | Evaluation Data Associate (Incheon) | 4.0/5 | PDF (no)
+- [x] #645 | https://unjobs.org/vacancies/1766043083685 | UNESCAP | Consultant – Data Analysis in Disaster Risk Reduction (Bangkok) | 2.8/5 | PDF (no)
+- [x] #646 | https://www.devex.com/jobs/environmental-social-and-governance-esg-research-analyst-sector-based-screening-664346 | Devex/ISS STOXX | ESG Research Analyst – Sector-Based Screening | 3.8/5 | PDF (no)
+- [x] #647 | https://careers.gggi.org/vacancy/sustainable-finance-senior-associate-578689.html | GGGI | Sustainable Finance Senior Associate | 2.3/5 | PDF (no)
 
 <!-- Scan 2026-07-16 — Multi-portal scheduled scan -->
-- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst Climate Change, Water, Energy & Environment
-- [ ] https://jobs.accaglobal.com/job/13992411/national-environmental-finance-analyst/ | UNDP | National Environmental Finance Analyst (BIOFIN) — deadline July 20
-- [ ] https://unjobs.org/vacancies/1747214532271 | UNDP | Project Management Support Analyst (Environment & Energy, Bangkok)
-- [ ] https://unjobs.org/vacancies/1753137747944 | UNEP | Associate Programme Management Officer (Bangkok)
-- [ ] https://unjobs.org/vacancies/1771353147147 | UNEP | Technical Advisor REDD+ and Forests (Bangkok)
+- [x] #644 | https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst Climate Change, Water, Energy & Environment | 2.8/5 | PDF (no)
+- [x] #645 | https://jobs.accaglobal.com/job/13992411/national-environmental-finance-analyst/ | UNDP | National Environmental Finance Analyst (BIOFIN) | 3.8/5 | PDF (no)
+- [x] #646 | https://unjobs.org/vacancies/1747214532271 | UNDP | Project Management Support Analyst (Environment & Energy, Bangkok) | 3.8/5 | PDF (no)
+- [x] #647 | https://unjobs.org/vacancies/1753137747944 | UNEP | Associate Programme Management Officer (Bangkok) | 3.8/5 | PDF (no)
+- [x] #648 | https://unjobs.org/vacancies/1771353147147 | UNEP | Technical Advisor REDD+ and Forests (Bangkok) | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-07-18 — Multi-portal scheduled scan (backfill) -->
-- [ ] https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE
-- [ ] https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer
-- [ ] https://www.adb.org/careers/260160 | ADB | Project Officer (Energy)
-- [ ] https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist
-- [ ] https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico)
+- [x] #782 | https://jobs.unicef.org/en-us/job/594380/consultant-clean-air-hehc-programme-gpd-climate-and-environment-coe-15-months-bangkok-thailand-office-based-594380 | UNICEF Bangkok | Consultant – Clean Air, HEHC Programme, Climate and Environment CoE | 1.5/5 | PDF (no)
+- [x] #783 | https://www.adb.org/careers/260633 | ADB | Associate Financing Partnerships Officer | 2.5/5 | PDF (no)
+- [x] #784 | https://www.adb.org/careers/260160 | ADB | Project Officer (Energy) – Indonesia RM | 1.5/5 | PDF (no)
+- [x] #785 | https://www.adb.org/careers/260183 | ADB | Senior Project Officer (Energy) – Turkmenistan RM | 1.0/5 | PDF (no)
+- [x] #786 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601218 | FAO | Climate Change Programme Specialist | 2.0/5 | PDF (no)
+- [x] #787 | https://careers.gggi.org/vacancy/gcf-projects-consultant-mexico-608333.html | GGGI | GCF Projects Consultant (Mexico) | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-07-19 — Multi-portal scheduled scan -->
-- [ ] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Bangkok | Research Fellow – Bankable Climate Adaptation Solutions and Finance Mechanisms
-- [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Thailand)
-- [ ] https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG (Sustainability Services) Consultant (Manager)
-- [ ] https://aseanenergy.org/opportunities/vacancy/research-analyst-on-sustainable-and-renewable-energy-sre | ASEAN Centre for Energy | Research Analyst – Sustainable and Renewable Energy
-- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole APAC | Managing Consultant – Climate Risk & Disclosure (Asia Pacific)
-- [ ] https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq Philippines | Senior Sustainability and Climate Advisory Analyst
+- [!] https://www.sei.org/people/jobs/research-fellow-bankable-climate-adaptation/ | SEI Bangkok | Research Fellow – Bankable Climate Adaptation Solutions and Finance Mechanisms | closed Aug 31 2025 – posting expired
+- [!] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I | DRR and Climate Change Analyst – Partnerships for Infrastructure (Thailand) | JD not retrieved – likely closed; previous similar P4I roles were for Thai nationals only
+- [x] #792 | https://www.climatechangecareers.com/job/kpmg-thailand/bangkok-thailand/esg-sustainability-services-consultant-manager/ | KPMG Thailand | ESG (Sustainability Services) Consultant (Manager) | 1.8/5 | PDF (no)
+- [!] https://aseanenergy.org/opportunities/vacancy/research-analyst-on-sustainable-and-renewable-energy-sre | ASEAN Centre for Energy | Research Analyst – Sustainable and Renewable Energy | closed May 31 2026 – posting expired
+- [x] #793 | https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole APAC | Managing Consultant – Climate Risk & Disclosure (Asia Pacific) | 2.0/5 | PDF (no)
+- [x] #794 | https://www.climatechangecareers.com/job/nasdaq/taguig-philippines/senior-sustainability-and-climate-advisory-analyst/ | Nasdaq Philippines | Senior Sustainability and Climate Advisory Analyst | 3.0/5 | PDF (no)
 - [ ] https://www.mycareersfuture.gov.sg/job/sustainability-esg-consultant-sgs-international-certification-services-singapore-5d354dc72aa8d2b95397167a19dac97b | SGS International Singapore | Sustainability & ESG Consultant
 - [ ] https://www.mycareersfuture.gov.sg/job/managing-consultant-corporate-sustainability-climate-change-environmental-resources-management-dddcadbbce041fe24af116ad6bd9fa34 | ERM Singapore | Managing Consultant – Corporate Sustainability and Climate Change
 - [ ] https://www.mycareersfuture.gov.sg/job/consulting/esg-intelligence-analyst-associate-eco-business-d5d27109f17a48bdfc7b8ce689360332 | Eco-Business Singapore | ESG Intelligence Analyst / Associate
