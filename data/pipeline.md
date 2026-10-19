@@ -1948,16 +1948,16 @@
 - [x] #646 | https://www.climatechangecareers.com/job/erm/shanghai-china/consulting-associate-senior-associate-corporate-sustainability-climate-change/ | ERM Shanghai | Consulting Associate / Senior Associate – Corporate Sustainability & Climate Change | 3.3/5 | PDF (no)
 - [x] #647 | https://careers.unido.org/job/Vienna-Project-Assistant/1358575255/ | UNIDO | Project Assistant | 3.6/5 | PDF (no)
 - [x] #648 | https://untalent.org/jobs/carbon-markets-and-climate-finance-analyst | UNDP | Carbon Markets and Climate Finance Analyst | 3.7/5 | PDF (no)
-- [ ] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=56681 | UNDP | Assistant Programme Officer
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=55904 | UNDP | Programme Specialist – Global Environment Facility
-- [ ] https://www.unjobnet.org/jobs/detail/oecd-junior-energy-analyst-electricity-systems-and-markets-temporary-87143115 | OECD | Junior Energy Analyst – Electricity Systems and Markets (Temporary)
-- [ ] https://www.unjobnet.org/jobs/detail/undp-sustainable-and-blended-finance-analyst-85026921 | UNDP | Sustainable and Blended Finance Analyst
-- [ ] https://www.unjobnet.org/jobs/detail/85743841 | OECD | Junior Power Sector Modeller (Temporary)
-- [ ] https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC
-- [ ] https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | MEL Consultant
-- [ ] https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT)
-- [ ] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer
+- [!] https://untalent.org/jobs/individual-consultant-climate-change-consultant | UNDP | Individual Consultant – Climate Change Consultant | site unreachable (ENOTFOUND); JD not retrievable
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=56681 | UNDP | Assistant Programme Officer | site unreachable (ENOTFOUND); JD not retrievable
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=55904 | UNDP | Programme Specialist – Global Environment Facility | site unreachable (ENOTFOUND); JD not retrievable
+- [x] #794 | https://www.unjobnet.org/jobs/detail/oecd-junior-energy-analyst-electricity-systems-and-markets-temporary-87143115 | OECD/IEA | Junior Energy Analyst – Electricity Systems and Markets (Temporary) | 3.6/5 | PDF (no)
+- [x] #795 | https://www.unjobnet.org/jobs/detail/undp-sustainable-and-blended-finance-analyst-85026921 | UNDP | Sustainable and Blended Finance Analyst | 3.2/5 | PDF (no)
+- [x] #796 | https://www.unjobnet.org/jobs/detail/85743841 | OECD/IEA | Junior Power Sector Modeller (Temporary) | 4.0/5 | PDF (no)
+- [x] #797 | https://careers.gggi.org/vacancy/climate-change-risk-and-sustainable-finance-regulation-ic-urf-600295.html | GGGI | Climate Change Risk and Sustainable Finance Regulation IC | 2.7/5 | PDF (no)
+- [x] #798 | https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | MEL Consultant | 2.9/5 | PDF (no)
+- [x] #799 | https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT) | 3.8/5 | PDF (no)
+- [!] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer | site unreachable; specific vacancy not found via search
 - [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist
 - [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool)
 - [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst
