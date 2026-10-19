@@ -2354,3 +2354,22 @@
 <!-- Scan 2026-10-18 — Scheduled portal scan -->
 - [ ] https://www.monster.co.th/job/esg-analyst-krungsri-thailand-60911502 | Krungsri (Bank of Ayudhya) | ESG Analyst (Bangkok)
 - [ ] https://www.monster.co.th/job/senior-associate-esg-consultant-pwc-thailand-45037871 | PwC Thailand | ESG Consultant – Senior Associate (Bangkok)
+
+<!-- Scan 2026-10-19 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Bangkok-National-Resource-Efficient-and-Cleaner-Production-(RECP)-and-Climate-Change-coordinator/1367460455/ | UNIDO | National RECP and Climate Change Coordinator (Bangkok)
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/economic-analyst98.html | AIIB | Economic Analyst
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/economic-associate-project-economics02.html | AIIB | Economic Associate – Project Economics
+- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/graduate-program/job-details/economics-analyst57.html | AIIB | Economics Analyst (Graduate Program)
+- [ ] https://untalent.org/jobs/research-analyst-sustainable-cities-program | WRI | Research Analyst – Sustainable Cities Program
+- [ ] https://unvacancies.org/jobs/climate-change-portfolio-and-programme-analyst-open-to-tier-0-1-2-applicants-DP-37180 | UNDP | Climate Change Portfolio and Programme Analyst (Tier 0-1-2)
+- [ ] https://unvacancies.org/jobs/associate-programme-management-officer-P-284153 | UNEP | Associate Programme Management Officer (P-2)
+- [ ] https://climatebase.org/job/73697867/consultant---corporate-sustainability-and-climate-change | ERM | Consultant – Corporate Sustainability and Climate Change (Bangkok)
+- [ ] https://jobs.garp.org/job/consultant-associateconsultantmanaging-consultant-corporate-sustainability-and-climate-change-esgghg/85909842/ | ERM | Consultant – Corporate Sustainability and Climate Change (Seoul)
+- [ ] https://jobs.norrsken.org/companies/longevity-partners-2/jobs/50110877-sustainability-energy-consultant | Longevity Partners | Sustainability Energy Consultant (Tokyo)
+- [ ] https://careers.apac.deloitte.com/Taiwan/job/Consultant-Sustainability-Trend-Research-and-Analysis%EF%BC%8DAssurance%EF%BC%8DA&A/585-en_US | Deloitte | Consultant – Sustainability Trend Research and Analysis (Taipei)
+- [ ] https://uncareer.net/vacancy/learning-and-development-consultant-environmental-sustainability-p3-865312 | UN | Consultant – Environmental Sustainability (Learning & Development, P3)
+- [ ] https://southasiacareers.deloitte.com/job/Delhi-Analyst-ESG-Delhi-Sustainability/55964744/ | Deloitte India | Analyst – ESG (Delhi)
+- [ ] https://www.terra.do/climate-jobs/job-board/Assistant-Manager--Corporate-Sustainability-POSH-8385342/ | POSH | Assistant Manager – Corporate Sustainability (Singapore)
+- [ ] https://welovesalt.com/jobs/esg-analyst-sustainability-reporting-710992 | (via WeLoveSalt) | ESG Analyst – Sustainability Reporting
+- [ ] https://southasiacareers.deloitte.com/job/Mumbai-Consultant-ESG-Mumbai-Sustainability/58264944/ | Deloitte India | Consultant – ESG (Mumbai)
+- [ ] https://impactpool.org/jobs/1193240 | ADB | Senior Environment Officer (India)
