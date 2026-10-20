@@ -3,11 +3,11 @@
 ## Pendientes
 
 <!-- Scan 2026-10-20 — Scheduled portal scan -->
-- [ ] https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | Advisory - Consulting, ESG Graduate Associate 2026
-- [ ] https://climatebase.org/job/74788767/ehs-consulting-associate--senior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate
-- [ ] https://www.impactpool.org/jobs/1240618 | ADB | Operations Analyst – Climate Change & Sustainable Development (Manila)
-- [ ] https://climatebase.org/job/74451050/technical-risk--safety-senior-consultant | ERM Bangkok | Technical Risk & Safety Senior Consultant
-- [ ] https://untalent.org/jobs/expert-in-transport-and-climate-change-2 | UNESCAP Bangkok | Expert in Transport and Climate Change
+- [x] #639 | https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | Advisory - Consulting, ESG Graduate Associate 2026 | 3.2/5 | PDF (no)
+- [x] #640 | https://climatebase.org/job/74788767/ehs-consulting-associate--senior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate | 2.1/5 | PDF (no)
+- [x] #641 | https://www.impactpool.org/jobs/1240618 | ADB | Operations Analyst – Climate Change & Sustainable Development (Manila) | 4.1/5 | PDF (no)
+- [x] #642 | https://climatebase.org/job/74451050/technical-risk--safety-senior-consultant | ERM Bangkok | Technical Risk & Safety Senior Consultant | 1.2/5 | PDF (no)
+- [!] https://untalent.org/jobs/expert-in-transport-and-climate-change-2 | UNESCAP Bangkok | Expert in Transport and Climate Change | offer expired (deadline June 2025; requires 15+ years experience)
 
 <!-- Scan 2026-10-16 — Scheduled portal scan -->
 - [x] #788 | https://careers.southpole.com/jobs/8157045-specialist-corsia-compliance-markets | South Pole | Specialist, CORSIA Compliance Markets | 1.5/5 | PDF (no)
@@ -1965,11 +1965,11 @@
 - [x] #798 | https://careers.gggi.org/vacancy/monitoring-evaluation-and-learning-mel-consultant-597027.html | GGGI | MEL Consultant | 2.9/5 | PDF (no)
 - [x] #799 | https://careers.gggi.org/vacancy/project-associate-ikialcbt-587694.html | GGGI | Project Associate (IKI-ALCBT) | 3.8/5 | PDF (no)
 - [!] https://careers.gggi.org/vacancy/project-officer-602467.html | GGGI | Project Officer | site unreachable; specific vacancy not found via search
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist
-- [ ] https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool)
-- [ ] https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29791 | UNOPS | Programme Management – Analyst (Innovation)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=26314 | UNOPS | Programme Analyst
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2600368 | FAO | Project Analyst and Reporting Specialist | offer closed (deadline March 3, 2026)
+- [x] #643 | https://jobs.greenclimate.fund/job/Incheon,-South-Korea-(ICN)-Climate-Impact-Project-Specialist-(Talent-Pool)/1185277101/ | GCF | Climate Impact Project Specialist (Talent Pool) | 3.7/5 | PDF (no)
+- [x] #644 | https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst | 3.5/5 | PDF (no)
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29791 | UNOPS | Programme Management – Analyst (Innovation) | offer closed (deadline March 11, 2025)
+- [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=26314 | UNOPS | Programme Analyst | JD not retrievable (DNS failure); no current listing found via search
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst) – Climate Action Team
 - [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
 - [ ] https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote)
