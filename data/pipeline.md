@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-20 — Scheduled portal scan -->
+- [ ] https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | Advisory - Consulting, ESG Graduate Associate 2026
+- [ ] https://climatebase.org/job/74788767/ehs-consulting-associate--senior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate
+- [ ] https://www.impactpool.org/jobs/1240618 | ADB | Operations Analyst – Climate Change & Sustainable Development (Manila)
+- [ ] https://climatebase.org/job/74451050/technical-risk--safety-senior-consultant | ERM Bangkok | Technical Risk & Safety Senior Consultant
+- [ ] https://untalent.org/jobs/expert-in-transport-and-climate-change-2 | UNESCAP Bangkok | Expert in Transport and Climate Change
+
 <!-- Scan 2026-10-16 — Scheduled portal scan -->
 - [x] #788 | https://careers.southpole.com/jobs/8157045-specialist-corsia-compliance-markets | South Pole | Specialist, CORSIA Compliance Markets | 1.5/5 | PDF (no)
 - [x] #789 | https://careers.southpole.com/jobs/7812955-senior-specialist-standards-and-methodologies-compliance-markets | South Pole | Senior Specialist, Standards and Methodologies – Compliance Markets | 2.0/5 | PDF (no)
