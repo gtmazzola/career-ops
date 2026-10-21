@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-21 — Scheduled portal scan -->
+- [ ] https://careers.un.org/jobSearchDescription/285586 | UN | YPP Exam – Development and Sustainability P-1/P-2 (deadline Nov 30, 2026)
+- [ ] https://climatebase.org/job/73574372/consultant-associateconsultantmanaging-consultant-corporate-sustainability-and-climate-change-esgghg | ERM Bangkok | Consultant/Associate Consultant – Corporate Sustainability & Climate Change
+- [ ] https://climatebase.org/job/72329664/sustainability-and-resilience-consultant | AFRY | Sustainability and Resilience Consultant (Bangkok)
+- [ ] https://careers.gggi.org/vacancy/sustainable-territorial-planning-senior-associate-620327.html | GGGI | Sustainable Territorial Planning Senior Associate (Bogotá)
+- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/02/Job-Announcement_GCM_Junior-Advisor-Carbon-Market-260203.pdf | GIZ Thailand | Junior Advisor – Carbon Market RegCoM (Bangkok)
+
 <!-- Scan 2026-10-20 — Scheduled portal scan -->
 - [x] #639 | https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | Advisory - Consulting, ESG Graduate Associate 2026 | 3.2/5 | PDF (no)
 - [x] #640 | https://climatebase.org/job/74788767/ehs-consulting-associate--senior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate | 2.1/5 | PDF (no)
