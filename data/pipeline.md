@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-21 — Scheduled portal scan -->
+- [x] #639 | https://careers.un.org/jobSearchDescription/285586 | UN | YPP Exam – Development and Sustainability P-1/P-2 | 4.0/5 | PDF (no)
+- [x] #640 | https://climatebase.org/job/73574372/consultant-associateconsultantmanaging-consultant-corporate-sustainability-and-climate-change-esgghg | ERM Bangkok | Consultant/Associate Consultant – Corporate Sustainability & Climate Change | 4.1/5 | PDF (no)
+- [x] #641 | https://climatebase.org/job/72329664/sustainability-and-resilience-consultant | AFRY | Sustainability and Resilience Consultant (Bangkok) | 3.2/5 | PDF (no)
+- [x] #642 | https://careers.gggi.org/vacancy/sustainable-territorial-planning-senior-associate-620327.html | GGGI | Sustainable Territorial Planning Senior Associate (Bogotá) | 3.2/5 | PDF (no)
+- [x] #643 | https://www.thai-german-cooperation.info/wp-content/uploads/2026/02/Job-Announcement_GCM_Junior-Advisor-Carbon-Market-260203.pdf | GIZ Thailand | Junior Advisor – Carbon Market RegCoM (Bangkok) | 3.7/5 | PDF (no)
+
 <!-- Scan 2026-10-20 — Scheduled portal scan -->
 - [x] #639 | https://climate.jobs/company/kpmg/advisory-consulting-esg-graduate-associate-2026 | KPMG Singapore | Advisory - Consulting, ESG Graduate Associate 2026 | 3.2/5 | PDF (no)
 - [x] #640 | https://climatebase.org/job/74788767/ehs-consulting-associate--senior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate | 2.1/5 | PDF (no)
@@ -1970,11 +1977,11 @@
 - [x] #644 | https://jobs.unops.org/pages/viewvacancy/vadetails.aspx?id=30711 | UNOPS | Programme Management Support – Senior Analyst | 3.5/5 | PDF (no)
 - [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=29791 | UNOPS | Programme Management – Analyst (Innovation) | offer closed (deadline March 11, 2025)
 - [!] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=26314 | UNOPS | Programme Analyst | JD not retrievable (DNS failure); no current listing found via search
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst) – Climate Action Team
-- [ ] https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote)
-- [ ] https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote)
-- [ ] https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote)
-- [ ] https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote)
+- [x] #644 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=21428 | UNOPS | Senior Programme Officer (Analyst) – Climate Action Team | 2.7/5 | PDF (no)
+- [x] #645 | https://www.climatechangecareers.com/job/sei/remote/climate-and-decarbonization-strategy-associate/ | SEI | Climate and Decarbonization Strategy Associate (Remote) | 3.5/5 | PDF (no)
+- [x] #646 | https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote) | 2.5/5 | PDF (no)
+- [!] https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote) | JD not retrievable — no active posting found (company too small/new, posting likely closed)
+- [x] #647 | https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote) | 2.9/5 | PDF (no)
 - [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact India | Associate Consultant – Climate
 - [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | IO | Individual Consultant – Fund ESG and Sustainability
 - [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | NGO Asia | Climate Change Specialist – Asia (Bangladesh)
