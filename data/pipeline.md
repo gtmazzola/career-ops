@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-10-22 — Scheduled portal scan -->
-- [ ] https://unvacancies.org/jobs/international-expert-on-sustainable-energy-IC-50837 | UNDP | International Expert on Sustainable Energy (Turkmenistan) — URGENT closes Oct 23
-- [ ] https://climatebase.org/job/72630598/expression-of-interest---biodiversity-consulting-senior-associateconsultant | ERM Bangkok | Expression of Interest – Biodiversity Consulting Senior Associate/Consultant
-- [ ] https://climatebase.org/job/52353640/consultant---social-and-sustainability-support-entry-level | ERM Bangkok | Consulting Associate/Senior Associate – Social Sustainability & Human Rights
-- [ ] https://climatebase.org/job/73462305/sustainable-operation-consulting-associatesenior-associate | ERM Bangkok | Sustainable Operation Consulting Associate/Senior Associate
+- [x] #799 | https://unvacancies.org/jobs/international-expert-on-sustainable-energy-IC-50837 | UNDP | International Expert on Sustainable Energy (Turkmenistan) | 2.8/5 | PDF (no)
+- [x] #800 | https://climatebase.org/job/72630598/expression-of-interest---biodiversity-consulting-senior-associateconsultant | ERM Bangkok | Expression of Interest – Biodiversity Consulting Senior Associate/Consultant | 2.5/5 | PDF (no)
+- [x] #801 | https://climatebase.org/job/52353640/consultant---social-and-sustainability-support-entry-level | ERM Bangkok | Consulting Associate/Senior Associate – Social Sustainability & Human Rights | 3.3/5 | PDF (no)
+- [x] #802 | https://climatebase.org/job/73462305/sustainable-operation-consulting-associatesenior-associate | ERM Bangkok | Sustainable Operation Consulting Associate/Senior Associate | 3.8/5 | PDF (no)
 
 <!-- Scan 2026-10-21 — Scheduled portal scan -->
 - [x] #639 | https://careers.un.org/jobSearchDescription/285586 | UN | YPP Exam – Development and Sustainability P-1/P-2 | 4.0/5 | PDF (no)
@@ -1988,12 +1988,12 @@
 - [x] #646 | https://www.climatechangecareers.com/job/sei/remote/strategic-energy-management-associate/ | SEI | Strategic Energy Management Associate (Remote) | 2.5/5 | PDF (no)
 - [!] https://www.climatechangecareers.com/job/kaleidoscope/remote/sustainability-strategy-analyst/ | Kaleidoscope | Sustainability Strategy Analyst (Remote) | JD not retrievable — no active posting found (company too small/new, posting likely closed)
 - [x] #647 | https://www.climatechangecareers.com/job/sei/remote/project-and-sustainability-associate/ | SEI | Project and Sustainability Associate (Remote) | 2.9/5 | PDF (no)
-- [ ] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact India | Associate Consultant – Climate
-- [ ] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | IO | Individual Consultant – Fund ESG and Sustainability
-- [ ] https://reliefweb.int/job/4016135/climate-change-specialist-asia | NGO Asia | Climate Change Specialist – Asia (Bangladesh)
-- [ ] https://reliefweb.int/job/3984413/consultant-climate-action | NGO | Consultant – Climate Action
-- [ ] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | UN/IO | Services of Consultant – Loss and Damage from Climate Change in Asia
-- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
+- [!] https://www.climatechangecareers.com/job/decoding-impact/bengaluru-india/associate-consultant-climate/ | Decoding Impact India | Associate Consultant – Climate | JD not retrievable — climatechangecareers.com inaccessible in batch mode; see report 803
+- [!] https://www.devex.com/jobs/individual-consultant-fund-environmental-social-governance-esg-and-sustainability-1416704 | IO | Individual Consultant – Fund ESG and Sustainability | JD not retrievable — Devex inaccessible; possible 10yr exp req (ADB/Mongolia posting); see report 804
+- [!] https://reliefweb.int/job/4016135/climate-change-specialist-asia | NGO Asia | Climate Change Specialist – Asia (Bangladesh) | JD not retrievable — ReliefWeb inaccessible in batch mode; see report 805
+- [!] https://reliefweb.int/job/3984413/consultant-climate-action | NGO | Consultant – Climate Action | JD not retrievable — ReliefWeb inaccessible in batch mode; see report 806
+- [!] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | UN/IO | Services of Consultant – Loss and Damage from Climate Change in Asia | JD not retrievable — ReliefWeb inaccessible in batch mode; see report 807
+- [x] #808 | https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk) | 2.5/5 | PDF (no)
 - [ ] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory
 - [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions | South Pole | Managing Consultant – Renewable Energy Solutions (1-year contract)
 - [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst (Bali, Indonesia)
