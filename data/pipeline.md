@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-22 — Scheduled portal scan -->
+- [ ] https://unvacancies.org/jobs/international-expert-on-sustainable-energy-IC-50837 | UNDP | International Expert on Sustainable Energy (Turkmenistan) — URGENT closes Oct 23
+- [ ] https://climatebase.org/job/72630598/expression-of-interest---biodiversity-consulting-senior-associateconsultant | ERM Bangkok | Expression of Interest – Biodiversity Consulting Senior Associate/Consultant
+- [ ] https://climatebase.org/job/52353640/consultant---social-and-sustainability-support-entry-level | ERM Bangkok | Consulting Associate/Senior Associate – Social Sustainability & Human Rights
+- [ ] https://climatebase.org/job/73462305/sustainable-operation-consulting-associatesenior-associate | ERM Bangkok | Sustainable Operation Consulting Associate/Senior Associate
+
 <!-- Scan 2026-10-21 — Scheduled portal scan -->
 - [x] #639 | https://careers.un.org/jobSearchDescription/285586 | UN | YPP Exam – Development and Sustainability P-1/P-2 | 4.0/5 | PDF (no)
 - [x] #640 | https://climatebase.org/job/73574372/consultant-associateconsultantmanaging-consultant-corporate-sustainability-and-climate-change-esgghg | ERM Bangkok | Consultant/Associate Consultant – Corporate Sustainability & Climate Change | 4.1/5 | PDF (no)
