@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-23 — Scheduled portal scan -->
+- [ ] https://www.adb.org/careers/260683 | ADB | Associate Operations Officer – Climate Change & Sustainable Development (Manila)
+- [ ] https://climatebase.org/job/52921623/corporate-sustainability-and-climate-change-consulting-senior-associate | ERM Bangkok | Corporate Sustainability & Climate Change Consulting Senior Associate
+- [ ] https://climatebase.org/job/58405677/ehs-consulting-associatesenior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate
+
 <!-- Scan 2026-10-22 — Scheduled portal scan -->
 - [x] #799 | https://unvacancies.org/jobs/international-expert-on-sustainable-energy-IC-50837 | UNDP | International Expert on Sustainable Energy (Turkmenistan) | 2.8/5 | PDF (no)
 - [x] #800 | https://climatebase.org/job/72630598/expression-of-interest---biodiversity-consulting-senior-associateconsultant | ERM Bangkok | Expression of Interest – Biodiversity Consulting Senior Associate/Consultant | 2.5/5 | PDF (no)
