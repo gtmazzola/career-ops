@@ -3,9 +3,9 @@
 ## Pendientes
 
 <!-- Scan 2026-10-23 — Scheduled portal scan -->
-- [ ] https://www.adb.org/careers/260683 | ADB | Associate Operations Officer – Climate Change & Sustainable Development (Manila)
-- [ ] https://climatebase.org/job/52921623/corporate-sustainability-and-climate-change-consulting-senior-associate | ERM Bangkok | Corporate Sustainability & Climate Change Consulting Senior Associate
-- [ ] https://climatebase.org/job/58405677/ehs-consulting-associatesenior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate
+- [x] #639 | https://www.adb.org/careers/260683 | ADB | Associate Operations Officer – Climate Change & Sustainable Development (Manila) | 4.0/5 | PDF (no)
+- [x] #640 | https://climatebase.org/job/52921623/corporate-sustainability-and-climate-change-consulting-senior-associate | ERM Bangkok | Corporate Sustainability & Climate Change Consulting Senior Associate | 3.8/5 | PDF (no)
+- [x] #641 | https://climatebase.org/job/58405677/ehs-consulting-associatesenior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate | 3.2/5 | PDF (no)
 
 <!-- Scan 2026-10-22 — Scheduled portal scan -->
 - [x] #799 | https://unvacancies.org/jobs/international-expert-on-sustainable-energy-IC-50837 | UNDP | International Expert on Sustainable Energy (Turkmenistan) | 2.8/5 | PDF (no)
@@ -1999,17 +1999,17 @@
 - [!] https://reliefweb.int/job/3984413/consultant-climate-action | NGO | Consultant – Climate Action | JD not retrievable — ReliefWeb inaccessible in batch mode; see report 806
 - [!] https://reliefweb.int/job/3991546/services-consultant-study-gendered-dimensions-loss-and-damage-climate-change-asia | UN/IO | Services of Consultant – Loss and Damage from Climate Change in Asia | JD not retrievable — ReliefWeb inaccessible in batch mode; see report 807
 - [x] #808 | https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk) | 2.5/5 | PDF (no)
-- [ ] https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory
-- [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions | South Pole | Managing Consultant – Renewable Energy Solutions (1-year contract)
-- [ ] https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst (Bali, Indonesia)
-- [ ] https://jobs.ilo.org/job/Geneva-Programme-and-Operations-Analyst-1200/1004489601/ | ILO | Programme and Operations Analyst (Geneva)
+- [x] #642 | https://careers.southpole.com/jobs/7162036-lead-operations-finance-analyst-climate-advisory | South Pole | Lead Operations & Finance Analyst – Climate Advisory | 2.7/5 | PDF (no)
+- [x] #643 | https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions | South Pole | Managing Consultant – Renewable Energy Solutions (1-year contract) | 3.0/5 | PDF (no)
+- [x] #644 | https://www.wri.org/careers/jobs/urban-finance-and-economy-research-analyst-2026-jr100174 | WRI | Urban Finance and Economy Research Analyst (Bali, Indonesia) | 2.5/5 | PDF (no)
+- [x] #645 | https://jobs.ilo.org/job/Geneva-Programme-and-Operations-Analyst-1200/1004489601/ | ILO | Programme and Operations Analyst (Geneva) | 4.0/5 | PDF (no)
 
 <!-- Scan 2026-07-21 — Multi-portal scheduled scan -->
-- [ ] https://untalent.org/jobs/climate-change-data-analyst-consultant | FAO | Climate Change Data Analyst (Consultant)
-- [ ] https://community.iisd.org/jobs/program-associate-across-various-ccsi-focus-areas/ | Columbia CCSI | Program Associate (across various CCSI focus areas)
+- [x] #646 | https://untalent.org/jobs/climate-change-data-analyst-consultant | FAO | Climate Change Data Analyst (Consultant) | 1.5/5 | PDF (no)
+- [x] #647 | https://community.iisd.org/jobs/program-associate-across-various-ccsi-focus-areas/ | Columbia CCSI | Program Associate (across various CCSI focus areas) | 3.8/5 | PDF (no)
 
 <!-- Scan 2026-07-27 — Multi-portal scheduled scan -->
-- [ ] https://www.climatechangecareers.com/job/wsp-in-india/noida-india/associate-consultant-esg-climate-change-and-carbon/ | WSP in India | Associate Consultant – ESG, Climate Change and Carbon
+- [x] #648 | https://www.climatechangecareers.com/job/wsp-in-india/noida-india/associate-consultant-esg-climate-change-and-carbon/ | WSP in India | Associate Consultant – ESG, Climate Change and Carbon | 2.8/5 | PDF (no)
 - [ ] https://jobs.unicef.org/mob/cw/en-us/job/591257/consultant-evaluation-officer-for-the-regional-office-and-country-offices-in-the-east-asia-and-the-pacific-region-unicef-east-asia-and-pacific-regional-office-eapro-bangkok-thailand | UNICEF EAPRO | Consultant – Evaluation Officer (Bangkok)
 - [ ] https://jobs.unicef.org/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF Bangkok | Climate Resilient Education Consultant
 
