@@ -2,6 +2,19 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-24 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1168697655 | UNIDO | Project Assistant
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1163701455 | UNIDO | Industrial Development Expert
+- [ ] https://careers-ricardo.icims.com/jobs/2698/esg-and-sustainability-reporting-senior-consultant/job | Ricardo | ESG and Sustainability Reporting Senior Consultant
+- [ ] https://climatebase.org/job/51593036/consulting-associate-sustainability-entry-level | ERM | Consulting Associate, Sustainability
+- [ ] https://emplois.moodys.com/sustainable-finance-analyst/job/29139773 | Moody's | Sustainable Finance Analyst
+- [ ] https://careers.msci.com/job/data-and-operations/sofia/sustainability-climate-issuer-communication-analyst/2025-4618 | MSCI | Sustainability & Climate Issuer Communication Analyst
+- [ ] https://www.sei.org/?p=222674 | SEI Asia | Research Associate (Bangkok)
+- [ ] https://careers.unido.org/job/Brazzaville-Institutional-Governance-Consultant/1352900055/ | UNIDO | Institutional Governance Consultant
+- [ ] https://careers.unido.org/job/Home-Based-Environmental-and-Social-Management-Expert/991226255 | UNIDO | Environmental and Social Management Expert
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1335293255 | UNIDO | Industrial Development Officer
+- [ ] https://careers.unido.org/job/Bridgetown-National-Project-Associate/1135742855 | UNIDO | National Project Associate
+
 <!-- Scan 2026-10-23 — Scheduled portal scan -->
 - [x] #639 | https://www.adb.org/careers/260683 | ADB | Associate Operations Officer – Climate Change & Sustainable Development (Manila) | 4.0/5 | PDF (no)
 - [x] #640 | https://climatebase.org/job/52921623/corporate-sustainability-and-climate-change-consulting-senior-associate | ERM Bangkok | Corporate Sustainability & Climate Change Consulting Senior Associate | 3.8/5 | PDF (no)
