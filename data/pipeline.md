@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-10-24 — Scheduled portal scan -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1168697655 | UNIDO | Project Assistant
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1163701455 | UNIDO | Industrial Development Expert
-- [ ] https://careers-ricardo.icims.com/jobs/2698/esg-and-sustainability-reporting-senior-consultant/job | Ricardo | ESG and Sustainability Reporting Senior Consultant
-- [ ] https://climatebase.org/job/51593036/consulting-associate-sustainability-entry-level | ERM | Consulting Associate, Sustainability
-- [ ] https://emplois.moodys.com/sustainable-finance-analyst/job/29139773 | Moody's | Sustainable Finance Analyst
-- [ ] https://careers.msci.com/job/data-and-operations/sofia/sustainability-climate-issuer-communication-analyst/2025-4618 | MSCI | Sustainability & Climate Issuer Communication Analyst
-- [ ] https://www.sei.org/?p=222674 | SEI Asia | Research Associate (Bangkok)
-- [ ] https://careers.unido.org/job/Brazzaville-Institutional-Governance-Consultant/1352900055/ | UNIDO | Institutional Governance Consultant
-- [ ] https://careers.unido.org/job/Home-Based-Environmental-and-Social-Management-Expert/991226255 | UNIDO | Environmental and Social Management Expert
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1335293255 | UNIDO | Industrial Development Officer
+- [x] #809 | https://careers.unido.org/job/Vienna-Project-Assistant/1168697655 | UNIDO | Project Assistant | 2.0/5 | PDF (no)
+- [x] #810 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1163701455 | UNIDO | Industrial Development Expert | 2.8/5 | PDF (no)
+- [x] #811 | https://careers-ricardo.icims.com/jobs/2698/esg-and-sustainability-reporting-senior-consultant/job | Ricardo | ESG and Sustainability Reporting Senior Consultant | 2.8/5 | PDF (no)
+- [x] #812 | https://climatebase.org/job/51593036/consulting-associate-sustainability-entry-level | ERM | Consulting Associate, Sustainability | 3.5/5 | PDF (no)
+- [x] #813 | https://emplois.moodys.com/sustainable-finance-analyst/job/29139773 | Moody's | Sustainable Finance Analyst | 3.5/5 | PDF (no)
+- [x] #814 | https://careers.msci.com/job/data-and-operations/sofia/sustainability-climate-issuer-communication-analyst/2025-4618 | MSCI | Sustainability & Climate Issuer Communication Analyst | 3.2/5 | PDF (no)
+- [x] #815 | https://www.sei.org/?p=222674 | SEI Asia | Research Associate (Bangkok) | 3.8/5 | PDF (no)
+- [x] #816 | https://careers.unido.org/job/Brazzaville-Institutional-Governance-Consultant/1352900055/ | UNIDO | Institutional Governance Consultant | 1.5/5 | PDF (no)
+- [x] #817 | https://careers.unido.org/job/Home-Based-Environmental-and-Social-Management-Expert/991226255 | UNIDO | Environmental and Social Management Expert | 2.2/5 | PDF (no)
+- [x] #818 | https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1335293255 | UNIDO | Industrial Development Officer | 3.0/5 | PDF (no)
 - [ ] https://careers.unido.org/job/Bridgetown-National-Project-Associate/1135742855 | UNIDO | National Project Associate
 
 <!-- Scan 2026-10-23 — Scheduled portal scan -->
