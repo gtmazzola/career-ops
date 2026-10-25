@@ -13,7 +13,7 @@
 - [x] #816 | https://careers.unido.org/job/Brazzaville-Institutional-Governance-Consultant/1352900055/ | UNIDO | Institutional Governance Consultant | 1.5/5 | PDF (no)
 - [x] #817 | https://careers.unido.org/job/Home-Based-Environmental-and-Social-Management-Expert/991226255 | UNIDO | Environmental and Social Management Expert | 2.2/5 | PDF (no)
 - [x] #818 | https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1335293255 | UNIDO | Industrial Development Officer | 3.0/5 | PDF (no)
-- [ ] https://careers.unido.org/job/Bridgetown-National-Project-Associate/1135742855 | UNIDO | National Project Associate
+- [!] https://careers.unido.org/job/Bridgetown-National-Project-Associate/1135742855 | UNIDO | National Project Associate | fetch failed: external network blocked (403 proxy policy) — retry manually
 
 <!-- Scan 2026-10-23 — Scheduled portal scan -->
 - [x] #639 | https://www.adb.org/careers/260683 | ADB | Associate Operations Officer – Climate Change & Sustainable Development (Manila) | 4.0/5 | PDF (no)
@@ -2023,17 +2023,17 @@
 
 <!-- Scan 2026-07-27 — Multi-portal scheduled scan -->
 - [x] #648 | https://www.climatechangecareers.com/job/wsp-in-india/noida-india/associate-consultant-esg-climate-change-and-carbon/ | WSP in India | Associate Consultant – ESG, Climate Change and Carbon | 2.8/5 | PDF (no)
-- [ ] https://jobs.unicef.org/mob/cw/en-us/job/591257/consultant-evaluation-officer-for-the-regional-office-and-country-offices-in-the-east-asia-and-the-pacific-region-unicef-east-asia-and-pacific-regional-office-eapro-bangkok-thailand | UNICEF EAPRO | Consultant – Evaluation Officer (Bangkok)
-- [ ] https://jobs.unicef.org/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF Bangkok | Climate Resilient Education Consultant
+- [!] https://jobs.unicef.org/mob/cw/en-us/job/591257/consultant-evaluation-officer-for-the-regional-office-and-country-offices-in-the-east-asia-and-the-pacific-region-unicef-east-asia-and-pacific-regional-office-eapro-bangkok-thailand | UNICEF EAPRO | Consultant – Evaluation Officer (Bangkok) | fetch failed: external network blocked (403 proxy policy) — retry manually
+- [!] https://jobs.unicef.org/en-us/job/592960/climate-resilient-education-consultant-gpd-education-bangkok-thailand-remote-592960 | UNICEF Bangkok | Climate Resilient Education Consultant | fetch failed: external network blocked (403 proxy policy) — retry manually
 
 <!-- Scan 2026-07-31 — Multi-portal scheduled scan -->
-- [ ] https://www.unjobnet.org/jobs/detail/unep-technical-advisor-redd-and-forests-87291525 | UNEP | Technical Advisor REDD+ and Forests
-- [ ] https://www.impactpool.org/jobs/1213997 | GGGI | Climate Risk and Vulnerability Assessment (CRVA) Consultant
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110884 | UNDP | International Climate Risks and Vulnerabilities Consultant
-- [ ] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst – Climate Change, Water, Energy & Environment
-- [ ] https://www.unjobnet.org/jobs/detail/85908617 | UNDP | Project Analyst – Climate Risk Issues
-- [ ] https://www.unjobnet.org/jobs/detail/85839628 | UNDP | Programme Analyst – Transparency
-- [ ] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets
+- [!] https://www.unjobnet.org/jobs/detail/unep-technical-advisor-redd-and-forests-87291525 | UNEP | Technical Advisor REDD+ and Forests | fetch failed: external network blocked (403 proxy policy) — retry manually
+- [!] https://www.impactpool.org/jobs/1213997 | GGGI | Climate Risk and Vulnerability Assessment (CRVA) Consultant | fetch failed: external network blocked (403 proxy policy) — retry manually
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110884 | UNDP | International Climate Risks and Vulnerabilities Consultant | fetch failed: external network blocked (403 proxy policy) — retry manually
+- [!] https://www.unjobnet.org/jobs/detail/undp-programme-analyst-climate-change-water-energy-environment-open-to-internal-87437128 | UNDP | Programme Analyst – Climate Change, Water, Energy & Environment | fetch failed: external network blocked (403 proxy policy) — retry manually
+- [!] https://www.unjobnet.org/jobs/detail/85908617 | UNDP | Project Analyst – Climate Risk Issues | fetch failed: external network blocked (403 proxy policy) — retry manually
+- [!] https://www.unjobnet.org/jobs/detail/85839628 | UNDP | Programme Analyst – Transparency | fetch failed: external network blocked (403 proxy policy) — retry manually
+- [!] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets | fetch failed: external network blocked (403 proxy policy) — retry manually
 - [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
 - [ ] https://www.impactpool.org/jobs/1177258 | GGGI | IC: Policy Research – GGPM
 
