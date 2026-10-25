@@ -2411,3 +2411,14 @@
 - [ ] https://welovesalt.com/jobs/esg-analyst-sustainability-reporting-710992 | (via WeLoveSalt) | ESG Analyst – Sustainability Reporting
 - [ ] https://southasiacareers.deloitte.com/job/Mumbai-Consultant-ESG-Mumbai-Sustainability/58264944/ | Deloitte India | Consultant – ESG (Mumbai)
 - [ ] https://impactpool.org/jobs/1193240 | ADB | Senior Environment Officer (India)
+
+<!-- Scan 2026-10-25 — Scheduled portal scan -->
+- [ ] https://community.iisd.org/jobs/environmental-natural-resources-and-political-economy-expert-consultant | IISD | Environmental, Natural Resources and Political Economy Expert Consultant
+- [ ] https://www.impactpool.org/jobs/1242285 | UNEP | Associate Programme Management Officer P-2 (Nairobi)
+- [ ] https://careers.uobgroup.com/job/Singapore-%28City-Area%29-Senior-Officer%2C-ESG-Investment-Analyst%2C-UOB-Asset-Management-048624/1056726366 | UOB Asset Management | Senior Officer, ESG Investment Analyst (Singapore)
+- [ ] https://unvacancies.org/jobs/climate-change-and-environment-associate-21272887 | UNDP/UNV | Climate Change and Environment Associate (Egypt)
+- [ ] https://www.unjobnet.org/jobs/detail/adb-operations-analyst-260970-89536235 | ADB | Operations Analyst – Climate Change and Sustainable Development
+- [ ] https://climatechangejobs.com/jobs/239763826-associate-consultant-esg-climate-change-and-carbon | (via ClimateChangeJobs) | Associate Consultant – ESG, Climate Change and Carbon
+- [ ] https://climatechangejobs.com/jobs/54965814-consultant-corporate-sustainability-climate-change | (via ClimateChangeJobs) | Consultant – Corporate Sustainability and Climate Change
+- [ ] https://careers.ecoltdgroup.com/jobs/7649734-analyst | ecoltdgroup | Analyst (remote, climate/sustainability)
+- [ ] https://unjobs.org/vacancies/1780662512743 | SEI Asia | Research Associate – Water and Energy Modelling (Thailand)
