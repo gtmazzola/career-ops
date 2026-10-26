@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-26 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1159280855 | UNIDO | Project Assistant (Vienna)
+- [ ] https://careers.unido.org/job/Montevideo-National-Programme-Officer/1170293955 | UNIDO | National Programme Officer (Montevideo)
+- [ ] https://careers.unido.org/job/Vienna-Junior-Professional-Officer/1345825155 | UNIDO | Junior Professional Officer (Vienna)
+- [ ] https://climatebase.org/job/51298785/managing-consultant---corporate-sustainability-and-climate-change-senior-level | ERM | Managing Consultant – Corporate Sustainability and Climate Change (Bangkok)
+- [ ] https://climatebase.org/job/74129839/consultant--climate-change-advisory | ERM | Consultant – Climate Change Advisory (Bangkok)
+
 <!-- Scan 2026-10-24 — Scheduled portal scan -->
 - [x] #809 | https://careers.unido.org/job/Vienna-Project-Assistant/1168697655 | UNIDO | Project Assistant | 2.0/5 | PDF (no)
 - [x] #810 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1163701455 | UNIDO | Industrial Development Expert | 2.8/5 | PDF (no)
