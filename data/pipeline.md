@@ -3,11 +3,11 @@
 ## Pendientes
 
 <!-- Scan 2026-10-26 — Scheduled portal scan -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/1159280855 | UNIDO | Project Assistant (Vienna)
-- [ ] https://careers.unido.org/job/Montevideo-National-Programme-Officer/1170293955 | UNIDO | National Programme Officer (Montevideo)
-- [ ] https://careers.unido.org/job/Vienna-Junior-Professional-Officer/1345825155 | UNIDO | Junior Professional Officer (Vienna)
-- [ ] https://climatebase.org/job/51298785/managing-consultant---corporate-sustainability-and-climate-change-senior-level | ERM | Managing Consultant – Corporate Sustainability and Climate Change (Bangkok)
-- [ ] https://climatebase.org/job/74129839/consultant--climate-change-advisory | ERM | Consultant – Climate Change Advisory (Bangkok)
+- [x] #819 | https://careers.unido.org/job/Vienna-Project-Assistant/1159280855 | UNIDO | Project Assistant (Vienna) | 1.5/5 | PDF (no)
+- [x] #820 | https://careers.unido.org/job/Montevideo-National-Programme-Officer/1170293955 | UNIDO | National Programme Officer (Montevideo) | 1.0/5 | PDF (no)
+- [x] #821 | https://careers.unido.org/job/Vienna-Junior-Professional-Officer/1345825155 | UNIDO | Junior Professional Officer (Vienna) | 1.5/5 | PDF (no)
+- [x] #822 | https://climatebase.org/job/51298785/managing-consultant---corporate-sustainability-and-climate-change-senior-level | ERM | Managing Consultant – Corporate Sustainability and Climate Change (Bangkok) | 2.2/5 | PDF (no)
+- [x] #823 | https://climatebase.org/job/74129839/consultant--climate-change-advisory | ERM | Consultant – Climate Change Advisory (Bangkok) | 3.5/5 | PDF (no)
 
 <!-- Scan 2026-10-24 — Scheduled portal scan -->
 - [x] #809 | https://careers.unido.org/job/Vienna-Project-Assistant/1168697655 | UNIDO | Project Assistant | 2.0/5 | PDF (no)
@@ -2041,13 +2041,13 @@
 - [!] https://www.unjobnet.org/jobs/detail/85908617 | UNDP | Project Analyst – Climate Risk Issues | fetch failed: external network blocked (403 proxy policy) — retry manually
 - [!] https://www.unjobnet.org/jobs/detail/85839628 | UNDP | Programme Analyst – Transparency | fetch failed: external network blocked (403 proxy policy) — retry manually
 - [!] https://careers.southpole.com/jobs/2977168-junior-associate-consultant-corporate-climate-targets | South Pole | Junior Associate Consultant – Corporate Climate Targets | fetch failed: external network blocked (403 proxy policy) — retry manually
-- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
-- [ ] https://www.impactpool.org/jobs/1177258 | GGGI | IC: Policy Research – GGPM
+- [x] #824 | https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure | 2.2/5 | PDF (no)
+- [x] #825 | https://www.impactpool.org/jobs/1177258 | GGGI | IC: Policy Research – GGPM | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-08-11 — Multi-portal scheduled scan -->
-- [ ] https://www.impactpool.org/jobs/1191702 | UNICEF | WASH Climate Resilience Consultant
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Climate-Finance-Analyst-Retainer/2123 | UNOPS | Climate Finance Analyst – Retainer
-- [ ] https://careers.ey.com/ey/job/Associate-Senior-Associate,-Climate-Change-and-Sustainability-Services,-Assurance-048583/1029272001/ | EY | Associate/Senior Associate – Climate Change and Sustainability Services
+- [x] #826 | https://www.impactpool.org/jobs/1191702 | UNICEF | WASH Climate Resilience Consultant | 1.8/5 | PDF (no)
+- [x] #827 | https://careers.unops.org/careersmarketplace/JobDetail/Climate-Finance-Analyst-Retainer/2123 | UNOPS | Climate Finance Analyst – Retainer | 1.0/5 | PDF (no)
+- [x] #828 | https://careers.ey.com/ey/job/Associate-Senior-Associate,-Climate-Change-and-Sustainability-Services,-Assurance-048583/1029272001/ | EY | Associate/Senior Associate – Climate Change and Sustainability Services | 3.8/5 | PDF (no)
 - [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-10110/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff
 - [ ] https://www.unjobnet.org/jobs/detail/unep-junior-climate-change-specialist-latin-america-and-the-caribbean-lac-87030089 | UNEP | Junior Climate Change Specialist – Latin America and Caribbean
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor – Energy Transition

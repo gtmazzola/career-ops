@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 821 | 2026-10-26 | UNIDO | Junior Professional Officer (Vienna) | 1.5/5 | Evaluada | ❌ | [821](reports/821-unido-junior-professional-officer-vienna-2026-10-26.md) | JPO donor country (Finland) nationality required; closed Apr 2026 |
+| 825 | 2026-10-26 | GGGI | IC: Policy Research – GGPM (Angola) | 2.5/5 | Evaluada | ❌ | [825](reports/825-gggi-ic-policy-research-ggpm-2026-10-26.md) | Likely closed Oct 2025; Angola duty station; policy research profile is a reasonable fit |
+| 828 | 2026-10-26 | EY | Associate/Senior Associate – Climate Change and Sustainability Services, Assurance (Bangkok) | 3.8/5 | Evaluada | ❌ | [828](reports/828-ey-associate-senior-associate-climate-sustainability-assurance-bangkok-2026-10-26.md) | Strong ESG framework fit; Big4 CCaSS career track; Bangkok-based; apply with framework-focused cover letter |
 | 814 | 2026-10-24 | MSCI | Sustainability & Climate Issuer Communication Analyst (Sofia) | 3.2/5 | Evaluada | ❌ | [814](reports/814-msci-sustainability-climate-issuer-communication-analyst-sofia-2026-10-24.md) | Good ESG fit; EU citizenship covers Sofia; lower comp; stepping stone potential |
 | 816 | 2026-10-24 | UNIDO | Institutional Governance Consultant (Brazzaville) | 1.5/5 | Evaluada | ❌ | [816](reports/816-unido-institutional-governance-consultant-brazzaville-2026-10-24.md) | French required (hard blocker), law domain, closed Jun 2026 — SKIP |
 | 817 | 2026-10-24 | UNIDO | Environmental and Social Management Expert (Home-Based) | 2.2/5 | Evaluada | ❌ | [817](reports/817-unido-environmental-social-management-expert-2026-10-24.md) | Closed Sep 2024, E&S safeguards specialist required, seniority gap — SKIP |
