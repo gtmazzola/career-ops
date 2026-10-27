@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- Scan 2026-10-27 — Scheduled portal scan -->
+- [ ] https://climatebase.org/job/55826660/environmental-health-safety--sustainability-consultant | ERM | Environmental Health & Safety & Sustainability Consultant (Bangkok)
+- [ ] https://uncareer.net/vacancy/reporting-and-analytics-associate-866823 | GGGI | Reporting & Analytics Associate
+- [ ] https://careers-ricardo.icims.com/jobs/3046/analyst-consultant---climate-mitigation-and-adaptation/job | Ricardo | Analyst Consultant – Climate Mitigation and Adaptation
+- [ ] https://careers-ricardo.icims.com/jobs/2973/energy-systems-analyst-consultant-%e2%80%93-power-engineer/job | Ricardo | Energy Systems Analyst Consultant – Power Engineer
+- [ ] https://www.uncareer.net/vacancy/project-analyst-on-youth-empowerment-and-climate-resilience-building-open-to-internal-and-external-applicants-836359 | UNDP | Project Analyst – Youth Empowerment and Climate Resilience Building
+- [ ] https://uncareer.net/vacancy/junior-consultant-programme-coordinator-857885 | UNEP | Junior Consultant – Programme Coordinator
+- [ ] https://untalent.org/jobs/project-associate-167 | UNIDO | Project Associate (Vienna) — deadline ~27 Oct 2026, verify urgently
+- [ ] https://careers.unido.org/job/Port-Sudan-National-Evaluation-Consultant/992204455 | UNIDO | National Evaluation Consultant (Port Sudan) — conflict zone, verify
+
 <!-- Scan 2026-10-26 — Scheduled portal scan -->
 - [x] #819 | https://careers.unido.org/job/Vienna-Project-Assistant/1159280855 | UNIDO | Project Assistant (Vienna) | 1.5/5 | PDF (no)
 - [x] #820 | https://careers.unido.org/job/Montevideo-National-Programme-Officer/1170293955 | UNIDO | National Programme Officer (Montevideo) | 1.0/5 | PDF (no)
