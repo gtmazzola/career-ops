@@ -3,14 +3,14 @@
 ## Pendientes
 
 <!-- Scan 2026-10-27 — Scheduled portal scan -->
-- [ ] https://climatebase.org/job/55826660/environmental-health-safety--sustainability-consultant | ERM | Environmental Health & Safety & Sustainability Consultant (Bangkok)
-- [ ] https://uncareer.net/vacancy/reporting-and-analytics-associate-866823 | GGGI | Reporting & Analytics Associate
-- [ ] https://careers-ricardo.icims.com/jobs/3046/analyst-consultant---climate-mitigation-and-adaptation/job | Ricardo | Analyst Consultant – Climate Mitigation and Adaptation
-- [ ] https://careers-ricardo.icims.com/jobs/2973/energy-systems-analyst-consultant-%e2%80%93-power-engineer/job | Ricardo | Energy Systems Analyst Consultant – Power Engineer
-- [ ] https://www.uncareer.net/vacancy/project-analyst-on-youth-empowerment-and-climate-resilience-building-open-to-internal-and-external-applicants-836359 | UNDP | Project Analyst – Youth Empowerment and Climate Resilience Building
-- [ ] https://uncareer.net/vacancy/junior-consultant-programme-coordinator-857885 | UNEP | Junior Consultant – Programme Coordinator
-- [ ] https://untalent.org/jobs/project-associate-167 | UNIDO | Project Associate (Vienna) — deadline ~27 Oct 2026, verify urgently
-- [ ] https://careers.unido.org/job/Port-Sudan-National-Evaluation-Consultant/992204455 | UNIDO | National Evaluation Consultant (Port Sudan) — conflict zone, verify
+- [x] #829 | https://climatebase.org/job/55826660/environmental-health-safety--sustainability-consultant | ERM | Environmental Health & Safety & Sustainability Consultant (Bangkok) | 3.2/5 | PDF (no)
+- [x] #830 | https://uncareer.net/vacancy/reporting-and-analytics-associate-866823 | GGGI | Reporting & Analytics Associate | 2.9/5 | PDF (no)
+- [x] #831 | https://careers-ricardo.icims.com/jobs/3046/analyst-consultant---climate-mitigation-and-adaptation/job | Ricardo | Analyst Consultant – Climate Mitigation and Adaptation | 3.5/5 | PDF (no)
+- [x] #832 | https://careers-ricardo.icims.com/jobs/2973/energy-systems-analyst-consultant-%e2%80%93-power-engineer/job | Ricardo | Energy Systems Analyst Consultant – Power Engineer | 3.8/5 | PDF (no)
+- [x] #833 | https://www.uncareer.net/vacancy/project-analyst-on-youth-empowerment-and-climate-resilience-building-open-to-internal-and-external-applicants-836359 | UNDP | Project Analyst – Youth Empowerment and Climate Resilience Building | 3.3/5 | PDF (no)
+- [x] #834 | https://uncareer.net/vacancy/junior-consultant-programme-coordinator-857885 | UNEP | Junior Consultant – Programme Coordinator | 3.7/5 | PDF (no)
+- [x] #835 | https://untalent.org/jobs/project-associate-167 | UNIDO | Project Associate (Vienna) | 4.5/5 | PDF (no)
+- [x] #836 | https://careers.unido.org/job/Port-Sudan-National-Evaluation-Consultant/992204455 | UNIDO | National Evaluation Consultant (Port Sudan) | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-10-26 — Scheduled portal scan -->
 - [x] #819 | https://careers.unido.org/job/Vienna-Project-Assistant/1159280855 | UNIDO | Project Assistant (Vienna) | 1.5/5 | PDF (no)
@@ -2058,8 +2058,8 @@
 - [x] #826 | https://www.impactpool.org/jobs/1191702 | UNICEF | WASH Climate Resilience Consultant | 1.8/5 | PDF (no)
 - [x] #827 | https://careers.unops.org/careersmarketplace/JobDetail/Climate-Finance-Analyst-Retainer/2123 | UNOPS | Climate Finance Analyst – Retainer | 1.0/5 | PDF (no)
 - [x] #828 | https://careers.ey.com/ey/job/Associate-Senior-Associate,-Climate-Change-and-Sustainability-Services,-Assurance-048583/1029272001/ | EY | Associate/Senior Associate – Climate Change and Sustainability Services | 3.8/5 | PDF (no)
-- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-10110/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff
-- [ ] https://www.unjobnet.org/jobs/detail/unep-junior-climate-change-specialist-latin-america-and-the-caribbean-lac-87030089 | UNEP | Junior Climate Change Specialist – Latin America and Caribbean
+- [x] #837 | https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-10110/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff | 4.2/5 | PDF (no)
+- [x] #838 | https://www.unjobnet.org/jobs/detail/unep-junior-climate-change-specialist-latin-america-and-the-caribbean-lac-87030089 | UNEP | Junior Climate Change Specialist – Latin America and Caribbean | 2.7/5 | PDF (no)
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor – Energy Transition
 - [ ] https://www.irena.org/employment/Career-Detail?jobId=NC0129.1 | IRENA | Associate Programme Officer
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=87881 | UNDP | Fund Design Junior Consultant (Re-Advertised)
