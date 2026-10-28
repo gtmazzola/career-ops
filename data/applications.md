@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 838 | 2026-10-28 | UNOPS | Technical Advisor – Energy Transition | 1.5/5 | Evaluada | ❌ | [838](reports/838-unops-technical-advisor-energy-transition-2026-10-28.md) | IICA-3 too senior (7+ yrs required); closed July 2026; do not apply |
+| 839 | 2026-10-28 | IRENA | Associate Programme Officer | 3.5/5 | Evaluada | ❌ | [839](reports/839-irena-associate-programme-officer-2026-10-28.md) | P-2 good level fit; energy/policy domain; Abu Dhabi or Bonn; verify posting still open |
+| 842 | 2026-10-28 | UNEP FI | AME Regional Analyst | 3.0/5 | Evaluada | ❌ | [842](reports/842-unep-fi-africa-middle-east-regional-analyst-2026-10-28.md) | Hard gap: French required; AME region focus; closed Aug 2026; do not apply |
+| 844 | 2026-10-28 | UNDP Rome Centre | Policy and Strategy Analyst – IPSA 9 | 3.5/5 | Evaluada | ❌ | [844](reports/844-undp-policy-strategy-analyst-ipsa9-rome-2026-10-28.md) | Italian C1 + EU citizenship advantage; borderline IPSA-9 experience; climate/energy focus; Rome |
 | 830 | 2026-10-27 | GGGI | Reporting & Analytics Associate | 2.9/5 | Evaluada | ❌ | [830](reports/830-gggi-reporting-analytics-associate-2026-10-27.md) | Closed Sep 21; ERP/BI tool gap; finance-heavy role not ideal domain match |
 | 836 | 2026-10-27 | UNIDO | National Evaluation Consultant (Port Sudan) | 1.5/5 | Evaluada | ❌ | [836](reports/836-unido-national-evaluation-consultant-port-sudan-2026-10-27.md) | SKIP – conflict zone; nationals-only; 2024 posting likely expired |
 | 837 | 2026-10-27 | EY Thailand | Assurance – Climate Change & Sustainability Staff | 4.2/5 | Evaluada | ❌ | [837](reports/837-ey-assurance-climate-sustainability-staff-bangkok-2026-10-27.md) | Bangkok; ESG assurance aligns with CSRD/GHG coursework; UNIDO differentiates from fresh grads |

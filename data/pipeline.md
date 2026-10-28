@@ -2060,18 +2060,18 @@
 - [x] #828 | https://careers.ey.com/ey/job/Associate-Senior-Associate,-Climate-Change-and-Sustainability-Services,-Assurance-048583/1029272001/ | EY | Associate/Senior Associate – Climate Change and Sustainability Services | 3.8/5 | PDF (no)
 - [x] #837 | https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-(Fresh-grads-welcome)-10110/1207201601/ | EY Bangkok | Assurance – Climate Change and Sustainability Staff | 4.2/5 | PDF (no)
 - [x] #838 | https://www.unjobnet.org/jobs/detail/unep-junior-climate-change-specialist-latin-america-and-the-caribbean-lac-87030089 | UNEP | Junior Climate Change Specialist – Latin America and Caribbean | 2.7/5 | PDF (no)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor – Energy Transition
-- [ ] https://www.irena.org/employment/Career-Detail?jobId=NC0129.1 | IRENA | Associate Programme Officer
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=87881 | UNDP | Fund Design Junior Consultant (Re-Advertised)
-- [ ] https://www.impactpool.org/jobs/939361 | UNDP | Programme Analyst – IPSA 8 (Home Based)
-- [ ] https://www.impactpool.org/jobs/965287 | UNDP | Project Analyst – IPSA 8
+- [x] #838 | https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Energy-Transition/3705 | UNOPS | Technical Advisor – Energy Transition | 1.5/5 | PDF (no)
+- [x] #839 | https://www.irena.org/employment/Career-Detail?jobId=NC0129.1 | IRENA | Associate Programme Officer | 3.5/5 | PDF (no)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=87881 | UNDP | Fund Design Junior Consultant (Re-Advertised) | unverifiable (UNGM ref from Dec 2019; JD not retrievable)
+- [x] #840 | https://www.impactpool.org/jobs/939361 | UNDP | Programme Analyst – IPSA 8 (Home Based) | 3.8/5 | PDF (no)
+- [x] #841 | https://www.impactpool.org/jobs/965287 | UNDP | Project Analyst – IPSA 8 | 3.3/5 | PDF (no)
 
 <!-- Scan 2026-08-13 — Multi-portal scheduled scan -->
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88932 | UNDP | Climate Finance Consultant – Energy and Climate Change
-- [ ] https://untalent.org/jobs/unep-finance-initiative-unep-fi-africa-and-middle-east-ame-regional-analyst | UNEP | UNEP FI – Africa and Middle East Regional Analyst
-- [ ] https://www.unjobnet.org/jobs/detail/85592976 | UNEP | Programme Management Officer – Bangkok
-- [ ] https://careers.un.org/jobSearchDescription/252728?language=en | UN | Consultant / Environmental Sustainability Specialist
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110113 | UNDP | Policy and Strategy Analyst – IPSA 9 (Rome Centre)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88932 | UNDP | Climate Finance Consultant – Energy and Climate Change | unverifiable (UNGM ref from Dec 2019; 7-year-old posting; JD not retrievable)
+- [x] #842 | https://untalent.org/jobs/unep-finance-initiative-unep-fi-africa-and-middle-east-ame-regional-analyst | UNEP | UNEP FI – Africa and Middle East Regional Analyst | 3.0/5 | PDF (no)
+- [x] #843 | https://www.unjobnet.org/jobs/detail/85592976 | UNEP | Programme Management Officer – Bangkok | 2.5/5 | PDF (no)
+- [!] https://careers.un.org/jobSearchDescription/252728?language=en | UN | Consultant / Environmental Sustainability Specialist | unverifiable (careers.un.org blocked; JD not retrievable)
+- [x] #844 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110113 | UNDP | Policy and Strategy Analyst – IPSA 9 (Rome Centre) | 3.5/5 | PDF (no)
 - [ ] https://southasiacareers.deloitte.com/job/Colombo-Analyst-Sustainability/40894344 | Deloitte South Asia | Analyst – Sustainability
 - [ ] https://southasiacareers.deloitte.com/job/Colombo-SRT-Sustainability-Associate-Consultant/46991044 | Deloitte South Asia | SRT Sustainability – Associate Consultant
 - [ ] https://unjobs.org/vacancies/1778718924128 | WWF | Project Coordinator – Habitat Improvement (Bangkok)
