@@ -2439,3 +2439,10 @@
 - [ ] https://climatechangejobs.com/jobs/54965814-consultant-corporate-sustainability-climate-change | (via ClimateChangeJobs) | Consultant – Corporate Sustainability and Climate Change
 - [ ] https://careers.ecoltdgroup.com/jobs/7649734-analyst | ecoltdgroup | Analyst (remote, climate/sustainability)
 - [ ] https://unjobs.org/vacancies/1780662512743 | SEI Asia | Research Associate – Water and Energy Modelling (Thailand)
+
+<!-- Scan 2026-10-28 — Scheduled portal scan -->
+- [ ] https://climatebase.org/job/73462305/sustainable-operation-consulting-associatesenior-associate | ERM Bangkok | Sustainable Operation Consulting Associate/Senior Associate
+- [ ] https://climatebase.org/job/74788767/ehs-consulting-associate--senior-associate | ERM Bangkok | EHS Consulting Associate/Senior Associate
+- [ ] https://uncareer.net/vacancy/analyst-sustainability-services-826795 | UN | Analyst – Sustainability Services
+- [ ] https://careers.slng.com.sg/job/Singapore-Analyst-%28Sustainability%29/48943244 | Singapore LNG | Analyst (Sustainability)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate-Industrial-Futures-Talent-Initiative-%28IFTI%29/1347386955 | UNIDO | Project Associate – Industrial Futures Talent Initiative (Vienna)
