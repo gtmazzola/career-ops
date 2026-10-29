@@ -2072,16 +2072,16 @@
 - [x] #843 | https://www.unjobnet.org/jobs/detail/85592976 | UNEP | Programme Management Officer – Bangkok | 2.5/5 | PDF (no)
 - [!] https://careers.un.org/jobSearchDescription/252728?language=en | UN | Consultant / Environmental Sustainability Specialist | unverifiable (careers.un.org blocked; JD not retrievable)
 - [x] #844 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110113 | UNDP | Policy and Strategy Analyst – IPSA 9 (Rome Centre) | 3.5/5 | PDF (no)
-- [ ] https://southasiacareers.deloitte.com/job/Colombo-Analyst-Sustainability/40894344 | Deloitte South Asia | Analyst – Sustainability
-- [ ] https://southasiacareers.deloitte.com/job/Colombo-SRT-Sustainability-Associate-Consultant/46991044 | Deloitte South Asia | SRT Sustainability – Associate Consultant
-- [ ] https://unjobs.org/vacancies/1778718924128 | WWF | Project Coordinator – Habitat Improvement (Bangkok)
-- [ ] https://hrms.iucn.org/iresy/index.cfm?event=vac.show&vacId=11629&lang=en | IUCN | Field Project Associate – Thailand
-- [ ] https://jobs.lever.co/terrascope/e03bd0f3-a3d7-4bd7-8d29-cc06471ed8ca | Terrascope | Associate, Climate Solutions
-- [ ] https://www.unjobnet.org/jobs/detail/85828318 | World Bank | Environmental and Social Development Specialist
-- [ ] https://unjobs.org/vacancies/1779205028577 | World Bank | Extended Term Consultant / Analyst – Dhaka
-- [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37522?c=worldbankgroup | World Bank | Extended Term Consultant – Climate Change
-- [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37958?c=worldbankgroup | World Bank | Operations Analyst – Climate and Sustainable Finance
-- [ ] https://careers.un.org/jobSearchDescription/281881 | UN | Anti-Corruption and Climate Governance Consultant
+- [x] #639 | https://southasiacareers.deloitte.com/job/Colombo-Analyst-Sustainability/40894344 | Deloitte South Asia | Analyst – Sustainability | 3.2/5 | PDF (no)
+- [x] #640 | https://southasiacareers.deloitte.com/job/Colombo-SRT-Sustainability-Associate-Consultant/46991044 | Deloitte South Asia | SRT Sustainability – Associate Consultant | 2.5/5 | PDF (no)
+- [x] #641 | https://unjobs.org/vacancies/1778718924128 | WWF | Project Coordinator – Habitat Improvement (Bangkok) | 1.8/5 | PDF (no)
+- [x] #642 | https://hrms.iucn.org/iresy/index.cfm?event=vac.show&vacId=11629&lang=en | IUCN | Field Project Associate – Thailand | 2.0/5 | PDF (no)
+- [x] #643 | https://jobs.lever.co/terrascope/e03bd0f3-a3d7-4bd7-8d29-cc06471ed8ca | Terrascope | Associate, Climate Solutions | 3.8/5 | PDF (no)
+- [x] #644 | https://www.unjobnet.org/jobs/detail/85828318 | World Bank | Environmental and Social Development Specialist | 2.5/5 | PDF (no)
+- [x] #645 | https://unjobs.org/vacancies/1779205028577 | World Bank | Extended Term Consultant / Analyst – Dhaka | 3.2/5 | PDF (no)
+- [x] #646 | https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37522?c=worldbankgroup | World Bank | Extended Term Consultant – Climate Change | 3.5/5 | PDF (no)
+- [x] #647 | https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37958?c=worldbankgroup | World Bank | Operations Analyst – Climate and Sustainable Finance | 4.0/5 | PDF (no)
+- [x] #648 | https://careers.un.org/jobSearchDescription/281881 | UN | Anti-Corruption and Climate Governance Consultant | 2.2/5 | PDF (no)
 - [ ] https://jobs.trellis.net/j/bloomberg-intelligence-esg-research-analyst-contract-862051791e64 | Bloomberg | ESG Research Analyst (Contract)
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98324 | UNDP | Project Analyst – Energy / Climate Aggregation Platform
 - [ ] https://jobs.ashbyhq.com/Watershed/dccdcaae-2521-47d5-a97e-c51bbd2537ee | Watershed | Sustainability Data Advisor
