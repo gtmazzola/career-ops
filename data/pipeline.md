@@ -2446,3 +2446,9 @@
 - [ ] https://uncareer.net/vacancy/analyst-sustainability-services-826795 | UN | Analyst – Sustainability Services
 - [ ] https://careers.slng.com.sg/job/Singapore-Analyst-%28Sustainability%29/48943244 | Singapore LNG | Analyst (Sustainability)
 - [ ] https://careers.unido.org/job/Vienna-Project-Associate-Industrial-Futures-Talent-Initiative-%28IFTI%29/1347386955 | UNIDO | Project Associate – Industrial Futures Talent Initiative (Vienna)
+
+<!-- Scan 2026-10-29 — Scheduled portal scan -->
+- [ ] https://unvacancies.org/jobs/project-associate-70684755 | UNIDO | Project Associate (Vienna)
+- [ ] https://climatebase.org/job/66608454/environment-consulting-associatesenior-associate | ERM Bangkok | Environment Consulting Associate/Senior Associate
+- [ ] https://uncareer.net/vacancy/green-ai-associate-836761 | GGGI | Green AI Associate
+- [ ] https://uncareer.net/vacancy/green-ai-senior-associate-854796 | GGGI | Green AI Senior Associate
