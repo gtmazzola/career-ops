@@ -2452,3 +2452,14 @@
 - [ ] https://climatebase.org/job/66608454/environment-consulting-associatesenior-associate | ERM Bangkok | Environment Consulting Associate/Senior Associate
 - [ ] https://uncareer.net/vacancy/green-ai-associate-836761 | GGGI | Green AI Associate
 - [ ] https://uncareer.net/vacancy/green-ai-senior-associate-854796 | GGGI | Green AI Senior Associate
+
+<!-- Scan 2026-10-30 — Scheduled portal scan -->
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Advisor-Retainer/1434 | UNOPS | Technical Advisor – Environmental Sustainability (Retainer)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2723 | UNOPS | [title unknown – Bangkok/Thailand energy programme]
+- [ ] https://thaingo.org/jobs/detail/17855 | Bangkok NGO | [title unknown – GIZ/sustainability]
+- [ ] https://thaingo.org/jobs/detail/14119 | Bangkok NGO | [title unknown – GIZ/energy]
+- [ ] https://climatebase.org/job/77230267/consulting-senior-associateconsultant---capital-project-delivery | ERM Bangkok | Consulting Senior Associate/Consultant – Capital Project Delivery
+- [ ] https://www.monster.co.th/job/sustainable-operation-consulting-associate-senior-associate-erm-thailand-55329131 | ERM Thailand | Sustainable Operation Consulting Associate/Senior Associate
+- [ ] https://www.impactpool.org/jobs/1242577 | ImpactPool | [title unknown]
+- [ ] https://www.impactpool.org/jobs/1229329 | ImpactPool | [title unknown]
+- [ ] https://www.impactpool.org/jobs/1244172 | ImpactPool | [title unknown]
