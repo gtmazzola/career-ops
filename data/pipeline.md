@@ -2082,16 +2082,16 @@
 - [x] #646 | https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37522?c=worldbankgroup | World Bank | Extended Term Consultant – Climate Change | 3.5/5 | PDF (no)
 - [x] #647 | https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/37958?c=worldbankgroup | World Bank | Operations Analyst – Climate and Sustainable Finance | 4.0/5 | PDF (no)
 - [x] #648 | https://careers.un.org/jobSearchDescription/281881 | UN | Anti-Corruption and Climate Governance Consultant | 2.2/5 | PDF (no)
-- [ ] https://jobs.trellis.net/j/bloomberg-intelligence-esg-research-analyst-contract-862051791e64 | Bloomberg | ESG Research Analyst (Contract)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98324 | UNDP | Project Analyst – Energy / Climate Aggregation Platform
-- [ ] https://jobs.ashbyhq.com/Watershed/dccdcaae-2521-47d5-a97e-c51bbd2537ee | Watershed | Sustainability Data Advisor
-- [ ] https://www.terra.do/climate-jobs/job-board/Sustainability-and-Climate-Change-Expert-Tetra-Tech--Inc--8193939/ | Tetra Tech | Sustainability and Climate Change Expert
-- [ ] https://untalent.org/jobs/senior-energy-specialist-1 | ADB | Senior Energy Specialist
-- [ ] https://untalent.org/jobs/senior-climate-change-specialist-2 | ADB | Senior Climate Change Specialist
-- [ ] https://jobs.climatedraft.org/companies/sylvera/jobs/72978221-carbon-analyst | Sylvera | Carbon Analyst
-- [ ] https://www.impactpool.org/jobs/1136353 | UNDP | Technical Analyst – Climate Finance
-- [ ] https://www.impactpool.org/jobs/1120313 | UNDP | Programme Analyst
-- [ ] https://www.impactpool.org/jobs/1128516 | UNDP | Policy Analyst
+- [x] #845 | https://jobs.trellis.net/j/bloomberg-intelligence-esg-research-analyst-contract-862051791e64 | Bloomberg | ESG Research Analyst (Contract) | 2.5/5 | PDF (no)
+- [x] #846 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=98324 | UNDP | Project Analyst – Energy / Climate Aggregation Platform | 3.5/5 | PDF (no)
+- [x] #847 | https://jobs.ashbyhq.com/Watershed/dccdcaae-2521-47d5-a97e-c51bbd2537ee | Watershed | Sustainability Data Advisor | 2.5/5 | PDF (no)
+- [x] #848 | https://www.terra.do/climate-jobs/job-board/Sustainability-and-Climate-Change-Expert-Tetra-Tech--Inc--8193939/ | Tetra Tech | Sustainability and Climate Change Expert | 2.0/5 | PDF (no)
+- [x] #849 | https://untalent.org/jobs/senior-energy-specialist-1 | ADB | Senior Energy Specialist | 1.5/5 | PDF (no)
+- [x] #850 | https://untalent.org/jobs/senior-climate-change-specialist-2 | ADB | Senior Climate Change Specialist | 1.5/5 | PDF (no)
+- [x] #851 | https://jobs.climatedraft.org/companies/sylvera/jobs/72978221-carbon-analyst | Sylvera | Carbon Analyst | 2.5/5 | PDF (no)
+- [x] #852 | https://www.impactpool.org/jobs/1136353 | UNDP | Technical Analyst – Climate Finance | 3.5/5 | PDF (no)
+- [x] #853 | https://www.impactpool.org/jobs/1120313 | UNDP | Programme Analyst | 3.5/5 | PDF (no)
+- [x] #854 | https://www.impactpool.org/jobs/1128516 | UNDP | Policy Analyst | 3.5/5 | PDF (no)
 - [ ] https://www.impactpool.org/jobs/963668 | GCF | Climate Policy Specialist
 
 <!-- Scan 2026-08-14 — Multi-portal scheduled scan -->
