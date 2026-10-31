@@ -2463,3 +2463,13 @@
 - [ ] https://www.impactpool.org/jobs/1242577 | ImpactPool | [title unknown]
 - [ ] https://www.impactpool.org/jobs/1229329 | ImpactPool | [title unknown]
 - [ ] https://www.impactpool.org/jobs/1244172 | ImpactPool | [title unknown]
+- [ ] https://uncareer.net/vacancy/programme-analyst-office-based-open-to-internal-and-external-applicants-857486 | UNDP | Programme Analyst (Office Based)
+- [ ] https://jobs.sea.deloitte.com/job/Singapore-A&A-Consultant-%28Sustainability-&-Emerging-Assurance%29-Sing/1328862166/ | Deloitte Singapore | A&A Consultant – Sustainability & Emerging Assurance
+- [ ] https://careers.mapletree.com.sg/job/Singapore-Assistant-Manager%2C-Investor-Relations-and-Sustainability%2C-MPACTM/1331871666 | Mapletree Singapore | Assistant Manager – Investor Relations and Sustainability
+- [ ] https://uncareer.net/vacancy/project-analyst-on-youth-empowerment-and-climate-resilience-building-open-to-internal-and-external-applicants-836359 | UNDP | Project Analyst – Youth Empowerment and Climate Resilience Building
+- [ ] https://www.thaingo.org/jobs/detail/21351 | Bangkok NGO | [title unknown – SEI Bangkok]
+- [ ] https://www.thaingo.org/jobs/detail/21063 | Bangkok NGO | [title unknown – Bangkok]
+- [ ] https://www.thaingo.org/jobs/detail/21058 | Bangkok NGO | [title unknown – Bangkok]
+- [ ] https://careers.ey.com/ey/job/Astana-Staff-in-Climate-Change-and-Sustainability-Services-010000/1425624533/ | EY | Staff – Climate Change and Sustainability Services (Astana)
+- [ ] https://careers.conbio.org/job/327094/associate-sr-associate-mpa-esg-services/ | Conservation Biology | Associate/Sr. Associate – ESG Services
+- [ ] https://pkfea.com/careers/associate-esg-and-sustainability/ | PKF EA | Associate – ESG and Sustainability
