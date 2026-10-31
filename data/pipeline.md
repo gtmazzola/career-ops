@@ -2092,22 +2092,22 @@
 - [x] #852 | https://www.impactpool.org/jobs/1136353 | UNDP | Technical Analyst – Climate Finance | 3.5/5 | PDF (no)
 - [x] #853 | https://www.impactpool.org/jobs/1120313 | UNDP | Programme Analyst | 3.5/5 | PDF (no)
 - [x] #854 | https://www.impactpool.org/jobs/1128516 | UNDP | Policy Analyst | 3.5/5 | PDF (no)
-- [ ] https://www.impactpool.org/jobs/963668 | GCF | Climate Policy Specialist
+- [x] #639 | https://www.impactpool.org/jobs/963668 | GCF | Climate Policy Specialist | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-08-14 — Multi-portal scheduled scan -->
-- [ ] https://careers.unido.org/job/Vienna-Project-Monitoring-and-Reporting-Administrator/1362469755/ | UNIDO | Project Monitoring and Reporting Administrator
-- [ ] https://jobs.climatedraft.org/companies/beijing-climate-policy-initiative/jobs/46927432-junior-analyst-analyst-climate-energy-finance | CPI Beijing | Junior Analyst – Climate & Energy Finance
+- [x] #640 | https://careers.unido.org/job/Vienna-Project-Monitoring-and-Reporting-Administrator/1362469755/ | UNIDO | Project Monitoring and Reporting Administrator | 4.2/5 | PDF (no)
+- [x] #641 | https://jobs.climatedraft.org/companies/beijing-climate-policy-initiative/jobs/46927432-junior-analyst-analyst-climate-energy-finance | CPI Beijing | Junior Analyst – Climate & Energy Finance | 3.8/5 | PDF (no)
 
 <!-- Scan 2026-08-18 — Multi-portal scheduled scan -->
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1652 | UNOPS | Project Management Support Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Senior-Data-Analyst/1469 | UNOPS | Senior Data Analyst
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Regional-Policy-and-Technical-Sustainability-Advisor-Retainer/1627 | UNOPS | Regional Policy and Technical Sustainability Advisor (Retainer)
-- [ ] https://untalent.org/jobs/subnational-climate-finance-and-sustainable-buildings-consultant | UNEP | Subnational Climate Finance and Sustainable Buildings Consultant
-- [ ] https://unjobs.org/vacancies/1786446738209 | GGGI | Associate, Norwegian Article 6 Climate Action (NACA) Fund
+- [x] #642 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1652 | UNOPS | Project Management Support Officer | 3.5/5 | PDF (no)
+- [x] #643 | https://careers.unops.org/careersmarketplace/JobDetail/Senior-Data-Analyst/1469 | UNOPS | Senior Data Analyst | 2.5/5 | PDF (no)
+- [x] #644 | https://careers.unops.org/careersmarketplace/JobDetail/Regional-Policy-and-Technical-Sustainability-Advisor-Retainer/1627 | UNOPS | Regional Policy and Technical Sustainability Advisor (Retainer) | 2.5/5 | PDF (no)
+- [x] #645 | https://untalent.org/jobs/subnational-climate-finance-and-sustainable-buildings-consultant | UNEP | Subnational Climate Finance and Sustainable Buildings Consultant | 2.8/5 | PDF (no)
+- [x] #646 | https://unjobs.org/vacancies/1786446738209 | GGGI | Associate, Norwegian Article 6 Climate Action (NACA) Fund | 3.3/5 | PDF (no)
 
 <!-- Scan 2026-08-19 — Multi-portal scheduled scan -->
-- [ ] https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/Investment-Associate.html | AIIB | Investment Associate
-- [ ] https://careers.un.org/jobSearchDescription/265377?language=en | UN | Associate Programme Officer, DECI/IE (Temporary), P2
+- [x] #647 | https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/Investment-Associate.html | AIIB | Investment Associate | 2.0/5 | PDF (no)
+- [x] #648 | https://careers.un.org/jobSearchDescription/265377?language=en | UN | Associate Programme Officer, DECI/IE (Temporary), P2 | 4.0/5 | PDF (no)
 - [ ] https://jobs.ilo.org/job/Geneva-Project-Technical-Officer-(80)-1200/1204952201/ | ILO | Project Technical Officer (80%)
 - [ ] https://jobs.ilo.org/job/Project-Manager-P4/13717-en_GB | ILO | Project Manager P4
 - [ ] https://jobs.ilo.org/job/National-Project-Officer-Grant-Officer-NOA-(DC)/13745-en_GB | ILO | National Project Officer - Grant Officer NOA (DC)
