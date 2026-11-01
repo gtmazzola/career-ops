@@ -3,14 +3,14 @@
 ## Pendientes
 
 <!-- Scan 2026-11-01 — Scheduled portal scan -->
-- [ ] https://swooped.co/job-postings/climate-consultant-bangkok-erm-12f08 | ERM | Climate Consultant (Bangkok)
-- [ ] https://www.tris.co.th/careers/consultant_sustainability | TRIS Corporation | Sustainability Consultant (Bangkok)
-- [ ] https://uncareer.net/vacancy/programme-analyst-resilience-and-climate-change-868039 | UNDP | Programme Analyst (Resilience and Climate Change)
-- [ ] https://uncareer.net/vacancy/programme-analyst-climate-change-water-energy-and-environment-open-to-internal-and-external-applicants-856236 | UNDP | Programme Analyst – Climate Change Water Energy
-- [ ] https://unvacancies.org/jobs/programme-analyst-open-to-tier-0-1-2-applicants-DP-36922 | UNDP | Programme Analyst (Climate/Nature)
-- [ ] https://unvacancies.org/jobs/adaptation-fund-project-development-consultant-ghana-74171255 | UNIDO | Adaptation Fund Project Development Consultant (Ghana)
-- [ ] https://www.welcometothejungle.com/en/companies/enea-consulting/jobs/consultant-singapore_singapore | Enea Consulting | Consultant (Singapore)
-- [ ] https://www.developmentaid.org/jobs/view/1727847/corporate-strategy-senior-analyst | UNOPS | Corporate Strategy Senior Analyst
+- [x] #639 | https://swooped.co/job-postings/climate-consultant-bangkok-erm-12f08 | ERM | Climate Consultant (Bangkok) | 4.0/5 | PDF (no)
+- [x] #640 | https://www.tris.co.th/careers/consultant_sustainability | TRIS Corporation | Sustainability Consultant (Bangkok) | 2.8/5 | PDF (no)
+- [x] #641 | https://uncareer.net/vacancy/programme-analyst-resilience-and-climate-change-868039 | UNDP | Programme Analyst (Resilience and Climate Change) | 3.8/5 | PDF (no)
+- [x] #642 | https://uncareer.net/vacancy/programme-analyst-climate-change-water-energy-and-environment-open-to-internal-and-external-applicants-856236 | UNDP | Programme Analyst – Climate Change Water Energy | 3.5/5 | PDF (no)
+- [x] #643 | https://unvacancies.org/jobs/programme-analyst-open-to-tier-0-1-2-applicants-DP-36922 | UNDP | Programme Analyst (Climate/Nature) | 1.5/5 | PDF (no)
+- [x] #644 | https://unvacancies.org/jobs/adaptation-fund-project-development-consultant-ghana-74171255 | UNIDO | Adaptation Fund Project Development Consultant (Ghana) | 4.0/5 | PDF (no)
+- [x] #645 | https://www.welcometothejungle.com/en/companies/enea-consulting/jobs/consultant-singapore_singapore | Enea Consulting | Consultant (Singapore) | 2.0/5 | PDF (no)
+- [x] #646 | https://www.developmentaid.org/jobs/view/1727847/corporate-strategy-senior-analyst | UNOPS | Corporate Strategy Senior Analyst | 2.5/5 | PDF (no)
 
 <!-- Scan 2026-10-27 — Scheduled portal scan -->
 - [x] #829 | https://climatebase.org/job/55826660/environmental-health-safety--sustainability-consultant | ERM | Environmental Health & Safety & Sustainability Consultant (Bangkok) | 3.2/5 | PDF (no)
