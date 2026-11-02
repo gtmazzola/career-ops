@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 856 | 2026-11-02 | Bureau Veritas | Climate Advisor Service (Bangkok) | 2.5/5 | Evaluada | ❌ | [856](reports/856-bureau-veritas-climate-advisor-service-bangkok-2026-11-02.md) | Sep 2024 posting possibly expired; Thai nationality + ISO certs required |
+| 858 | 2026-11-02 | AECOM | Associate, Sustainability (Singapore) | 1.5/5 | Evaluada | ❌ | [858](reports/858-aecom-associate-sustainability-singapore-2026-11-02.md) | 9 years experience + Green Mark AP/LEED AP/WELL AP required — 8-year gap |
+| 863 | 2026-11-02 | ISS ESG | ESG Research Associate (SDGs) | 3.5/5 | Evaluada | ❌ | [863](reports/863-iss-esg-esg-research-associate-sdgs-2026-11-02.md) | Good SDG/ESG skills match; Manila comp (~THB 20-33k/mo) below target — verify salary before applying |
+| 864 | 2026-11-02 | CEA Consulting | Senior Associate, Climate Solutions (SF) | 2.5/5 | Evaluada | ❌ | [864](reports/864-cea-consulting-senior-associate-climate-solutions-2026-11-02.md) | Strong domain fit, excellent comp ($100-140k USD), but Senior Associate level exceeds current experience |
+| 865 | 2026-11-02 | ILO | Project Manager P4 | 1.5/5 | Evaluada | ❌ | [865](reports/865-ilo-project-manager-p4-2026-11-02.md) | P4 requires 7+ years — 8-year experience gap, do not apply |
+| 866 | 2026-11-02 | ILO | Project Technical Officer (80%), Geneva | 3.8/5 | Evaluada | ❌ | [866](reports/866-ilo-project-technical-officer-80pct-geneva-2026-11-02.md) | P2 level, EU citizen advantage, UNIDO experience maps well — verify JD when site accessible |
 | 845 | 2026-10-30 | Bloomberg Intelligence | ESG Research Analyst (Contract) | 2.5/5 | Evaluada | ❌ | [845](reports/845-bloomberg-esg-research-analyst-contract-2026-10-30.md) | Below threshold: 4+ yrs required vs ~1.5; sell-side context mismatch; contract role; do not apply |
 | 847 | 2026-10-30 | Watershed | Sustainability Data Advisor | 2.5/5 | Evaluada | ❌ | [847](reports/847-watershed-sustainability-data-advisor-2026-10-30.md) | Below threshold: 4-6 yrs required; B2B SaaS advisory context mismatch; onsite 4 days NYC/London; do not apply |
 | 848 | 2026-10-30 | Tetra Tech | Sustainability and Climate Change Expert | 2.0/5 | Evaluada | ❌ | [848](reports/848-tetra-tech-sustainability-climate-change-expert-2026-10-30.md) | Below threshold: "Expert" = 7-15 yrs required; significant seniority gap; JD not retrieved; do not apply |

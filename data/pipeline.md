@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-11-02 — Scheduled portal scan -->
-- [ ] https://careers.unido.org/job/CPR-Other-cities-ITPO-Project-Associate/1342949255 | UNIDO | ITPO Project Associate
-- [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Climate-Advisor-Service-Bang/1120563201 | Bureau Veritas | Climate Advisor Service (Bangkok)
-- [ ] https://uncareer.net/vacancy/energy-and-climate-analyst-hse-env-ec-2026-71-grae-834726 | CERN | Energy & Climate Analyst
-- [ ] https://campus.aecom.jobs/singapore-sgp/associate-sustainability/3120C0E8C9D14411AB5C928B4A036CAE/job | AECOM | Associate, Sustainability (Singapore)
+- [x] #855 | https://careers.unido.org/job/CPR-Other-cities-ITPO-Project-Associate/1342949255 | UNIDO | ITPO Project Associate | 2.5/5 | PDF (no)
+- [x] #856 | https://careers.bureauveritas.com/Thailand/job/Bangkok-Climate-Advisor-Service-Bang/1120563201 | Bureau Veritas | Climate Advisor Service (Bangkok) | 2.5/5 | PDF (no)
+- [!] https://uncareer.net/vacancy/energy-and-climate-analyst-hse-env-ec-2026-71-grae-834726 | CERN | Energy & Climate Analyst | CLOSED — deadline April 2026 confirmed via search; could not retrieve JD
+- [x] #858 | https://campus.aecom.jobs/singapore-sgp/associate-sustainability/3120C0E8C9D14411AB5C928B4A036CAE/job | AECOM | Associate, Sustainability (Singapore) | 1.5/5 | PDF (no)
 
 <!-- Scan 2026-11-01 — Scheduled portal scan -->
 - [x] #639 | https://swooped.co/job-postings/climate-consultant-bangkok-erm-12f08 | ERM | Climate Consultant (Bangkok) | 4.0/5 | PDF (no)
@@ -2124,12 +2124,12 @@
 <!-- Scan 2026-08-19 — Multi-portal scheduled scan -->
 - [x] #647 | https://www.aiib.org/en/opportunities/career/job-vacancies/staff/job-details/Investment-Associate.html | AIIB | Investment Associate | 2.0/5 | PDF (no)
 - [x] #648 | https://careers.un.org/jobSearchDescription/265377?language=en | UN | Associate Programme Officer, DECI/IE (Temporary), P2 | 4.0/5 | PDF (no)
-- [ ] https://jobs.ilo.org/job/Geneva-Project-Technical-Officer-(80)-1200/1204952201/ | ILO | Project Technical Officer (80%)
-- [ ] https://jobs.ilo.org/job/Project-Manager-P4/13717-en_GB | ILO | Project Manager P4
-- [ ] https://jobs.ilo.org/job/National-Project-Officer-Grant-Officer-NOA-(DC)/13745-en_GB | ILO | National Project Officer - Grant Officer NOA (DC)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2201011 | FAO | Climate Change Effects on Agricultural Value Chains (National Consultant)
-- [ ] https://builtin.com/job/esg-research-associate-sdgs/7105584 | ISS ESG | ESG Research Associate (SDGs)
-- [ ] https://www.idealist.org/en/consultant-job/c3170c6f20a64943818c4a970fefd6d6-senior-associate-climate-solutions-cea-consulting-san-francisco | CEA Consulting | Senior Associate, Climate Solutions
+- [x] #866 | https://jobs.ilo.org/job/Geneva-Project-Technical-Officer-(80)-1200/1204952201/ | ILO | Project Technical Officer (80%) | 3.8/5 | PDF (no)
+- [x] #865 | https://jobs.ilo.org/job/Project-Manager-P4/13717-en_GB | ILO | Project Manager P4 | 1.5/5 | PDF (no)
+- [x] #861 | https://jobs.ilo.org/job/National-Project-Officer-Grant-Officer-NOA-(DC)/13745-en_GB | ILO | National Project Officer - Grant Officer NOA (DC) | 2.0/5 | PDF (no)
+- [x] #862 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2201011 | FAO | Climate Change Effects on Agricultural Value Chains (National Consultant) | 2.0/5 | PDF (no)
+- [x] #863 | https://builtin.com/job/esg-research-associate-sdgs/7105584 | ISS ESG | ESG Research Associate (SDGs) | 3.5/5 | PDF (no)
+- [x] #864 | https://www.idealist.org/en/consultant-job/c3170c6f20a64943818c4a970fefd6d6-senior-associate-climate-solutions-cea-consulting-san-francisco | CEA Consulting | Senior Associate, Climate Solutions | 2.5/5 | PDF (no)
 - [ ] https://www.developmentaid.org/tenders/view/1607507/ | ADB / GCF / FCDO / EC | Policy and Regulations Expert – Accelerating Climate Transitions through Green Finance in Southeast Asia
 - [ ] https://devjobsindo.org/ngo-jobs/advisor-renewable-energy-expansion-procurement-strategy-re2grid-project-energy-transition-cluster/ | GIZ | Advisor, Renewable Energy Expansion & Procurement Strategy (RE2GRID)
 - [ ] https://opportunitiesforeveryone.net/giz-is-hiring-for-an-infrastructure-and-energy-consultant-apply-now/ | GIZ | Infrastructure and Energy Consultant
