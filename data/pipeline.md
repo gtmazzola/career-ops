@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-11-02 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/CPR-Other-cities-ITPO-Project-Associate/1342949255 | UNIDO | ITPO Project Associate
+- [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Climate-Advisor-Service-Bang/1120563201 | Bureau Veritas | Climate Advisor Service (Bangkok)
+- [ ] https://uncareer.net/vacancy/energy-and-climate-analyst-hse-env-ec-2026-71-grae-834726 | CERN | Energy & Climate Analyst
+- [ ] https://campus.aecom.jobs/singapore-sgp/associate-sustainability/3120C0E8C9D14411AB5C928B4A036CAE/job | AECOM | Associate, Sustainability (Singapore)
+
 <!-- Scan 2026-11-01 — Scheduled portal scan -->
 - [x] #639 | https://swooped.co/job-postings/climate-consultant-bangkok-erm-12f08 | ERM | Climate Consultant (Bangkok) | 4.0/5 | PDF (no)
 - [x] #640 | https://www.tris.co.th/careers/consultant_sustainability | TRIS Corporation | Sustainability Consultant (Bangkok) | 2.8/5 | PDF (no)
