@@ -3,9 +3,9 @@
 ## Pendientes
 
 <!-- Scan 2026-11-03 — Scheduled portal scan -->
-- [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Sustainability-Advisory-Manager-Bang/1254422301 | Bureau Veritas | Sustainability Advisory Manager (Bangkok)
-- [ ] https://climatebase.org/job/78052674/sustainability-planner | Unknown | Sustainability Planner
-- [ ] https://climatebase.org/job/69671964/managing-consultant--strategy-and-climate-risk | Unknown | Managing Consultant – Strategy and Climate Risk
+- [!] https://careers.bureauveritas.com/Thailand/job/Bangkok-Sustainability-Advisory-Manager-Bang/1254422301 | FAILED: domain network-blocked in cloud session | Bureau Veritas | Sustainability Advisory Manager (Bangkok)
+- [!] https://climatebase.org/job/78052674/sustainability-planner | FAILED: domain network-blocked in cloud session | Unknown | Sustainability Planner
+- [!] https://climatebase.org/job/69671964/managing-consultant--strategy-and-climate-risk | FAILED: domain network-blocked in cloud session | Unknown | Managing Consultant – Strategy and Climate Risk
 
 <!-- Scan 2026-11-02 — Scheduled portal scan -->
 - [x] #855 | https://careers.unido.org/job/CPR-Other-cities-ITPO-Project-Associate/1342949255 | UNIDO | ITPO Project Associate | 2.5/5 | PDF (no)
@@ -2135,13 +2135,13 @@
 - [x] #862 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2201011 | FAO | Climate Change Effects on Agricultural Value Chains (National Consultant) | 2.0/5 | PDF (no)
 - [x] #863 | https://builtin.com/job/esg-research-associate-sdgs/7105584 | ISS ESG | ESG Research Associate (SDGs) | 3.5/5 | PDF (no)
 - [x] #864 | https://www.idealist.org/en/consultant-job/c3170c6f20a64943818c4a970fefd6d6-senior-associate-climate-solutions-cea-consulting-san-francisco | CEA Consulting | Senior Associate, Climate Solutions | 2.5/5 | PDF (no)
-- [ ] https://www.developmentaid.org/tenders/view/1607507/ | ADB / GCF / FCDO / EC | Policy and Regulations Expert – Accelerating Climate Transitions through Green Finance in Southeast Asia
-- [ ] https://devjobsindo.org/ngo-jobs/advisor-renewable-energy-expansion-procurement-strategy-re2grid-project-energy-transition-cluster/ | GIZ | Advisor, Renewable Energy Expansion & Procurement Strategy (RE2GRID)
-- [ ] https://opportunitiesforeveryone.net/giz-is-hiring-for-an-infrastructure-and-energy-consultant-apply-now/ | GIZ | Infrastructure and Energy Consultant
-- [ ] https://www.impactpool.org/jobs/1112922 | GGGI | Sustainable Finance & ESG Officer
-- [ ] https://appliedeconjobs.substack.com/p/gender-environment-and-justice-team | Stockholm Environment Institute Asia (SEI Bangkok) | Gender, Environment, and Justice Team Lead and Researcher
-- [ ] https://unjoblink.org/job/climate-finance-analyst/ | UN | Climate Finance Analyst
-- [ ] https://unjobs.org/vacancies/1785174883347 | Dalberg | Analyst – Mumbai / New Delhi
+- [!] https://www.developmentaid.org/tenders/view/1607507/ | FAILED: domain network-blocked in cloud session | ADB / GCF / FCDO / EC | Policy and Regulations Expert – Accelerating Climate Transitions through Green Finance in Southeast Asia
+- [!] https://devjobsindo.org/ngo-jobs/advisor-renewable-energy-expansion-procurement-strategy-re2grid-project-energy-transition-cluster/ | FAILED: domain network-blocked in cloud session | GIZ | Advisor, Renewable Energy Expansion & Procurement Strategy (RE2GRID)
+- [!] https://opportunitiesforeveryone.net/giz-is-hiring-for-an-infrastructure-and-energy-consultant-apply-now/ | FAILED: domain network-blocked in cloud session | GIZ | Infrastructure and Energy Consultant
+- [!] https://www.impactpool.org/jobs/1112922 | FAILED: domain network-blocked in cloud session | GGGI | Sustainable Finance & ESG Officer
+- [!] https://appliedeconjobs.substack.com/p/gender-environment-and-justice-team | FAILED: domain network-blocked in cloud session | Stockholm Environment Institute Asia (SEI Bangkok) | Gender, Environment, and Justice Team Lead and Researcher
+- [!] https://unjoblink.org/job/climate-finance-analyst/ | FAILED: domain network-blocked in cloud session | UN | Climate Finance Analyst
+- [!] https://unjobs.org/vacancies/1785174883347 | FAILED: domain network-blocked in cloud session | Dalberg | Analyst – Mumbai / New Delhi
 
 <!-- Scan 2026-08-21 — Multi-portal scheduled scan -->
 - [ ] https://www.impactpool.org/jobs/734456 | UNICEF Bangkok | Technical Consultant – Climate and Disaster Resilience
