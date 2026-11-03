@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- Scan 2026-11-03 — Scheduled portal scan -->
+- [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Sustainability-Advisory-Manager-Bang/1254422301 | Bureau Veritas | Sustainability Advisory Manager (Bangkok)
+- [ ] https://climatebase.org/job/78052674/sustainability-planner | Unknown | Sustainability Planner
+- [ ] https://climatebase.org/job/69671964/managing-consultant--strategy-and-climate-risk | Unknown | Managing Consultant – Strategy and Climate Risk
+
 <!-- Scan 2026-11-02 — Scheduled portal scan -->
 - [x] #855 | https://careers.unido.org/job/CPR-Other-cities-ITPO-Project-Associate/1342949255 | UNIDO | ITPO Project Associate | 2.5/5 | PDF (no)
 - [x] #856 | https://careers.bureauveritas.com/Thailand/job/Bangkok-Climate-Advisor-Service-Bang/1120563201 | Bureau Veritas | Climate Advisor Service (Bangkok) | 2.5/5 | PDF (no)
