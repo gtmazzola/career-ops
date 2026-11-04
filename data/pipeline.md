@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- Scan 2026-11-04 — Scheduled portal scan -->
+- [ ] https://www.climatechangecareers.com/job/palladium-make-it-possible/bangkok-thailand/fund-associate-clmvt | Palladium | Fund Associate, CLMVT
+- [ ] https://www.climatechangecareers.com/job/deloitte/bangkok-thailand/a-a-manager-sustainability-specialized-assurance/ | Deloitte | A&A: Manager (Sustainability & Specialized Assurance)
+- [ ] https://www.climatechangecareers.com/job/scbx/bangkok-thailand/sustainability-strategist | SCBX | Sustainability Strategist
+- [ ] https://www.workventure.com/en/company/สมัครงาน-ธนาคารกรุงศรีอยุธยา-จำกัด-มหาชน/job/net-zero-transition/WV5122199144 | Krungsri | Net Zero Transition
+
 <!-- Scan 2026-11-03 — Scheduled portal scan -->
 - [!] https://careers.bureauveritas.com/Thailand/job/Bangkok-Sustainability-Advisory-Manager-Bang/1254422301 | FAILED: domain network-blocked in cloud session | Bureau Veritas | Sustainability Advisory Manager (Bangkok)
 - [!] https://climatebase.org/job/78052674/sustainability-planner | FAILED: domain network-blocked in cloud session | Unknown | Sustainability Planner
