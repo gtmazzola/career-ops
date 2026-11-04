@@ -3,10 +3,10 @@
 ## Pendientes
 
 <!-- Scan 2026-11-04 — Scheduled portal scan -->
-- [ ] https://www.climatechangecareers.com/job/palladium-make-it-possible/bangkok-thailand/fund-associate-clmvt | Palladium | Fund Associate, CLMVT
-- [ ] https://www.climatechangecareers.com/job/deloitte/bangkok-thailand/a-a-manager-sustainability-specialized-assurance/ | Deloitte | A&A: Manager (Sustainability & Specialized Assurance)
-- [ ] https://www.climatechangecareers.com/job/scbx/bangkok-thailand/sustainability-strategist | SCBX | Sustainability Strategist
-- [ ] https://www.workventure.com/en/company/สมัครงาน-ธนาคารกรุงศรีอยุธยา-จำกัด-มหาชน/job/net-zero-transition/WV5122199144 | Krungsri | Net Zero Transition
+- [x] #867 | https://www.climatechangecareers.com/job/palladium-make-it-possible/bangkok-thailand/fund-associate-clmvt | Palladium | Fund Associate, CLMVT | 3.8/5 | PDF (no)
+- [x] #868 | https://www.climatechangecareers.com/job/deloitte/bangkok-thailand/a-a-manager-sustainability-specialized-assurance/ | Deloitte | A&A: Manager (Sustainability & Specialized Assurance) | 2.5/5 | PDF (no)
+- [x] #869 | https://www.climatechangecareers.com/job/scbx/bangkok-thailand/sustainability-strategist | SCBX | Sustainability Strategist | 3.3/5 | PDF (no)
+- [x] #870 | https://www.workventure.com/en/company/สมัครงาน-ธนาคารกรุงศรีอยุธยา-จำกัด-มหาชน/job/net-zero-transition/WV5122199144 | Krungsri | Net Zero Transition | 2.0/5 | PDF (no)
 
 <!-- Scan 2026-11-03 — Scheduled portal scan -->
 - [!] https://careers.bureauveritas.com/Thailand/job/Bangkok-Sustainability-Advisory-Manager-Bang/1254422301 | FAILED: domain network-blocked in cloud session | Bureau Veritas | Sustainability Advisory Manager (Bangkok)
@@ -2150,12 +2150,12 @@
 - [!] https://unjobs.org/vacancies/1785174883347 | FAILED: domain network-blocked in cloud session | Dalberg | Analyst – Mumbai / New Delhi
 
 <!-- Scan 2026-08-21 — Multi-portal scheduled scan -->
-- [ ] https://www.impactpool.org/jobs/734456 | UNICEF Bangkok | Technical Consultant – Climate and Disaster Resilience
-- [ ] https://untalent.org/jobs/programme-analyst-carbon-market | UNDP | Programme Analyst (Carbon Market)
-- [ ] https://untalent.org/jobs/carbon-markets-specialist | UNEP | Carbon Markets Specialist
-- [ ] https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior Advisor – Demand-Side Subsidies (Energising Development)
-- [ ] https://www.climatechangecareers.com/job/un-environment-programme/bangkok-thailand/programme-management-officer/ | UNEP | Programme Management Officer (Bangkok)
-- [ ] https://builtin.com/job/program-associate-thailand/3023382 | Unknown | Program Associate – Thailand
+- [x] #871 | https://www.impactpool.org/jobs/734456 | UNICEF Bangkok | Technical Consultant – Climate and Disaster Resilience | 3.3/5 | PDF (no)
+- [x] #872 | https://untalent.org/jobs/programme-analyst-carbon-market | UNDP | Programme Analyst (Carbon Market) | 3.0/5 | PDF (no)
+- [x] #873 | https://untalent.org/jobs/carbon-markets-specialist | UNEP | Carbon Markets Specialist | 2.8/5 | PDF (no)
+- [x] #874 | https://jobs.giz.de/index.php?ac=jobad&id=66612 | GIZ | Junior Advisor – Demand-Side Subsidies (Energising Development) | 3.7/5 | PDF (no)
+- [x] #875 | https://www.climatechangecareers.com/job/un-environment-programme/bangkok-thailand/programme-management-officer/ | UNEP | Programme Management Officer (Bangkok) | 2.8/5 | PDF (no)
+- [!] https://builtin.com/job/program-associate-thailand/3023382 | FAILED: domain network-blocked in cloud session | Unknown | Program Associate – Thailand
 
 <!-- Scan 2026-08-22 — Multi-portal scheduled scan -->
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109093 | UNDP | Research Analyst (Bangkok NPSA-9 — deadline Sep-2-26)
