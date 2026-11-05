@@ -2158,16 +2158,16 @@
 - [!] https://builtin.com/job/program-associate-thailand/3023382 | FAILED: domain network-blocked in cloud session | Unknown | Program Associate – Thailand
 
 <!-- Scan 2026-08-22 — Multi-portal scheduled scan -->
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109093 | UNDP | Research Analyst (Bangkok NPSA-9 — deadline Sep-2-26)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=105732 | UNDP | Research Analyst
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104216 | UNDP | Research Analyst
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=94924 | UNDP | Climate Finance Expert
-- [ ] https://www.impactpool.org/jobs/1122470 | UNDP | Research Analyst (2 openings)
-- [ ] https://www.impactpool.org/jobs/550826 | UNICEF EAPRO | Consultancy – Accelerating Climate Actions for Children (Bangkok)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Health-Safety-Social-and-Environmental-Senior-Analyst-Analysis-and-Reporting/1845 | UNOPS | Health Safety Social Environmental Senior Analyst
-- [ ] https://www.unescap.org/node/43149 | UN ESCAP | Project Coordinator (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1147706 | ADB | Environment Specialist
-- [ ] https://www.devex.com/jobs/2026-research-analyst-1416856 | Devex | Research Analyst 2026
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=109093 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Research Analyst (Bangkok NPSA-9 — deadline Sep-2-26)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=105732 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Research Analyst
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=104216 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Research Analyst
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=94924 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Climate Finance Expert
+- [!] https://www.impactpool.org/jobs/1122470 | FAILED: impactpool.org network-blocked in cloud session | UNDP | Research Analyst (2 openings)
+- [!] https://www.impactpool.org/jobs/550826 | FAILED: impactpool.org network-blocked in cloud session | UNICEF EAPRO | Consultancy – Accelerating Climate Actions for Children (Bangkok)
+- [!] https://careers.unops.org/careersmarketplace/JobDetail/Health-Safety-Social-and-Environmental-Senior-Analyst-Analysis-and-Reporting/1845 | FAILED: careers.unops.org network-blocked in cloud session | UNOPS | Health Safety Social Environmental Senior Analyst
+- [!] https://www.unescap.org/node/43149 | FAILED: unescap.org network-blocked in cloud session | UN ESCAP | Project Coordinator (Bangkok)
+- [!] https://www.impactpool.org/jobs/1147706 | FAILED: impactpool.org network-blocked in cloud session | ADB | Environment Specialist
+- [!] https://www.devex.com/jobs/2026-research-analyst-1416856 | FAILED: devex.com network-blocked in cloud session | Devex | Research Analyst 2026
 - [ ] https://www.devex.com/jobs/investment-analyst-energy-transition-1364497 | Devex | Investment Analyst – Energy Transition
 - [ ] https://reliefweb.int/job/4088991/monitoring-and-reporting-mr-specialist | ReliefWeb | Monitoring and Reporting Specialist (Thailand)
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=89116 | UNDP | Communications Consultant - Energy and Climate Change
