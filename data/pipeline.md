@@ -2500,3 +2500,9 @@
 - [ ] https://careers.ey.com/ey/job/Astana-Staff-in-Climate-Change-and-Sustainability-Services-010000/1425624533/ | EY | Staff – Climate Change and Sustainability Services (Astana)
 - [ ] https://careers.conbio.org/job/327094/associate-sr-associate-mpa-esg-services/ | Conservation Biology | Associate/Sr. Associate – ESG Services
 - [ ] https://pkfea.com/careers/associate-esg-and-sustainability/ | PKF EA | Associate – ESG and Sustainability
+- [ ] https://www.workventure.com/en/company/scbx-pcl/job/sustainability-strategic-intelligence-engagement-specialist/WV5114194104 | SCBX | Sustainability Strategic Intelligence & Engagement Specialist (Bangkok)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30212 | UNOPS | Programme Associate
+- [ ] https://careers.unido.org/job/Vienna-Project-Specialist-R%26D%2C-Innovation-and-Digitalization/1348322355 | UNIDO | Project Specialist – R&D, Innovation and Digitalization (Vienna)
+- [ ] https://www.uncareer.net/vacancy/thailand-consultant-building-readiness-for-transition-finance-phase-1-836700 | GGGI Thailand | Consultant – Building Readiness for Transition Finance (Phase 1)
+- [ ] https://www.devex.com/jobs/consultant-low-carbon-building-investments-1388873 | GGGI Thailand | Consultant – Low Carbon Building Investments
+- [ ] https://jobleads.com/sg/job/esg-sustainability-analyst--singapore--e49f0a97296ac196f14f38a0db475082b | Durapower Technology | ESG & Sustainability Analyst (Singapore)
