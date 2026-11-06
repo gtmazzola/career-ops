@@ -2168,16 +2168,16 @@
 - [!] https://www.unescap.org/node/43149 | FAILED: unescap.org network-blocked in cloud session | UN ESCAP | Project Coordinator (Bangkok)
 - [!] https://www.impactpool.org/jobs/1147706 | FAILED: impactpool.org network-blocked in cloud session | ADB | Environment Specialist
 - [!] https://www.devex.com/jobs/2026-research-analyst-1416856 | FAILED: devex.com network-blocked in cloud session | Devex | Research Analyst 2026
-- [ ] https://www.devex.com/jobs/investment-analyst-energy-transition-1364497 | Devex | Investment Analyst – Energy Transition
-- [ ] https://reliefweb.int/job/4088991/monitoring-and-reporting-mr-specialist | ReliefWeb | Monitoring and Reporting Specialist (Thailand)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=89116 | UNDP | Communications Consultant - Energy and Climate Change
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=100493 | UNDP | Individual Consultant – Energy Efficiency Consultant
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101425 | UNDP | Programme Officer
-- [ ] https://th.linkedin.com/jobs/view/managing-consultant-corporate-sustainability-and-climate-change-at-erm-3596186487 | ERM | Managing Consultant - Corporate Sustainability and Climate Change
-- [ ] https://careers.unido.org/job/Mexico-City-National-Ozone-Office-Coordinator/1364426255/ | UNIDO | National Ozone Office Coordinator
-- [ ] https://www.climatebase.org/job/64337306/ehs-consulting-associatesenior-associate | ERM | EHS Consulting Associate/Senior Associate
-- [ ] https://climatebase.org/job/59752657/expression-of-interest---corporate-sustainability--climate-change-consultant | ERM | Expression of Interest - Corporate Sustainability & Climate Change Consultant
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88524 | UNDP | Programme and Policy Consultant for UNDP-GEF
+- [!] https://www.devex.com/jobs/investment-analyst-energy-transition-1364497 | FAILED: devex.com network-blocked in cloud session | Devex | Investment Analyst – Energy Transition
+- [!] https://reliefweb.int/job/4088991/monitoring-and-reporting-mr-specialist | FAILED: reliefweb.int network-blocked in cloud session | ReliefWeb | Monitoring and Reporting Specialist (Thailand)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=89116 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Communications Consultant - Energy and Climate Change
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=100493 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Individual Consultant – Energy Efficiency Consultant
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101425 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Programme Officer
+- [!] https://th.linkedin.com/jobs/view/managing-consultant-corporate-sustainability-and-climate-change-at-erm-3596186487 | FAILED: th.linkedin.com network-blocked in cloud session | ERM | Managing Consultant - Corporate Sustainability and Climate Change
+- [!] https://careers.unido.org/job/Mexico-City-National-Ozone-Office-Coordinator/1364426255/ | FAILED: careers.unido.org network-blocked in cloud session | UNIDO | National Ozone Office Coordinator
+- [!] https://www.climatebase.org/job/64337306/ehs-consulting-associatesenior-associate | FAILED: climatebase.org network-blocked in cloud session | ERM | EHS Consulting Associate/Senior Associate
+- [!] https://climatebase.org/job/59752657/expression-of-interest---corporate-sustainability--climate-change-consultant | FAILED: climatebase.org network-blocked in cloud session | ERM | Expression of Interest - Corporate Sustainability & Climate Change Consultant
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88524 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Programme and Policy Consultant for UNDP-GEF
 - [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42441 | UNDP | Programme Analyst - Climate Change
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Specialist/4039 | UNOPS | Project Management Office (PMO) - Specialist (Bangkok)
 - [ ] https://sg.linkedin.com/jobs/view/consulting-associate-sustainable-operation-at-erm-3770277802 | ERM | Consulting Associate - Sustainable Operation (Singapore)
