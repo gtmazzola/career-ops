@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- Scan 2026-11-07 — Scheduled portal scan -->
+- [ ] https://www.impactpool.org/jobs/876786 | UNDP | Programme Analyst (Inclusive Development)
+- [ ] https://job-boards.eu.greenhouse.io/systemiq/jobs/4897882101 | Systemiq | Junior Analyst
+- [ ] https://careers.msci.com/job/sales-and-relationship-management/mumbai/sustainability-climate-client-service-analyst/2026-5027 | MSCI | Sustainability & Climate Client Service Analyst (Mumbai)
+- [ ] https://jobs.indoramaventures.com/job/Corporate-Head-Office-Sustainability-Reporting-&-ESG-Disclosure-Specialist/1365719157/ | Indorama Ventures | Sustainability Reporting & ESG Disclosure Specialist
+- [ ] https://www.terra.do/climate-jobs/job-board/clean-energy-system-analyst-8367716 | terra.do | Clean Energy System Analyst
+
 <!-- Scan 2026-11-04 — Scheduled portal scan -->
 - [x] #867 | https://www.climatechangecareers.com/job/palladium-make-it-possible/bangkok-thailand/fund-associate-clmvt | Palladium | Fund Associate, CLMVT | 3.8/5 | PDF (no)
 - [x] #868 | https://www.climatechangecareers.com/job/deloitte/bangkok-thailand/a-a-manager-sustainability-specialized-assurance/ | Deloitte | A&A: Manager (Sustainability & Specialized Assurance) | 2.5/5 | PDF (no)
