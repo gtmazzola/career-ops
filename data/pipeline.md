@@ -2,6 +2,23 @@
 
 ## Pendientes
 
+<!-- Scan 2026-11-08 — Scheduled portal scan -->
+- [ ] https://www.climatechangecareers.com/job/bitwise-consulting/singapore-singapore/sustainability-analyst-japanese-speaking | Bitwise Consulting | Sustainability Analyst (Japanese Speaking)
+- [ ] https://www.climatechangecareers.com/job/energdive/delhi-india/sustainability-and-climate-research-associate/ | Energdive | Sustainability and Climate Research Associate
+- [ ] https://www.terra.do/climate-jobs/job-board/Graduate-Climate-and-Energy-Consultant-Environmental-Resources-Management--Erm--8350298 | ERM | Graduate Climate and Energy Consultant
+- [ ] https://uncareer.net/vacancy/sustainable-development-officer-827022 | UN DESA | Sustainable Development Officer
+- [ ] https://www.terra.do/climate-jobs/job-board/wri-consultant-as-climate-research-analyst-jakarta-8356613/ | WRI | Consultant as Climate Research Analyst (Jakarta)
+- [ ] https://www.terra.do/climate-jobs/job-board/consultant-climate-and-nature-impact-assessment-8385189 | Contract/Confidential | Consultant, Climate and Nature Impact Assessment
+- [ ] https://careers-page.com/job-expert-thailand-co-ltd/job/QV343356 | Job Expert Thailand | Senior Sustainability Consultant (Bangkok)
+- [ ] https://jobs.undp.org/cj_view_jobs.cfm/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert
+- [ ] https://jobs.undp.org/cj_view_jobs.cfm/images/cj_view_job.cfm?cur_job_id=87797 | UNDP | Renewable Energy Analyst
+- [ ] https://careers.msci.com/job/sales-and-relationship-management/tokyo/sustainability-climate-consultant/2026-5608 | MSCI | Sustainability & Climate Consultant (Tokyo)
+- [ ] https://www.impactpool.org/jobs/1239767 | GCF | Climate Investment Analyst - Consultant (Multiple Roles)
+- [ ] https://community.iisd.org/jobs/policy-analyst-india-country-program/ | IISD | Policy Analyst, India Country Program
+- [ ] https://community.iisd.org/jobs/policy-analyst-gender-equality-and-social-inclusion-gesi | IISD | Policy Analyst, Gender Equality and Social Inclusion (Southeast Asia)
+- [ ] https://www.terra.do/climate-jobs/job-board/policy-analyst-energy-transition-tracking-8210566 | IISD | Policy Analyst, Energy Transition Tracking
+- [ ] https://unvacancies.org/jobs/junior-sustainable-development-officer-21273340 | UN | Junior Sustainable Development Officer
+
 <!-- Scan 2026-11-07 — Scheduled portal scan -->
 - [ ] https://www.impactpool.org/jobs/876786 | UNDP | Programme Analyst (Inclusive Development)
 - [ ] https://job-boards.eu.greenhouse.io/systemiq/jobs/4897882101 | Systemiq | Junior Analyst
