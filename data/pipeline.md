@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-11-08 — Scheduled portal scan -->
-- [ ] https://www.climatechangecareers.com/job/bitwise-consulting/singapore-singapore/sustainability-analyst-japanese-speaking | Bitwise Consulting | Sustainability Analyst (Japanese Speaking)
-- [ ] https://www.climatechangecareers.com/job/energdive/delhi-india/sustainability-and-climate-research-associate/ | Energdive | Sustainability and Climate Research Associate
-- [ ] https://www.terra.do/climate-jobs/job-board/Graduate-Climate-and-Energy-Consultant-Environmental-Resources-Management--Erm--8350298 | ERM | Graduate Climate and Energy Consultant
-- [ ] https://uncareer.net/vacancy/sustainable-development-officer-827022 | UN DESA | Sustainable Development Officer
-- [ ] https://www.terra.do/climate-jobs/job-board/wri-consultant-as-climate-research-analyst-jakarta-8356613/ | WRI | Consultant as Climate Research Analyst (Jakarta)
-- [ ] https://www.terra.do/climate-jobs/job-board/consultant-climate-and-nature-impact-assessment-8385189 | Contract/Confidential | Consultant, Climate and Nature Impact Assessment
-- [ ] https://careers-page.com/job-expert-thailand-co-ltd/job/QV343356 | Job Expert Thailand | Senior Sustainability Consultant (Bangkok)
-- [ ] https://jobs.undp.org/cj_view_jobs.cfm/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert
-- [ ] https://jobs.undp.org/cj_view_jobs.cfm/images/cj_view_job.cfm?cur_job_id=87797 | UNDP | Renewable Energy Analyst
-- [ ] https://careers.msci.com/job/sales-and-relationship-management/tokyo/sustainability-climate-consultant/2026-5608 | MSCI | Sustainability & Climate Consultant (Tokyo)
+- [x] #639 | https://www.climatechangecareers.com/job/bitwise-consulting/singapore-singapore/sustainability-analyst-japanese-speaking | Bitwise Consulting | Sustainability Analyst (Japanese Speaking) | 1.8/5 | PDF ❌
+- [x] #640 | https://www.climatechangecareers.com/job/energdive/delhi-india/sustainability-and-climate-research-associate/ | Energdive | Sustainability and Climate Research Associate | 2.8/5 | PDF ❌
+- [x] #641 | https://www.terra.do/climate-jobs/job-board/Graduate-Climate-and-Energy-Consultant-Environmental-Resources-Management--Erm--8350298 | ERM | Graduate Climate and Energy Consultant | 1.5/5 | PDF ❌
+- [x] #642 | https://uncareer.net/vacancy/sustainable-development-officer-827022 | UN DESA | Sustainable Development Officer | 2.5/5 | PDF ❌
+- [x] #643 | https://www.terra.do/climate-jobs/job-board/wri-consultant-as-climate-research-analyst-jakarta-8356613/ | WRI | Consultant as Climate Research Analyst (Jakarta) | 3.6/5 | PDF ❌
+- [x] #644 | https://www.terra.do/climate-jobs/job-board/consultant-climate-and-nature-impact-assessment-8385189 | Contract/Confidential | Consultant, Climate and Nature Impact Assessment | 3.0/5 | PDF ❌
+- [x] #645 | https://careers-page.com/job-expert-thailand-co-ltd/job/QV343356 | Job Expert Thailand | Senior Sustainability Consultant (Bangkok) | 2.8/5 | PDF ❌
+- [x] #646 | https://jobs.undp.org/cj_view_jobs.cfm/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert | 2.5/5 | PDF ❌
+- [x] #647 | https://jobs.undp.org/cj_view_jobs.cfm/images/cj_view_job.cfm?cur_job_id=87797 | UNDP | Renewable Energy Analyst | 3.0/5 | PDF ❌
+- [x] #648 | https://careers.msci.com/job/sales-and-relationship-management/tokyo/sustainability-climate-consultant/2026-5608 | MSCI | Sustainability & Climate Consultant (Tokyo) | 2.2/5 | PDF ❌
 - [ ] https://www.impactpool.org/jobs/1239767 | GCF | Climate Investment Analyst - Consultant (Multiple Roles)
 - [ ] https://community.iisd.org/jobs/policy-analyst-india-country-program/ | IISD | Policy Analyst, India Country Program
 - [ ] https://community.iisd.org/jobs/policy-analyst-gender-equality-and-social-inclusion-gesi | IISD | Policy Analyst, Gender Equality and Social Inclusion (Southeast Asia)
