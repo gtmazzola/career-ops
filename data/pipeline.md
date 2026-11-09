@@ -13,18 +13,18 @@
 - [x] #646 | https://jobs.undp.org/cj_view_jobs.cfm/cj_view_job.cfm?cur_job_id=84861 | UNDP | Individual Consultant - Renewable Energy Expert | 2.5/5 | PDF ❌
 - [x] #647 | https://jobs.undp.org/cj_view_jobs.cfm/images/cj_view_job.cfm?cur_job_id=87797 | UNDP | Renewable Energy Analyst | 3.0/5 | PDF ❌
 - [x] #648 | https://careers.msci.com/job/sales-and-relationship-management/tokyo/sustainability-climate-consultant/2026-5608 | MSCI | Sustainability & Climate Consultant (Tokyo) | 2.2/5 | PDF ❌
-- [ ] https://www.impactpool.org/jobs/1239767 | GCF | Climate Investment Analyst - Consultant (Multiple Roles)
-- [ ] https://community.iisd.org/jobs/policy-analyst-india-country-program/ | IISD | Policy Analyst, India Country Program
-- [ ] https://community.iisd.org/jobs/policy-analyst-gender-equality-and-social-inclusion-gesi | IISD | Policy Analyst, Gender Equality and Social Inclusion (Southeast Asia)
-- [ ] https://www.terra.do/climate-jobs/job-board/policy-analyst-energy-transition-tracking-8210566 | IISD | Policy Analyst, Energy Transition Tracking
-- [ ] https://unvacancies.org/jobs/junior-sustainable-development-officer-21273340 | UN | Junior Sustainable Development Officer
+- [!] https://www.impactpool.org/jobs/1239767 | GCF | Climate Investment Analyst - Consultant (Multiple Roles) | FAILED: posting closed Oct 18 2026 (deadline confirmed via WebSearch); domain network-blocked in cloud session
+- [!] https://community.iisd.org/jobs/policy-analyst-india-country-program/ | IISD | Policy Analyst, India Country Program | FAILED: posting closed Aug 14 2026 (deadline confirmed via WebSearch); domain network-blocked in cloud session
+- [x] #875 | https://community.iisd.org/jobs/policy-analyst-gender-equality-and-social-inclusion-gesi | IISD | Policy Analyst, GESI (Southeast Asia) | 2.8/5 | PDF ❌
+- [x] #876 | https://www.terra.do/climate-jobs/job-board/policy-analyst-energy-transition-tracking-8210566 | IISD | Policy Analyst, Energy Transition Tracking | 3.4/5 | PDF ❌
+- [!] https://unvacancies.org/jobs/junior-sustainable-development-officer-21273340 | UN | Junior Sustainable Development Officer | FAILED: domain network-blocked in cloud session; insufficient JD data to evaluate
 
 <!-- Scan 2026-11-07 — Scheduled portal scan -->
-- [ ] https://www.impactpool.org/jobs/876786 | UNDP | Programme Analyst (Inclusive Development)
-- [ ] https://job-boards.eu.greenhouse.io/systemiq/jobs/4897882101 | Systemiq | Junior Analyst
-- [ ] https://careers.msci.com/job/sales-and-relationship-management/mumbai/sustainability-climate-client-service-analyst/2026-5027 | MSCI | Sustainability & Climate Client Service Analyst (Mumbai)
-- [ ] https://jobs.indoramaventures.com/job/Corporate-Head-Office-Sustainability-Reporting-&-ESG-Disclosure-Specialist/1365719157/ | Indorama Ventures | Sustainability Reporting & ESG Disclosure Specialist
-- [ ] https://www.terra.do/climate-jobs/job-board/clean-energy-system-analyst-8367716 | terra.do | Clean Energy System Analyst
+- [!] https://www.impactpool.org/jobs/876786 | UNDP | Programme Analyst (Inclusive Development) | FAILED: domain network-blocked; job number suggests old posting; could not retrieve JD
+- [x] #877 | https://job-boards.eu.greenhouse.io/systemiq/jobs/4897882101 | Systemiq | Junior Analyst | 3.7/5 | PDF ❌
+- [x] #878 | https://careers.msci.com/job/sales-and-relationship-management/mumbai/sustainability-climate-client-service-analyst/2026-5027 | MSCI | Sustainability & Climate Client Service Analyst (Mumbai) | 2.4/5 | PDF ❌
+- [x] #879 | https://jobs.indoramaventures.com/job/Corporate-Head-Office-Sustainability-Reporting-&-ESG-Disclosure-Specialist/1365719157/ | Indorama Ventures | Sustainability Reporting & ESG Disclosure Specialist | 2.4/5 | PDF ❌
+- [x] #880 | https://www.terra.do/climate-jobs/job-board/clean-energy-system-analyst-8367716 | Sustainability Economics.ai | Clean Energy System Analyst | 2.0/5 | PDF ❌
 
 <!-- Scan 2026-11-04 — Scheduled portal scan -->
 - [x] #867 | https://www.climatechangecareers.com/job/palladium-make-it-possible/bangkok-thailand/fund-associate-clmvt | Palladium | Fund Associate, CLMVT | 3.8/5 | PDF (no)
