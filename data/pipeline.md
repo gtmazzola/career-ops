@@ -2530,3 +2530,11 @@
 - [ ] https://www.uncareer.net/vacancy/thailand-consultant-building-readiness-for-transition-finance-phase-1-836700 | GGGI Thailand | Consultant – Building Readiness for Transition Finance (Phase 1)
 - [ ] https://www.devex.com/jobs/consultant-low-carbon-building-investments-1388873 | GGGI Thailand | Consultant – Low Carbon Building Investments
 - [ ] https://jobleads.com/sg/job/esg-sustainability-analyst--singapore--e49f0a97296ac196f14f38a0db475082b | Durapower Technology | ESG & Sustainability Analyst (Singapore)
+
+<!-- Scan 2026-11-10 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Bangkok-National-Resource-Efficient-and-Cleaner-Production-%28RECP%29-and-Climate-Change-coordinator/1367460455/ | UNIDO Bangkok | National RECP and Climate Change Coordinator (Bangkok)
+- [ ] https://www.adb.org/careers/260568 | ADB | Project Analyst
+- [ ] https://www.impactpool.org/jobs/1246535 | ImpactPool | [title unknown – Req. 8305]
+- [ ] https://www.impactpool.org/jobs/1246534 | ImpactPool | [title unknown – Req. 8303]
+- [ ] https://climatebase.org/job/56557898/energy-consulting-consultant | (via ClimateBase) | Energy Consulting Consultant (Singapore)
+- [ ] https://outscal.com/job/green-hydrogen-and-ammonia-consultant-senior-consultant-at-afry-in-bangkok-thailand-1 | AFRY Bangkok | Green Hydrogen and Ammonia Consultant/Senior Consultant
