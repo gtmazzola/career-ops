@@ -2202,18 +2202,18 @@
 - [!] https://www.climatebase.org/job/64337306/ehs-consulting-associatesenior-associate | FAILED: climatebase.org network-blocked in cloud session | ERM | EHS Consulting Associate/Senior Associate
 - [!] https://climatebase.org/job/59752657/expression-of-interest---corporate-sustainability--climate-change-consultant | FAILED: climatebase.org network-blocked in cloud session | ERM | Expression of Interest - Corporate Sustainability & Climate Change Consultant
 - [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=88524 | FAILED: jobs.undp.org network-blocked in cloud session | UNDP | Programme and Policy Consultant for UNDP-GEF
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42441 | UNDP | Programme Analyst - Climate Change
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Specialist/4039 | UNOPS | Project Management Office (PMO) - Specialist (Bangkok)
-- [ ] https://sg.linkedin.com/jobs/view/consulting-associate-sustainable-operation-at-erm-3770277802 | ERM | Consulting Associate - Sustainable Operation (Singapore)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Technical-Specialist-Environmental/1477 | UNOPS | Technical Specialist - Environmental (Timor-Leste/Asia Pacific)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3124 | UNOPS | Project Management Support Senior Officer (Bangkok)
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3014 | UNOPS | Project Management Support Senior Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1238 | UNOPS | Project Management Support Officer
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Senior-Officer/2313 | UNOPS | Programme Management Senior Officer
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=42441 | UNDP | Programme Analyst - Climate Change | FAILED: jobs.undp.org network-blocked; job ID 42441 appears very old (current UNDP IDs are 90k+)
+- [x] #881 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Specialist/4039 | UNOPS | Project Management Office (PMO) - Specialist (Bangkok) | 3.4/5 | PDF (no)
+- [x] #882 | https://sg.linkedin.com/jobs/view/consulting-associate-sustainable-operation-at-erm-3770277802 | ERM | Consulting Associate - Sustainable Operation (Singapore) | 3.5/5 | PDF (no)
+- [x] #883 | https://careers.unops.org/careersmarketplace/JobDetail/Technical-Specialist-Environmental/1477 | UNOPS | Technical Specialist - Environmental (Timor-Leste/Asia Pacific) | 2.5/5 | PDF (no)
+- [x] #884 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3124 | UNOPS | Project Management Support Senior Officer (Bangkok) | 4.3/5 | PDF (no)
+- [x] #885 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Officer/3014 | UNOPS | Project Management Support Senior Officer | 4.0/5 | PDF (no)
+- [x] #886 | https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/1238 | UNOPS | Project Management Support Officer | 3.7/5 | PDF (no)
+- [x] #887 | https://careers.unops.org/careersmarketplace/JobDetail/Programme-Management-Senior-Officer/2313 | UNOPS | Programme Management Senior Officer | 3.9/5 | PDF (no)
 
 <!-- Scan 2026-08-28 — Multi-portal scheduled scan -->
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1365510555/ | UNIDO | Industrial Development Officer
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29281 | UNOPS | Senior Officer, ASEAN Energy Transition
+- [x] #888 | https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1365510555/ | UNIDO | Industrial Development Officer | 3.4/5 | PDF (no)
+- [x] #889 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29281 | UNOPS | Senior Officer, ASEAN Energy Transition | 4.1/5 | PDF (no)
 - [ ] https://unjobs.org/vacancies/1771874315803 | GCF | Climate Investment Associate (Talent Pool)
 
 <!-- Scan 2026-08-29 — Multi-portal scheduled scan -->
