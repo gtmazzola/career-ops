@@ -2214,20 +2214,20 @@
 <!-- Scan 2026-08-28 — Multi-portal scheduled scan -->
 - [x] #888 | https://careers.unido.org/job/Vienna-Industrial-Development-Officer/1365510555/ | UNIDO | Industrial Development Officer | 3.4/5 | PDF (no)
 - [x] #889 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=29281 | UNOPS | Senior Officer, ASEAN Energy Transition | 4.1/5 | PDF (no)
-- [ ] https://unjobs.org/vacancies/1771874315803 | GCF | Climate Investment Associate (Talent Pool)
+- [!] https://unjobs.org/vacancies/1771874315803 | GCF | Climate Investment Associate (Talent Pool) | ERROR: domain not reachable from cloud session (network policy)
 
 <!-- Scan 2026-08-29 — Multi-portal scheduled scan -->
-- [ ] https://careers.bcg.com/job/20641BR/Senior-Research-Analyst-Climate-Sustainability | BCG | Senior Research Analyst – Climate & Sustainability (Bengaluru)
-- [ ] https://careers.chathamhouse.org/jobs/8250264-research-associate-energy-and-climate | Chatham House | Research Associate – Energy and Climate ⭐ (deadline Sep 7)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101565 | UNDP | Monitoring and Evaluation Associate ⭐ (Bangkok)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=100641 | UNDP | Thailand Project Coordinator ⭐ (Bangkok)
-- [ ] https://www.unjobnet.org/jobs/detail/80390302 | UNDP | Policy Analyst – Thailand Policy Lab ⭐ (Bangkok)
-- [ ] https://carnegieendowment.applicantpro.com/jobs/4159251 | Carnegie Endowment | Research Fellow, Clean Energy and Geopolitics (Washington DC)
-- [ ] https://carnegieendowment.applicantpro.com/jobs/3994486 | Carnegie Endowment | Research Assistant, Sustainability Climate and Geopolitics – Climate Mobility (Washington DC)
+- [!] https://careers.bcg.com/job/20641BR/Senior-Research-Analyst-Climate-Sustainability | BCG | Senior Research Analyst – Climate & Sustainability (Bengaluru) | ERROR: domain not reachable from cloud session (network policy)
+- [!] https://careers.chathamhouse.org/jobs/8250264-research-associate-energy-and-climate | Chatham House | Research Associate – Energy and Climate ⭐ (deadline Sep 7) | ERROR: domain not reachable from cloud session (network policy)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=101565 | UNDP | Monitoring and Evaluation Associate ⭐ (Bangkok) | ERROR: domain not reachable from cloud session (network policy)
+- [!] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=100641 | UNDP | Thailand Project Coordinator ⭐ (Bangkok) | ERROR: domain not reachable from cloud session (network policy)
+- [!] https://www.unjobnet.org/jobs/detail/80390302 | UNDP | Policy Analyst – Thailand Policy Lab ⭐ (Bangkok) | ERROR: domain not reachable from cloud session (network policy)
+- [!] https://carnegieendowment.applicantpro.com/jobs/4159251 | Carnegie Endowment | Research Fellow, Clean Energy and Geopolitics (Washington DC) | ERROR: domain not reachable from cloud session (network policy)
+- [!] https://carnegieendowment.applicantpro.com/jobs/3994486 | Carnegie Endowment | Research Assistant, Sustainability Climate and Geopolitics – Climate Mobility (Washington DC) | ERROR: domain not reachable from cloud session (network policy)
 
 <!-- Scan 2026-08-30 — Multi-portal scheduled scan -->
-- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Analyst/1875 | UNOPS | Project Management Support Senior Analyst (Bangkok)
-- [ ] https://jobs.unicef.org/fr/job/592584/programme-officer-climate-and-environment-no1-temporary-position-suva-fiji-pacific-islands-mcp-364-days-00136931 | UNICEF | Programme Officer – Climate and Environment NO-1 (Fiji/Pacific)
+- [!] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Analyst/1875 | UNOPS | Project Management Support Senior Analyst (Bangkok) | ERROR: domain not reachable from cloud session (network policy)
+- [!] https://jobs.unicef.org/fr/job/592584/programme-officer-climate-and-environment-no1-temporary-position-suva-fiji-pacific-islands-mcp-364-days-00136931 | UNICEF | Programme Officer – Climate and Environment NO-1 (Fiji/Pacific) | ERROR: domain not reachable from cloud session (network policy)
 - [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501333 | FAO | Climate Change and Sustainable Agriculture Specialist
 - [ ] https://southasiacareers.deloitte.com/job/Delhi-Analyst-Consultant-Social-DelhiMumbaiBengaluruHyderabad-Sustainability/56739844 | Deloitte South Asia | Analyst / Consultant – Social (Sustainability, India)
 - [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Manager-ESG-BengaluruDelhiHyderabadMumbai-Sustainability/55807444 | Deloitte South Asia | Manager – ESG (India)
