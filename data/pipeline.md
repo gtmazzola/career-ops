@@ -2538,3 +2538,21 @@
 - [ ] https://www.impactpool.org/jobs/1246534 | ImpactPool | [title unknown – Req. 8303]
 - [ ] https://climatebase.org/job/56557898/energy-consulting-consultant | (via ClimateBase) | Energy Consulting Consultant (Singapore)
 - [ ] https://outscal.com/job/green-hydrogen-and-ammonia-consultant-senior-consultant-at-afry-in-bangkok-thailand-1 | AFRY Bangkok | Green Hydrogen and Ammonia Consultant/Senior Consultant
+
+<!-- Scan 2026-11-11 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/975843755/ | UNIDO | Project Assistant (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Project-Assistant/975852155/ | UNIDO | Project Assistant (Vienna, 2nd posting)
+- [ ] https://careers-ricardo.icims.com/jobs/2915/esg-consultant---climate-reporting/job | Ricardo | ESG Consultant – Climate Reporting (UK)
+- [ ] https://careers.msci.com/job/data-and-operations/sofia/sustainability-climate-issuer-communication-analyst/2025-4619 | MSCI | Sustainability & Climate Issuer Communication Analyst (Sofia)
+- [ ] https://careers.msci.com/job/data-and-operations/pune/climate-data-analyst/2026-4818 | MSCI | Climate Data Analyst (Pune)
+- [ ] https://www.impactpool.org/jobs/1242026 | World Bank | ET Consultant – Climate and Sustainable Finance
+- [ ] https://www.impactpool.org/jobs/1223742 | World Bank | (verify title – Req. 36892)
+- [ ] https://www.impactpool.org/jobs/1241449 | World Bank | (verify title – Req. 36417)
+- [ ] https://www.impactpool.org/jobs/1223263 | World Bank | (verify title – Req. 36874)
+- [ ] https://www.impactpool.org/jobs/1244970 | World Bank | (verify title – Req. 37191)
+- [ ] https://untalent.org/jobs/junior-analyst-sustainable-public-finance | UN | Junior Analyst – Sustainable Public Finance
+- [ ] https://untalent.org/jobs/ghg-inventory-specialist-afolu | UN | GHG Inventory Specialist (AFOLU)
+- [ ] https://untalent.org/jobs/junior-integrated-energy-consultant | UN | Junior Integrated Energy Consultant
+- [ ] https://www.wri.org/careers/jobs/low-carbon-technology-analyst-2026-jr100551 | WRI | Low Carbon Technology Analyst (Jakarta)
+- [ ] https://www.wri.org/careers/jobs/electric-mobility-industry-analyst-2026-jr100407 | WRI | Electric Mobility Industry Analyst (Jakarta)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2858 | UNOPS | Energy Transition Analyst – Hanoi (closes ~15 Nov 2026)
