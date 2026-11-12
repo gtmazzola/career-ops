@@ -2228,18 +2228,18 @@
 <!-- Scan 2026-08-30 — Multi-portal scheduled scan -->
 - [!] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Senior-Analyst/1875 | UNOPS | Project Management Support Senior Analyst (Bangkok) | ERROR: domain not reachable from cloud session (network policy)
 - [!] https://jobs.unicef.org/fr/job/592584/programme-officer-climate-and-environment-no1-temporary-position-suva-fiji-pacific-islands-mcp-364-days-00136931 | UNICEF | Programme Officer – Climate and Environment NO-1 (Fiji/Pacific) | ERROR: domain not reachable from cloud session (network policy)
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501333 | FAO | Climate Change and Sustainable Agriculture Specialist
-- [ ] https://southasiacareers.deloitte.com/job/Delhi-Analyst-Consultant-Social-DelhiMumbaiBengaluruHyderabad-Sustainability/56739844 | Deloitte South Asia | Analyst / Consultant – Social (Sustainability, India)
-- [ ] https://southasiacareers.deloitte.com/job/Bengaluru-Manager-ESG-BengaluruDelhiHyderabadMumbai-Sustainability/55807444 | Deloitte South Asia | Manager – ESG (India)
-- [ ] https://jobs.sea.deloitte.com/job/Jakarta-A&A-Manager-Sustainability-&-Emerging-Assurance/1361430366 | Deloitte SEA | A&A Manager – Sustainability & Emerging Assurance (Jakarta)
+- [!] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2501333 | FAO | Climate Change and Sustainable Agriculture Specialist | ERROR: domain network-blocked in cloud session; posting appears expired (June 2025 deadline per WebSearch)
+- [x] #890 | https://southasiacareers.deloitte.com/job/Delhi-Analyst-Consultant-Social-DelhiMumbaiBengaluruHyderabad-Sustainability/56739844 | Deloitte South Asia | Analyst / Consultant – Social (Sustainability, India) | 2.5/5 | PDF ❌
+- [x] #891 | https://southasiacareers.deloitte.com/job/Bengaluru-Manager-ESG-BengaluruDelhiHyderabadMumbai-Sustainability/55807444 | Deloitte South Asia | Manager – ESG (India) | 2.0/5 | PDF ❌
+- [x] #892 | https://jobs.sea.deloitte.com/job/Jakarta-A&A-Manager-Sustainability-&-Emerging-Assurance/1361430366 | Deloitte SEA | A&A Manager – Sustainability & Emerging Assurance (Jakarta) | 2.0/5 | PDF ❌
 
 <!-- Scan 2026-09-01 — Multi-portal scheduled scan -->
-- [ ] https://careers.unido.org/job/Vienna-Monitoring-and-Evaluation-Specialist/1349795655/ | UNIDO | Monitoring and Evaluation Specialist (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert (Vienna)
-- [ ] https://careers.unido.org/job/Mexico-City-National-Ozone-Office-Coordinator/1364426255/ | UNIDO | National Ozone Office Coordinator (Mexico City)
-- [ ] https://careers.unido.org/job/Mexico-City-Consultant-for-the-Regulatory-Diagnosis-and-Analysis-of-HFC-23-Policies/1362243555/ | UNIDO | Consultant – Regulatory Diagnosis and Analysis of HFC-23 Policies (Mexico City)
-- [ ] https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer, Carbon Project Development
-- [ ] https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | Palau CBIT MRV – Individual Consultant, NDC Tracking and Reporting (deadline Aug 31 – verify)
+- [x] #893 | https://careers.unido.org/job/Vienna-Monitoring-and-Evaluation-Specialist/1349795655/ | UNIDO | Monitoring and Evaluation Specialist (Vienna) | 1.5/5 | PDF ❌
+- [x] #894 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155/ | UNIDO | Industrial Development Expert (Vienna) | 3.0/5 | PDF ❌
+- [x] #895 | https://careers.unido.org/job/Mexico-City-National-Ozone-Office-Coordinator/1364426255/ | UNIDO | National Ozone Office Coordinator (Mexico City) | 1.5/5 | PDF ❌
+- [x] #896 | https://careers.unido.org/job/Mexico-City-Consultant-for-the-Regulatory-Diagnosis-and-Analysis-of-HFC-23-Policies/1362243555/ | UNIDO | Consultant – Regulatory Diagnosis and Analysis of HFC-23 Policies (Mexico City) | 1.5/5 | PDF ❌
+- [x] #897 | https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer, Carbon Project Development | 2.0/5 | PDF ❌
+- [x] #898 | https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | Palau CBIT MRV – Individual Consultant, NDC Tracking and Reporting | 3.0/5 | PDF ❌
 - [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg remote)
 - [ ] https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Nilai Ekonomi Karbon (Jakarta)
 - [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=22005 | UNOPS | Programme Management – Analyst [Stakeholder Engagement Analyst]
