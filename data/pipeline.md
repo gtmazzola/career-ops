@@ -2556,3 +2556,14 @@
 - [ ] https://www.wri.org/careers/jobs/low-carbon-technology-analyst-2026-jr100551 | WRI | Low Carbon Technology Analyst (Jakarta)
 - [ ] https://www.wri.org/careers/jobs/electric-mobility-industry-analyst-2026-jr100407 | WRI | Electric Mobility Industry Analyst (Jakarta)
 - [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2858 | UNOPS | Energy Transition Analyst – Hanoi (closes ~15 Nov 2026)
+
+<!-- Scan 2026-11-12 — Scheduled portal scan -->
+- [ ] https://unvacancies.org/jobs/project-monitoring-and-evaluation-analyst-open-to-tier-1-2-applicants-DP-37889 | UNDP Thailand | Project Monitoring & Evaluation Analyst (closes 18 Nov 2026)
+- [ ] https://untalent.org/jobs/technical-professional-in-ndcs-long-term-strategies-lts-and-climate-policy-coordination | UN | Technical Professional in NDCs, Long-Term Strategies and Climate Policy Coordination
+- [ ] https://untalent.org/jobs/climate-consultant-1 | UNEP | Climate Consultant (NDC Act & Invest)
+- [ ] https://untalent.org/jobs/asia-adaptation-project-specialist | UN | Asia Adaptation Project Specialist
+- [ ] https://untalent.org/jobs/national-climate-analysis-expert | UNEP | National Climate Analysis Expert
+- [ ] https://unvacancies.org/jobs/cities-and-climate-change-technical-assistant-P-271759 | UN Secretariat | Cities and Climate Change Technical Assistant
+- [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Senior-Associate%2C-Sustainability-Advisory-Bang/1276669301 | Bureau Veritas | Senior Associate, Sustainability Advisory (Bangkok)
+- [ ] https://careers.unido.org/job/davao-city-technical-specialist-industrial-development/1363474955/ | UNIDO | Technical Specialist – Industrial Development (Davao City)
+- [ ] https://careers.unido.org/job/ZAM-Other-cities-Environmental-and-Social-Safeguard-Specialist/1367455355/ | UNIDO | Environmental and Social Safeguard Specialist (Zambia)
