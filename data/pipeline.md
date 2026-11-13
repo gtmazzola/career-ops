@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-11-13 — Scheduled portal scan -->
-- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-%28Fresh-grads-welcome%29-10110/1207201601 | EY Bangkok | Assurance – Climate Change and Sustainability, Staff (Fresh Grads)
-- [ ] https://unvacancies.org/jobs/project-monitoring-and-evaluation-analyst-open-to-tier-1-2-applicants-DP-37889 | UNDP | Project Monitoring & Evaluation Analyst
-- [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Senior-Associate%2C-Sustainability-Advisory-Bang/1276669301 | Bureau Veritas | Senior Associate, Sustainability Advisory (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1181973 | GGGI | Consultant – Green Finance Network Setup (Bangkok)
-- [ ] https://www.impactpool.org/jobs/1181975 | GGGI | Consultant – Low Carbon Building Investments (Bangkok)
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1342750055 | UNIDO | Project Associate (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1346809655 | UNIDO | Project Associate (Vienna)
-- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna)
-- [ ] https://careers.unido.org/job/Home-Based-Geographic-Information-System-%28GIS%29-Project-Associate/1338268455 | UNIDO | GIS Project Associate (Home-Based)
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155 | UNIDO | Industrial Development Expert (Vienna)
+- [x] #639 | https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-%28Fresh-grads-welcome%29-10110/1207201601 | EY Bangkok | Assurance – Climate Change and Sustainability, Staff (Fresh Grads) | 2.8/5 | PDF (no)
+- [x] #640 | https://unvacancies.org/jobs/project-monitoring-and-evaluation-analyst-open-to-tier-1-2-applicants-DP-37889 | UNDP | Project Monitoring & Evaluation Analyst | 1.5/5 | PDF (no)
+- [x] #641 | https://careers.bureauveritas.com/Thailand/job/Bangkok-Senior-Associate%2C-Sustainability-Advisory-Bang/1276669301 | Bureau Veritas | Senior Associate, Sustainability Advisory (Bangkok) | 3.8/5 | PDF (no)
+- [x] #642 | https://www.impactpool.org/jobs/1181973 | GGGI | Consultant – Green Finance Network Setup (Bangkok) | 1.5/5 | PDF (no)
+- [x] #643 | https://www.impactpool.org/jobs/1181975 | GGGI | Consultant – Low Carbon Building Investments (Bangkok) | 1.5/5 | PDF (no)
+- [x] #644 | https://careers.unido.org/job/Vienna-Project-Associate/1342750055 | UNIDO | Project Associate (Vienna, Req. 1342750055) | 4.0/5 | PDF (no)
+- [x] #645 | https://careers.unido.org/job/Vienna-Project-Associate/1346809655 | UNIDO | Project Associate (Vienna, Req. 1346809655) | 4.0/5 | PDF (no)
+- [x] #646 | https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna, Req. 1353344655) | 4.0/5 | PDF (no)
+- [x] #647 | https://careers.unido.org/job/Home-Based-Geographic-Information-System-%28GIS%29-Project-Associate/1338268455 | UNIDO | GIS Project Associate (Home-Based) | 1.5/5 | PDF (no)
+- [x] #648 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155 | UNIDO | Industrial Development Expert (Vienna) | 2.0/5 | PDF (no)
 - [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert – Roster (Vienna)
 - [ ] https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Carbon Pricing (Jakarta)
 - [ ] https://untalent.org/jobs/junior-consultant-environmental-affairs-1 | UNEP | Junior Consultant – Environmental Affairs
