@@ -2,6 +2,23 @@
 
 ## Pendientes
 
+<!-- Scan 2026-11-13 — Scheduled portal scan -->
+- [ ] https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-%28Fresh-grads-welcome%29-10110/1207201601 | EY Bangkok | Assurance – Climate Change and Sustainability, Staff (Fresh Grads)
+- [ ] https://unvacancies.org/jobs/project-monitoring-and-evaluation-analyst-open-to-tier-1-2-applicants-DP-37889 | UNDP | Project Monitoring & Evaluation Analyst
+- [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Senior-Associate%2C-Sustainability-Advisory-Bang/1276669301 | Bureau Veritas | Senior Associate, Sustainability Advisory (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1181973 | GGGI | Consultant – Green Finance Network Setup (Bangkok)
+- [ ] https://www.impactpool.org/jobs/1181975 | GGGI | Consultant – Low Carbon Building Investments (Bangkok)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1342750055 | UNIDO | Project Associate (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1346809655 | UNIDO | Project Associate (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna)
+- [ ] https://careers.unido.org/job/Home-Based-Geographic-Information-System-%28GIS%29-Project-Associate/1338268455 | UNIDO | GIS Project Associate (Home-Based)
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155 | UNIDO | Industrial Development Expert (Vienna)
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert – Roster (Vienna)
+- [ ] https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Carbon Pricing (Jakarta)
+- [ ] https://untalent.org/jobs/junior-consultant-environmental-affairs-1 | UNEP | Junior Consultant – Environmental Affairs
+- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/07/Job-Announcement_GCF-Thai-Rice_Carbon-Markets-Advisor_260722.pdf | GIZ | Carbon Markets Advisor (Bangkok, GCF Thai Rice)
+- [ ] https://www.thaingo.org/jobs/detail/21058 | SEI Asia | Research Fellow – Climate Finance (Bangkok)
+
 <!-- Scan 2026-11-08 — Scheduled portal scan -->
 - [x] #639 | https://www.climatechangecareers.com/job/bitwise-consulting/singapore-singapore/sustainability-analyst-japanese-speaking | Bitwise Consulting | Sustainability Analyst (Japanese Speaking) | 1.8/5 | PDF ❌
 - [x] #640 | https://www.climatechangecareers.com/job/energdive/delhi-india/sustainability-and-climate-research-associate/ | Energdive | Sustainability and Climate Research Associate | 2.8/5 | PDF ❌
