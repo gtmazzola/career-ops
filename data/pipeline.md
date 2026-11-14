@@ -2584,3 +2584,34 @@
 - [ ] https://careers.bureauveritas.com/Thailand/job/Bangkok-Senior-Associate%2C-Sustainability-Advisory-Bang/1276669301 | Bureau Veritas | Senior Associate, Sustainability Advisory (Bangkok)
 - [ ] https://careers.unido.org/job/davao-city-technical-specialist-industrial-development/1363474955/ | UNIDO | Technical Specialist – Industrial Development (Davao City)
 - [ ] https://careers.unido.org/job/ZAM-Other-cities-Environmental-and-Social-Safeguard-Specialist/1367455355/ | UNIDO | Environmental and Social Safeguard Specialist (Zambia)
+
+<!-- Scan 2026-11-14 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/Vienna-Associate-Technical-Expert/1349233655/ | UNIDO | Associate Technical Expert
+- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert%2C-L4/1355625755/ | UNIDO | Industrial Development Expert L4
+- [ ] https://careers.unido.org/job/Home-Based-Strategic-Partnerships-Research-Specialist/1364633055/ | UNIDO | Strategic Partnerships Research Specialist
+- [ ] https://careers.unido.org/job/Home-Based-Environmental-and-Social-Impact-Assessment-Expert-Pharmaceutical-Value-Chain/1353768655/ | UNIDO | Environmental and Social Impact Assessment Expert
+- [ ] https://careers.unido.org/job/Vienna-Project-Coordinator/1354738755/ | UNIDO | Project Coordinator
+- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-614201.html | GGGI | Climate Finance Senior Associate
+- [ ] https://careers.gggi.org/vacancy/junior-consultant-africa-regional-office-aro-604169.html | GGGI | Junior Consultant – Africa Regional Office
+- [ ] https://www.impactpool.org/jobs/1237354 | GGGI | Monitoring, Evaluation, and Learning Associate
+- [ ] https://www.impactpool.org/jobs/1245157 | GGGI | National Carbon Footprint Consultant
+- [ ] https://www.impactpool.org/jobs/1209149 | GGGI | Consultancy – Green Hydrogen Developer Expert
+- [ ] https://unjobs.org/vacancies/1780662512743 | SEI Asia | Research Associate – Water and Energy Modelling (Bangkok)
+- [ ] https://www.wri.org/careers/jobs/critical-mineral-analyst-2026-jr100522 | WRI Indonesia | Critical Mineral Analyst
+- [ ] https://www.wri.org/careers/jobs/industrial-park-analyst-2026-jr100400 | WRI Indonesia | Industrial Park Analyst
+- [ ] https://www.wri.org/careers/jobs/renewable-energy-investment-analyst-2026-jr100475 | WRI Indonesia | Renewable Energy Investment Analyst
+- [ ] https://www.wri.org/careers/jobs/energy-system-modeler-2026-jr100422 | WRI Indonesia | Energy System Modeler
+- [ ] https://careers.southpole.com/jobs/5050044-associate-consultant-climate-risks-and-opportunities | South Pole | Associate Consultant – Climate Risks and Opportunities
+- [ ] https://careers.southpole.com/jobs/5121560-associate-consultant-ambition-targets-and-transition | South Pole | Associate Consultant – Ambition, Targets and Transition
+- [ ] https://careers.southpole.com/jobs/4785488-analyst-environmental-impact-accounting | South Pole | Analyst – Environmental Impact Accounting
+- [ ] https://careers.southpole.com/jobs/5160991-junior-associate-consultant-environmental-impact-accounting | South Pole | Junior Associate Consultant – Environmental Impact Accounting
+- [ ] https://careers.southpole.com/jobs/4916713-associate-consultant-environmental-impact-accounting | South Pole | Associate Consultant – Environmental Impact Accounting
+- [ ] https://www.climatechangecareers.com/job/erm/bangkok-thailand/climate-consultant/ | ERM | Climate Consultant (Bangkok)
+- [ ] https://www.devex.com/jobs/corporate-sustainability-and-climate-change-consultant-1402477 | ERM | Corporate Sustainability and Climate Change Consultant (Bangkok)
+- [ ] https://www.climatechangecareers.com/job/the-carbon-trust/singapore-singapore/management-consultant | Carbon Trust | Management Consultant (Singapore)
+- [ ] https://uncareer.net/vacancy/strategic-esg-analyst-short-term-809681 | UNDP | Strategic ESG Analyst (Short-Term)
+- [ ] https://untalent.org/jobs/unep-finance-initiative-unep-fi-apac-regional-associate-1 | UNEP FI | APAC Regional Associate
+- [ ] https://www.devex.com/jobs/senior-associate-climate-action-1406803 | AVPN | Senior Associate – Climate Action
+- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/06/Job-Announcement_TGC-EMC-RE-Energy-System-Expert-260609.pdf | GIZ Thailand | Energy System Expert (TGC-EMC)
+- [ ] https://www.thaingo.org/jobs/detail/20850 | Mae Fah Luang Foundation | Sustainability Assistant Manager
+- [ ] https://www.thaingo.org/jobs/detail/20186 | Mekong Institute | Technical Field Coordinator (ESG)
