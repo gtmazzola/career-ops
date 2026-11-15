@@ -2615,3 +2615,16 @@
 - [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/06/Job-Announcement_TGC-EMC-RE-Energy-System-Expert-260609.pdf | GIZ Thailand | Energy System Expert (TGC-EMC)
 - [ ] https://www.thaingo.org/jobs/detail/20850 | Mae Fah Luang Foundation | Sustainability Assistant Manager
 - [ ] https://www.thaingo.org/jobs/detail/20186 | Mekong Institute | Technical Field Coordinator (ESG)
+- [ ] https://careers.unido.org/job/Vienna-Project-Associate-Industrial-Futures-Talent-Initiative-%28IFTI%29/1347386955 | UNIDO | Project Associate – Industrial Futures Talent Initiative (IFTI)
+- [ ] https://careers.unido.org/job/Vienna-Project-Specialist-R&D%2C-Innovation-and-Digitalization/1348322355 | UNIDO | Project Specialist – R&D, Innovation and Digitalization
+- [ ] https://careers.unido.org/job/Vienna-Project-Specialist/1352447555/ | UNIDO | Project Specialist (Vienna)
+- [ ] https://careers.unido.org/job/Suva-Associate-Technical-Expert/1345108055 | UNIDO | Associate Technical Expert (Fiji)
+- [ ] https://careers.unido.org/job/davao-city-technical-specialist-industrial-development/1363474955/ | UNIDO | Technical Specialist – Industrial Development (Davao)
+- [ ] https://careers.unido.org/job/Lusaka-National-Climate-Adaptation-Expert%28s%29/1356433555/ | UNIDO | National Climate Adaptation Expert(s) (Lusaka)
+- [ ] https://careers.gggi.org/vacancy/climate-finance-senior-associate-611124.html | GGGI | Climate Finance Senior Associate (Guyana)
+- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
+- [ ] https://careers.southpole.com/jobs/4685255-consultant-policy-strategy | South Pole | Consultant, Policy & Strategy
+- [ ] https://careers.southpole.com/jobs/4813520-associate-consultant-agricultural-value-chains | South Pole | Associate Consultant – Agricultural Value Chains
+- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
+- [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions-1-year-contract | South Pole | Managing Consultant – Renewable Energy Solutions (1-year contract)
+- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management)
