@@ -3,16 +3,16 @@
 ## Pendientes
 
 <!-- Scan 2026-11-17 — Scheduled portal scan -->
-- [ ] https://unvacancies.org/jobs/climate-consultant-P-280917 | UN Secretariat | Climate Consultant
-- [ ] https://unvacancies.org/jobs/unep-feb-laos-green-finance-analyst-P-279717 | UNEP | Green Finance Analyst (Green Budgeting)
-- [ ] https://unvacancies.org/jobs/technical-assistance-and-partnership-specialist-P-285785 | UNEP | Technical Assistance and Partnership Specialist
-- [ ] https://untalent.org/jobs/consultant-in-private-sector-engagement-for-climate-change | UN | Consultant in Private Sector Engagement for Climate Change
-- [ ] https://untalent.org/jobs/ndc-consultant-1 | UN | NDC Consultant
-- [ ] https://untalent.org/jobs/integrated-energy-systems-consultant-1 | UN | Integrated Energy Systems Consultant
-- [ ] https://untalent.org/jobs/junior-integrated-energy-consultant | UN | Junior Integrated Energy Consultant
-- [ ] https://untalent.org/jobs/ndc-act-invest-and-extreme-heat-consultant | UNEP | NDC Act & Invest and Extreme Heat Consultant
-- [ ] https://untalent.org/jobs/junior-consultant-fiscal-policy | UN | Junior Consultant – Fiscal Policy
-- [ ] https://untalent.org/jobs/sustainable-energy-consultant-tech-support-nyhq-pg-ceed-remote-req | UNICEF | Sustainable Energy Consultant (Tech Support, Remote)
+- [x] #900 | https://unvacancies.org/jobs/climate-consultant-P-280917 | UN Secretariat | Climate Consultant | 3.5/5 | PDF (no)
+- [x] #901 | https://unvacancies.org/jobs/unep-feb-laos-green-finance-analyst-P-279717 | UNEP | Green Finance Analyst (Green Budgeting) | 3.5/5 | PDF (no)
+- [x] #902 | https://unvacancies.org/jobs/technical-assistance-and-partnership-specialist-P-285785 | UNEP | Technical Assistance and Partnership Specialist | 4.0/5 | PDF (no)
+- [x] #903 | https://untalent.org/jobs/consultant-in-private-sector-engagement-for-climate-change | UN | Consultant in Private Sector Engagement for Climate Change | 2.5/5 | PDF (no)
+- [x] #904 | https://untalent.org/jobs/ndc-consultant-1 | UN | NDC Consultant | 3.5/5 | PDF (no)
+- [x] #905 | https://untalent.org/jobs/integrated-energy-systems-consultant-1 | UN | Integrated Energy Systems Consultant | 3.5/5 | PDF (no)
+- [x] #906 | https://untalent.org/jobs/junior-integrated-energy-consultant | UN | Junior Integrated Energy Consultant | 3.5/5 | PDF (no)
+- [x] #907 | https://untalent.org/jobs/ndc-act-invest-and-extreme-heat-consultant | UNEP | NDC Act & Invest and Extreme Heat Consultant | 3.0/5 | PDF (no)
+- [x] #908 | https://untalent.org/jobs/junior-consultant-fiscal-policy | UN | Junior Consultant – Fiscal Policy | 3.0/5 | PDF (no)
+- [x] #909 | https://untalent.org/jobs/sustainable-energy-consultant-tech-support-nyhq-pg-ceed-remote-req | UNICEF | Sustainable Energy Consultant (Tech Support, Remote) | 3.5/5 | PDF (no)
 - [ ] https://untalent.org/jobs/sustainable-energy-consultant-km-advocacy-policy-pg-ceed-nyhq-remote-req | UNICEF | Sustainable Energy Consultant (KM, Advocacy, Policy)
 - [ ] https://untalent.org/jobs/unep-finance-initiative-unep-fi-climate-and-investment-consultant | UNEP FI | Climate and Investment Consultant
 - [ ] https://www.impactpool.org/jobs/1205069 | GGGI | Consultant – Building Readiness for Transition Finance (Bangkok)
