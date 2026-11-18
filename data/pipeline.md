@@ -13,16 +13,16 @@
 - [x] #907 | https://untalent.org/jobs/ndc-act-invest-and-extreme-heat-consultant | UNEP | NDC Act & Invest and Extreme Heat Consultant | 3.0/5 | PDF (no)
 - [x] #908 | https://untalent.org/jobs/junior-consultant-fiscal-policy | UN | Junior Consultant – Fiscal Policy | 3.0/5 | PDF (no)
 - [x] #909 | https://untalent.org/jobs/sustainable-energy-consultant-tech-support-nyhq-pg-ceed-remote-req | UNICEF | Sustainable Energy Consultant (Tech Support, Remote) | 3.5/5 | PDF (no)
-- [ ] https://untalent.org/jobs/sustainable-energy-consultant-km-advocacy-policy-pg-ceed-nyhq-remote-req | UNICEF | Sustainable Energy Consultant (KM, Advocacy, Policy)
-- [ ] https://untalent.org/jobs/unep-finance-initiative-unep-fi-climate-and-investment-consultant | UNEP FI | Climate and Investment Consultant
-- [ ] https://www.impactpool.org/jobs/1205069 | GGGI | Consultant – Building Readiness for Transition Finance (Bangkok)
-- [ ] https://untalent.org/jobs/consultant-cli-and-esg-country-offices-support-asia-pacific-eapro-bangkok-job | UNICEF EAPRO | Consultant – CLI and ESG Country Offices Support (Bangkok)
-- [ ] https://untalent.org/jobs/climate-finance-specialist-thailand | UNEP | Climate Finance Specialist – Thailand
-- [ ] https://untalent.org/jobs/local-consultant-bangkok-thailand | UNESCAP | Local Consultant – Bangkok (Climate Finance Training)
-- [ ] https://untalent.org/jobs/green-investment-expert-consultant | UN | Green Investment Expert Consultant
-- [ ] https://untalent.org/jobs/consultant-on-regional-climate-action | UNESCAP | Consultant on Regional Climate Action
-- [ ] https://www.devex.com/jobs/regional-coordinator-santiago-network-asia-pacific-1357869 | UNESCAP | Regional Coordinator, Santiago Network (Asia-Pacific)
-- [ ] https://www.climatechangecareers.com/job/othello-international-co-ltd-official-thailand-headquarters/bangkok-thailand/esg-consultant-othello-international/ | Othello International | ESG Consultant (Bangkok)
+- [x] #639 | https://untalent.org/jobs/sustainable-energy-consultant-km-advocacy-policy-pg-ceed-nyhq-remote-req | UNICEF | Sustainable Energy Consultant (KM, Advocacy, Policy) | 3.8/5 | PDF (no)
+- [x] #640 | https://untalent.org/jobs/unep-finance-initiative-unep-fi-climate-and-investment-consultant | UNEP FI | Climate and Investment Consultant | 3.0/5 | PDF (no)
+- [x] #641 | https://www.impactpool.org/jobs/1205069 | GGGI | Consultant – Building Readiness for Transition Finance (Bangkok) | 3.3/5 | PDF (no)
+- [x] #642 | https://untalent.org/jobs/consultant-cli-and-esg-country-offices-support-asia-pacific-eapro-bangkok-job | UNICEF EAPRO | Consultant – CLI and ESG Country Offices Support (Bangkok) | 2.5/5 | PDF (no)
+- [x] #643 | https://untalent.org/jobs/climate-finance-specialist-thailand | UNEP | Climate Finance Specialist – Thailand | 3.2/5 | PDF (no)
+- [x] #644 | https://untalent.org/jobs/local-consultant-bangkok-thailand | UNESCAP | Local Consultant – Bangkok (Climate Finance Training) | 3.8/5 | PDF (no)
+- [x] #645 | https://untalent.org/jobs/green-investment-expert-consultant | UN | Green Investment Expert Consultant | 3.0/5 | PDF (no)
+- [x] #646 | https://untalent.org/jobs/consultant-on-regional-climate-action | UNESCAP | Consultant on Regional Climate Action | 3.5/5 | PDF (no)
+- [x] #647 | https://www.devex.com/jobs/regional-coordinator-santiago-network-asia-pacific-1357869 | UNESCAP | Regional Coordinator, Santiago Network (Asia-Pacific) | 2.0/5 | PDF (no)
+- [x] #648 | https://www.climatechangecareers.com/job/othello-international-co-ltd-official-thailand-headquarters/bangkok-thailand/esg-consultant-othello-international/ | Othello International | ESG Consultant (Bangkok) | 3.6/5 | PDF (no)
 
 <!-- Scan 2026-11-13 — Scheduled portal scan -->
 - [x] #639 | https://careers.ey.com/ey/job/Bangkok-Assurance-Climate-Change-and-Sustainability_Staff-%28Fresh-grads-welcome%29-10110/1207201601 | EY Bangkok | Assurance – Climate Change and Sustainability, Staff (Fresh Grads) | 2.8/5 | PDF (no)
