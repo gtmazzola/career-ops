@@ -35,11 +35,11 @@
 - [x] #646 | https://careers.unido.org/job/Vienna-Project-Associate/1353344655/ | UNIDO | Project Associate (Vienna, Req. 1353344655) | 4.0/5 | PDF (no)
 - [x] #647 | https://careers.unido.org/job/Home-Based-Geographic-Information-System-%28GIS%29-Project-Associate/1338268455 | UNIDO | GIS Project Associate (Home-Based) | 1.5/5 | PDF (no)
 - [x] #648 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert/1348183155 | UNIDO | Industrial Development Expert (Vienna) | 2.0/5 | PDF (no)
-- [ ] https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert – Roster (Vienna)
-- [ ] https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Carbon Pricing (Jakarta)
-- [ ] https://untalent.org/jobs/junior-consultant-environmental-affairs-1 | UNEP | Junior Consultant – Environmental Affairs
-- [ ] https://www.thai-german-cooperation.info/wp-content/uploads/2026/07/Job-Announcement_GCF-Thai-Rice_Carbon-Markets-Advisor_260722.pdf | GIZ | Carbon Markets Advisor (Bangkok, GCF Thai Rice)
-- [ ] https://www.thaingo.org/jobs/detail/21058 | SEI Asia | Research Fellow – Climate Finance (Bangkok)
+- [x] #639 | https://careers.unido.org/job/Vienna-Industrial-Development-Expert-%28Roster%29/1361843055/ | UNIDO | Industrial Development Expert – Roster (Vienna) | 4.0/5 | PDF (no)
+- [x] #640 | https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Carbon Pricing (Jakarta) | 3.5/5 | PDF (no)
+- [x] #641 | https://untalent.org/jobs/junior-consultant-environmental-affairs-1 | UNEP | Junior Consultant – Environmental Affairs | 3.0/5 | PDF (no)
+- [x] #642 | https://www.thai-german-cooperation.info/wp-content/uploads/2026/07/Job-Announcement_GCF-Thai-Rice_Carbon-Markets-Advisor_260722.pdf | GIZ | Carbon Markets Advisor (Bangkok, GCF Thai Rice) | 3.5/5 | PDF (no)
+- [x] #643 | https://www.thaingo.org/jobs/detail/21058 | SEI Asia | Research Fellow – Climate Finance (Bangkok) | 3.0/5 | PDF (no)
 
 <!-- Scan 2026-11-08 — Scheduled portal scan -->
 - [x] #639 | https://www.climatechangecareers.com/job/bitwise-consulting/singapore-singapore/sustainability-analyst-japanese-speaking | Bitwise Consulting | Sustainability Analyst (Japanese Speaking) | 1.8/5 | PDF ❌
@@ -2279,11 +2279,11 @@
 - [x] #896 | https://careers.unido.org/job/Mexico-City-Consultant-for-the-Regulatory-Diagnosis-and-Analysis-of-HFC-23-Policies/1362243555/ | UNIDO | Consultant – Regulatory Diagnosis and Analysis of HFC-23 Policies (Mexico City) | 1.5/5 | PDF ❌
 - [x] #897 | https://careers.gggi.org/vacancy/senior-officer-carbon-project-development-598012.html | GGGI | Senior Officer, Carbon Project Development | 2.0/5 | PDF ❌
 - [x] #898 | https://careers.gggi.org/vacancy/palau-cbit-mrv-individual-consultant-for-ndc-tracking-and-reporting-617622.html | GGGI | Palau CBIT MRV – Individual Consultant, NDC Tracking and Reporting | 3.0/5 | PDF ❌
-- [ ] https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg remote)
-- [ ] https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Nilai Ekonomi Karbon (Jakarta)
-- [ ] https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=22005 | UNOPS | Programme Management – Analyst [Stakeholder Engagement Analyst]
-- [ ] https://jobs.ilo.org/job/Abidjan-Programme-Analyst,-P2/1088596901/ | ILO | Programme Analyst, P2 (Abidjan)
-- [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions-1-year-contract | South Pole | Managing Consultant – Renewable Energy Solutions (1-yr contract)
+- [x] #644 | https://www.wri.org/careers/jobs/climate-associate-2026-jr100253 | WRI | Climate Associate (Johannesburg remote) | 2.5/5 | PDF (no)
+- [x] DUPLICATE of #640 | https://www.wri.org/careers/jobs/nilai-ekonomi-karbon-nek-policy-analyst-2026-jr100262 | WRI | NEK Policy Analyst – Nilai Ekonomi Karbon (Jakarta)
+- [x] #645 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=22005 | UNOPS | Programme Management – Analyst [Stakeholder Engagement Analyst] | 3.5/5 | PDF (no)
+- [x] #646 | https://jobs.ilo.org/job/Abidjan-Programme-Analyst,-P2/1088596901/ | ILO | Programme Analyst, P2 (Abidjan) | 2.8/5 | PDF (no)
+- [x] #647 | https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions-1-year-contract | South Pole | Managing Consultant – Renewable Energy Solutions (1-yr contract) | 3.0/5 | PDF (no)
 - [ ] https://careers.southpole.com/jobs/949847-managing-consultant-climate-strategies | South Pole | Managing Consultant – Climate Strategies
 - [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
 - [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
