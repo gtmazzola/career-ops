@@ -2650,3 +2650,22 @@
 - [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
 - [ ] https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions-1-year-contract | South Pole | Managing Consultant – Renewable Energy Solutions (1-year contract)
 - [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30718 | UNOPS | Programme Management Analyst (Fund Management)
+
+<!-- Scan 2026-11-20 — Scheduled portal scan -->
+- [ ] https://careers.gggi.org/vacancy/indonesia-communications-and-knowledge-management-consultant-redi4jet-620940.html | GGGI | Consultant – Communications and Knowledge Management (Indonesia REDI4JET)
+- [ ] https://www.impactpool.org/jobs/1247758 | UNOPS | Proposal Development Senior Analyst
+- [ ] https://www.impactpool.org/jobs/1248072 | GGGI | MEL Associate – Climate Nexus Finance Facility
+- [ ] https://www.impactpool.org/jobs/1247914 | GGGI | MEL Associate – Global Gateway Climate Investment Facility
+- [ ] https://www.impactpool.org/jobs/1246938 | UN Women | Consultant – Gender and Climate Finance Collective
+- [ ] https://unvacancies.org/jobs/project-associate-climate-analytics-psa-3--2035833 | UNU | Project Associate – Climate Analytics (Bonn)
+- [ ] https://unvacancies.org/jobs/advisor-technical-energy-transition-OPS-4826 | UNOPS | Technical Advisor – Energy Transition
+- [ ] https://uncareer.net/vacancy/integrated-energy-systems-consultant-866449 | UNEP | Integrated Energy Systems Consultant
+- [ ] https://unvacancies.org/jobs/evaluation-consultant-for-the-terminal-evaluation-of-the-unep-project-mediterranean-investment-susta-P-285282 | UNEP | Evaluation Consultant – Mediterranean Sustainable Energy Facility
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=3737 | UNOPS | Climate Senior Analyst (Buildings)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=4062 | UNOPS | Programme Manager – Climate Action
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=3065 | UNOPS | Project Officer – Climate Technology Assessment
+- [ ] https://www.impactpool.org/jobs/1247708 | UNOPS | Analyst – Global Policy Action Energy Planning (verify title)
+- [ ] https://www.impactpool.org/jobs/1235407 | GGGI | Associate/Consultant – Req. 8071 (verify title)
+- [ ] https://careers.gggi.org/vacancy/gender-equality-and-social-inclusion-associate-621021.html | GGGI | GESI Associate – Indonesia Biogas Project
+- [ ] https://careers.gggi.org/vacancy/finance-and-procurement-associate-kenya-621355.html | GGGI | Finance and Procurement Associate (Kenya)
+- [ ] https://uncareer.net/vacancy/senior-private-sector-partnerships-and-events-lead-consultant-867303 | UN | Senior Private Sector Partnerships and Events Lead Consultant
