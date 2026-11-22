@@ -2669,3 +2669,14 @@
 - [ ] https://careers.gggi.org/vacancy/gender-equality-and-social-inclusion-associate-621021.html | GGGI | GESI Associate – Indonesia Biogas Project
 - [ ] https://careers.gggi.org/vacancy/finance-and-procurement-associate-kenya-621355.html | GGGI | Finance and Procurement Associate (Kenya)
 - [ ] https://uncareer.net/vacancy/senior-private-sector-partnerships-and-events-lead-consultant-867303 | UN | Senior Private Sector Partnerships and Events Lead Consultant
+
+<!-- Scan 2026-11-22 — Scheduled portal scan -->
+- [ ] https://untalent.org/jobs/call-for-carbon-finance-specialists-roster | ESCAP | Call for Carbon Finance Specialists Roster
+- [ ] https://untalent.org/jobs/local-coordinator-ndc-advisor-1 | UNEP | Local Coordinator & NDC Advisor
+- [ ] https://untalent.org/jobs/unep-cooling-consultant | UNEP | UNEP Cooling Consultant
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Office-PMO-Analyst/5203 | UNOPS | Project Management Office Analyst (Manila)
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Energy-Specialist/5169 | UNOPS | Energy Specialist
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail/Programme-Manager-Energy-and-Investment-Planning/5284 | UNOPS | Programme Manager, Energy and Investment Planning
+- [ ] https://builtin.com/job/corporate-sustainability-and-climate-change-consultant/8033977 | ERM | Corporate Sustainability and Climate Change Consultant (Bangkok)
+- [ ] https://kpmg.com/th/en/careers/shared-services/corporate-csr-and-esg-senior-associate.html | KPMG Thailand | Corporate CSR and ESG Senior Associate
+- [ ] https://www.career-jet.co.th/jobad/thcb899c5e2e170455adb43491f438e13c | Unknown | ESG Consultant (Bangkok)
