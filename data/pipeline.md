@@ -2284,18 +2284,18 @@
 - [x] #645 | https://jobs.unops.org/pages/viewvacancy/VADetails.aspx?id=22005 | UNOPS | Programme Management – Analyst [Stakeholder Engagement Analyst] | 3.5/5 | PDF (no)
 - [x] #646 | https://jobs.ilo.org/job/Abidjan-Programme-Analyst,-P2/1088596901/ | ILO | Programme Analyst, P2 (Abidjan) | 2.8/5 | PDF (no)
 - [x] #647 | https://careers.southpole.com/jobs/7960448-managing-consultant-renewable-energy-solutions-1-year-contract | South Pole | Managing Consultant – Renewable Energy Solutions (1-yr contract) | 3.0/5 | PDF (no)
-- [ ] https://careers.southpole.com/jobs/949847-managing-consultant-climate-strategies | South Pole | Managing Consultant – Climate Strategies
-- [ ] https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk)
-- [ ] https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure
-- [ ] https://careers.southpole.com/jobs/1695888-senior-managing-consultant-climate-risks-opportunities | South Pole | Senior Managing Consultant – Climate Risks & Opportunities
+- [x] #639 | https://careers.southpole.com/jobs/949847-managing-consultant-climate-strategies | South Pole | Managing Consultant – Climate Strategies | 2.5/5 | PDF ❌
+- [x] #640 | https://careers.southpole.com/jobs/5561935-managing-consultant-climate-risk-and-opportunities-physical-risk | South Pole | Managing Consultant – Climate Risk and Opportunities (Physical Risk) | 2.0/5 | PDF ❌
+- [x] #641 | https://careers.southpole.com/jobs/7015526-managing-consultant-climate-risk-disclosure | South Pole | Managing Consultant – Climate Risk & Disclosure | 2.5/5 | PDF ❌
+- [x] #642 | https://careers.southpole.com/jobs/1695888-senior-managing-consultant-climate-risks-opportunities | South Pole | Senior Managing Consultant – Climate Risks & Opportunities | 1.5/5 | PDF ❌
 
 <!-- Scan 2026-09-02 — Multi-portal scheduled scan -->
-- [ ] https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601520 | FAO | Programme Officer (Biodiversity Mainstreaming)
-- [ ] https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28563 | UNOPS | Environment and Climate Change Advisor (Roster)
-- [ ] https://jobs.ilo.org/job/Enterprise-Technical-Officer/13789-en_GB/ | ILO | Enterprise Technical Officer
-- [ ] https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants | ESG & Sustainability Consultant (Singapore)
-- [ ] https://careers.unido.org/job/Banjul-National-Project-Coordinator/1365909555/ | UNIDO | National Project Coordinator (Gambia)
-- [ ] https://jobs.ebrd.com/job/London-Associate,-Sustainability-Reporting,-FC/1417296933/ | EBRD | Associate, Sustainability Reporting (London)
+- [x] #643 | https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=2601520 | FAO | Programme Officer (Biodiversity Mainstreaming) | 2.5/5 | PDF ❌
+- [x] #644 | https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=28563 | UNOPS | Environment and Climate Change Advisor (Roster) | 1.5/5 | PDF ❌
+- [x] #645 | https://jobs.ilo.org/job/Enterprise-Technical-Officer/13789-en_GB/ | ILO | Enterprise Technical Officer | 1.5/5 | PDF ❌
+- [x] #646 | https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants | ESG & Sustainability Consultant (Singapore) | 2.0/5 | PDF ❌
+- [x] #647 | https://careers.unido.org/job/Banjul-National-Project-Coordinator/1365909555/ | UNIDO | National Project Coordinator (Gambia) | 1.0/5 | PDF ❌
+- [x] #648 | https://jobs.ebrd.com/job/London-Associate,-Sustainability-Reporting,-FC/1417296933/ | EBRD | Associate, Sustainability Reporting (London) | 2.5/5 | PDF ❌
 - [ ] https://jobs.ebrd.com/job/London-Assistant-Analyst/1425638333/ | EBRD | Assistant Analyst (London)
 - [ ] https://www.devex.com/jobs/urban-climate-resilience-analyst-466238 | Abt Associates | Urban Climate Resilience Analyst (Asia)
 - [ ] https://www.devex.com/jobs/climate-change-consultant-536689 | Devex | Climate Change Consultant
