@@ -2680,3 +2680,8 @@
 - [ ] https://builtin.com/job/corporate-sustainability-and-climate-change-consultant/8033977 | ERM | Corporate Sustainability and Climate Change Consultant (Bangkok)
 - [ ] https://kpmg.com/th/en/careers/shared-services/corporate-csr-and-esg-senior-associate.html | KPMG Thailand | Corporate CSR and ESG Senior Associate
 - [ ] https://www.career-jet.co.th/jobad/thcb899c5e2e170455adb43491f438e13c | Unknown | ESG Consultant (Bangkok)
+
+<!-- Scan 2026-11-23 — Scheduled portal scan -->
+- [ ] https://www.impactpool.org/jobs/1228009 | IRENA | Associate Professional – Energy Transition Finance and Policy ⚡ deadline Nov 26
+- [ ] https://www.impactpool.org/jobs/1247722 | IRENA | Associate Professional – Geospatial Analyst (deadline Dec 3)
+- [ ] https://untalent.org/jobs/expert-climate-change-mitigation-2 | UNEP | Expert – Climate Change Mitigation
