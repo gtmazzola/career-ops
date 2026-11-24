@@ -2685,3 +2685,10 @@
 - [ ] https://www.impactpool.org/jobs/1228009 | IRENA | Associate Professional – Energy Transition Finance and Policy ⚡ deadline Nov 26
 - [ ] https://www.impactpool.org/jobs/1247722 | IRENA | Associate Professional – Geospatial Analyst (deadline Dec 3)
 - [ ] https://untalent.org/jobs/expert-climate-change-mitigation-2 | UNEP | Expert – Climate Change Mitigation
+
+<!-- Scan 2026-11-24 — Scheduled portal scan -->
+- [ ] https://unvacancies.org/jobs/regional-energy-policy-analyst-open-to-internal-and-external-applicants-DP-37920 | UNDP | Regional Energy Policy Analyst (Bangkok) ⚠️ CLOSING NOV 26
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2123 | UNOPS | Climate Finance Analyst (Hanoi)
+- [ ] https://www.developmentaid.org/jobs/view/1671483/programme-analyst-ipsa-9-uncdf-bangkok-thailand | UNCDF | Programme Analyst IPSA-9 (Bangkok)
+- [ ] https://www.ungm.org/Public/Notice/311039 | UNDP Bangkok | Consultant – Sponge City and Urban Flood Resilience (Thailand)
+- [ ] https://jobs.unicef.org/en-us/job/593494 | UNICEF Bangkok | Gender and Climate Resilience Consultant
