@@ -2296,20 +2296,20 @@
 - [x] #646 | https://www.mycareersfuture.gov.sg/job/esg-sustainability-consultant-iso-consultants-f044bd689775b35144232e319a43e843 | ISO Consultants | ESG & Sustainability Consultant (Singapore) | 2.0/5 | PDF ❌
 - [x] #647 | https://careers.unido.org/job/Banjul-National-Project-Coordinator/1365909555/ | UNIDO | National Project Coordinator (Gambia) | 1.0/5 | PDF ❌
 - [x] #648 | https://jobs.ebrd.com/job/London-Associate,-Sustainability-Reporting,-FC/1417296933/ | EBRD | Associate, Sustainability Reporting (London) | 2.5/5 | PDF ❌
-- [ ] https://jobs.ebrd.com/job/London-Assistant-Analyst/1425638333/ | EBRD | Assistant Analyst (London)
-- [ ] https://www.devex.com/jobs/urban-climate-resilience-analyst-466238 | Abt Associates | Urban Climate Resilience Analyst (Asia)
-- [ ] https://www.devex.com/jobs/climate-change-consultant-536689 | Devex | Climate Change Consultant
+- [x] #639 | https://jobs.ebrd.com/job/London-Assistant-Analyst/1425638333/ | EBRD | Assistant Analyst | 3.3/5 | PDF (no)
+- [!] https://www.devex.com/jobs/urban-climate-resilience-analyst-466238 | Abt Associates | Urban Climate Resilience Analyst (Asia) | JD not retrievable: Devex requires login; only 2016 posting found in search
+- [!] https://www.devex.com/jobs/climate-change-consultant-536689 | Devex | Climate Change Consultant | JD not retrievable: Devex requires login; no matching 2026 listing found
 
 <!-- Scan 2026-09-03 — Multi-portal scheduled scan -->
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=117549 | UNDP | Research Analyst (SDG Financing, Private Sector Development)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=117214 | UNDP | Research Analyst – Home Based (ICPSD, SDG Financing)
-- [ ] https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116828 | UNDP | Research and Programme Analyst (Islamic Finance Portfolio)
-- [ ] https://careers.unido.org/job/Home-Based-Strategic-Partnerships-Research-Specialist/1364633055 | UNIDO | Strategic Partnerships Research Specialist (Home Based, deadline 04-Sep-2026 ⚠️)
-- [ ] https://www.sei.org/people/jobs/energy-environment-analyst/ | SEI | Energy and Environment Analyst
+- [x] #640 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=117549 | UNDP | Research Analyst (SDG Financing) | 3.9/5 | PDF (no)
+- [x] #641 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=117214 | UNDP | Research Analyst – Home Based (ICPSD) | 4.1/5 | PDF (no)
+- [x] #642 | https://jobs.undp.org/cj_view_job.cfm?cur_job_id=116828 | UNDP | Research and Programme Analyst (Islamic Finance) | 3.5/5 | PDF (no)
+- [x] #643 | https://careers.unido.org/job/Home-Based-Strategic-Partnerships-Research-Specialist/1364633055 | UNIDO | Strategic Partnerships Research Specialist | 3.4/5 | PDF (no)
+- [x] #644 | https://www.sei.org/people/jobs/energy-environment-analyst/ | SEI | Energy and Environment Analyst | 3.4/5 | PDF (no)
 
 <!-- Scan 2026-09-04 — Scheduled portal scan -->
-- [ ] https://careers.gggi.org/vacancy/thailand-consultant-for-green-finance-network-gfn-setup-100014324-599010.html | GGGI | Thailand: Consultant for Green Finance Network (GFN) Setup ⭐ (Bangkok)
-- [ ] https://reliefweb.int/job/4074119/climate-change-and-partnership-project-officer | Save the Children | Climate Change and Partnership Project Officer (Thailand)
+- [x] #645 | https://careers.gggi.org/vacancy/thailand-consultant-for-green-finance-network-gfn-setup-100014324-599010.html | GGGI | Consultant for Green Finance Network Setup (Bangkok) | 4.0/5 | PDF (no)
+- [x] #646 | https://reliefweb.int/job/4074119/climate-change-and-partnership-project-officer | Save the Children | Climate Change and Partnership Project Officer | 3.6/5 | PDF (no)
 - [ ] https://reliefweb.int/job/3922173/disaster-risk-reduction-and-climate-change-analyst-partnerships-infrastructure | P4I / Abt Associates | Disaster Risk Reduction and Climate Change Analyst (Bangkok)
 - [ ] https://reliefweb.int/job/4067724/climate-change-and-green-jobs-technical-expert | ILO | Climate Change and Green Jobs Technical Expert (Thailand)
 - [!] https://reliefweb.int/job/4023360/specially-appointed-researcher | IGES / AP-PLAT | Specially Appointed Researcher – Climate Change Adaptation (Thailand) — Duplicate of #402 (evaluated 3.0/5); skip.
