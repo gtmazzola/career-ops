@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+<!-- Scan 2026-11-28 — Scheduled portal scan -->
+- [ ] https://careers.unido.org/job/THA-Other-cities-National-Project-Assistant/1376449155/ | UNIDO | National Project Assistant (Thailand) [nationals/permanent residents only]
+- [ ] https://careers.unops.org/careersmarketplace/JobDetail?jobId=2929 | UNOPS | Climate Finance Specialist (Kyrgyz Republic)
+- [ ] https://careers.msci.com/job/data-and-operations/makati-city-manila/climate-data-specialist-analyst/2026-5735 | MSCI | Climate Data Specialist - Analyst (Manila)
 <!-- Scan 2026-11-17 — Scheduled portal scan -->
 - [x] #900 | https://unvacancies.org/jobs/climate-consultant-P-280917 | UN Secretariat | Climate Consultant | 3.5/5 | PDF (no)
 - [x] #901 | https://unvacancies.org/jobs/unep-feb-laos-green-finance-analyst-P-279717 | UNEP | Green Finance Analyst (Green Budgeting) | 3.5/5 | PDF (no)
